@@ -1,0 +1,138 @@
+[
+  {
+    "query": "Trẻ 2 tuổi tiêm Prevenar 13 mấy liều?",
+    "result": {
+      "original_question": "Trẻ 2 tuổi tiêm Prevenar 13 mấy liều?",
+      "query_types": [
+        "DOSAGE"
+      ],
+      "entities": [
+        {
+          "entity_type": "VACCINE",
+          "text": "Prevenar 13",
+          "normalized_value": null
+        },
+        {
+          "entity_type": "AGE",
+          "text": "Trẻ 2 tuổi",
+          "normalized_value": "2_years_old"
+        }
+      ],
+      "relations": [],
+      "constraints": [
+        {
+          "constraint_type": "AGE",
+          "value": "Trẻ 2 tuổi"
+        }
+      ],
+      "ambiguity": {
+        "is_ambiguous": false,
+        "reason": null,
+        "missing_information": [],
+        "needs_clarification": false
+      }
+    }
+  },
+  {
+    "query": "Vắc-xin này phòng bệnh gì?",
+    "result": {
+      "original_question": "Vắc-xin này phòng bệnh gì?",
+      "query_types": [
+        "INDICATION"
+      ],
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "ambiguity": {
+        "is_ambiguous": true,
+        "reason": "Câu hỏi không nêu tên vắc-xin cụ thể.",
+        "missing_information": [
+          "tên vắc-xin"
+        ],
+        "needs_clarification": true
+      }
+    }
+  },
+  {
+    "query": "Phụ nữ có thai tiêm Rabipur được không?",
+    "result": {
+      "original_question": "Phụ nữ có thai tiêm Rabipur được không?",
+      "query_types": [
+        "SPECIAL_POPULATION"
+      ],
+      "entities": [
+        {
+          "entity_type": "VACCINE",
+          "text": "Rabipur",
+          "normalized_value": null
+        },
+        {
+          "entity_type": "POPULATION",
+          "text": "Phụ nữ có thai",
+          "normalized_value": null
+        }
+      ],
+      "relations": [],
+      "constraints": [],
+      "ambiguity": {
+        "is_ambiguous": false,
+        "reason": null,
+        "missing_information": [],
+        "needs_clarification": false
+      }
+    }
+  },
+  {
+    "query": "Sau khi tiêm Hiberix tôi bị sốt nhẹ 2 ngày, có bình thường không?",
+    "result": {
+      "original_question": "Sau khi tiêm Hiberix tôi bị sốt nhẹ 2 ngày, có bình thường không?",
+      "query_types": [
+        "ADVERSE_EFFECT"
+      ],
+      "entities": [
+        {
+          "entity_type": "VACCINE",
+          "text": "Hiberix",
+          "normalized_value": null
+        }
+      ],
+      "relations": [],
+      "constraints": [
+        {
+          "constraint_type": "VACCINE",
+          "value": "Hiberix"
+        },
+        {
+          "constraint_type": "TIME",
+          "value": "2 ngày"
+        }
+      ],
+      "ambiguity": {
+        "is_ambiguous": false,
+        "reason": null,
+        "missing_information": [],
+        "needs_clarification": false
+      }
+    }
+  },
+  {
+    "query": "Giá vắc-xin này là bao nhiêu?",
+    "result": {
+      "original_question": "Giá vắc-xin này là bao nhiêu?",
+      "query_types": [
+        "OTHER"
+      ],
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "ambiguity": {
+        "is_ambiguous": true,
+        "reason": "Câu hỏi không nêu tên vắc-xin cụ thể.",
+        "missing_information": [
+          "tên vắc-xin"
+        ],
+        "needs_clarification": true
+      }
+    }
+  }
+]
