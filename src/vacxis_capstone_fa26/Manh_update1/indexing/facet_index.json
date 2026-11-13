@@ -1,0 +1,6424 @@
+{
+  "vaxneuvance_539310049125": {
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 318,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0000_s0",
+        "vaxneuvance_539310049125_c_0000_s1"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 156,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 4,
+      "n_words": 660,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0002",
+        "vaxneuvance_539310049125_c_0003",
+        "vaxneuvance_539310049125_c_0004",
+        "vaxneuvance_539310049125_c_0005"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 5,
+      "n_words": 705,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0006",
+        "vaxneuvance_539310049125_c_0008",
+        "vaxneuvance_539310049125_c_0009",
+        "vaxneuvance_539310049125_c_0010",
+        "vaxneuvance_539310049125_c_0011"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 11,
+      "n_words": 2319,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0007",
+        "vaxneuvance_539310049125_c_0016",
+        "vaxneuvance_539310049125_c_0017_s0",
+        "vaxneuvance_539310049125_c_0017_s1",
+        "vaxneuvance_539310049125_c_0018",
+        "vaxneuvance_539310049125_c_0019",
+        "vaxneuvance_539310049125_c_0020_s0",
+        "vaxneuvance_539310049125_c_0020_s1",
+        "vaxneuvance_539310049125_c_0021",
+        "vaxneuvance_539310049125_c_0022",
+        "vaxneuvance_539310049125_c_0023"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 106,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0012"
+      ]
+    },
+    "ảnh hưởng lái xe": {
+      "n_chunks": 1,
+      "n_words": 136,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0013"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 2,
+      "n_words": 180,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0014",
+        "vaxneuvance_539310049125_c_0015"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 20,
+      "n_words": 4895,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0024",
+        "vaxneuvance_539310049125_c_0025",
+        "vaxneuvance_539310049125_c_0026",
+        "vaxneuvance_539310049125_c_0027",
+        "vaxneuvance_539310049125_c_0032_s0",
+        "vaxneuvance_539310049125_c_0032_s1",
+        "vaxneuvance_539310049125_c_0033",
+        "vaxneuvance_539310049125_c_0039",
+        "vaxneuvance_539310049125_c_0040",
+        "vaxneuvance_539310049125_c_0041",
+        "vaxneuvance_539310049125_c_0042",
+        "vaxneuvance_539310049125_c_0048",
+        "vaxneuvance_539310049125_c_0049",
+        "vaxneuvance_539310049125_c_0050",
+        "vaxneuvance_539310049125_c_0051",
+        "vaxneuvance_539310049125_c_0052",
+        "vaxneuvance_539310049125_c_0053",
+        "vaxneuvance_539310049125_c_0054_s0",
+        "vaxneuvance_539310049125_c_0054_s1",
+        "vaxneuvance_539310049125_c_0055"
+      ]
+    },
+    "bảng số liệu": {
+      "n_chunks": 28,
+      "n_words": 5987,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0028_s0",
+        "vaxneuvance_539310049125_c_0028_s1",
+        "vaxneuvance_539310049125_c_0028_s2",
+        "vaxneuvance_539310049125_c_0029",
+        "vaxneuvance_539310049125_c_0030_s0",
+        "vaxneuvance_539310049125_c_0030_s1",
+        "vaxneuvance_539310049125_c_0030_s2",
+        "vaxneuvance_539310049125_c_0031_s0",
+        "vaxneuvance_539310049125_c_0031_s1",
+        "vaxneuvance_539310049125_c_0034_s0",
+        "vaxneuvance_539310049125_c_0034_s1",
+        "vaxneuvance_539310049125_c_0034_s2",
+        "vaxneuvance_539310049125_c_0035_s0",
+        "vaxneuvance_539310049125_c_0035_s1",
+        "vaxneuvance_539310049125_c_0036_s0",
+        "vaxneuvance_539310049125_c_0036_s1",
+        "vaxneuvance_539310049125_c_0036_s2",
+        "vaxneuvance_539310049125_c_0037",
+        "vaxneuvance_539310049125_c_0038",
+        "vaxneuvance_539310049125_c_0043_s0",
+        "vaxneuvance_539310049125_c_0043_s1",
+        "vaxneuvance_539310049125_c_0044",
+        "vaxneuvance_539310049125_c_0045_s0",
+        "vaxneuvance_539310049125_c_0045_s1",
+        "vaxneuvance_539310049125_c_0046_s0",
+        "vaxneuvance_539310049125_c_0046_s1",
+        "vaxneuvance_539310049125_c_0046_s2",
+        "vaxneuvance_539310049125_c_0047"
+      ]
+    },
+    "dữ liệu phi lâm sàng": {
+      "n_chunks": 1,
+      "n_words": 163,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0056"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 97,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0057"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 63,
+      "chunk_ids": [
+        "vaxneuvance_539310049125_c_0058"
+      ]
+    }
+  },
+  "rotarix_540310037023": {
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 416,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0000_s0",
+        "rotarix_540310037023_c_0000_s1"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 129,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0001"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 3,
+      "n_words": 678,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0002",
+        "rotarix_540310037023_c_0003",
+        "rotarix_540310037023_c_0004"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 199,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0005"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 459,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0006_s0",
+        "rotarix_540310037023_c_0006_s1"
+      ]
+    },
+    "đặc tính dược lý": {
+      "n_chunks": 3,
+      "n_words": 455,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0007",
+        "rotarix_540310037023_c_0008",
+        "rotarix_540310037023_c_0009"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 16,
+      "n_words": 3394,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0010",
+        "rotarix_540310037023_c_0011_s0",
+        "rotarix_540310037023_c_0011_s1",
+        "rotarix_540310037023_c_0012",
+        "rotarix_540310037023_c_0013",
+        "rotarix_540310037023_c_0014_s0",
+        "rotarix_540310037023_c_0014_s1",
+        "rotarix_540310037023_c_0015",
+        "rotarix_540310037023_c_0016_s0",
+        "rotarix_540310037023_c_0016_s1",
+        "rotarix_540310037023_c_0016_s2",
+        "rotarix_540310037023_c_0017",
+        "rotarix_540310037023_c_0018_s0",
+        "rotarix_540310037023_c_0018_s1",
+        "rotarix_540310037023_c_0018_s2",
+        "rotarix_540310037023_c_0019"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 148,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0020"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 3,
+      "n_words": 480,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0021",
+        "rotarix_540310037023_c_0022",
+        "rotarix_540310037023_c_0023"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 2,
+      "n_words": 344,
+      "chunk_ids": [
+        "rotarix_540310037023_c_0024",
+        "rotarix_540310037023_c_0025"
+      ]
+    }
+  },
+  "prevenar_13_540310111524": {
+    "cảnh báo và thận trọng": {
+      "n_chunks": 10,
+      "n_words": 2216,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0000",
+        "prevenar_13_540310111524_c_0007_s0",
+        "prevenar_13_540310111524_c_0007_s1",
+        "prevenar_13_540310111524_c_0008_s0",
+        "prevenar_13_540310111524_c_0008_s1",
+        "prevenar_13_540310111524_c_0009_s0",
+        "prevenar_13_540310111524_c_0009_s1",
+        "prevenar_13_540310111524_c_0010",
+        "prevenar_13_540310111524_c_0011_s0",
+        "prevenar_13_540310111524_c_0011_s1"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 217,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 188,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 4,
+      "n_words": 990,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0003",
+        "prevenar_13_540310111524_c_0004_s0",
+        "prevenar_13_540310111524_c_0004_s1",
+        "prevenar_13_540310111524_c_0005"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 78,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 10,
+      "n_words": 2080,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0012_s0",
+        "prevenar_13_540310111524_c_0012_s1",
+        "prevenar_13_540310111524_c_0013_s0",
+        "prevenar_13_540310111524_c_0013_s1",
+        "prevenar_13_540310111524_c_0014_s0",
+        "prevenar_13_540310111524_c_0014_s1",
+        "prevenar_13_540310111524_c_0015_s0",
+        "prevenar_13_540310111524_c_0015_s1",
+        "prevenar_13_540310111524_c_0016_s0",
+        "prevenar_13_540310111524_c_0016_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 104,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0017"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 103,
+      "n_words": 20189,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0018_s0",
+        "prevenar_13_540310111524_c_0018_s1",
+        "prevenar_13_540310111524_c_0019_s0",
+        "prevenar_13_540310111524_c_0019_s1",
+        "prevenar_13_540310111524_c_0020_s0",
+        "prevenar_13_540310111524_c_0020_s1",
+        "prevenar_13_540310111524_c_0021_s0",
+        "prevenar_13_540310111524_c_0021_s1",
+        "prevenar_13_540310111524_c_0022_s0",
+        "prevenar_13_540310111524_c_0022_s1",
+        "prevenar_13_540310111524_c_0023",
+        "prevenar_13_540310111524_c_0024",
+        "prevenar_13_540310111524_c_0025_s0",
+        "prevenar_13_540310111524_c_0025_s1",
+        "prevenar_13_540310111524_c_0026_s0",
+        "prevenar_13_540310111524_c_0026_s1",
+        "prevenar_13_540310111524_c_0027",
+        "prevenar_13_540310111524_c_0028_s0",
+        "prevenar_13_540310111524_c_0028_s1",
+        "prevenar_13_540310111524_c_0029",
+        "prevenar_13_540310111524_c_0030",
+        "prevenar_13_540310111524_c_0031",
+        "prevenar_13_540310111524_c_0032",
+        "prevenar_13_540310111524_c_0033",
+        "prevenar_13_540310111524_c_0034",
+        "prevenar_13_540310111524_c_0035_s0",
+        "prevenar_13_540310111524_c_0035_s1",
+        "prevenar_13_540310111524_c_0036_s0",
+        "prevenar_13_540310111524_c_0036_s1",
+        "prevenar_13_540310111524_c_0037_s0",
+        "prevenar_13_540310111524_c_0037_s1",
+        "prevenar_13_540310111524_c_0038",
+        "prevenar_13_540310111524_c_0039_s0",
+        "prevenar_13_540310111524_c_0039_s1",
+        "prevenar_13_540310111524_c_0040_s0",
+        "prevenar_13_540310111524_c_0040_s1",
+        "prevenar_13_540310111524_c_0041",
+        "prevenar_13_540310111524_c_0042_s0",
+        "prevenar_13_540310111524_c_0042_s1",
+        "prevenar_13_540310111524_c_0043_s0",
+        "prevenar_13_540310111524_c_0043_s1",
+        "prevenar_13_540310111524_c_0043_s2",
+        "prevenar_13_540310111524_c_0044_s0",
+        "prevenar_13_540310111524_c_0044_s1",
+        "prevenar_13_540310111524_c_0045",
+        "prevenar_13_540310111524_c_0046_s0",
+        "prevenar_13_540310111524_c_0046_s1",
+        "prevenar_13_540310111524_c_0047",
+        "prevenar_13_540310111524_c_0048",
+        "prevenar_13_540310111524_c_0049_s0",
+        "prevenar_13_540310111524_c_0049_s1",
+        "prevenar_13_540310111524_c_0050",
+        "prevenar_13_540310111524_c_0051",
+        "prevenar_13_540310111524_c_0052_s0",
+        "prevenar_13_540310111524_c_0052_s1",
+        "prevenar_13_540310111524_c_0053_s0",
+        "prevenar_13_540310111524_c_0053_s1",
+        "prevenar_13_540310111524_c_0054_s0",
+        "prevenar_13_540310111524_c_0054_s1",
+        "prevenar_13_540310111524_c_0055_s0",
+        "prevenar_13_540310111524_c_0055_s1",
+        "prevenar_13_540310111524_c_0056_s0",
+        "prevenar_13_540310111524_c_0056_s1",
+        "prevenar_13_540310111524_c_0057_s0",
+        "prevenar_13_540310111524_c_0057_s1",
+        "prevenar_13_540310111524_c_0058_s0",
+        "prevenar_13_540310111524_c_0058_s1",
+        "prevenar_13_540310111524_c_0059_s0",
+        "prevenar_13_540310111524_c_0059_s1",
+        "prevenar_13_540310111524_c_0060_s0",
+        "prevenar_13_540310111524_c_0060_s1",
+        "prevenar_13_540310111524_c_0061",
+        "prevenar_13_540310111524_c_0062",
+        "prevenar_13_540310111524_c_0063_s0",
+        "prevenar_13_540310111524_c_0063_s1",
+        "prevenar_13_540310111524_c_0064",
+        "prevenar_13_540310111524_c_0065",
+        "prevenar_13_540310111524_c_0066_s0",
+        "prevenar_13_540310111524_c_0066_s1",
+        "prevenar_13_540310111524_c_0067",
+        "prevenar_13_540310111524_c_0068_s0",
+        "prevenar_13_540310111524_c_0068_s1",
+        "prevenar_13_540310111524_c_0069_s0",
+        "prevenar_13_540310111524_c_0069_s1",
+        "prevenar_13_540310111524_c_0070_s0",
+        "prevenar_13_540310111524_c_0070_s1",
+        "prevenar_13_540310111524_c_0071",
+        "prevenar_13_540310111524_c_0072",
+        "prevenar_13_540310111524_c_0073_s0",
+        "prevenar_13_540310111524_c_0073_s1",
+        "prevenar_13_540310111524_c_0074",
+        "prevenar_13_540310111524_c_0075_s0",
+        "prevenar_13_540310111524_c_0075_s1",
+        "prevenar_13_540310111524_c_0076_s0",
+        "prevenar_13_540310111524_c_0076_s1",
+        "prevenar_13_540310111524_c_0077",
+        "prevenar_13_540310111524_c_0078",
+        "prevenar_13_540310111524_c_0079_s0",
+        "prevenar_13_540310111524_c_0079_s1",
+        "prevenar_13_540310111524_c_0080",
+        "prevenar_13_540310111524_c_0081",
+        "prevenar_13_540310111524_c_0082",
+        "prevenar_13_540310111524_c_0083"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 261,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0084"
+      ]
+    },
+    "đặc tính dược lý": {
+      "n_chunks": 1,
+      "n_words": 270,
+      "chunk_ids": [
+        "prevenar_13_540310111524_c_0085"
+      ]
+    }
+  },
+  "nimenrix_540310196925": {
+    "cảnh báo và thận trọng": {
+      "n_chunks": 12,
+      "n_words": 2146,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0000",
+        "nimenrix_540310196925_c_0004",
+        "nimenrix_540310196925_c_0005_s0",
+        "nimenrix_540310196925_c_0005_s1",
+        "nimenrix_540310196925_c_0006_s0",
+        "nimenrix_540310196925_c_0006_s1",
+        "nimenrix_540310196925_c_0007_s0",
+        "nimenrix_540310196925_c_0007_s1",
+        "nimenrix_540310196925_c_0008_s0",
+        "nimenrix_540310196925_c_0008_s1",
+        "nimenrix_540310196925_c_0009",
+        "nimenrix_540310196925_c_0063"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 93,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 359,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 28,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0003"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 223,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0010"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 5,
+      "n_words": 876,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0011",
+        "nimenrix_540310196925_c_0012_s0",
+        "nimenrix_540310196925_c_0012_s1",
+        "nimenrix_540310196925_c_0013_s0",
+        "nimenrix_540310196925_c_0013_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 23,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0014"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 63,
+      "n_words": 11046,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0015",
+        "nimenrix_540310196925_c_0016_s0",
+        "nimenrix_540310196925_c_0016_s1",
+        "nimenrix_540310196925_c_0017",
+        "nimenrix_540310196925_c_0018_s0",
+        "nimenrix_540310196925_c_0018_s1",
+        "nimenrix_540310196925_c_0019",
+        "nimenrix_540310196925_c_0020",
+        "nimenrix_540310196925_c_0021",
+        "nimenrix_540310196925_c_0022",
+        "nimenrix_540310196925_c_0023",
+        "nimenrix_540310196925_c_0024",
+        "nimenrix_540310196925_c_0025",
+        "nimenrix_540310196925_c_0026",
+        "nimenrix_540310196925_c_0027",
+        "nimenrix_540310196925_c_0028_s0",
+        "nimenrix_540310196925_c_0028_s1",
+        "nimenrix_540310196925_c_0028_s2",
+        "nimenrix_540310196925_c_0029_s0",
+        "nimenrix_540310196925_c_0029_s1",
+        "nimenrix_540310196925_c_0030_s0",
+        "nimenrix_540310196925_c_0030_s1",
+        "nimenrix_540310196925_c_0031",
+        "nimenrix_540310196925_c_0032_s0",
+        "nimenrix_540310196925_c_0032_s1",
+        "nimenrix_540310196925_c_0033",
+        "nimenrix_540310196925_c_0034",
+        "nimenrix_540310196925_c_0035",
+        "nimenrix_540310196925_c_0036_s0",
+        "nimenrix_540310196925_c_0036_s1",
+        "nimenrix_540310196925_c_0037",
+        "nimenrix_540310196925_c_0038_s0",
+        "nimenrix_540310196925_c_0038_s1",
+        "nimenrix_540310196925_c_0039",
+        "nimenrix_540310196925_c_0040",
+        "nimenrix_540310196925_c_0041",
+        "nimenrix_540310196925_c_0042",
+        "nimenrix_540310196925_c_0043_s0",
+        "nimenrix_540310196925_c_0043_s1",
+        "nimenrix_540310196925_c_0043_s2",
+        "nimenrix_540310196925_c_0044",
+        "nimenrix_540310196925_c_0045_s0",
+        "nimenrix_540310196925_c_0045_s1",
+        "nimenrix_540310196925_c_0045_s2",
+        "nimenrix_540310196925_c_0046",
+        "nimenrix_540310196925_c_0047",
+        "nimenrix_540310196925_c_0048",
+        "nimenrix_540310196925_c_0049",
+        "nimenrix_540310196925_c_0050_s0",
+        "nimenrix_540310196925_c_0050_s1",
+        "nimenrix_540310196925_c_0050_s2",
+        "nimenrix_540310196925_c_0051",
+        "nimenrix_540310196925_c_0052",
+        "nimenrix_540310196925_c_0053",
+        "nimenrix_540310196925_c_0054",
+        "nimenrix_540310196925_c_0055",
+        "nimenrix_540310196925_c_0056",
+        "nimenrix_540310196925_c_0057_s0",
+        "nimenrix_540310196925_c_0057_s1",
+        "nimenrix_540310196925_c_0058",
+        "nimenrix_540310196925_c_0059_s0",
+        "nimenrix_540310196925_c_0059_s1",
+        "nimenrix_540310196925_c_0060"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 99,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0061"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 100,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0062"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 2,
+      "n_words": 442,
+      "chunk_ids": [
+        "nimenrix_540310196925_c_0064",
+        "nimenrix_540310196925_c_0065"
+      ]
+    }
+  },
+  "shingrix_540310303224": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 159,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 148,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 438,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0002",
+        "shingrix_540310303224_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 131,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0004"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 101,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0005"
+      ]
+    },
+    "ảnh hưởng lái xe": {
+      "n_chunks": 1,
+      "n_words": 164,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0006"
+      ]
+    },
+    "tương kỵ": {
+      "n_chunks": 1,
+      "n_words": 15,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0007"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 7,
+      "n_words": 1162,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0008",
+        "shingrix_540310303224_c_0009",
+        "shingrix_540310303224_c_0010",
+        "shingrix_540310303224_c_0011",
+        "shingrix_540310303224_c_0016",
+        "shingrix_540310303224_c_0017",
+        "shingrix_540310303224_c_0031"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 18,
+      "n_words": 3808,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0012",
+        "shingrix_540310303224_c_0013",
+        "shingrix_540310303224_c_0014",
+        "shingrix_540310303224_c_0015_s0",
+        "shingrix_540310303224_c_0015_s1",
+        "shingrix_540310303224_c_0018",
+        "shingrix_540310303224_c_0019_s0",
+        "shingrix_540310303224_c_0019_s1",
+        "shingrix_540310303224_c_0020",
+        "shingrix_540310303224_c_0021",
+        "shingrix_540310303224_c_0022",
+        "shingrix_540310303224_c_0023_s0",
+        "shingrix_540310303224_c_0023_s1",
+        "shingrix_540310303224_c_0024_s0",
+        "shingrix_540310303224_c_0024_s1",
+        "shingrix_540310303224_c_0025",
+        "shingrix_540310303224_c_0026",
+        "shingrix_540310303224_c_0027"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 96,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0028"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 128,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0029"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 190,
+      "chunk_ids": [
+        "shingrix_540310303224_c_0030"
+      ]
+    }
+  },
+  "abrysvo_540310322125": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 149,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 151,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 213,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0002",
+        "abrysvo_540310322125_c_0003"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 3,
+      "n_words": 583,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0004",
+        "abrysvo_540310322125_c_0011",
+        "abrysvo_540310322125_c_0012"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 8,
+      "n_words": 1090,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0005",
+        "abrysvo_540310322125_c_0006",
+        "abrysvo_540310322125_c_0008",
+        "abrysvo_540310322125_c_0010",
+        "abrysvo_540310322125_c_0013",
+        "abrysvo_540310322125_c_0022",
+        "abrysvo_540310322125_c_0023",
+        "abrysvo_540310322125_c_0026"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 261,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0007"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 330,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0009"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 8,
+      "n_words": 1879,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0014",
+        "abrysvo_540310322125_c_0015",
+        "abrysvo_540310322125_c_0016",
+        "abrysvo_540310322125_c_0017",
+        "abrysvo_540310322125_c_0018",
+        "abrysvo_540310322125_c_0019_s0",
+        "abrysvo_540310322125_c_0019_s1",
+        "abrysvo_540310322125_c_0020"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 141,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0021"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 3,
+      "n_words": 600,
+      "chunk_ids": [
+        "abrysvo_540310322125_c_0024_s0",
+        "abrysvo_540310322125_c_0024_s1",
+        "abrysvo_540310322125_c_0025"
+      ]
+    }
+  },
+  "arexvy_540310322425": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 200,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0000"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 160,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0001"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 324,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0002"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 199,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0003"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 72,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0004"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 330,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0005_s0",
+        "arexvy_540310322425_c_0005_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 18,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0006"
+      ]
+    },
+    "đặc tính dược lý": {
+      "n_chunks": 13,
+      "n_words": 2736,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0007",
+        "arexvy_540310322425_c_0008_s0",
+        "arexvy_540310322425_c_0008_s1",
+        "arexvy_540310322425_c_0009_s0",
+        "arexvy_540310322425_c_0009_s1",
+        "arexvy_540310322425_c_0010",
+        "arexvy_540310322425_c_0011",
+        "arexvy_540310322425_c_0012",
+        "arexvy_540310322425_c_0013",
+        "arexvy_540310322425_c_0014",
+        "arexvy_540310322425_c_0015_s0",
+        "arexvy_540310322425_c_0015_s1",
+        "arexvy_540310322425_c_0016"
+      ]
+    },
+    "dữ liệu phi lâm sàng": {
+      "n_chunks": 3,
+      "n_words": 530,
+      "chunk_ids": [
+        "arexvy_540310322425_c_0017_s0",
+        "arexvy_540310322425_c_0017_s1",
+        "arexvy_540310322425_c_0018"
+      ]
+    }
+  },
+  "rs_jev_690310177400": {
+    "thông tin chung": {
+      "n_chunks": 4,
+      "n_words": 1215,
+      "chunk_ids": [
+        "rs_jev_690310177400_c_0000",
+        "rs_jev_690310177400_c_0001",
+        "rs_jev_690310177400_c_0002",
+        "rs_jev_690310177400_c_0003"
+      ]
+    }
+  },
+  "adacel_754310306124": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 62,
+      "chunk_ids": [
+        "adacel_754310306124_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 4,
+      "n_words": 1058,
+      "chunk_ids": [
+        "adacel_754310306124_c_0001_s0",
+        "adacel_754310306124_c_0001_s1",
+        "adacel_754310306124_c_0002",
+        "adacel_754310306124_c_0003"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 222,
+      "chunk_ids": [
+        "adacel_754310306124_c_0004"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 281,
+      "chunk_ids": [
+        "adacel_754310306124_c_0005",
+        "adacel_754310306124_c_0006"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 180,
+      "chunk_ids": [
+        "adacel_754310306124_c_0007"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 4,
+      "n_words": 1117,
+      "chunk_ids": [
+        "adacel_754310306124_c_0008",
+        "adacel_754310306124_c_0009",
+        "adacel_754310306124_c_0010_s0",
+        "adacel_754310306124_c_0010_s1"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 159,
+      "chunk_ids": [
+        "adacel_754310306124_c_0011"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 10,
+      "chunk_ids": [
+        "adacel_754310306124_c_0012"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 8,
+      "n_words": 1601,
+      "chunk_ids": [
+        "adacel_754310306124_c_0013_s0",
+        "adacel_754310306124_c_0013_s1",
+        "adacel_754310306124_c_0014",
+        "adacel_754310306124_c_0015_s0",
+        "adacel_754310306124_c_0015_s1",
+        "adacel_754310306124_c_0016",
+        "adacel_754310306124_c_0017_s0",
+        "adacel_754310306124_c_0017_s1"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 136,
+      "chunk_ids": [
+        "adacel_754310306124_c_0018"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 55,
+      "chunk_ids": [
+        "adacel_754310306124_c_0019"
+      ]
+    }
+  },
+  "bexsero_800310090123": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 242,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 90,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 534,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0002",
+        "bexsero_800310090123_c_0003",
+        "bexsero_800310090123_c_0004"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 33,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0005"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 674,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0006",
+        "bexsero_800310090123_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 2,
+      "n_words": 432,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0008",
+        "bexsero_800310090123_c_0009"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 359,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0010"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 6,
+      "n_words": 1106,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0011_s0",
+        "bexsero_800310090123_c_0011_s1",
+        "bexsero_800310090123_c_0012",
+        "bexsero_800310090123_c_0013_s0",
+        "bexsero_800310090123_c_0013_s1",
+        "bexsero_800310090123_c_0014"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 34,
+      "n_words": 7600,
+      "chunk_ids": [
+        "bexsero_800310090123_c_0015",
+        "bexsero_800310090123_c_0016",
+        "bexsero_800310090123_c_0017",
+        "bexsero_800310090123_c_0018_s0",
+        "bexsero_800310090123_c_0018_s1",
+        "bexsero_800310090123_c_0019_s0",
+        "bexsero_800310090123_c_0019_s1",
+        "bexsero_800310090123_c_0020",
+        "bexsero_800310090123_c_0021_s0",
+        "bexsero_800310090123_c_0021_s1",
+        "bexsero_800310090123_c_0022",
+        "bexsero_800310090123_c_0023",
+        "bexsero_800310090123_c_0024",
+        "bexsero_800310090123_c_0025",
+        "bexsero_800310090123_c_0026",
+        "bexsero_800310090123_c_0027",
+        "bexsero_800310090123_c_0028",
+        "bexsero_800310090123_c_0029",
+        "bexsero_800310090123_c_0030_s0",
+        "bexsero_800310090123_c_0030_s1",
+        "bexsero_800310090123_c_0031",
+        "bexsero_800310090123_c_0032",
+        "bexsero_800310090123_c_0033",
+        "bexsero_800310090123_c_0034_s0",
+        "bexsero_800310090123_c_0034_s1",
+        "bexsero_800310090123_c_0035_s0",
+        "bexsero_800310090123_c_0035_s1",
+        "bexsero_800310090123_c_0036",
+        "bexsero_800310090123_c_0037",
+        "bexsero_800310090123_c_0038",
+        "bexsero_800310090123_c_0039",
+        "bexsero_800310090123_c_0040",
+        "bexsero_800310090123_c_0041_s0",
+        "bexsero_800310090123_c_0041_s1"
+      ]
+    }
+  },
+  "va_mengoc_bc_850310110724": {
+    "thông tin chung": {
+      "n_chunks": 4,
+      "n_words": 550,
+      "chunk_ids": [
+        "va_mengoc_bc_850310110724_c_0000",
+        "va_mengoc_bc_850310110724_c_0001",
+        "va_mengoc_bc_850310110724_c_0002_s0",
+        "va_mengoc_bc_850310110724_c_0002_s1"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 4,
+      "n_words": 818,
+      "chunk_ids": [
+        "va_mengoc_bc_850310110724_c_0003_s0",
+        "va_mengoc_bc_850310110724_c_0003_s1",
+        "va_mengoc_bc_850310110724_c_0004_s0",
+        "va_mengoc_bc_850310110724_c_0004_s1"
+      ]
+    }
+  },
+  "heberbiovac_hb_850310304224": {
+    "thông tin chung": {
+      "n_chunks": 8,
+      "n_words": 1548,
+      "chunk_ids": [
+        "heberbiovac_hb_850310304224_c_0000",
+        "heberbiovac_hb_850310304224_c_0001",
+        "heberbiovac_hb_850310304224_c_0002_s0",
+        "heberbiovac_hb_850310304224_c_0002_s1",
+        "heberbiovac_hb_850310304224_c_0003",
+        "heberbiovac_hb_850310304224_c_0004",
+        "heberbiovac_hb_850310304224_c_0005_s0",
+        "heberbiovac_hb_850310304224_c_0005_s1"
+      ]
+    }
+  },
+  "quimi_hib_850310304324": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 133,
+      "chunk_ids": [
+        "quimi_hib_850310304324_c_0000"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 191,
+      "chunk_ids": [
+        "quimi_hib_850310304324_c_0001"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 229,
+      "chunk_ids": [
+        "quimi_hib_850310304324_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 242,
+      "chunk_ids": [
+        "quimi_hib_850310304324_c_0003"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 135,
+      "chunk_ids": [
+        "quimi_hib_850310304324_c_0004"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 127,
+      "chunk_ids": [
+        "quimi_hib_850310304324_c_0005"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 25,
+      "chunk_ids": [
+        "quimi_hib_850310304324_c_0006"
+      ]
+    }
+  },
+  "heberbiovac_hb_850310304424": {
+    "thông tin chung": {
+      "n_chunks": 8,
+      "n_words": 1533,
+      "chunk_ids": [
+        "heberbiovac_hb_850310304424_c_0000",
+        "heberbiovac_hb_850310304424_c_0001",
+        "heberbiovac_hb_850310304424_c_0002",
+        "heberbiovac_hb_850310304424_c_0003",
+        "heberbiovac_hb_850310304424_c_0004",
+        "heberbiovac_hb_850310304424_c_0005_s0",
+        "heberbiovac_hb_850310304424_c_0005_s1",
+        "heberbiovac_hb_850310304424_c_0006"
+      ]
+    }
+  },
+  "influvac_tetra_870310304024": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 243,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0000"
+      ]
+    },
+    "dạng bào chế": {
+      "n_chunks": 1,
+      "n_words": 33,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0001"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 6,
+      "n_words": 920,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0002",
+        "influvac_tetra_870310304024_c_0003_s0",
+        "influvac_tetra_870310304024_c_0003_s1",
+        "influvac_tetra_870310304024_c_0004",
+        "influvac_tetra_870310304024_c_0005",
+        "influvac_tetra_870310304024_c_0006"
+      ]
+    },
+    "đặc tính dược lý": {
+      "n_chunks": 1,
+      "n_words": 256,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0007"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 407,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0008_s0",
+        "influvac_tetra_870310304024_c_0008_s1"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 184,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0009"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 7,
+      "n_words": 1203,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0010",
+        "influvac_tetra_870310304024_c_0011",
+        "influvac_tetra_870310304024_c_0012",
+        "influvac_tetra_870310304024_c_0013",
+        "influvac_tetra_870310304024_c_0014",
+        "influvac_tetra_870310304024_c_0015",
+        "influvac_tetra_870310304024_c_0016"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 103,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0017"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 127,
+      "chunk_ids": [
+        "influvac_tetra_870310304024_c_0018"
+      ]
+    }
+  },
+  "skyvaricella_inj_880310033426": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 110,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0000"
+      ]
+    },
+    "dạng bào chế": {
+      "n_chunks": 1,
+      "n_words": 132,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0001"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 316,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 321,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 5,
+      "n_words": 980,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0004_s0",
+        "skyvaricella_inj_880310033426_c_0004_s1",
+        "skyvaricella_inj_880310033426_c_0005",
+        "skyvaricella_inj_880310033426_c_0006",
+        "skyvaricella_inj_880310033426_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 2,
+      "n_words": 262,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0008",
+        "skyvaricella_inj_880310033426_c_0009"
+      ]
+    },
+    "tương kỵ": {
+      "n_chunks": 1,
+      "n_words": 193,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0010"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 5,
+      "n_words": 844,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0011",
+        "skyvaricella_inj_880310033426_c_0012",
+        "skyvaricella_inj_880310033426_c_0013",
+        "skyvaricella_inj_880310033426_c_0014_s0",
+        "skyvaricella_inj_880310033426_c_0014_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 113,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0015"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 3,
+      "n_words": 432,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0016_s0",
+        "skyvaricella_inj_880310033426_c_0016_s1",
+        "skyvaricella_inj_880310033426_c_0016_s2"
+      ]
+    },
+    "dữ liệu phi lâm sàng": {
+      "n_chunks": 1,
+      "n_words": 131,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0017"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 123,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0018"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 18,
+      "chunk_ids": [
+        "skyvaricella_inj_880310033426_c_0019"
+      ]
+    }
+  },
+  "gc_flu_pre_filled_syringe_inj_880310249823": {
+    "thông tin chung": {
+      "n_chunks": 8,
+      "n_words": 1370,
+      "chunk_ids": [
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0000",
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0004",
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0005",
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0006_s0",
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0006_s1",
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0007_s0",
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0007_s1",
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0008"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 134,
+      "chunk_ids": [
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0001"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 144,
+      "chunk_ids": [
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 128,
+      "chunk_ids": [
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0003"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 187,
+      "chunk_ids": [
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0009"
+      ]
+    },
+    "ảnh hưởng lái xe": {
+      "n_chunks": 1,
+      "n_words": 230,
+      "chunk_ids": [
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0010"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 63,
+      "chunk_ids": [
+        "gc_flu_pre_filled_syringe_inj_880310249823_c_0011"
+      ]
+    }
+  },
+  "barycela_inj_880310322325": {
+    "thông tin chung": {
+      "n_chunks": 13,
+      "n_words": 2800,
+      "chunk_ids": [
+        "barycela_inj_880310322325_c_0000",
+        "barycela_inj_880310322325_c_0001",
+        "barycela_inj_880310322325_c_0002_s0",
+        "barycela_inj_880310322325_c_0002_s1",
+        "barycela_inj_880310322325_c_0003",
+        "barycela_inj_880310322325_c_0004",
+        "barycela_inj_880310322325_c_0005",
+        "barycela_inj_880310322325_c_0006",
+        "barycela_inj_880310322325_c_0007_s0",
+        "barycela_inj_880310322325_c_0007_s1",
+        "barycela_inj_880310322325_c_0008",
+        "barycela_inj_880310322325_c_0009",
+        "barycela_inj_880310322325_c_0010"
+      ]
+    }
+  },
+  "imojev_885310306024": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 210,
+      "chunk_ids": [
+        "imojev_885310306024_c_0000"
+      ]
+    },
+    "dạng bào chế": {
+      "n_chunks": 1,
+      "n_words": 97,
+      "chunk_ids": [
+        "imojev_885310306024_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 492,
+      "chunk_ids": [
+        "imojev_885310306024_c_0002_s0",
+        "imojev_885310306024_c_0002_s1",
+        "imojev_885310306024_c_0003"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 196,
+      "chunk_ids": [
+        "imojev_885310306024_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 112,
+      "chunk_ids": [
+        "imojev_885310306024_c_0005"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 201,
+      "chunk_ids": [
+        "imojev_885310306024_c_0006"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 247,
+      "chunk_ids": [
+        "imojev_885310306024_c_0007"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 6,
+      "n_words": 1213,
+      "chunk_ids": [
+        "imojev_885310306024_c_0008_s0",
+        "imojev_885310306024_c_0008_s1",
+        "imojev_885310306024_c_0009_s0",
+        "imojev_885310306024_c_0009_s1",
+        "imojev_885310306024_c_0010_s0",
+        "imojev_885310306024_c_0010_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 41,
+      "chunk_ids": [
+        "imojev_885310306024_c_0011"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 6,
+      "n_words": 1282,
+      "chunk_ids": [
+        "imojev_885310306024_c_0012",
+        "imojev_885310306024_c_0013_s0",
+        "imojev_885310306024_c_0013_s1",
+        "imojev_885310306024_c_0014",
+        "imojev_885310306024_c_0015_s0",
+        "imojev_885310306024_c_0015_s1"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 149,
+      "chunk_ids": [
+        "imojev_885310306024_c_0016"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 121,
+      "chunk_ids": [
+        "imojev_885310306024_c_0017"
+      ]
+    }
+  },
+  "combe_five_890310108224": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 77,
+      "chunk_ids": [
+        "combe_five_890310108224_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 126,
+      "chunk_ids": [
+        "combe_five_890310108224_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 224,
+      "chunk_ids": [
+        "combe_five_890310108224_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 178,
+      "chunk_ids": [
+        "combe_five_890310108224_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 3,
+      "n_words": 545,
+      "chunk_ids": [
+        "combe_five_890310108224_c_0004_s0",
+        "combe_five_890310108224_c_0004_s1",
+        "combe_five_890310108224_c_0005"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 299,
+      "chunk_ids": [
+        "combe_five_890310108224_c_0006"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 88,
+      "chunk_ids": [
+        "combe_five_890310108224_c_0007"
+      ]
+    }
+  },
+  "jeev_890310108324": {
+    "thông tin chung": {
+      "n_chunks": 4,
+      "n_words": 573,
+      "chunk_ids": [
+        "jeev_890310108324_c_0000",
+        "jeev_890310108324_c_0008_s0",
+        "jeev_890310108324_c_0008_s1",
+        "jeev_890310108324_c_0009"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 114,
+      "chunk_ids": [
+        "jeev_890310108324_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 279,
+      "chunk_ids": [
+        "jeev_890310108324_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 181,
+      "chunk_ids": [
+        "jeev_890310108324_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 140,
+      "chunk_ids": [
+        "jeev_890310108324_c_0004"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 119,
+      "chunk_ids": [
+        "jeev_890310108324_c_0005"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 385,
+      "chunk_ids": [
+        "jeev_890310108324_c_0006_s0",
+        "jeev_890310108324_c_0006_s1"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 164,
+      "chunk_ids": [
+        "jeev_890310108324_c_0007"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 106,
+      "chunk_ids": [
+        "jeev_890310108324_c_0010"
+      ]
+    }
+  },
+  "jeev_890310108424": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 80,
+      "chunk_ids": [
+        "jeev_890310108424_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 112,
+      "chunk_ids": [
+        "jeev_890310108424_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 280,
+      "chunk_ids": [
+        "jeev_890310108424_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 186,
+      "chunk_ids": [
+        "jeev_890310108424_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 140,
+      "chunk_ids": [
+        "jeev_890310108424_c_0004"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 119,
+      "chunk_ids": [
+        "jeev_890310108424_c_0005"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 386,
+      "chunk_ids": [
+        "jeev_890310108424_c_0006_s0",
+        "jeev_890310108424_c_0006_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 37,
+      "chunk_ids": [
+        "jeev_890310108424_c_0007"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 3,
+      "n_words": 625,
+      "chunk_ids": [
+        "jeev_890310108424_c_0008_s0",
+        "jeev_890310108424_c_0008_s1",
+        "jeev_890310108424_c_0009"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 106,
+      "chunk_ids": [
+        "jeev_890310108424_c_0010"
+      ]
+    }
+  },
+  "pentavac_890310178100": {
+    "thông tin chung": {
+      "n_chunks": 3,
+      "n_words": 626,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0000",
+        "pentavac_890310178100_c_0019_s0",
+        "pentavac_890310178100_c_0019_s1"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 205,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 245,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 4,
+      "n_words": 611,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0003",
+        "pentavac_890310178100_c_0004_s0",
+        "pentavac_890310178100_c_0004_s1",
+        "pentavac_890310178100_c_0005"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 4,
+      "n_words": 881,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0006",
+        "pentavac_890310178100_c_0007",
+        "pentavac_890310178100_c_0008",
+        "pentavac_890310178100_c_0009"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 142,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0010"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 229,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0011"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 4,
+      "n_words": 995,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0012",
+        "pentavac_890310178100_c_0013",
+        "pentavac_890310178100_c_0014",
+        "pentavac_890310178100_c_0015"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 156,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0016"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 151,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0017"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 56,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0018"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 40,
+      "chunk_ids": [
+        "pentavac_890310178100_c_0020"
+      ]
+    }
+  },
+  "rotavac_890310196625": {
+    "thông tin chung": {
+      "n_chunks": 2,
+      "n_words": 255,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0000",
+        "rotavac_890310196625_c_0018"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 124,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 391,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0002",
+        "rotavac_890310196625_c_0003"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 77,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 485,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0005",
+        "rotavac_890310196625_c_0006"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 292,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0007"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 6,
+      "n_words": 1128,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0008_s0",
+        "rotavac_890310196625_c_0008_s1",
+        "rotavac_890310196625_c_0009_s0",
+        "rotavac_890310196625_c_0009_s1",
+        "rotavac_890310196625_c_0010",
+        "rotavac_890310196625_c_0011"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 4,
+      "n_words": 970,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0012",
+        "rotavac_890310196625_c_0013",
+        "rotavac_890310196625_c_0014",
+        "rotavac_890310196625_c_0015"
+      ]
+    },
+    "dữ liệu phi lâm sàng": {
+      "n_chunks": 1,
+      "n_words": 115,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0016"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 116,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0017"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 71,
+      "chunk_ids": [
+        "rotavac_890310196625_c_0019"
+      ]
+    }
+  },
+  "indirab_890310249723": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 104,
+      "chunk_ids": [
+        "indirab_890310249723_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 145,
+      "chunk_ids": [
+        "indirab_890310249723_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 178,
+      "chunk_ids": [
+        "indirab_890310249723_c_0002"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 5,
+      "n_words": 812,
+      "chunk_ids": [
+        "indirab_890310249723_c_0003",
+        "indirab_890310249723_c_0004",
+        "indirab_890310249723_c_0005",
+        "indirab_890310249723_c_0010",
+        "indirab_890310249723_c_0011"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 118,
+      "chunk_ids": [
+        "indirab_890310249723_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 142,
+      "chunk_ids": [
+        "indirab_890310249723_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 156,
+      "chunk_ids": [
+        "indirab_890310249723_c_0008"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 105,
+      "chunk_ids": [
+        "indirab_890310249723_c_0009"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 2,
+      "n_words": 328,
+      "chunk_ids": [
+        "indirab_890310249723_c_0012",
+        "indirab_890310249723_c_0013"
+      ]
+    }
+  },
+  "tresivac_890310304524": {
+    "thông tin chung": {
+      "n_chunks": 2,
+      "n_words": 366,
+      "chunk_ids": [
+        "tresivac_890310304524_c_0000",
+        "tresivac_890310304524_c_0010"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 240,
+      "chunk_ids": [
+        "tresivac_890310304524_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 223,
+      "chunk_ids": [
+        "tresivac_890310304524_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 4,
+      "n_words": 779,
+      "chunk_ids": [
+        "tresivac_890310304524_c_0003",
+        "tresivac_890310304524_c_0006",
+        "tresivac_890310304524_c_0007",
+        "tresivac_890310304524_c_0009"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 569,
+      "chunk_ids": [
+        "tresivac_890310304524_c_0004",
+        "tresivac_890310304524_c_0005"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 92,
+      "chunk_ids": [
+        "tresivac_890310304524_c_0008"
+      ]
+    }
+  },
+  "havax_893310108024": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 151,
+      "chunk_ids": [
+        "havax_893310108024_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 92,
+      "chunk_ids": [
+        "havax_893310108024_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 181,
+      "chunk_ids": [
+        "havax_893310108024_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 128,
+      "chunk_ids": [
+        "havax_893310108024_c_0003"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 86,
+      "chunk_ids": [
+        "havax_893310108024_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 422,
+      "chunk_ids": [
+        "havax_893310108024_c_0005",
+        "havax_893310108024_c_0006"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 146,
+      "chunk_ids": [
+        "havax_893310108024_c_0007"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 298,
+      "chunk_ids": [
+        "havax_893310108024_c_0008"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 2,
+      "n_words": 468,
+      "chunk_ids": [
+        "havax_893310108024_c_0009_s0",
+        "havax_893310108024_c_0009_s1"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 215,
+      "chunk_ids": [
+        "havax_893310108024_c_0010"
+      ]
+    }
+  },
+  "polysaccharide_893310109024": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 129,
+      "chunk_ids": [
+        "polysaccharide_893310109024_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 140,
+      "chunk_ids": [
+        "polysaccharide_893310109024_c_0001"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 92,
+      "chunk_ids": [
+        "polysaccharide_893310109024_c_0002"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 137,
+      "chunk_ids": [
+        "polysaccharide_893310109024_c_0003"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 7,
+      "n_words": 860,
+      "chunk_ids": [
+        "polysaccharide_893310109024_c_0004",
+        "polysaccharide_893310109024_c_0007",
+        "polysaccharide_893310109024_c_0008",
+        "polysaccharide_893310109024_c_0009",
+        "polysaccharide_893310109024_c_0010",
+        "polysaccharide_893310109024_c_0011",
+        "polysaccharide_893310109024_c_0012"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 112,
+      "chunk_ids": [
+        "polysaccharide_893310109024_c_0005"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 106,
+      "chunk_ids": [
+        "polysaccharide_893310109024_c_0006"
+      ]
+    }
+  },
+  "rotavin_893310109424": {
+    "hướng dẫn sử dụng": {
+      "n_chunks": 3,
+      "n_words": 627,
+      "chunk_ids": [
+        "rotavin_893310109424_c_0000",
+        "rotavin_893310109424_c_0003",
+        "rotavin_893310109424_c_0006"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 218,
+      "chunk_ids": [
+        "rotavin_893310109424_c_0001"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 168,
+      "chunk_ids": [
+        "rotavin_893310109424_c_0002"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 144,
+      "chunk_ids": [
+        "rotavin_893310109424_c_0004"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 142,
+      "chunk_ids": [
+        "rotavin_893310109424_c_0005"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 41,
+      "chunk_ids": [
+        "rotavin_893310109424_c_0007"
+      ]
+    }
+  },
+  "dpt_vaccine_893310250923": {
+    "thành phần": {
+      "n_chunks": 3,
+      "n_words": 239,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0000",
+        "dpt_vaccine_893310250923_c_0001",
+        "dpt_vaccine_893310250923_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 195,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0003"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 220,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 164,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0005"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 2,
+      "n_words": 388,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0006_s0",
+        "dpt_vaccine_893310250923_c_0006_s1"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 4,
+      "n_words": 571,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0007",
+        "dpt_vaccine_893310250923_c_0008_s0",
+        "dpt_vaccine_893310250923_c_0008_s1",
+        "dpt_vaccine_893310250923_c_0009"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 2,
+      "n_words": 426,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0010_s0",
+        "dpt_vaccine_893310250923_c_0010_s1"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 196,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0011"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 114,
+      "chunk_ids": [
+        "dpt_vaccine_893310250923_c_0012"
+      ]
+    }
+  },
+  "bcg_vaccine_893310251023": {
+    "thành phần": {
+      "n_chunks": 3,
+      "n_words": 146,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0000",
+        "bcg_vaccine_893310251023_c_0001",
+        "bcg_vaccine_893310251023_c_0002"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 299,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0003"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 261,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0004"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 182,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0005"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 203,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0006"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 107,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0007"
+      ]
+    },
+    "tương kỵ": {
+      "n_chunks": 1,
+      "n_words": 247,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0008"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 230,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0009"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 48,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0010"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 2,
+      "n_words": 501,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0011",
+        "bcg_vaccine_893310251023_c_0012"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 152,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0013"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 114,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0014"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 38,
+      "chunk_ids": [
+        "bcg_vaccine_893310251023_c_0015"
+      ]
+    }
+  },
+  "tt_vaccine_893310323125": {
+    "thành phần": {
+      "n_chunks": 3,
+      "n_words": 140,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0000",
+        "tt_vaccine_893310323125_c_0001",
+        "tt_vaccine_893310323125_c_0002"
+      ]
+    },
+    "dạng bào chế": {
+      "n_chunks": 1,
+      "n_words": 127,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0003"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 170,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0004"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 4,
+      "n_words": 664,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0005_s0",
+        "tt_vaccine_893310323125_c_0005_s1",
+        "tt_vaccine_893310323125_c_0006",
+        "tt_vaccine_893310323125_c_0008"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 280,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0007"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 183,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0009"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 263,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0010"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 2,
+      "n_words": 415,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0011_s0",
+        "tt_vaccine_893310323125_c_0011_s1"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 212,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0012"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 131,
+      "chunk_ids": [
+        "tt_vaccine_893310323125_c_0013"
+      ]
+    }
+  },
+  "peg_grafeel_qlsp_0636_13": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 117,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0000"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 342,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0001",
+        "peg_grafeel_qlsp_0636_13_c_0002",
+        "peg_grafeel_qlsp_0636_13_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 9,
+      "n_words": 1543,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0004",
+        "peg_grafeel_qlsp_0636_13_c_0005",
+        "peg_grafeel_qlsp_0636_13_c_0006",
+        "peg_grafeel_qlsp_0636_13_c_0007",
+        "peg_grafeel_qlsp_0636_13_c_0008",
+        "peg_grafeel_qlsp_0636_13_c_0009",
+        "peg_grafeel_qlsp_0636_13_c_0010",
+        "peg_grafeel_qlsp_0636_13_c_0011",
+        "peg_grafeel_qlsp_0636_13_c_0032"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 342,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0012"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 318,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0013"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 10,
+      "n_words": 1675,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0014_s0",
+        "peg_grafeel_qlsp_0636_13_c_0014_s1",
+        "peg_grafeel_qlsp_0636_13_c_0015",
+        "peg_grafeel_qlsp_0636_13_c_0016_s0",
+        "peg_grafeel_qlsp_0636_13_c_0016_s1",
+        "peg_grafeel_qlsp_0636_13_c_0017",
+        "peg_grafeel_qlsp_0636_13_c_0018_s0",
+        "peg_grafeel_qlsp_0636_13_c_0018_s1",
+        "peg_grafeel_qlsp_0636_13_c_0019",
+        "peg_grafeel_qlsp_0636_13_c_0020"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 2,
+      "n_words": 317,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0021",
+        "peg_grafeel_qlsp_0636_13_c_0022"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 8,
+      "n_words": 645,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0023",
+        "peg_grafeel_qlsp_0636_13_c_0024",
+        "peg_grafeel_qlsp_0636_13_c_0025",
+        "peg_grafeel_qlsp_0636_13_c_0026",
+        "peg_grafeel_qlsp_0636_13_c_0027",
+        "peg_grafeel_qlsp_0636_13_c_0028",
+        "peg_grafeel_qlsp_0636_13_c_0029",
+        "peg_grafeel_qlsp_0636_13_c_0030"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 101,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0031"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 23,
+      "chunk_ids": [
+        "peg_grafeel_qlsp_0636_13_c_0033"
+      ]
+    }
+  },
+  "cervarixtm_qlvx_0490_12": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 151,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 159,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 147,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 73,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 757,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0004",
+        "cervarixtm_qlvx_0490_12_c_0005"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 296,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 394,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0007_s0",
+        "cervarixtm_qlvx_0490_12_c_0007_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 15,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0008"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 32,
+      "n_words": 7078,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0009",
+        "cervarixtm_qlvx_0490_12_c_0010",
+        "cervarixtm_qlvx_0490_12_c_0011",
+        "cervarixtm_qlvx_0490_12_c_0012",
+        "cervarixtm_qlvx_0490_12_c_0013",
+        "cervarixtm_qlvx_0490_12_c_0014_s0",
+        "cervarixtm_qlvx_0490_12_c_0014_s1",
+        "cervarixtm_qlvx_0490_12_c_0015",
+        "cervarixtm_qlvx_0490_12_c_0016",
+        "cervarixtm_qlvx_0490_12_c_0017_s0",
+        "cervarixtm_qlvx_0490_12_c_0017_s1",
+        "cervarixtm_qlvx_0490_12_c_0018",
+        "cervarixtm_qlvx_0490_12_c_0019_s0",
+        "cervarixtm_qlvx_0490_12_c_0019_s1",
+        "cervarixtm_qlvx_0490_12_c_0020_s0",
+        "cervarixtm_qlvx_0490_12_c_0020_s1",
+        "cervarixtm_qlvx_0490_12_c_0021",
+        "cervarixtm_qlvx_0490_12_c_0022",
+        "cervarixtm_qlvx_0490_12_c_0023_s0",
+        "cervarixtm_qlvx_0490_12_c_0023_s1",
+        "cervarixtm_qlvx_0490_12_c_0024",
+        "cervarixtm_qlvx_0490_12_c_0025_s0",
+        "cervarixtm_qlvx_0490_12_c_0025_s1",
+        "cervarixtm_qlvx_0490_12_c_0025_s2",
+        "cervarixtm_qlvx_0490_12_c_0026_s0",
+        "cervarixtm_qlvx_0490_12_c_0026_s1",
+        "cervarixtm_qlvx_0490_12_c_0027_s0",
+        "cervarixtm_qlvx_0490_12_c_0027_s1",
+        "cervarixtm_qlvx_0490_12_c_0028_s0",
+        "cervarixtm_qlvx_0490_12_c_0028_s1",
+        "cervarixtm_qlvx_0490_12_c_0029_s0",
+        "cervarixtm_qlvx_0490_12_c_0029_s1"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 223,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0030"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 170,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0031"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 107,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0032"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 302,
+      "chunk_ids": [
+        "cervarixtm_qlvx_0490_12_c_0033"
+      ]
+    }
+  },
+  "vaxigrip_0_5ml_qlvx_0646_13": {
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 320,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0000",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 262,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 240,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0003",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 417,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0005",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0006"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 131,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0007"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 174,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0008"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 3,
+      "n_words": 644,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0009_s0",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0009_s1",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0022"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 14,
+      "n_words": 1792,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0010",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0011",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0012",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0013_s0",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0013_s1",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0014",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0015",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0016_s0",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0016_s1",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0017",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0018",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0019",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0020",
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0021"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 176,
+      "chunk_ids": [
+        "vaxigrip_0_5ml_qlvx_0646_13_c_0023"
+      ]
+    }
+  },
+  "vaxigrip_0_25ml_qlvx_0652_13": {
+    "thông tin chung": {
+      "n_chunks": 2,
+      "n_words": 184,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0000",
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0013"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 210,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0001",
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0002"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 285,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0003"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 101,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 389,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0005",
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0006"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 198,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0007"
+      ]
+    },
+    "tương kỵ": {
+      "n_chunks": 1,
+      "n_words": 277,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0008"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 5,
+      "n_words": 669,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0009",
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0010",
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0011",
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0012",
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0014"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 136,
+      "chunk_ids": [
+        "vaxigrip_0_25ml_qlvx_0652_13_c_0015"
+      ]
+    }
+  },
+  "hepavax_gene_tf_inj_qlvx_0774_14": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 135,
+      "chunk_ids": [
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 4,
+      "n_words": 670,
+      "chunk_ids": [
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0001",
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0002",
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0003",
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0004"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 333,
+      "chunk_ids": [
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0005",
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0006"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 111,
+      "chunk_ids": [
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0007"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 212,
+      "chunk_ids": [
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0008"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 106,
+      "chunk_ids": [
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0009"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 215,
+      "chunk_ids": [
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0010"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 2,
+      "n_words": 148,
+      "chunk_ids": [
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0011",
+        "hepavax_gene_tf_inj_qlvx_0774_14_c_0012"
+      ]
+    }
+  },
+  "varivax_001310037823": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 207,
+      "chunk_ids": [
+        "varivax_001310037823_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 64,
+      "chunk_ids": [
+        "varivax_001310037823_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 439,
+      "chunk_ids": [
+        "varivax_001310037823_c_0002_s0",
+        "varivax_001310037823_c_0002_s1",
+        "varivax_001310037823_c_0003"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 3,
+      "n_words": 430,
+      "chunk_ids": [
+        "varivax_001310037823_c_0004",
+        "varivax_001310037823_c_0005_s0",
+        "varivax_001310037823_c_0005_s1"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 430,
+      "chunk_ids": [
+        "varivax_001310037823_c_0006",
+        "varivax_001310037823_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 111,
+      "chunk_ids": [
+        "varivax_001310037823_c_0008"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 2,
+      "n_words": 319,
+      "chunk_ids": [
+        "varivax_001310037823_c_0009_s0",
+        "varivax_001310037823_c_0009_s1"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 4,
+      "n_words": 861,
+      "chunk_ids": [
+        "varivax_001310037823_c_0010_s0",
+        "varivax_001310037823_c_0010_s1",
+        "varivax_001310037823_c_0011",
+        "varivax_001310037823_c_0012"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 171,
+      "chunk_ids": [
+        "varivax_001310037823_c_0013"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 98,
+      "chunk_ids": [
+        "varivax_001310037823_c_0014"
+      ]
+    }
+  },
+  "menquadfi_001310047625": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 144,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0000"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 309,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0001",
+        "menquadfi_001310047625_c_0002"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 5,
+      "n_words": 712,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0003",
+        "menquadfi_001310047625_c_0004",
+        "menquadfi_001310047625_c_0005",
+        "menquadfi_001310047625_c_0006",
+        "menquadfi_001310047625_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 297,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0008"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 3,
+      "n_words": 582,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0009_s0",
+        "menquadfi_001310047625_c_0009_s1",
+        "menquadfi_001310047625_c_0010"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 8,
+      "n_words": 1342,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0011_s0",
+        "menquadfi_001310047625_c_0011_s1",
+        "menquadfi_001310047625_c_0012",
+        "menquadfi_001310047625_c_0013",
+        "menquadfi_001310047625_c_0014",
+        "menquadfi_001310047625_c_0015",
+        "menquadfi_001310047625_c_0016",
+        "menquadfi_001310047625_c_0017"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 9,
+      "n_words": 1439,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0018",
+        "menquadfi_001310047625_c_0019",
+        "menquadfi_001310047625_c_0020",
+        "menquadfi_001310047625_c_0023_s0",
+        "menquadfi_001310047625_c_0023_s1",
+        "menquadfi_001310047625_c_0024",
+        "menquadfi_001310047625_c_0025",
+        "menquadfi_001310047625_c_0028",
+        "menquadfi_001310047625_c_0032"
+      ]
+    },
+    "bảng số liệu": {
+      "n_chunks": 37,
+      "n_words": 8126,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0021_s0",
+        "menquadfi_001310047625_c_0021_s1",
+        "menquadfi_001310047625_c_0021_s2",
+        "menquadfi_001310047625_c_0021_s3",
+        "menquadfi_001310047625_c_0022",
+        "menquadfi_001310047625_c_0026_s0",
+        "menquadfi_001310047625_c_0026_s1",
+        "menquadfi_001310047625_c_0026_s2",
+        "menquadfi_001310047625_c_0026_s3",
+        "menquadfi_001310047625_c_0026_s4",
+        "menquadfi_001310047625_c_0026_s5",
+        "menquadfi_001310047625_c_0026_s6",
+        "menquadfi_001310047625_c_0026_s7",
+        "menquadfi_001310047625_c_0026_s8",
+        "menquadfi_001310047625_c_0026_s9",
+        "menquadfi_001310047625_c_0026_s10",
+        "menquadfi_001310047625_c_0026_s11",
+        "menquadfi_001310047625_c_0026_s12",
+        "menquadfi_001310047625_c_0026_s13",
+        "menquadfi_001310047625_c_0026_s14",
+        "menquadfi_001310047625_c_0026_s15",
+        "menquadfi_001310047625_c_0027",
+        "menquadfi_001310047625_c_0029_s0",
+        "menquadfi_001310047625_c_0029_s1",
+        "menquadfi_001310047625_c_0029_s2",
+        "menquadfi_001310047625_c_0030",
+        "menquadfi_001310047625_c_0031",
+        "menquadfi_001310047625_c_0033_s0",
+        "menquadfi_001310047625_c_0033_s1",
+        "menquadfi_001310047625_c_0035_s0",
+        "menquadfi_001310047625_c_0035_s1",
+        "menquadfi_001310047625_c_0037_s0",
+        "menquadfi_001310047625_c_0037_s1",
+        "menquadfi_001310047625_c_0039_s0",
+        "menquadfi_001310047625_c_0039_s1",
+        "menquadfi_001310047625_c_0041_s0",
+        "menquadfi_001310047625_c_0041_s1"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 4,
+      "n_words": 228,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0034",
+        "menquadfi_001310047625_c_0036",
+        "menquadfi_001310047625_c_0038",
+        "menquadfi_001310047625_c_0040"
+      ]
+    },
+    "dữ liệu phi lâm sàng": {
+      "n_chunks": 1,
+      "n_words": 112,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0042"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 54,
+      "chunk_ids": [
+        "menquadfi_001310047625_c_0043"
+      ]
+    }
+  },
+  "varilrix_001310177800": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 174,
+      "chunk_ids": [
+        "varilrix_001310177800_c_0000"
+      ]
+    },
+    "dạng bào chế": {
+      "n_chunks": 1,
+      "n_words": 17,
+      "chunk_ids": [
+        "varilrix_001310177800_c_0001"
+      ]
+    },
+    "đặc tính dược lý": {
+      "n_chunks": 19,
+      "n_words": 3928,
+      "chunk_ids": [
+        "varilrix_001310177800_c_0002",
+        "varilrix_001310177800_c_0003",
+        "varilrix_001310177800_c_0004",
+        "varilrix_001310177800_c_0005",
+        "varilrix_001310177800_c_0006_s0",
+        "varilrix_001310177800_c_0006_s1",
+        "varilrix_001310177800_c_0007",
+        "varilrix_001310177800_c_0008",
+        "varilrix_001310177800_c_0009",
+        "varilrix_001310177800_c_0010",
+        "varilrix_001310177800_c_0011",
+        "varilrix_001310177800_c_0012",
+        "varilrix_001310177800_c_0013",
+        "varilrix_001310177800_c_0014",
+        "varilrix_001310177800_c_0015",
+        "varilrix_001310177800_c_0016",
+        "varilrix_001310177800_c_0017",
+        "varilrix_001310177800_c_0018",
+        "varilrix_001310177800_c_0019"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 3,
+      "n_words": 567,
+      "chunk_ids": [
+        "varilrix_001310177800_c_0020_s0",
+        "varilrix_001310177800_c_0020_s1",
+        "varilrix_001310177800_c_0021"
+      ]
+    }
+  },
+  "gardasil_9_001310178700": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 210,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0000"
+      ]
+    },
+    "dạng bào chế": {
+      "n_chunks": 1,
+      "n_words": 27,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 3,
+      "n_words": 452,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0002_s0",
+        "gardasil_9_001310178700_c_0002_s1",
+        "gardasil_9_001310178700_c_0003"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 533,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0004_s0",
+        "gardasil_9_001310178700_c_0004_s1",
+        "gardasil_9_001310178700_c_0005"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 50,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0006"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 6,
+      "n_words": 1460,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0007",
+        "gardasil_9_001310178700_c_0008_s0",
+        "gardasil_9_001310178700_c_0008_s1",
+        "gardasil_9_001310178700_c_0009",
+        "gardasil_9_001310178700_c_0010",
+        "gardasil_9_001310178700_c_0011"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 4,
+      "n_words": 898,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0012",
+        "gardasil_9_001310178700_c_0013",
+        "gardasil_9_001310178700_c_0014",
+        "gardasil_9_001310178700_c_0015"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 44,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0016"
+      ]
+    },
+    "đặc tính dược lý": {
+      "n_chunks": 22,
+      "n_words": 4666,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0017_s0",
+        "gardasil_9_001310178700_c_0017_s1",
+        "gardasil_9_001310178700_c_0018",
+        "gardasil_9_001310178700_c_0019_s0",
+        "gardasil_9_001310178700_c_0019_s1",
+        "gardasil_9_001310178700_c_0020",
+        "gardasil_9_001310178700_c_0021_s0",
+        "gardasil_9_001310178700_c_0021_s1",
+        "gardasil_9_001310178700_c_0022_s0",
+        "gardasil_9_001310178700_c_0022_s1",
+        "gardasil_9_001310178700_c_0023_s0",
+        "gardasil_9_001310178700_c_0023_s1",
+        "gardasil_9_001310178700_c_0024",
+        "gardasil_9_001310178700_c_0025_s0",
+        "gardasil_9_001310178700_c_0025_s1",
+        "gardasil_9_001310178700_c_0026",
+        "gardasil_9_001310178700_c_0027",
+        "gardasil_9_001310178700_c_0028",
+        "gardasil_9_001310178700_c_0029_s0",
+        "gardasil_9_001310178700_c_0029_s1",
+        "gardasil_9_001310178700_c_0029_s2",
+        "gardasil_9_001310178700_c_0030"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 4,
+      "n_words": 1073,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0031",
+        "gardasil_9_001310178700_c_0035_s0",
+        "gardasil_9_001310178700_c_0035_s1",
+        "gardasil_9_001310178700_c_0036"
+      ]
+    },
+    "bảng số liệu": {
+      "n_chunks": 13,
+      "n_words": 3331,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0032",
+        "gardasil_9_001310178700_c_0033",
+        "gardasil_9_001310178700_c_0034",
+        "gardasil_9_001310178700_c_0037_s0",
+        "gardasil_9_001310178700_c_0037_s1",
+        "gardasil_9_001310178700_c_0038_s0",
+        "gardasil_9_001310178700_c_0038_s1",
+        "gardasil_9_001310178700_c_0039",
+        "gardasil_9_001310178700_c_0040",
+        "gardasil_9_001310178700_c_0041",
+        "gardasil_9_001310178700_c_0042",
+        "gardasil_9_001310178700_c_0043",
+        "gardasil_9_001310178700_c_0044"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 334,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0045"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 2,
+      "n_words": 144,
+      "chunk_ids": [
+        "gardasil_9_001310178700_c_0046",
+        "gardasil_9_001310178700_c_0047"
+      ]
+    }
+  },
+  "proquad_001310197825": {
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 292,
+      "chunk_ids": [
+        "proquad_001310197825_c_0000_s0",
+        "proquad_001310197825_c_0000_s1"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 144,
+      "chunk_ids": [
+        "proquad_001310197825_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 801,
+      "chunk_ids": [
+        "proquad_001310197825_c_0002",
+        "proquad_001310197825_c_0003",
+        "proquad_001310197825_c_0004"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 3,
+      "n_words": 442,
+      "chunk_ids": [
+        "proquad_001310197825_c_0005",
+        "proquad_001310197825_c_0006_s0",
+        "proquad_001310197825_c_0006_s1"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 5,
+      "n_words": 1512,
+      "chunk_ids": [
+        "proquad_001310197825_c_0007",
+        "proquad_001310197825_c_0008",
+        "proquad_001310197825_c_0009",
+        "proquad_001310197825_c_0010",
+        "proquad_001310197825_c_0011"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 2,
+      "n_words": 304,
+      "chunk_ids": [
+        "proquad_001310197825_c_0012",
+        "proquad_001310197825_c_0013"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 2,
+      "n_words": 502,
+      "chunk_ids": [
+        "proquad_001310197825_c_0014",
+        "proquad_001310197825_c_0015"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 16,
+      "n_words": 3475,
+      "chunk_ids": [
+        "proquad_001310197825_c_0016",
+        "proquad_001310197825_c_0017_s0",
+        "proquad_001310197825_c_0017_s1",
+        "proquad_001310197825_c_0018",
+        "proquad_001310197825_c_0019",
+        "proquad_001310197825_c_0020",
+        "proquad_001310197825_c_0021_s0",
+        "proquad_001310197825_c_0021_s1",
+        "proquad_001310197825_c_0022_s0",
+        "proquad_001310197825_c_0022_s1",
+        "proquad_001310197825_c_0023",
+        "proquad_001310197825_c_0024",
+        "proquad_001310197825_c_0025",
+        "proquad_001310197825_c_0026_s0",
+        "proquad_001310197825_c_0026_s1",
+        "proquad_001310197825_c_0027"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 51,
+      "chunk_ids": [
+        "proquad_001310197825_c_0028"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 14,
+      "n_words": 3013,
+      "chunk_ids": [
+        "proquad_001310197825_c_0029_s0",
+        "proquad_001310197825_c_0029_s1",
+        "proquad_001310197825_c_0030_s0",
+        "proquad_001310197825_c_0030_s1",
+        "proquad_001310197825_c_0031",
+        "proquad_001310197825_c_0032",
+        "proquad_001310197825_c_0033_s0",
+        "proquad_001310197825_c_0033_s1",
+        "proquad_001310197825_c_0034",
+        "proquad_001310197825_c_0035",
+        "proquad_001310197825_c_0036_s0",
+        "proquad_001310197825_c_0036_s1",
+        "proquad_001310197825_c_0037",
+        "proquad_001310197825_c_0038"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 101,
+      "chunk_ids": [
+        "proquad_001310197825_c_0039"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 2,
+      "n_words": 193,
+      "chunk_ids": [
+        "proquad_001310197825_c_0040",
+        "proquad_001310197825_c_0041"
+      ]
+    }
+  },
+  "m_m_r_ii_001310197925": {
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 208,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 113,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 252,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 9,
+      "n_words": 1691,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0003_s0",
+        "m_m_r_ii_001310197925_c_0003_s1",
+        "m_m_r_ii_001310197925_c_0004",
+        "m_m_r_ii_001310197925_c_0005_s0",
+        "m_m_r_ii_001310197925_c_0005_s1",
+        "m_m_r_ii_001310197925_c_0006_s0",
+        "m_m_r_ii_001310197925_c_0006_s1",
+        "m_m_r_ii_001310197925_c_0007",
+        "m_m_r_ii_001310197925_c_0008"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 341,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0009"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 4,
+      "n_words": 822,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0010_s0",
+        "m_m_r_ii_001310197925_c_0010_s1",
+        "m_m_r_ii_001310197925_c_0011_s0",
+        "m_m_r_ii_001310197925_c_0011_s1"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 2,
+      "n_words": 480,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0012",
+        "m_m_r_ii_001310197925_c_0013"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 73,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0014"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 9,
+      "n_words": 1779,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0015_s0",
+        "m_m_r_ii_001310197925_c_0015_s1",
+        "m_m_r_ii_001310197925_c_0016",
+        "m_m_r_ii_001310197925_c_0017",
+        "m_m_r_ii_001310197925_c_0018_s0",
+        "m_m_r_ii_001310197925_c_0018_s1",
+        "m_m_r_ii_001310197925_c_0019",
+        "m_m_r_ii_001310197925_c_0020",
+        "m_m_r_ii_001310197925_c_0021"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 76,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0022"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 3,
+      "n_words": 700,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0023",
+        "m_m_r_ii_001310197925_c_0024",
+        "m_m_r_ii_001310197925_c_0025"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 2,
+      "n_words": 370,
+      "chunk_ids": [
+        "m_m_r_ii_001310197925_c_0026",
+        "m_m_r_ii_001310197925_c_0027"
+      ]
+    }
+  },
+  "pneumovax_23_001310303524": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 117,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 89,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 773,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0002",
+        "pneumovax_23_001310303524_c_0003",
+        "pneumovax_23_001310303524_c_0004"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 23,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0005"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 3,
+      "n_words": 875,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0006",
+        "pneumovax_23_001310303524_c_0007",
+        "pneumovax_23_001310303524_c_0008"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 57,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0009"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 5,
+      "n_words": 941,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0010",
+        "pneumovax_23_001310303524_c_0011",
+        "pneumovax_23_001310303524_c_0012",
+        "pneumovax_23_001310303524_c_0013",
+        "pneumovax_23_001310303524_c_0014"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 15,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0015"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 6,
+      "n_words": 1211,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0016",
+        "pneumovax_23_001310303524_c_0017",
+        "pneumovax_23_001310303524_c_0018",
+        "pneumovax_23_001310303524_c_0019_s0",
+        "pneumovax_23_001310303524_c_0019_s1",
+        "pneumovax_23_001310303524_c_0020"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 111,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0021"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 10,
+      "chunk_ids": [
+        "pneumovax_23_001310303524_c_0022"
+      ]
+    }
+  },
+  "flumist_001310440525": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 196,
+      "chunk_ids": [
+        "flumist_001310440525_c_0000"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 296,
+      "chunk_ids": [
+        "flumist_001310440525_c_0001"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 200,
+      "chunk_ids": [
+        "flumist_001310440525_c_0002"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 3,
+      "n_words": 779,
+      "chunk_ids": [
+        "flumist_001310440525_c_0003",
+        "flumist_001310440525_c_0004",
+        "flumist_001310440525_c_0005"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 258,
+      "chunk_ids": [
+        "flumist_001310440525_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 5,
+      "n_words": 1333,
+      "chunk_ids": [
+        "flumist_001310440525_c_0007",
+        "flumist_001310440525_c_0008",
+        "flumist_001310440525_c_0009",
+        "flumist_001310440525_c_0010",
+        "flumist_001310440525_c_0011"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 6,
+      "n_words": 1358,
+      "chunk_ids": [
+        "flumist_001310440525_c_0012",
+        "flumist_001310440525_c_0013",
+        "flumist_001310440525_c_0014",
+        "flumist_001310440525_c_0015",
+        "flumist_001310440525_c_0016",
+        "flumist_001310440525_c_0017"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 13,
+      "chunk_ids": [
+        "flumist_001310440525_c_0018"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 3,
+      "n_words": 463,
+      "chunk_ids": [
+        "flumist_001310440525_c_0019_s0",
+        "flumist_001310440525_c_0019_s1",
+        "flumist_001310440525_c_0020"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 2,
+      "n_words": 231,
+      "chunk_ids": [
+        "flumist_001310440525_c_0021",
+        "flumist_001310440525_c_0022"
+      ]
+    }
+  },
+  "vaxigrip_300310033526": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 129,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0000"
+      ]
+    },
+    "dạng bào chế": {
+      "n_chunks": 1,
+      "n_words": 198,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 104,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 330,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 3,
+      "n_words": 549,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0004_s0",
+        "vaxigrip_300310033526_c_0004_s1",
+        "vaxigrip_300310033526_c_0043"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 3,
+      "n_words": 595,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0005_s0",
+        "vaxigrip_300310033526_c_0005_s1",
+        "vaxigrip_300310033526_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 16,
+      "n_words": 2963,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0007",
+        "vaxigrip_300310033526_c_0008_s0",
+        "vaxigrip_300310033526_c_0008_s1",
+        "vaxigrip_300310033526_c_0009",
+        "vaxigrip_300310033526_c_0010_s0",
+        "vaxigrip_300310033526_c_0010_s1",
+        "vaxigrip_300310033526_c_0011",
+        "vaxigrip_300310033526_c_0012_s0",
+        "vaxigrip_300310033526_c_0012_s1",
+        "vaxigrip_300310033526_c_0013",
+        "vaxigrip_300310033526_c_0014_s0",
+        "vaxigrip_300310033526_c_0014_s1",
+        "vaxigrip_300310033526_c_0015",
+        "vaxigrip_300310033526_c_0016_s0",
+        "vaxigrip_300310033526_c_0016_s1",
+        "vaxigrip_300310033526_c_0017"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 72,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0018"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 30,
+      "n_words": 6112,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0019_s0",
+        "vaxigrip_300310033526_c_0019_s1",
+        "vaxigrip_300310033526_c_0020",
+        "vaxigrip_300310033526_c_0021",
+        "vaxigrip_300310033526_c_0022",
+        "vaxigrip_300310033526_c_0023",
+        "vaxigrip_300310033526_c_0024",
+        "vaxigrip_300310033526_c_0025",
+        "vaxigrip_300310033526_c_0026",
+        "vaxigrip_300310033526_c_0027_s0",
+        "vaxigrip_300310033526_c_0027_s1",
+        "vaxigrip_300310033526_c_0028",
+        "vaxigrip_300310033526_c_0029_s0",
+        "vaxigrip_300310033526_c_0029_s1",
+        "vaxigrip_300310033526_c_0030",
+        "vaxigrip_300310033526_c_0031_s0",
+        "vaxigrip_300310033526_c_0031_s1",
+        "vaxigrip_300310033526_c_0032",
+        "vaxigrip_300310033526_c_0033_s0",
+        "vaxigrip_300310033526_c_0033_s1",
+        "vaxigrip_300310033526_c_0034_s0",
+        "vaxigrip_300310033526_c_0034_s1",
+        "vaxigrip_300310033526_c_0035",
+        "vaxigrip_300310033526_c_0036",
+        "vaxigrip_300310033526_c_0037_s0",
+        "vaxigrip_300310033526_c_0037_s1",
+        "vaxigrip_300310033526_c_0038",
+        "vaxigrip_300310033526_c_0039_s0",
+        "vaxigrip_300310033526_c_0039_s1",
+        "vaxigrip_300310033526_c_0040"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 116,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0041"
+      ]
+    },
+    "tương kỵ": {
+      "n_chunks": 1,
+      "n_words": 104,
+      "chunk_ids": [
+        "vaxigrip_300310033526_c_0042"
+      ]
+    }
+  },
+  "boostrix_300310036923": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 87,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 158,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 298,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 179,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 5,
+      "n_words": 750,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0004",
+        "boostrix_300310036923_c_0005_s0",
+        "boostrix_300310036923_c_0005_s1",
+        "boostrix_300310036923_c_0006",
+        "boostrix_300310036923_c_0018"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 145,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 2,
+      "n_words": 427,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0008",
+        "boostrix_300310036923_c_0009"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 3,
+      "n_words": 640,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0010_s0",
+        "boostrix_300310036923_c_0010_s1",
+        "boostrix_300310036923_c_0011"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 56,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0012"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 5,
+      "n_words": 1166,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0013",
+        "boostrix_300310036923_c_0014",
+        "boostrix_300310036923_c_0015",
+        "boostrix_300310036923_c_0016",
+        "boostrix_300310036923_c_0017"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 152,
+      "chunk_ids": [
+        "boostrix_300310036923_c_0019"
+      ]
+    }
+  },
+  "hexaxim_300310038123": {
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 270,
+      "chunk_ids": [
+        "hexaxim_300310038123_c_0000_s0",
+        "hexaxim_300310038123_c_0000_s1"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 13,
+      "n_words": 2533,
+      "chunk_ids": [
+        "hexaxim_300310038123_c_0001",
+        "hexaxim_300310038123_c_0002_s0",
+        "hexaxim_300310038123_c_0002_s1",
+        "hexaxim_300310038123_c_0003",
+        "hexaxim_300310038123_c_0004_s0",
+        "hexaxim_300310038123_c_0004_s1",
+        "hexaxim_300310038123_c_0005_s0",
+        "hexaxim_300310038123_c_0005_s1",
+        "hexaxim_300310038123_c_0006",
+        "hexaxim_300310038123_c_0007",
+        "hexaxim_300310038123_c_0008",
+        "hexaxim_300310038123_c_0009",
+        "hexaxim_300310038123_c_0010"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 131,
+      "chunk_ids": [
+        "hexaxim_300310038123_c_0011"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 4,
+      "n_words": 670,
+      "chunk_ids": [
+        "hexaxim_300310038123_c_0012_s0",
+        "hexaxim_300310038123_c_0012_s1",
+        "hexaxim_300310038123_c_0013",
+        "hexaxim_300310038123_c_0014"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 8,
+      "n_words": 1652,
+      "chunk_ids": [
+        "hexaxim_300310038123_c_0015",
+        "hexaxim_300310038123_c_0016",
+        "hexaxim_300310038123_c_0017",
+        "hexaxim_300310038123_c_0018",
+        "hexaxim_300310038123_c_0019_s0",
+        "hexaxim_300310038123_c_0019_s1",
+        "hexaxim_300310038123_c_0020_s0",
+        "hexaxim_300310038123_c_0020_s1"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 5,
+      "n_words": 948,
+      "chunk_ids": [
+        "hexaxim_300310038123_c_0021",
+        "hexaxim_300310038123_c_0022",
+        "hexaxim_300310038123_c_0023_s0",
+        "hexaxim_300310038123_c_0023_s1",
+        "hexaxim_300310038123_c_0024"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 128,
+      "chunk_ids": [
+        "hexaxim_300310038123_c_0025"
+      ]
+    }
+  },
+  "pentaxim_300310250623": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 92,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 325,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0001_s0",
+        "pentaxim_300310250623_c_0001_s1"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 145,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0002"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 4,
+      "n_words": 726,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0003_s0",
+        "pentaxim_300310250623_c_0003_s1",
+        "pentaxim_300310250623_c_0003_s2",
+        "pentaxim_300310250623_c_0004"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 94,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0005"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 177,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0006"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 149,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0007"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 5,
+      "n_words": 924,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0008_s0",
+        "pentaxim_300310250623_c_0008_s1",
+        "pentaxim_300310250623_c_0009_s0",
+        "pentaxim_300310250623_c_0009_s1",
+        "pentaxim_300310250623_c_0010"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 4,
+      "n_words": 975,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0011",
+        "pentaxim_300310250623_c_0012_s0",
+        "pentaxim_300310250623_c_0012_s1",
+        "pentaxim_300310250623_c_0013"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 2,
+      "n_words": 231,
+      "chunk_ids": [
+        "pentaxim_300310250623_c_0014",
+        "pentaxim_300310250623_c_0015"
+      ]
+    }
+  },
+  "avaxim_80_u_pediatric_300310250723": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 215,
+      "chunk_ids": [
+        "avaxim_80_u_pediatric_300310250723_c_0000"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 229,
+      "chunk_ids": [
+        "avaxim_80_u_pediatric_300310250723_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 300,
+      "chunk_ids": [
+        "avaxim_80_u_pediatric_300310250723_c_0002",
+        "avaxim_80_u_pediatric_300310250723_c_0003"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 76,
+      "chunk_ids": [
+        "avaxim_80_u_pediatric_300310250723_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 3,
+      "n_words": 744,
+      "chunk_ids": [
+        "avaxim_80_u_pediatric_300310250723_c_0005_s0",
+        "avaxim_80_u_pediatric_300310250723_c_0005_s1",
+        "avaxim_80_u_pediatric_300310250723_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 423,
+      "chunk_ids": [
+        "avaxim_80_u_pediatric_300310250723_c_0007_s0",
+        "avaxim_80_u_pediatric_300310250723_c_0007_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 123,
+      "chunk_ids": [
+        "avaxim_80_u_pediatric_300310250723_c_0008"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 79,
+      "chunk_ids": [
+        "avaxim_80_u_pediatric_300310250723_c_0009"
+      ]
+    }
+  },
+  "verorab_300310305824": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 239,
+      "chunk_ids": [
+        "verorab_300310305824_c_0000"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 107,
+      "chunk_ids": [
+        "verorab_300310305824_c_0001"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 13,
+      "chunk_ids": [
+        "verorab_300310305824_c_0002"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 4,
+      "n_words": 1057,
+      "chunk_ids": [
+        "verorab_300310305824_c_0003",
+        "verorab_300310305824_c_0004",
+        "verorab_300310305824_c_0005",
+        "verorab_300310305824_c_0006"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 7,
+      "n_words": 1602,
+      "chunk_ids": [
+        "verorab_300310305824_c_0007",
+        "verorab_300310305824_c_0008",
+        "verorab_300310305824_c_0009_s0",
+        "verorab_300310305824_c_0009_s1",
+        "verorab_300310305824_c_0010",
+        "verorab_300310305824_c_0011",
+        "verorab_300310305824_c_0012"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 189,
+      "chunk_ids": [
+        "verorab_300310305824_c_0013"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 4,
+      "n_words": 766,
+      "chunk_ids": [
+        "verorab_300310305824_c_0014_s0",
+        "verorab_300310305824_c_0014_s1",
+        "verorab_300310305824_c_0015_s0",
+        "verorab_300310305824_c_0015_s1"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 130,
+      "chunk_ids": [
+        "verorab_300310305824_c_0016"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 103,
+      "chunk_ids": [
+        "verorab_300310305824_c_0017"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 148,
+      "chunk_ids": [
+        "verorab_300310305824_c_0018"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 173,
+      "chunk_ids": [
+        "verorab_300310305824_c_0019"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 27,
+      "chunk_ids": [
+        "verorab_300310305824_c_0020"
+      ]
+    }
+  },
+  "vaxigrip_tetra_300310305924": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 96,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 195,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 310,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0002"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 296,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0003"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 263,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0004"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 203,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0005"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 11,
+      "n_words": 1968,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0006",
+        "vaxigrip_tetra_300310305924_c_0007",
+        "vaxigrip_tetra_300310305924_c_0008",
+        "vaxigrip_tetra_300310305924_c_0009",
+        "vaxigrip_tetra_300310305924_c_0010",
+        "vaxigrip_tetra_300310305924_c_0011",
+        "vaxigrip_tetra_300310305924_c_0012",
+        "vaxigrip_tetra_300310305924_c_0013",
+        "vaxigrip_tetra_300310305924_c_0014",
+        "vaxigrip_tetra_300310305924_c_0015_s0",
+        "vaxigrip_tetra_300310305924_c_0015_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 82,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0016"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 10,
+      "n_words": 2336,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0017",
+        "vaxigrip_tetra_300310305924_c_0018",
+        "vaxigrip_tetra_300310305924_c_0019",
+        "vaxigrip_tetra_300310305924_c_0020",
+        "vaxigrip_tetra_300310305924_c_0021",
+        "vaxigrip_tetra_300310305924_c_0022",
+        "vaxigrip_tetra_300310305924_c_0023",
+        "vaxigrip_tetra_300310305924_c_0024",
+        "vaxigrip_tetra_300310305924_c_0025_s0",
+        "vaxigrip_tetra_300310305924_c_0025_s1"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 100,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0026"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 92,
+      "chunk_ids": [
+        "vaxigrip_tetra_300310305924_c_0027"
+      ]
+    }
+  },
+  "typhim_vi_300310647324": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 99,
+      "chunk_ids": [
+        "typhim_vi_300310647324_c_0000"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 152,
+      "chunk_ids": [
+        "typhim_vi_300310647324_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 134,
+      "chunk_ids": [
+        "typhim_vi_300310647324_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 2,
+      "n_words": 448,
+      "chunk_ids": [
+        "typhim_vi_300310647324_c_0003_s0",
+        "typhim_vi_300310647324_c_0003_s1"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 189,
+      "chunk_ids": [
+        "typhim_vi_300310647324_c_0004"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 113,
+      "chunk_ids": [
+        "typhim_vi_300310647324_c_0005"
+      ]
+    }
+  },
+  "twinrix_400310177900": {
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 65,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 246,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0001",
+        "twinrix_400310177900_c_0025"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 56,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 839,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0003",
+        "twinrix_400310177900_c_0004",
+        "twinrix_400310177900_c_0005"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 345,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0006"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 224,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 220,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0008"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 9,
+      "n_words": 1101,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0009",
+        "twinrix_400310177900_c_0010",
+        "twinrix_400310177900_c_0011",
+        "twinrix_400310177900_c_0012",
+        "twinrix_400310177900_c_0013",
+        "twinrix_400310177900_c_0014",
+        "twinrix_400310177900_c_0015",
+        "twinrix_400310177900_c_0016",
+        "twinrix_400310177900_c_0017"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 52,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0018"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 6,
+      "n_words": 1371,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0019",
+        "twinrix_400310177900_c_0020",
+        "twinrix_400310177900_c_0021",
+        "twinrix_400310177900_c_0022",
+        "twinrix_400310177900_c_0023",
+        "twinrix_400310177900_c_0024"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 233,
+      "chunk_ids": [
+        "twinrix_400310177900_c_0026"
+      ]
+    }
+  },
+  "qdenga_400310303924": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 205,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0000"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 265,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0001"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 148,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0002"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 10,
+      "n_words": 2341,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0003_s0",
+        "qdenga_400310303924_c_0003_s1",
+        "qdenga_400310303924_c_0004",
+        "qdenga_400310303924_c_0005",
+        "qdenga_400310303924_c_0030_s0",
+        "qdenga_400310303924_c_0030_s1",
+        "qdenga_400310303924_c_0031",
+        "qdenga_400310303924_c_0032_s0",
+        "qdenga_400310303924_c_0032_s1",
+        "qdenga_400310303924_c_0033"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 6,
+      "n_words": 1237,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0006_s0",
+        "qdenga_400310303924_c_0006_s1",
+        "qdenga_400310303924_c_0007_s0",
+        "qdenga_400310303924_c_0007_s1",
+        "qdenga_400310303924_c_0008",
+        "qdenga_400310303924_c_0009"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 19,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0010"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 23,
+      "n_words": 5729,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0011",
+        "qdenga_400310303924_c_0012",
+        "qdenga_400310303924_c_0013",
+        "qdenga_400310303924_c_0014",
+        "qdenga_400310303924_c_0015",
+        "qdenga_400310303924_c_0016_s0",
+        "qdenga_400310303924_c_0016_s1",
+        "qdenga_400310303924_c_0016_s2",
+        "qdenga_400310303924_c_0017",
+        "qdenga_400310303924_c_0018_s0",
+        "qdenga_400310303924_c_0018_s1",
+        "qdenga_400310303924_c_0018_s2",
+        "qdenga_400310303924_c_0019_s0",
+        "qdenga_400310303924_c_0019_s1",
+        "qdenga_400310303924_c_0020",
+        "qdenga_400310303924_c_0021_s0",
+        "qdenga_400310303924_c_0021_s1",
+        "qdenga_400310303924_c_0022",
+        "qdenga_400310303924_c_0023",
+        "qdenga_400310303924_c_0024",
+        "qdenga_400310303924_c_0025_s0",
+        "qdenga_400310303924_c_0025_s1",
+        "qdenga_400310303924_c_0026"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 183,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0027"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 203,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0028"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 303,
+      "chunk_ids": [
+        "qdenga_400310303924_c_0029"
+      ]
+    }
+  },
+  "envacgen_471310033726": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 107,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0000"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 338,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0001"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 57,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0002"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 3,
+      "n_words": 663,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0003_s0",
+        "envacgen_471310033726_c_0003_s1",
+        "envacgen_471310033726_c_0004"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 147,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0005"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 4,
+      "n_words": 767,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0006",
+        "envacgen_471310033726_c_0007_s0",
+        "envacgen_471310033726_c_0007_s1",
+        "envacgen_471310033726_c_0008"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 47,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0009"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 26,
+      "n_words": 3793,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0010_s0",
+        "envacgen_471310033726_c_0010_s1",
+        "envacgen_471310033726_c_0011",
+        "envacgen_471310033726_c_0012",
+        "envacgen_471310033726_c_0013",
+        "envacgen_471310033726_c_0014",
+        "envacgen_471310033726_c_0015",
+        "envacgen_471310033726_c_0016",
+        "envacgen_471310033726_c_0017",
+        "envacgen_471310033726_c_0018",
+        "envacgen_471310033726_c_0019",
+        "envacgen_471310033726_c_0020",
+        "envacgen_471310033726_c_0021_s0",
+        "envacgen_471310033726_c_0021_s1",
+        "envacgen_471310033726_c_0022",
+        "envacgen_471310033726_c_0023_s0",
+        "envacgen_471310033726_c_0023_s1",
+        "envacgen_471310033726_c_0024",
+        "envacgen_471310033726_c_0025_s0",
+        "envacgen_471310033726_c_0025_s1",
+        "envacgen_471310033726_c_0026",
+        "envacgen_471310033726_c_0027_s0",
+        "envacgen_471310033726_c_0027_s1",
+        "envacgen_471310033726_c_0028",
+        "envacgen_471310033726_c_0029",
+        "envacgen_471310033726_c_0030"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 103,
+      "chunk_ids": [
+        "envacgen_471310033726_c_0031"
+      ]
+    }
+  },
+  "prevenar_20_539310047525": {
+    "cảnh báo và thận trọng": {
+      "n_chunks": 4,
+      "n_words": 884,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0000",
+        "prevenar_20_539310047525_c_0006",
+        "prevenar_20_539310047525_c_0007",
+        "prevenar_20_539310047525_c_0008"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 368,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0001_s0",
+        "prevenar_20_539310047525_c_0001_s1"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 89,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 3,
+      "n_words": 483,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0003_s0",
+        "prevenar_20_539310047525_c_0003_s1",
+        "prevenar_20_539310047525_c_0004"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 35,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0005"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 259,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0009"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 7,
+      "n_words": 1696,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0010",
+        "prevenar_20_539310047525_c_0011",
+        "prevenar_20_539310047525_c_0012_s0",
+        "prevenar_20_539310047525_c_0012_s1",
+        "prevenar_20_539310047525_c_0013",
+        "prevenar_20_539310047525_c_0014",
+        "prevenar_20_539310047525_c_0015"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 35,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0016"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 26,
+      "n_words": 6177,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0017",
+        "prevenar_20_539310047525_c_0018",
+        "prevenar_20_539310047525_c_0019",
+        "prevenar_20_539310047525_c_0020",
+        "prevenar_20_539310047525_c_0021_s0",
+        "prevenar_20_539310047525_c_0021_s1",
+        "prevenar_20_539310047525_c_0022_s0",
+        "prevenar_20_539310047525_c_0022_s1",
+        "prevenar_20_539310047525_c_0023",
+        "prevenar_20_539310047525_c_0024_s0",
+        "prevenar_20_539310047525_c_0024_s1",
+        "prevenar_20_539310047525_c_0024_s2",
+        "prevenar_20_539310047525_c_0025",
+        "prevenar_20_539310047525_c_0026",
+        "prevenar_20_539310047525_c_0027",
+        "prevenar_20_539310047525_c_0028",
+        "prevenar_20_539310047525_c_0029_s0",
+        "prevenar_20_539310047525_c_0029_s1",
+        "prevenar_20_539310047525_c_0030_s0",
+        "prevenar_20_539310047525_c_0030_s1",
+        "prevenar_20_539310047525_c_0030_s2",
+        "prevenar_20_539310047525_c_0030_s3",
+        "prevenar_20_539310047525_c_0031",
+        "prevenar_20_539310047525_c_0032_s0",
+        "prevenar_20_539310047525_c_0032_s1",
+        "prevenar_20_539310047525_c_0033"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 102,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0034"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 2,
+      "n_words": 492,
+      "chunk_ids": [
+        "prevenar_20_539310047525_c_0035",
+        "prevenar_20_539310047525_c_0036"
+      ]
+    }
+  },
+  "speeda_qlvx_1041_17": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 148,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0000"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 109,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 239,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 4,
+      "n_words": 768,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0003",
+        "speeda_qlvx_1041_17_c_0004",
+        "speeda_qlvx_1041_17_c_0005",
+        "speeda_qlvx_1041_17_c_0007"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 1,
+      "n_words": 163,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 133,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0008"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 102,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0009"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 114,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0010"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 122,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0011"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 104,
+      "chunk_ids": [
+        "speeda_qlvx_1041_17_c_0012"
+      ]
+    }
+  },
+  "varicella_vaccine_gcc_inj_qlvx_1046_17": {
+    "thông tin chung": {
+      "n_chunks": 3,
+      "n_words": 451,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0000",
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0007",
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0009"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 101,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 104,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0002"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 302,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 223,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0004"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 123,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0005"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 114,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 363,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0008"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 75,
+      "chunk_ids": [
+        "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0010"
+      ]
+    }
+  },
+  "rabipur_qlvx_1048_17": {
+    "hướng dẫn sử dụng": {
+      "n_chunks": 10,
+      "n_words": 1769,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0000",
+        "rabipur_qlvx_1048_17_c_0002",
+        "rabipur_qlvx_1048_17_c_0005",
+        "rabipur_qlvx_1048_17_c_0008",
+        "rabipur_qlvx_1048_17_c_0011",
+        "rabipur_qlvx_1048_17_c_0012",
+        "rabipur_qlvx_1048_17_c_0014",
+        "rabipur_qlvx_1048_17_c_0018",
+        "rabipur_qlvx_1048_17_c_0020",
+        "rabipur_qlvx_1048_17_c_0023"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 2,
+      "n_words": 189,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0001",
+        "rabipur_qlvx_1048_17_c_0016"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 7,
+      "n_words": 1248,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0003",
+        "rabipur_qlvx_1048_17_c_0009_s0",
+        "rabipur_qlvx_1048_17_c_0009_s1",
+        "rabipur_qlvx_1048_17_c_0010",
+        "rabipur_qlvx_1048_17_c_0021",
+        "rabipur_qlvx_1048_17_c_0022",
+        "rabipur_qlvx_1048_17_c_0024"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 259,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0004"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 134,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0006"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 116,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0007"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 161,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0013"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 109,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0015"
+      ]
+    },
+    "bảng số liệu": {
+      "n_chunks": 2,
+      "n_words": 473,
+      "chunk_ids": [
+        "rabipur_qlvx_1048_17_c_0017",
+        "rabipur_qlvx_1048_17_c_0019"
+      ]
+    }
+  },
+  "infanrix_ipv_hib_qlvx_1138_19": {
+    "thông tin chung": {
+      "n_chunks": 11,
+      "n_words": 2025,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0000",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0005_s0",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0005_s1",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0006",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0009",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0010",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0012_s0",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0012_s1",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0013_s0",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0013_s1",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0017"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 252,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 127,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 158,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 391,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0004",
+        "infanrix_ipv_hib_qlvx_1138_19_c_0015"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 102,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 177,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0008"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 99,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0011"
+      ]
+    },
+    "dữ liệu phi lâm sàng": {
+      "n_chunks": 1,
+      "n_words": 119,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0014"
+      ]
+    },
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 221,
+      "chunk_ids": [
+        "infanrix_ipv_hib_qlvx_1138_19_c_0016"
+      ]
+    }
+  },
+  "m_m_r_ii_qlvx_878_15": {
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 192,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 131,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 255,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 428,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0003_s0",
+        "m_m_r_ii_qlvx_878_15_c_0003_s1"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 16,
+      "n_words": 3678,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0004_s0",
+        "m_m_r_ii_qlvx_878_15_c_0004_s1",
+        "m_m_r_ii_qlvx_878_15_c_0005",
+        "m_m_r_ii_qlvx_878_15_c_0006",
+        "m_m_r_ii_qlvx_878_15_c_0007",
+        "m_m_r_ii_qlvx_878_15_c_0008",
+        "m_m_r_ii_qlvx_878_15_c_0010",
+        "m_m_r_ii_qlvx_878_15_c_0012",
+        "m_m_r_ii_qlvx_878_15_c_0013",
+        "m_m_r_ii_qlvx_878_15_c_0016",
+        "m_m_r_ii_qlvx_878_15_c_0018",
+        "m_m_r_ii_qlvx_878_15_c_0019_s0",
+        "m_m_r_ii_qlvx_878_15_c_0019_s1",
+        "m_m_r_ii_qlvx_878_15_c_0020",
+        "m_m_r_ii_qlvx_878_15_c_0021",
+        "m_m_r_ii_qlvx_878_15_c_0024"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 108,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0009"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 386,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0011",
+        "m_m_r_ii_qlvx_878_15_c_0015"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 222,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0014"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 164,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0017"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 118,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0022"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 299,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0023"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 3,
+      "n_words": 297,
+      "chunk_ids": [
+        "m_m_r_ii_qlvx_878_15_c_0025_s0",
+        "m_m_r_ii_qlvx_878_15_c_0025_s1",
+        "m_m_r_ii_qlvx_878_15_c_0026"
+      ]
+    }
+  },
+  "gardasil_qlvx_883_15": {
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 208,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0000",
+        "gardasil_qlvx_883_15_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 206,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 301,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0003",
+        "gardasil_qlvx_883_15_c_0004"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 101,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0005"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 315,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0006"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 22,
+      "n_words": 4432,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0007",
+        "gardasil_qlvx_883_15_c_0008",
+        "gardasil_qlvx_883_15_c_0009",
+        "gardasil_qlvx_883_15_c_0012",
+        "gardasil_qlvx_883_15_c_0013",
+        "gardasil_qlvx_883_15_c_0015",
+        "gardasil_qlvx_883_15_c_0016",
+        "gardasil_qlvx_883_15_c_0018",
+        "gardasil_qlvx_883_15_c_0020",
+        "gardasil_qlvx_883_15_c_0021",
+        "gardasil_qlvx_883_15_c_0022",
+        "gardasil_qlvx_883_15_c_0031",
+        "gardasil_qlvx_883_15_c_0032",
+        "gardasil_qlvx_883_15_c_0033",
+        "gardasil_qlvx_883_15_c_0035",
+        "gardasil_qlvx_883_15_c_0036_s0",
+        "gardasil_qlvx_883_15_c_0036_s1",
+        "gardasil_qlvx_883_15_c_0037",
+        "gardasil_qlvx_883_15_c_0038",
+        "gardasil_qlvx_883_15_c_0039",
+        "gardasil_qlvx_883_15_c_0040",
+        "gardasil_qlvx_883_15_c_0041"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 133,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0010"
+      ]
+    },
+    "ảnh hưởng lái xe": {
+      "n_chunks": 1,
+      "n_words": 220,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0011"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 313,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0014"
+      ]
+    },
+    "bảng số liệu": {
+      "n_chunks": 2,
+      "n_words": 452,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0017_s0",
+        "gardasil_qlvx_883_15_c_0017_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 231,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0019"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 12,
+      "n_words": 2976,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0023",
+        "gardasil_qlvx_883_15_c_0024_s0",
+        "gardasil_qlvx_883_15_c_0024_s1",
+        "gardasil_qlvx_883_15_c_0025_s0",
+        "gardasil_qlvx_883_15_c_0025_s1",
+        "gardasil_qlvx_883_15_c_0026_s0",
+        "gardasil_qlvx_883_15_c_0026_s1",
+        "gardasil_qlvx_883_15_c_0027",
+        "gardasil_qlvx_883_15_c_0028",
+        "gardasil_qlvx_883_15_c_0029",
+        "gardasil_qlvx_883_15_c_0030",
+        "gardasil_qlvx_883_15_c_0034"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 2,
+      "n_words": 127,
+      "chunk_ids": [
+        "gardasil_qlvx_883_15_c_0042",
+        "gardasil_qlvx_883_15_c_0043"
+      ]
+    }
+  },
+  "euvax_b_qlvx_933_16": {
+    "thông tin chung": {
+      "n_chunks": 8,
+      "n_words": 1190,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0000",
+        "euvax_b_qlvx_933_16_c_0005",
+        "euvax_b_qlvx_933_16_c_0006",
+        "euvax_b_qlvx_933_16_c_0007",
+        "euvax_b_qlvx_933_16_c_0009",
+        "euvax_b_qlvx_933_16_c_0010",
+        "euvax_b_qlvx_933_16_c_0015",
+        "euvax_b_qlvx_933_16_c_0016"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 124,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0001"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 2,
+      "n_words": 154,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0002",
+        "euvax_b_qlvx_933_16_c_0003"
+      ]
+    },
+    "bảng số liệu": {
+      "n_chunks": 1,
+      "n_words": 30,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0004"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 134,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0008"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 346,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0011",
+        "euvax_b_qlvx_933_16_c_0012"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 136,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0013"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 110,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0014"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 2,
+      "n_words": 181,
+      "chunk_ids": [
+        "euvax_b_qlvx_933_16_c_0017",
+        "euvax_b_qlvx_933_16_c_0018"
+      ]
+    }
+  },
+  "euvax_b_qlvx_934_16": {
+    "thông tin chung": {
+      "n_chunks": 6,
+      "n_words": 1007,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0000",
+        "euvax_b_qlvx_934_16_c_0005",
+        "euvax_b_qlvx_934_16_c_0006",
+        "euvax_b_qlvx_934_16_c_0008",
+        "euvax_b_qlvx_934_16_c_0009",
+        "euvax_b_qlvx_934_16_c_0015"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 126,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0001"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 2,
+      "n_words": 147,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0002",
+        "euvax_b_qlvx_934_16_c_0003"
+      ]
+    },
+    "bảng số liệu": {
+      "n_chunks": 1,
+      "n_words": 53,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0004"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 133,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0007"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 346,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0010",
+        "euvax_b_qlvx_934_16_c_0011"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 136,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0012"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 245,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0013",
+        "euvax_b_qlvx_934_16_c_0014"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 114,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0016"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 1,
+      "n_words": 77,
+      "chunk_ids": [
+        "euvax_b_qlvx_934_16_c_0017"
+      ]
+    }
+  },
+  "td_vaccine_qlvx_943_16": {
+    "thành phần": {
+      "n_chunks": 3,
+      "n_words": 174,
+      "chunk_ids": [
+        "td_vaccine_qlvx_943_16_c_0000",
+        "td_vaccine_qlvx_943_16_c_0001",
+        "td_vaccine_qlvx_943_16_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 243,
+      "chunk_ids": [
+        "td_vaccine_qlvx_943_16_c_0003"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 334,
+      "chunk_ids": [
+        "td_vaccine_qlvx_943_16_c_0004"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 2,
+      "n_words": 469,
+      "chunk_ids": [
+        "td_vaccine_qlvx_943_16_c_0005_s0",
+        "td_vaccine_qlvx_943_16_c_0005_s1"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 346,
+      "chunk_ids": [
+        "td_vaccine_qlvx_943_16_c_0006"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 2,
+      "n_words": 433,
+      "chunk_ids": [
+        "td_vaccine_qlvx_943_16_c_0007_s0",
+        "td_vaccine_qlvx_943_16_c_0007_s1"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 106,
+      "chunk_ids": [
+        "td_vaccine_qlvx_943_16_c_0008"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 112,
+      "chunk_ids": [
+        "td_vaccine_qlvx_943_16_c_0009"
+      ]
+    }
+  },
+  "hiberix_qlvx_988_17": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 112,
+      "chunk_ids": [
+        "hiberix_qlvx_988_17_c_0000"
+      ]
+    },
+    "đặc tính dược lý": {
+      "n_chunks": 3,
+      "n_words": 354,
+      "chunk_ids": [
+        "hiberix_qlvx_988_17_c_0001",
+        "hiberix_qlvx_988_17_c_0006",
+        "hiberix_qlvx_988_17_c_0007"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 14,
+      "n_words": 2831,
+      "chunk_ids": [
+        "hiberix_qlvx_988_17_c_0002",
+        "hiberix_qlvx_988_17_c_0003",
+        "hiberix_qlvx_988_17_c_0004",
+        "hiberix_qlvx_988_17_c_0005",
+        "hiberix_qlvx_988_17_c_0008_s0",
+        "hiberix_qlvx_988_17_c_0008_s1",
+        "hiberix_qlvx_988_17_c_0010_s0",
+        "hiberix_qlvx_988_17_c_0010_s1",
+        "hiberix_qlvx_988_17_c_0011_s0",
+        "hiberix_qlvx_988_17_c_0011_s1",
+        "hiberix_qlvx_988_17_c_0012",
+        "hiberix_qlvx_988_17_c_0013",
+        "hiberix_qlvx_988_17_c_0014",
+        "hiberix_qlvx_988_17_c_0015"
+      ]
+    },
+    "bảng số liệu": {
+      "n_chunks": 1,
+      "n_words": 27,
+      "chunk_ids": [
+        "hiberix_qlvx_988_17_c_0009"
+      ]
+    }
+  },
+  "polysaccharide_meningococcal_a_c_qlvx_992_17": {
+    "thông tin chung": {
+      "n_chunks": 2,
+      "n_words": 108,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0000",
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0012"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 107,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0001"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 106,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 478,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0003",
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 256,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0005"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 138,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0006"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 97,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0007"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 3,
+      "n_words": 453,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0008",
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0009",
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0010"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 102,
+      "chunk_ids": [
+        "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0011"
+      ]
+    }
+  },
+  "tetavax_qlvx_993_17": {
+    "thông tin chung": {
+      "n_chunks": 4,
+      "n_words": 539,
+      "chunk_ids": [
+        "tetavax_qlvx_993_17_c_0000",
+        "tetavax_qlvx_993_17_c_0003",
+        "tetavax_qlvx_993_17_c_0005",
+        "tetavax_qlvx_993_17_c_0007"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 111,
+      "chunk_ids": [
+        "tetavax_qlvx_993_17_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 140,
+      "chunk_ids": [
+        "tetavax_qlvx_993_17_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 4,
+      "n_words": 437,
+      "chunk_ids": [
+        "tetavax_qlvx_993_17_c_0004_s0",
+        "tetavax_qlvx_993_17_c_0004_s1",
+        "tetavax_qlvx_993_17_c_0004_s2",
+        "tetavax_qlvx_993_17_c_0006"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 155,
+      "chunk_ids": [
+        "tetavax_qlvx_993_17_c_0008"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 2,
+      "n_words": 447,
+      "chunk_ids": [
+        "tetavax_qlvx_993_17_c_0009_s0",
+        "tetavax_qlvx_993_17_c_0009_s1"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 125,
+      "chunk_ids": [
+        "tetavax_qlvx_993_17_c_0010"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 19,
+      "chunk_ids": [
+        "tetavax_qlvx_993_17_c_0011"
+      ]
+    }
+  },
+  "shanvac_b_qlvx_994_17": {
+    "thông tin chung": {
+      "n_chunks": 5,
+      "n_words": 622,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0000",
+        "shanvac_b_qlvx_994_17_c_0003",
+        "shanvac_b_qlvx_994_17_c_0006",
+        "shanvac_b_qlvx_994_17_c_0007",
+        "shanvac_b_qlvx_994_17_c_0016"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 200,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 176,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 227,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0004",
+        "shanvac_b_qlvx_994_17_c_0005"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 115,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0008"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 2,
+      "n_words": 258,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0009",
+        "shanvac_b_qlvx_994_17_c_0015"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 133,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0010"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 104,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0011"
+      ]
+    },
+    "ảnh hưởng lái xe": {
+      "n_chunks": 1,
+      "n_words": 106,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0012"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 2,
+      "n_words": 384,
+      "chunk_ids": [
+        "shanvac_b_qlvx_994_17_c_0013",
+        "shanvac_b_qlvx_994_17_c_0014"
+      ]
+    }
+  },
+  "bopv_qlvx_h02_1051_17": {
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 123,
+      "chunk_ids": [
+        "bopv_qlvx_h02_1051_17_c_0000"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 127,
+      "chunk_ids": [
+        "bopv_qlvx_h02_1051_17_c_0001"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 122,
+      "chunk_ids": [
+        "bopv_qlvx_h02_1051_17_c_0002"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 131,
+      "chunk_ids": [
+        "bopv_qlvx_h02_1051_17_c_0003"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 89,
+      "chunk_ids": [
+        "bopv_qlvx_h02_1051_17_c_0004"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 109,
+      "chunk_ids": [
+        "bopv_qlvx_h02_1051_17_c_0005"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 70,
+      "chunk_ids": [
+        "bopv_qlvx_h02_1051_17_c_0006"
+      ]
+    }
+  },
+  "menactra_qlvx_h03_1111_18": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 208,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0000"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 109,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0001"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 2,
+      "n_words": 312,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0002",
+        "menactra_qlvx_h03_1111_18_c_0003"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 93,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 258,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0005"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 27,
+      "n_words": 5893,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0006",
+        "menactra_qlvx_h03_1111_18_c_0007",
+        "menactra_qlvx_h03_1111_18_c_0008",
+        "menactra_qlvx_h03_1111_18_c_0011_s0",
+        "menactra_qlvx_h03_1111_18_c_0011_s1",
+        "menactra_qlvx_h03_1111_18_c_0012_s0",
+        "menactra_qlvx_h03_1111_18_c_0012_s1",
+        "menactra_qlvx_h03_1111_18_c_0013",
+        "menactra_qlvx_h03_1111_18_c_0014",
+        "menactra_qlvx_h03_1111_18_c_0015",
+        "menactra_qlvx_h03_1111_18_c_0018",
+        "menactra_qlvx_h03_1111_18_c_0020",
+        "menactra_qlvx_h03_1111_18_c_0022",
+        "menactra_qlvx_h03_1111_18_c_0024",
+        "menactra_qlvx_h03_1111_18_c_0025_s0",
+        "menactra_qlvx_h03_1111_18_c_0025_s1",
+        "menactra_qlvx_h03_1111_18_c_0026",
+        "menactra_qlvx_h03_1111_18_c_0027_s0",
+        "menactra_qlvx_h03_1111_18_c_0027_s1",
+        "menactra_qlvx_h03_1111_18_c_0028",
+        "menactra_qlvx_h03_1111_18_c_0030_s0",
+        "menactra_qlvx_h03_1111_18_c_0030_s1",
+        "menactra_qlvx_h03_1111_18_c_0031_s0",
+        "menactra_qlvx_h03_1111_18_c_0031_s1",
+        "menactra_qlvx_h03_1111_18_c_0032_s0",
+        "menactra_qlvx_h03_1111_18_c_0032_s1",
+        "menactra_qlvx_h03_1111_18_c_0033"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 2,
+      "n_words": 375,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0009_s0",
+        "menactra_qlvx_h03_1111_18_c_0009_s1"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 23,
+      "n_words": 4782,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0010",
+        "menactra_qlvx_h03_1111_18_c_0016_s0",
+        "menactra_qlvx_h03_1111_18_c_0016_s1",
+        "menactra_qlvx_h03_1111_18_c_0016_s2",
+        "menactra_qlvx_h03_1111_18_c_0016_s3",
+        "menactra_qlvx_h03_1111_18_c_0016_s4",
+        "menactra_qlvx_h03_1111_18_c_0016_s5",
+        "menactra_qlvx_h03_1111_18_c_0016_s6",
+        "menactra_qlvx_h03_1111_18_c_0016_s7",
+        "menactra_qlvx_h03_1111_18_c_0016_s8",
+        "menactra_qlvx_h03_1111_18_c_0016_s9",
+        "menactra_qlvx_h03_1111_18_c_0016_s10",
+        "menactra_qlvx_h03_1111_18_c_0016_s11",
+        "menactra_qlvx_h03_1111_18_c_0017",
+        "menactra_qlvx_h03_1111_18_c_0019_s0",
+        "menactra_qlvx_h03_1111_18_c_0019_s1",
+        "menactra_qlvx_h03_1111_18_c_0019_s2",
+        "menactra_qlvx_h03_1111_18_c_0021_s0",
+        "menactra_qlvx_h03_1111_18_c_0021_s1",
+        "menactra_qlvx_h03_1111_18_c_0021_s2",
+        "menactra_qlvx_h03_1111_18_c_0023_s0",
+        "menactra_qlvx_h03_1111_18_c_0023_s1",
+        "menactra_qlvx_h03_1111_18_c_0023_s2"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 324,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0029"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 251,
+      "chunk_ids": [
+        "menactra_qlvx_h03_1111_18_c_0034"
+      ]
+    }
+  },
+  "ivacflu_s_qlvx_h03_1137_19": {
+    "hướng dẫn sử dụng": {
+      "n_chunks": 1,
+      "n_words": 59,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0000"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 225,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0001",
+        "ivacflu_s_qlvx_h03_1137_19_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 138,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0003"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 179,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0004"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 247,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0005"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 122,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0006"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 107,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0007"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 3,
+      "n_words": 556,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0008",
+        "ivacflu_s_qlvx_h03_1137_19_c_0009",
+        "ivacflu_s_qlvx_h03_1137_19_c_0010"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 1,
+      "n_words": 158,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0011"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 102,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0012"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 137,
+      "chunk_ids": [
+        "ivacflu_s_qlvx_h03_1137_19_c_0013"
+      ]
+    }
+  },
+  "imojev_md_qlvx_h03_1141_19": {
+    "thành phần": {
+      "n_chunks": 1,
+      "n_words": 164,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0000"
+      ]
+    },
+    "dạng bào chế": {
+      "n_chunks": 1,
+      "n_words": 103,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0001"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 244,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 1,
+      "n_words": 130,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0003"
+      ]
+    },
+    "thông tin chung": {
+      "n_chunks": 10,
+      "n_words": 1808,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0004",
+        "imojev_md_qlvx_h03_1141_19_c_0005",
+        "imojev_md_qlvx_h03_1141_19_c_0011",
+        "imojev_md_qlvx_h03_1141_19_c_0012",
+        "imojev_md_qlvx_h03_1141_19_c_0013_s0",
+        "imojev_md_qlvx_h03_1141_19_c_0013_s1",
+        "imojev_md_qlvx_h03_1141_19_c_0014",
+        "imojev_md_qlvx_h03_1141_19_c_0018",
+        "imojev_md_qlvx_h03_1141_19_c_0020",
+        "imojev_md_qlvx_h03_1141_19_c_0021"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 206,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0006"
+      ]
+    },
+    "cảnh báo và thận trọng": {
+      "n_chunks": 1,
+      "n_words": 118,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0007"
+      ]
+    },
+    "thai kỳ và cho con bú": {
+      "n_chunks": 1,
+      "n_words": 180,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0008"
+      ]
+    },
+    "tương tác thuốc": {
+      "n_chunks": 1,
+      "n_words": 255,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0009"
+      ]
+    },
+    "tương kỵ": {
+      "n_chunks": 1,
+      "n_words": 128,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0010"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 1,
+      "n_words": 181,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0015"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 4,
+      "n_words": 754,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0016",
+        "imojev_md_qlvx_h03_1141_19_c_0017",
+        "imojev_md_qlvx_h03_1141_19_c_0019_s0",
+        "imojev_md_qlvx_h03_1141_19_c_0019_s1"
+      ]
+    },
+    "quy cách đóng gói": {
+      "n_chunks": 1,
+      "n_words": 111,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0022"
+      ]
+    },
+    "bảo quản": {
+      "n_chunks": 1,
+      "n_words": 130,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0023"
+      ]
+    },
+    "thông tin nhà sản xuất": {
+      "n_chunks": 2,
+      "n_words": 361,
+      "chunk_ids": [
+        "imojev_md_qlvx_h03_1141_19_c_0024_s0",
+        "imojev_md_qlvx_h03_1141_19_c_0024_s1"
+      ]
+    }
+  },
+  "prevenar_13_qlvx_h03_1142_19": {
+    "cảnh báo và thận trọng": {
+      "n_chunks": 9,
+      "n_words": 2390,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0000",
+        "prevenar_13_qlvx_h03_1142_19_c_0007",
+        "prevenar_13_qlvx_h03_1142_19_c_0008",
+        "prevenar_13_qlvx_h03_1142_19_c_0009",
+        "prevenar_13_qlvx_h03_1142_19_c_0010",
+        "prevenar_13_qlvx_h03_1142_19_c_0011",
+        "prevenar_13_qlvx_h03_1142_19_c_0012",
+        "prevenar_13_qlvx_h03_1142_19_c_0013",
+        "prevenar_13_qlvx_h03_1142_19_c_0085"
+      ]
+    },
+    "thành phần": {
+      "n_chunks": 2,
+      "n_words": 431,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0001",
+        "prevenar_13_qlvx_h03_1142_19_c_0086"
+      ]
+    },
+    "chỉ định": {
+      "n_chunks": 1,
+      "n_words": 193,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0002"
+      ]
+    },
+    "liều lượng và cách dùng": {
+      "n_chunks": 4,
+      "n_words": 1011,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0003",
+        "prevenar_13_qlvx_h03_1142_19_c_0004_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0004_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0005"
+      ]
+    },
+    "chống chỉ định": {
+      "n_chunks": 1,
+      "n_words": 78,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0006"
+      ]
+    },
+    "tác dụng không mong muốn": {
+      "n_chunks": 10,
+      "n_words": 2137,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0014",
+        "prevenar_13_qlvx_h03_1142_19_c_0015_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0015_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0016_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0016_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0017",
+        "prevenar_13_qlvx_h03_1142_19_c_0018_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0018_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0019_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0019_s1"
+      ]
+    },
+    "quá liều": {
+      "n_chunks": 1,
+      "n_words": 104,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0020"
+      ]
+    },
+    "dược lực học": {
+      "n_chunks": 92,
+      "n_words": 22189,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0021",
+        "prevenar_13_qlvx_h03_1142_19_c_0022",
+        "prevenar_13_qlvx_h03_1142_19_c_0023",
+        "prevenar_13_qlvx_h03_1142_19_c_0024",
+        "prevenar_13_qlvx_h03_1142_19_c_0025_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0025_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0026",
+        "prevenar_13_qlvx_h03_1142_19_c_0027",
+        "prevenar_13_qlvx_h03_1142_19_c_0028_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0028_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0029",
+        "prevenar_13_qlvx_h03_1142_19_c_0030_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0030_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0031",
+        "prevenar_13_qlvx_h03_1142_19_c_0032",
+        "prevenar_13_qlvx_h03_1142_19_c_0033",
+        "prevenar_13_qlvx_h03_1142_19_c_0034",
+        "prevenar_13_qlvx_h03_1142_19_c_0035",
+        "prevenar_13_qlvx_h03_1142_19_c_0036",
+        "prevenar_13_qlvx_h03_1142_19_c_0037",
+        "prevenar_13_qlvx_h03_1142_19_c_0038_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0038_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0039_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0039_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0039_s2",
+        "prevenar_13_qlvx_h03_1142_19_c_0040",
+        "prevenar_13_qlvx_h03_1142_19_c_0041",
+        "prevenar_13_qlvx_h03_1142_19_c_0042",
+        "prevenar_13_qlvx_h03_1142_19_c_0043_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0043_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0044_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0044_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0045",
+        "prevenar_13_qlvx_h03_1142_19_c_0046_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0046_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0047_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0047_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0047_s2",
+        "prevenar_13_qlvx_h03_1142_19_c_0048",
+        "prevenar_13_qlvx_h03_1142_19_c_0049",
+        "prevenar_13_qlvx_h03_1142_19_c_0050_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0050_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0051",
+        "prevenar_13_qlvx_h03_1142_19_c_0052_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0052_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0053_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0053_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0054_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0054_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0054_s2",
+        "prevenar_13_qlvx_h03_1142_19_c_0055_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0055_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0056_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0056_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0057",
+        "prevenar_13_qlvx_h03_1142_19_c_0058",
+        "prevenar_13_qlvx_h03_1142_19_c_0059",
+        "prevenar_13_qlvx_h03_1142_19_c_0060_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0060_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0061_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0061_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0062",
+        "prevenar_13_qlvx_h03_1142_19_c_0063",
+        "prevenar_13_qlvx_h03_1142_19_c_0064_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0064_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0065_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0065_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0066",
+        "prevenar_13_qlvx_h03_1142_19_c_0067_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0067_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0068",
+        "prevenar_13_qlvx_h03_1142_19_c_0069_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0069_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0070_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0070_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0071",
+        "prevenar_13_qlvx_h03_1142_19_c_0072",
+        "prevenar_13_qlvx_h03_1142_19_c_0073",
+        "prevenar_13_qlvx_h03_1142_19_c_0074_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0074_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0075",
+        "prevenar_13_qlvx_h03_1142_19_c_0076",
+        "prevenar_13_qlvx_h03_1142_19_c_0077",
+        "prevenar_13_qlvx_h03_1142_19_c_0078_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0078_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0079_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0079_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0080_s0",
+        "prevenar_13_qlvx_h03_1142_19_c_0080_s1",
+        "prevenar_13_qlvx_h03_1142_19_c_0081",
+        "prevenar_13_qlvx_h03_1142_19_c_0082",
+        "prevenar_13_qlvx_h03_1142_19_c_0083"
+      ]
+    },
+    "dược động học": {
+      "n_chunks": 1,
+      "n_words": 262,
+      "chunk_ids": [
+        "prevenar_13_qlvx_h03_1142_19_c_0084"
+      ]
+    }
+  }
+}
