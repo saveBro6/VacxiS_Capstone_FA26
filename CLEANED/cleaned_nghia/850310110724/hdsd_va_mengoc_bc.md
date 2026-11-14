@@ -6,17 +6,27 @@ THÀNH PHẦN: Vắcxin VA-MENGOC-BC® là một phức hợp gồm màng ngoài
 huyết thanh B và polysaccharide vỏ nhóm huyết thanh C của vi khuẩn não mô cầu, hấp phụ
 hydroxit nhôm. Vắcxin chứa 0,01% thiomersal được coi là chất bảo quản, phosphate và natri
 clorua.
-Mỗi liều 0,5ml chứa:
-| Protein màng ngoài não mô cầu nhóm B.   | .50,00 mcg   |
-| Polysaccharide vỏ não mô cầu nhóm C..   | 50,00 mcg**   |
-| Aluminium hydroxide gel.   | 2,00 mg   |
-| Thiomersal.   | .0,05mg   |
-| Sodium chloride..   | .4,25 mg   |
-| Disodium Hydrogen Phosphate.   | ...0,03 mg   |
-| Sodium Dihydrogen Phosphate.   | ..0,02 mg   |
-| Nước pha tiêm.   | .0,50 ml   |
-* Định lượng theo hàm lượng protetin toàn phần (phương pháp Lowry)
-** Định lượng theo hàm lượng Axit sialic toàn phần
+<p>Mỗi liều 0,5ml chứa:</p>
+
+<p>Protein màng ngoài não mô cầu nhóm B.....................................50,00 mcg<sup>*</sup></p>
+
+<p>Polysaccharide vỏ não mô cầu nhóm C.......................................50,00 mcg<sup>**</sup></p>
+
+<p>Aluminium hydroxide gel........................................................2,00 mg</p>
+
+<p>Thiomersal...........................................................................0,05mg</p>
+
+<p>Sodium chloride.....................................................................4,25 mg</p>
+
+<p>Disodium Hydrogen Phosphate..................................................0,03 mg</p>
+
+<p>Sodium Dihydrogen Phosphate..................................................0,02 mg</p>
+
+<p>Nước pha tiêm......................................................................0,50 ml</p>
+
+<p>* Định lượng theo hàm lượng protein toàn phần (phương pháp Lowry)</p>
+
+<p>** Định lượng theo hàm lượng Axit sialic toàn phần</p>
 DẠNG TRÌNH BÀY: Hỗn dịch tiêm.
 CHỈ ĐỊNH: Vắcxin VA-MENGOC-BC® được chỉ định nhằm tạo miễn dịch chủ động phòng bệnh
 viêm màng não do não mô cầu nhóm huyết thanh B và C

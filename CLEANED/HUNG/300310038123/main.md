@@ -3,27 +3,23 @@ Thuốc bán theo đơn
 HEXAXIM
 Vắc-xin hấp phụ bạch hầu, uốn ván, ho gà (vô bào), viêm gan B (rDNA), bại liệt (bất hoạt) và Haemophilus influenzae týp b cộng hợp.
 
-THÀNH PHẦN
-Các hoạt chất trong một liều (0,5 ml)¹:
-Giải độc tố bạch hầu...................................................................................không dưới 20 IU²
-Giải độc tố uốn ván.....................................................................................không dưới 40 IU²
-Kháng nguyên Bordetella pertussis
-Giải độc tố ho gà (PT)...................................................................................25 microgram
-Ngưng kết tố hồng cầu dạng sợi (FHA)............................................................25 microgram
-Virus bại liệt (bất hoạt)³
-Týp 1 (Mahoney).........................................................................................40 đơn vị kháng nguyên D⁴
-Týp 2 (MEF-1)...........................................................................................8 đơn vị kháng nguyên D⁴
-Týp 3 (Saukett)..........................................................................................32 đơn vị kháng nguyên D⁴
-Kháng nguyên bề mặt viêm gan B⁵.................................................................10 microgram
-Polysaccharide Haemophilus influenzae týp b..................................................12 microgram
-(Polyribosylribitol Phosphate)
-cộng hợp với protein uốn ván........................................................................22-36 microgram
-
-¹ được hấp phụ trên hydroxyt nhôm, hydrat-hóa (0,6 mg Al³⁺)
-² là giới hạn dưới của độ tin cậy (p = 0,95)
-³ được sản xuất trên tế bào Vero
-⁴ hoặc tương đương lượng kháng nguyên được xác định bằng một phương pháp hóa miễn dịch thích hợp
-⁵ được sản xuất trên tế bào nấm men Hansenula polymorpha bằng công nghệ DNA tái tổ hợp
+<p><strong>THÀNH PHẦN</strong></p>
+<p>Các hoạt chất trong một liều (0,5 ml)<sup>1</sup>:</p>
+<ul>
+  <li>Giải độc tố bạch hầu không dưới 20 IU<sup>2</sup></li>
+  <li>Giải độc tố uốn ván không dưới 40 IU<sup>2</sup></li>
+  <li>Kháng nguyên <em>Bordetella pertussis</em><br>Giải độc tố ho gà (PT) 25 microgram<br>Ngưng kết tố hồng cầu dạng sợi (FHA) 25 microgram</li>
+  <li>Virus bại liệt (bất hoạt) <sup>3</sup><br>Týp 1 (Mahoney) 40 đơn vị kháng nguyên D<sup>4</sup><br>Týp 2 (MEF-1) 8 đơn vị kháng nguyên D<sup>4</sup><br>Týp 3 (Saukett) 32 đơn vị kháng nguyên D<sup>4</sup></li>
+  <li>Kháng nguyên bề mặt viêm gan B<sup>5</sup> 10 microgram</li>
+  <li>Polysaccharide <em>Haemophilus influenzae</em> týp b 12 microgram<br>(Polyribosylribitol Phosphate)<br>cộng hợp với protein uốn ván 22-36 microgram</li>
+</ul>
+<p>
+  <sup>1</sup> được hấp phụ trên hydroxyt nhôm, hydrat-hóa (0,6 mg Al<sup>3+</sup>)<br>
+  <sup>2</sup> là giới hạn dưới của độ tin cậy (p= 0,95)<br>
+  <sup>3</sup> được sản xuất trên tế bào Vero<br>
+  <sup>4</sup> hoặc tương đương lượng kháng nguyên được xác định bằng một phương pháp hóa miễn dịch thích hợp<br>
+  <sup>5</sup> được sản xuất trên tế bào nấm men <em>Hansenula polymorpha</em> bằng công nghệ DNA tái tổ hợp
+</p>
 
 Các thành phần khác:
 Disodium hydrogen phosphate, potassium dihydrogen phosphate, trometamol, saccharose, các axít amin thiết yếu bao gồm L-phenylalanin và nước pha tiêm.
@@ -41,56 +37,225 @@ Kết quả đạt được đối với mỗi thành phần được tóm tắt
 
 1/12
 
-[Hình dấu tròn giáp lai: VĂN PHÒNG ĐẠI DIỆN TẠI THÀNH PHỐ HỒ CHÍ MINH - SANOFI-AVENTIS SINGAPORE PTE. LTD.]
-
-Bảng 1: Tỉ lệ huyết thanh bảo vệ/ chuyển đổi huyết thanh* một tháng sau tiêm chủng cơ bản với 2 hoặc 3 liều Hexaxim
-
-| Ngưỡng kháng thể | Hai liều 3-5 tháng N = 249** % | Ba liều 6-10-14 tuần N = 123 đến 220† % | Ba liều 2-3-4 tháng N = 322†† % | Ba liều 2-4-6 tháng N = 934 đến 1270‡ % |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kháng bạch hầu** (≥ 0,01 IU/ml) | 99,6 | 97,6 | 99,7 | 97,1 |
-| **Kháng uốn ván** (≥ 0,01 IU/ml) | 100,0 | 100,0 | 100,0 | 100,0 |
-| **Kháng PT**<br>(Chuyển đổi huyết thanh ‡‡)<br>(Đáp ứng vắc-xin§) | <br>93,4<br>98,4 | <br>93,6<br>100,0 | <br>88,3<br>99,4 | <br>96,0<br>99,7 |
-| **Kháng FHA**<br>(Chuyển đổi huyết thanh ‡‡)<br>(Đáp ứng vắc-xin§) | <br>92,5<br>99,6 | <br>93,1<br>100,0 | <br>90,6<br>99,7 | <br>97,0<br>99,9 |
-| **Kháng HBs (≥ 10 mIU/ml)**<br>- Có tiêm vắc-xin viêm gan B lúc sinh<br>- Không tiêm vắc-xin viêm gan B lúc sinh | <br>/<br>97,2 | <br>99,0<br>95,7 | <br>/<br>96,8 | <br>99,7<br>98,8 |
-| **Kháng bại liệt týp 1** (≥ 8 (1/pha loãng)) | 90,8 | 100,0 | 99,4 | 99,9 |
-| **Kháng bại liệt týp 2** (≥ 8 (1/pha loãng)) | 95,0 | 98,5 | 100,0 | 100,0 |
-| **Kháng bại liệt týp 3** (≥ 8 (1/pha loãng)) | 96,7 | 100,0 | 99,7 | 99,9 |
-| **Kháng PRP** (≥ 0,15 µg/ml) | 71,5 | 95,4 | 96,2 | 98,0 |
-
-* Các giá trị thông thường được chấp nhận là đại diện cho khả năng bảo vệ (PT, FHA) hoặc tương đương với khả năng bảo vệ (các thành phần khác)
-N = Số người được phân tích (nhóm tuân thủ đề cương)
-** 3, 5 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Phần Lan, Thụy Điển)
-† 6, 10, 14 tuần có và không có tiêm vắc-xin viêm gan B lúc sinh (Cộng hòa Nam Phi)
-†† 2, 3, 4 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Phần Lan)
-‡ 2, 4, 6 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Argentina, Mexico, Peru) và có tiêm vắc-xin viêm gan B lúc sinh (Costa Rica và Colombia)
-‡‡ Chuyển đổi huyết thanh: tăng ít nhất 4 lần so với mức trước tiêm chủng (trước liều 1)
-§ Đáp ứng vắc-xin: Nếu nồng độ kháng thể trước tiêm chủng < 8 EU/ml thì nồng độ kháng thể sau tiêm chủng phải ≥ 8 EU/ml. Nếu không, nồng độ kháng thể sau tiêm chủng phải ≥ mức trước tiêm chủng
-
+<p><strong>Bảng 1: Tỉ lệ huyết thanh bảo vệ/chuyển đổi huyết thanh<sup>*</sup> một tháng sau tiêm chủng cơ bản với 2 hoặc 3 liều Hexaxim</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" rowspan="4">Ngưỡng kháng thể</th>
+      <th>Hai liều</th>
+      <th colspan="3">Ba liều</th>
+    </tr>
+    <tr>
+      <th>3-5<br>tháng</th>
+      <th>6-10-14<br>tuần</th>
+      <th>2-3-4<br>tháng</th>
+      <th>2-4-6<br>tháng</th>
+    </tr>
+    <tr>
+      <th>N=249**</th>
+      <th>N=123 đến<br>220†</th>
+      <th>N=322††</th>
+      <th>N=934<br>đến 1270‡</th>
+    </tr>
+    <tr>
+      <th>%</th>
+      <th>%</th>
+      <th>%</th>
+      <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">Kháng bạch hầu<br>(≥ 0,01 IU/ml)</td>
+      <td>99,6</td>
+      <td>97,6</td>
+      <td>99,7</td>
+      <td>97,1</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng uốn ván<br>(≥ 0,01 IU/ml)</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>100,0</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng PT<br>(Chuyển đổi huyết thanh ‡‡)<br>(Đáp ứng vắc-xin§)</td>
+      <td>93,4<br>98,4</td>
+      <td>93,6<br>100,0</td>
+      <td>88,3<br>99,4</td>
+      <td>96,0<br>99,7</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng FHA<br>(Chuyển đổi huyết thanh ‡‡)<br>(Đáp ứng vắc-xin§)</td>
+      <td>92,5<br>99,6</td>
+      <td>93,1<br>100,0</td>
+      <td>90,6<br>99,7</td>
+      <td>97,0<br>99,9</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Kháng HBs<br>(≥ 10<br>mIU/ml)</td>
+      <td>Có tiêm vắc-xin viêm<br>gan B lúc sinh</td>
+      <td>/</td>
+      <td>99,0</td>
+      <td>/</td>
+      <td>99,7</td>
+    </tr>
+    <tr>
+      <td>Không tiêm vắc-xin<br>viêm gan B lúc sinh</td>
+      <td>97,2</td>
+      <td>95,7</td>
+      <td>96,8</td>
+      <td>98,8</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng bại liệt týp 1<br>(≥ 8 (1/pha loãng))</td>
+      <td>90,8</td>
+      <td>100,0</td>
+      <td>99,4</td>
+      <td>99,9</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng bại liệt týp 2<br>(≥ 8 (1/ pha loãng))</td>
+      <td>95,0</td>
+      <td>98,5</td>
+      <td>100,0</td>
+      <td>100,0</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng bại liệt týp 3<br>(≥ 8 (1/ pha loãng))</td>
+      <td>96,7</td>
+      <td>100,0</td>
+      <td>99,7</td>
+      <td>99,9</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng PRP<br>(≥ 0,15 µg/ml)</td>
+      <td>71,5</td>
+      <td>95,4</td>
+      <td>96,2</td>
+      <td>98,0</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  * Các giá trị thông thường được chấp nhận là đại diện cho khả năng bảo vệ (PT, FHA) hoặc tương đương với khả năng bảo vệ (các thành phần khác)<br>
+  N = Số người được phân tích (nhóm tuân thủ đề cương)<br>
+  ** 3, 5 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Phần Lan, Thụy Điển)<br>
+  † 6, 10, 14 tuần có và không có tiêm
 
 2/12
 
-Bảng 2: Tỉ lệ huyết thanh bảo vệ/ chuyển đổi huyết thanh* một tháng sau tiêm nhắc lại với Hexaxim
-
-| Ngưỡng kháng thể | Tiêm vắc-xin nhắc lại lúc 11-12 tháng tuổi sau loạt cơ bản 2 liều 3-5 tháng N = 249** % | Tiêm vắc-xin nhắc lại trong năm tuổi thứ hai sau loạt cơ bản 3 liều 6-10-14 tuần N = 204† % | Tiêm vắc-xin nhắc lại trong năm tuổi thứ hai sau loạt cơ bản 3 liều 2-3-4 tháng N = 178†† % | Tiêm vắc-xin nhắc lại trong năm tuổi thứ hai sau loạt cơ bản 3 liều 2-4-6 tháng N = 177 đến 396‡ % |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kháng bạch hầu** (≥ 0,1 IU/ml) | 100,0 | 100,0 | 100,0 | 97,2 |
-| **Kháng uốn ván** (≥ 0,1 IU/ml) | 100,0 | 100,0 | 100,0 | 100,0 |
-| **Kháng PT**<br>(Chuyển đổi huyết thanh ‡‡)<br>(Đáp ứng vắc-xin§) | <br>94,3<br>98,0 | <br>94,4<br>98,8 | <br>86,0<br>100,0 | <br>96,2<br>100,0 |
-| **Kháng FHA**<br>(Chuyển đổi huyết thanh ‡‡)<br>(Đáp ứng vắc-xin§) | <br>97,6<br>100,0 | <br>94,3<br>99,4 | <br>100,0<br>100,0 | <br>98,4<br>100,0 |
-| **Kháng HBs (≥ 10 mIU/ml)**<br>- Có tiêm vắc-xin viêm gan B lúc sinh<br>- Không tiêm vắc-xin viêm gan B lúc sinh | <br>/<br>96,4 | <br>100,0<br>98,5 | <br>/<br>98,9 | <br>99,7<br>99,4 |
-| **Kháng bại liệt týp 1** (≥ 8 (1/pha loãng)) | 100,0 | 100,0 | 100,0 | 100,0 |
-| **Kháng bại liệt týp 2** (≥ 8 (1/pha loãng)) | 100,0 | 98,9 | 100,0 | 100,0 |
-| **Kháng bại liệt týp 3** (≥ 8 (1/pha loãng)) | 99,6 | 100,0 | 100,0 | 100,0 |
-| **Kháng PRP** (≥ 1,0 µg/ml) | 93,5 | 98,9 | 98,5 | 98,3 |
-
-* Các giá trị thông thường được chấp nhận là đại diện cho khả năng bảo vệ (PT, FHA) hoặc tương đương với khả năng bảo vệ (các thành phần khác)
-N = Số người được phân tích (nhóm tuân thủ đề cương)
-** 3, 5 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Phần Lan, Thụy Điển)
-† 6, 10, 14 tuần có và không có tiêm vắc-xin viêm gan B lúc sinh (Cộng hòa Nam Phi)
-†† 2, 3, 4 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Phần Lan)
-‡ 2, 4, 6 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Mexico) và có tiêm vắc-xin viêm gan B lúc sinh (Costa Rica và Colombia)
-‡‡ Chuyển đổi huyết thanh: tăng ít nhất 4 lần so với mức trước tiêm chủng (trước liều 1)
-§ Đáp ứng vắc-xin: Nếu nồng độ kháng thể trước tiêm chủng (trước liều 1) < 8 EU/ml, thì nồng độ kháng thể sau tiêm chủng phải ≥ 8 EU/ml. Nếu không, nồng độ kháng thể sau tiêm chủng phải ≥ mức trước tiêm chủng (trước liều 1)
+<p><strong>Bảng 2: Tỉ lệ huyết thanh bảo vệ/chuyển đổi huyết thanh<sup>*</sup> một tháng sau tiêm nhắc lại với Hexaxim</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" rowspan="4">Ngưỡng kháng thể</th>
+      <th>Tiêm vắc-xin nhắc lại lúc 11-12 tháng tuổi sau loạt cơ bản 2 liều</th>
+      <th colspan="3">Tiêm vắc-xin nhắc lại trong năm tuổi thứ hai sau loạt cơ bản 3 liều</th>
+    </tr>
+    <tr>
+      <th>3-5<br>tháng</th>
+      <th>6-10-14<br>tuần</th>
+      <th>2-3-4<br>tháng</th>
+      <th>2-4-6<br>tháng</th>
+    </tr>
+    <tr>
+      <th>N=249**</th>
+      <th>N=204†</th>
+      <th>N=178††</th>
+      <th>N=177<br>đến 396‡</th>
+    </tr>
+    <tr>
+      <th>%</th>
+      <th>%</th>
+      <th>%</th>
+      <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">Kháng bạch hầu<br>(≥ 0, 1 IU/ml)</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>97,2</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng uốn ván<br>(≥ 0, 1 IU/ml)</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>100,0</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng PT<br>(Chuyển đổi huyết thanh ‡‡)<br>(Đáp ứng vắc-xin§)</td>
+      <td>94,3<br>98,0</td>
+      <td>94,4<br>100,0</td>
+      <td>86,0<br>98,8</td>
+      <td>96,2<br>100,0</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng FHA<br>(Chuyển đổi huyết thanh ‡‡)<br>(Đáp ứng vắc-xin§)</td>
+      <td>97,6<br>100,0</td>
+      <td>99,4<br>100,0</td>
+      <td>94,3<br>100,0</td>
+      <td>98,4<br>100,0</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Kháng HBs<br>(≥ 10 mIU/ml)</td>
+      <td>Có tiêm vắc-xin<br>viêm gan B lúc sinh</td>
+      <td>/</td>
+      <td>100,0</td>
+      <td>/</td>
+      <td>99.7</td>
+    </tr>
+    <tr>
+      <td>Không tiêm vắc-xin<br>viêm gan B lúc sinh</td>
+      <td>96,4</td>
+      <td>98,5</td>
+      <td>98,9</td>
+      <td>99.4</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng bại liệt týp 1<br>(≥ 8 (1/pha loãng))</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>98,9</td>
+      <td>100,0</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng bại liệt týp 2<br>(≥ 8 (1/ pha loãng))</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>100,0</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng bại liệt týp 3<br>(≥ 8 (1/ pha loãng))</td>
+      <td>99,6</td>
+      <td>100,0</td>
+      <td>100,0</td>
+      <td>100,0</td>
+    </tr>
+    <tr>
+      <td colspan="2">Kháng PRP<br>(≥ 1,0 µg/ml)</td>
+      <td>93,5</td>
+      <td>98,5</td>
+      <td>98,9</td>
+      <td>98,3</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  * Các giá trị thông thường được chấp nhận là đại diện cho khả năng bảo vệ (PT, FHA) hoặc tương đương với khả năng bảo vệ (các thành phần khác) N = Số người được phân tích (nhóm tuân thủ đề cương)<br>
+  ** 3, 5 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Phần Lan, Thụy Điển)<br>
+  † 6, 10, 14 tuần có và không có tiêm vắc-xin viêm gan B lúc sinh (Cộng hòa Nam Phi)<br>
+  †† 2, 3, 4 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Phần Lan)<br>
+  ‡ 2, 4, 6 tháng, không tiêm vắc-xin viêm gan B lúc sinh (Mexico) và có tiêm vắc-xin viêm gan B lúc sinh (Costa Rica và Colombia)<br>
+  ‡‡ Chuyển đổi huyết thanh: tăng ít nhất 4 lần so với mức trước tiêm chủng (trước liều 1)<br>
+  § Đáp ứng vắc-xin: Nếu nồng độ kháng thể trước tiêm chủng (trước liều 1) &lt; 8 EU/ml, thì nồng độ kháng thể sau tiêm chủng phải ≥ 8 EU/ml. Nếu không, nồng độ kháng thể sau tiêm chủng phải ≥ mức trước tiêm chủng (trước liều 1)
+</p>
 
 
 3/12
@@ -102,32 +267,96 @@ Duy trì đáp ứng miễn dịch
 Các nghiên cứu đánh giá sự duy trì kháng thể dài hạn sau các lịch tiêm cơ bản khác nhau ở trẻ nhỏ/ trẻ chập chững đi và có sử dụng hoặc không sử dụng liều vắc-xin viêm gan B lúc sinh cho thấy có sự duy trì kháng thể ở trên ngưỡng kháng thể hoặc mức bảo vệ được công nhận đối với từng loại kháng nguyên (xem bảng 3).
 Thêm vào đó, miễn dịch đối với thành phần viêm gan B của vắc xin sau lịch tiêm cơ bản bao gồm một liều viêm gan B lúc sinh và ba liều sau đó vào lúc 2, 4, 6 tháng tuổi (không bao gồm mũi tiêm nhắc ở năm tuổi thứ 2) đã được chứng minh là kéo dài đến 9 tuổi. Cụ thể là có 49,3% trẻ được tiêm vắc xin có nồng độ kháng thể ≥ 10 mIU/ml kèm theo nồng độ kháng thể trung bình nhân ở mức 13,3 (khoảng tin cậy 95%: 8,82-20,0) mIU/ml. Trí nhớ miễn dịch đối với viêm gan siêu vi B đã được chứng minh khi 93% người được tiêm mũi viêm gan B lúc 9 tuổi hình thành nồng độ kháng thể trung bình nhân ở mức 3692 (khoảng tin cậy 95%: 1886-7225) mIU/ml.
 
-Bảng 3: Tỉ lệ đạt mức huyết thanh bảo vệ* ở thời điểm 4,5 tuổi sau khi chủng ngừa với Hexaxim
-
-| Ngưỡng kháng thể | Lịch tiêm cơ bản 6-10-14 tuần và tiêm nhắc lúc 15-18 tháng: Có tiêm viêm gan B lúc sinh N = 173^b % | Lịch tiêm cơ bản 6-10-14 tuần và tiêm nhắc lúc 15-18 tháng: Không tiêm viêm gan B lúc sinh N = 103^b % | Lịch tiêm cơ bản lúc 2-4-6 tháng và tiêm nhắc lúc 12-24 tháng: Có tiêm viêm gan B lúc sinh N = 220^c % |
-| :--- | :--- | :--- | :--- |
-| **Kháng bạch hầu**<br>(≥ 0,01 IU/ml)<br>(≥ 0,1 IU/ml) | <br>98,2<br>75,3 | <br>97<br>64,4 | <br>100,0<br>57,2 |
-| **Kháng uốn ván**<br>(≥ 0,01 IU/ml)<br>(≥ 0,1 IU/ml) | <br>100,0<br>82,8 | <br>100<br>89,5 | <br>100,0<br>80,8 |
-| **Kháng PT** (≥ 8 EU/ml) | 42,5 | 23,7 | 22,2 |
-| **Kháng FHA^e** (≥ 8 EU/ml) | 89,0 | 93,8 | 85,6 |
-
-
-4/12
-
-| Ngưỡng kháng thể | Lịch tiêm cơ bản 6-10-14 tuần và tiêm nhắc lúc 15-18 tháng: Có tiêm viêm gan B lúc sinh N = 173^b % | Lịch tiêm cơ bản 6-10-14 tuần và tiêm nhắc lúc 15-18 tháng: Không tiêm viêm gan B lúc sinh N = 103^b % | Lịch tiêm cơ bản lúc 2-4-6 tháng và tiêm nhắc lúc 12-24 tháng: Có tiêm viêm gan B lúc sinh N = 220^c % |
-| :--- | :--- | :--- | :--- |
-| **Kháng HBs** (≥ 10 mIU/ml) | 96,1 | 73,3 | 92,3 |
-| **Kháng bại liệt týp 1** (≥ 8 (1/ pha loãng)) | Không áp dụng^d | Không áp dụng^d | 99,5 |
-| **Kháng bại liệt týp 2** (≥ 8 (1/ pha loãng)) | Không áp dụng^d | Không áp dụng^d | 100,0 |
-| **Kháng bại liệt týp 3** (≥ 8 (1/ pha loãng)) | Không áp dụng^d | Không áp dụng^d | 100,0 |
-| **Kháng PRP** (≥ 0,15 µg/ml) | 100 | 98,8 | 100 |
-
-N = Số người được phân tích (trên dân số tuân thủ đề cương)
-a: Các giá trị thông thường được chấp nhận là đại diện cho khả năng bảo vệ (PT, FHA) hoặc tương đương với khả năng bảo vệ (các thành phần khác)
-b: 6, 10, 14 tuần có hay không có tiêm viêm gan siêu vi B lúc sinh (Cộng hòa Nam Phi)
-c: 2, 4, 6 tháng có tiêm viêm gan B lúc sinh (Colombia)
-d: Do có Ngày chủng ngừa quốc gia sử dụng OPV tại nước này, thành phần bại liệt đã không được phân tích
-e: 8 EU/ml tương đương 4 LLOQ (Giới hạn định lượng dưới của xét nghiệm miễn dịch gắn en-zym ELISA). Giá trị LLOQ đối với kháng thể kháng PT và FHA là 2 EU/ml
+<p><strong>Bảng 3: Tỉ lệ đạt mức huyết thanh bảo vệ <sup>a</sup> ở thời điểm 4,5 tuổi sau khi chủng ngừa với Hexaxim</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th rowspan="4">Ngưỡng kháng thể</th>
+      <th colspan="2">Lịch tiêm cơ bản 6-10-14 tuần và tiêm nhắc lúc 15-18 tháng</th>
+      <th>Lịch tiêm cơ bản lúc 2-4-6 tháng và tiêm nhắc lúc 12-24 tháng</th>
+    </tr>
+    <tr>
+      <th>Không tiêm viêm gan B lúc sinh</th>
+      <th>Có tiêm viêm gan B lúc sinh</th>
+      <th>Có tiêm viêm gan B lúc sinh</th>
+    </tr>
+    <tr>
+      <th>N=173<sup>b</sup></th>
+      <th>N=103<sup>b</sup></th>
+      <th>N=220<sup>c</sup></th>
+    </tr>
+    <tr>
+      <th>%</th>
+      <th>%</th>
+      <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Kháng bạch hầu<br>(≥ 0,01 IU/ml)<br>(≥ 0,1 IU/ml)</td>
+      <td>98,2<br>75,3</td>
+      <td>97<br>64,4</td>
+      <td>100,0<br>57,2</td>
+    </tr>
+    <tr>
+      <td>Kháng uốn ván<br>(≥ 0,01 IU/ml)<br>(≥ 0,1 IU/ml)</td>
+      <td>100,0<br>89,5</td>
+      <td>100<br>82,8</td>
+      <td>100,0<br>80,8</td>
+    </tr>
+    <tr>
+      <td>Kháng PT<sup>e</sup><br>(≥ 8 EU/ml)</td>
+      <td>42,5</td>
+      <td>23,7</td>
+      <td>22,2</td>
+    </tr>
+    <tr>
+      <td>Kháng FHA<sup>e</sup><br>(≥ 8 EU/ml)</td>
+      <td>93,8</td>
+      <td>89,0</td>
+      <td>85,6</td>
+    </tr>
+    <tr>
+      <td>Kháng HBs<br>(≥ 10 mIU/ml)</td>
+      <td>73,3</td>
+      <td>96,1</td>
+      <td>92,3</td>
+    </tr>
+    <tr>
+      <td>Kháng bại liệt týp 1<br>(≥ 8 (1/ pha loãng))</td>
+      <td>Không áp dụng<sup>d</sup></td>
+      <td>Không áp dụng<sup>d</sup></td>
+      <td>99,5</td>
+    </tr>
+    <tr>
+      <td>Kháng bại liệt týp 2<br>(≥ 8 (1/ pha loãng))</td>
+      <td>Không áp dụng<sup>d</sup></td>
+      <td>Không áp dụng<sup>d</sup></td>
+      <td>100,0</td>
+    </tr>
+    <tr>
+      <td>Kháng bại liệt týp 3<br>(≥ 8 (1/ pha loãng))</td>
+      <td>Không áp dụng<sup>d</sup></td>
+      <td>Không áp dụng<sup>d</sup></td>
+      <td>100,0</td>
+    </tr>
+    <tr>
+      <td>Kháng PRP<br>(≥ 0,15 µg/ml)</td>
+      <td>98,8</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  N = Số người được phân tích (trên dân số tuân thủ đề cương)<br>
+  a: Các giá trị thông thường được chấp nhận là đại diện cho khả năng bảo vệ (PT, FHA) hoặc tương đương với khả năng bảo vệ (các thành phần khác)<br>
+  b: 6, 10, 14 tuần có hay không có tiêm viêm gan siêu vi B lúc sinh (Cộng hòa Nam Phi)<br>
+  c: 2, 4, 6 tháng có tiêm viêm gan B lúc sinh (Colombia)<br>
+  d: Do có Ngày chủng ngừa quốc gia sử dụng OPV tại nước này, thành phần bại liệt đã không được phân tích<br>
+  e: 8 EU/ml tương đương 4 LLOQ (Giới hạn định lượng dưới của xét nghiệm miễn dịch gắn en-zym ELISA)<br>
+  Giá trị LLOQ đối với kháng thể kháng PT và FHA là 2 EU/ml
+</p>
 
 Hiệu lực và hiệu quả trong việc phòng ngừa bệnh ho gà
 Hiệu lực vắc-xin của các kháng nguyên ho gà vô bào (aP) chứa trong Hexaxim chống bệnh ho gà thể điển hình nặng nhất theo định nghĩa của WHO (ho từng cơn kéo dài ≥ 21 ngày) được chứng minh trong một nghiên cứu ngẫu nhiên, mù đôi trên trẻ nhỏ được tiêm loạt cơ bản 3 liều với một vắc-xin DTaP ở một nước có bệnh lưu hành cao (Senegal). Nghiên cứu này nhận thấy cần tiêm liều nhắc lại ở tuổi tập đi.
@@ -265,27 +494,84 @@ Hiếm gặp (≥ 1/10.000 đến < 1/1.000)
 Rất hiếm (< 1/10.000)
 Không rõ (không thể ước lượng từ dữ liệu hiện có)
 
-Bảng 1: Các phản ứng bất lợi trong thử nghiệm lâm sàng và được báo cáo khi sử dụng trong thương mại
-
-
-10/12
-
-| Hệ cơ quan | Tần suất | Biến cố bất lợi |
-| :--- | :--- | :--- |
-| **Rối loạn hệ miễn dịch** | Ít gặp | Phản ứng quá mẫn |
-| | Hiếm gặp | Phản ứng phản vệ* |
-| **Rối loạn chuyển hóa và dinh dưỡng** | Rất hay gặp | Chán ăn (giảm cảm giác thèm ăn) |
-| **Rối loạn hệ thần kinh** | Rất hay gặp | Quấy khóc, buồn ngủ |
-| | Hay gặp | Quấy khóc bất thường (khóc kéo dài) |
-| | Hiếm gặp | Co giật có hoặc không có sốt* |
-| | Rất hiếm | Phản ứng giảm trương lực hoặc cơn giảm đáp ứng giảm trương lực (hypotonic-hyporesponsive episodes - HHE) |
-| **Rối loạn tiêu hóa** | Rất hay gặp<br>Hay gặp | Nôn ói<br>Tiêu chảy |
-| **Rối loạn da và mô dưới da** | Hiếm gặp | Nổi mẩn |
-| **Rối loạn toàn thân và tình trạng tại chỗ tiêm** | Rất hay gặp<br><br>Hay gặp<br><br>Ít gặp<br><br>Hiếm gặp | Đau chỗ tiêm, đỏ chỗ tiêm, sưng chỗ tiêm<br>Cáu kỉnh, dễ kích động<br>Sốt (thân nhiệt ≥ 38,0°C)<br>Cứng chỗ tiêm<br>Nổi cục chỗ tiêm<br>Sốt (thân nhiệt ≥ 39,6°C)<br>Sưng chi lan rộng† |
-
-* Các phản ứng bất lợi được báo cáo tự phát.
-† Xem mục “Mô tả các phản ứng bất lợi chọn lọc”
-
+<p><strong>Bảng 1: Các phản ứng bất lợi trong thử nghiệm lâm sàng và được báo cáo khi sử dụng trong thương mại</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Hệ cơ quan</th>
+      <th>Tần suất</th>
+      <th>Biến cố bất lợi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Rối loạn hệ miễn dịch</td>
+      <td>Ít gặp</td>
+      <td>Phản ứng quá mẫn</td>
+    </tr>
+    <tr>
+      <td>Hiếm gặp</td>
+      <td>Phản ứng phản vệ*</td>
+    </tr>
+    <tr>
+      <td>Rối loạn chuyển hóa và dinh dưỡng</td>
+      <td>Rất hay gặp</td>
+      <td>Chán ăn (giảm cảm giác thèm ăn)</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Rối loạn hệ thần kinh</td>
+      <td>Rất hay gặp</td>
+      <td>Quấy khóc, buồn ngủ</td>
+    </tr>
+    <tr>
+      <td>Hay gặp</td>
+      <td>Quấy khóc bất thường (khóc kéo dài)</td>
+    </tr>
+    <tr>
+      <td>Hiếm gặp</td>
+      <td>Co giật có hoặc không có sốt*</td>
+    </tr>
+    <tr>
+      <td>Rất hiếm</td>
+      <td>Phản ứng giảm trương lực hoặc cơn giảm đáp ứng - giảm trương lực (hypotonic-hyporesponsive episodes - HHE)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn tiêu hóa</td>
+      <td>Rất hay gặp</td>
+      <td>Nôn ói</td>
+    </tr>
+    <tr>
+      <td>Hay gặp</td>
+      <td>Tiêu chảy</td>
+    </tr>
+    <tr>
+      <td>Rối loạn da và mô dưới da</td>
+      <td>Hiếm gặp</td>
+      <td>Nổi mẩn</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Rối loạn toàn thân và tình trạng tại chỗ tiêm</td>
+      <td>Rất hay gặp</td>
+      <td>Đau chỗ tiêm, đỏ chỗ tiêm, sưng chỗ tiêm<br>Cáu kỉnh, dễ kích động<br>Sốt (thân nhiệt ≥ 38,0°C)</td>
+    </tr>
+    <tr>
+      <td>Hay gặp</td>
+      <td>Cứng chỗ tiêm</td>
+    </tr>
+    <tr>
+      <td>Ít gặp</td>
+      <td>Nổi cục chỗ tiêm<br>Sốt (thân nhiệt ≥ 39,6°C)</td>
+    </tr>
+    <tr>
+      <td>Hiếm gặp</td>
+      <td>Sưng chi lan rộng†</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  * Các phản ứng bất lợi được báo cáo tự phát.<br>
+  † Xem mục “<em><strong>Mô tả các phản ứng bất lợi chọn lọc</strong></em>”
+</p>
 Mô tả các phản ứng bất lợi chọn lọc
 Sưng chi lan rộng: Phản ứng rộng tại chỗ tiêm (> 50 mm), bao gồm sưng chi lan rộng từ chỗ tiêm vượt quá một hoặc cả hai khớp, đã được báo cáo ở trẻ em. Những phản ứng này khởi phát trong vòng 24-72 giờ sau tiêm vắc-xin, có thể kết hợp với đỏ, nóng, nhạy đau hoặc đau ở chỗ tiêm và tự khỏi trong vòng 3-5 ngày. Nguy cơ này dường như phụ thuộc vào số liều vắc-xin chứa thành phần ho gà vô bào đã tiêm trước đó, với nguy cơ lớn hơn sau liều thứ tư và thứ năm.
 

@@ -7,18 +7,34 @@ THUỐC NÀY CHỈ DÙNG THEO ĐƠN CỦA BÁC SỸ
 ĐỌC KỸ HƯỚNG DẪN SỬ DỤNG TRƯỚC KHI DÙNG
 NẾU CẦN THÊM THÔNG TIN XIN HỎI Ý KIẾN BÁC SỸ
 
-1. Thành phần định tính và định lượng
-Mỗi liều (1,0 ml) có chứa:
-
-| Thành phần | Hàm lượng |
-| :--- | :--- |
-| Virus Viêm gan A (bất hoạt) 1,2 | 720 đơn vị ELISA |
-| Kháng nguyên bề mặt virus Viêm gan B 3,4 | 20 microgram |
-
-1 Được sản xuất trên tế bào lưỡng bội của người (MRC-5)
-2 Được hấp phụ trên nhôm hydroxide, hydrat hóa: 0,05 milligram Al³⁺
-3 Được sản xuất trên tế bào nấm men (Saccharomyces cerevisiae) bằng công nghệ tái tổ hợp DNA
-4 Được hấp phụ trên nhôm phosphat: 0,4 milligram Al³⁺
+<p><strong>1. Thành phần định tính và định lượng</strong></p>
+<p>Mỗi liều (1,0 ml) có chứa:</p>
+<table>
+  <tbody>
+    <tr>
+      <td>Virus Viêm gan A (bất hoạt)<sup>1,2</sup></td>
+      <td>720 đơn vị ELISA</td>
+    </tr>
+    <tr>
+      <td>Kháng nguyên bề mặt virus Viêm gan B<sup>3,4</sup></td>
+      <td>20 microgram</td>
+    </tr>
+    <tr>
+      <td colspan="2"><sup>1</sup> Được sản xuất trên tế bào lưỡng bội của người (MRC-5)</td>
+    </tr>
+    <tr>
+      <td><sup>2</sup> Được hấp phụ trên nhôm hydroxide, hydrat hóa</td>
+      <td>0,05 milligram Al<sup>3+</sup></td>
+    </tr>
+    <tr>
+      <td colspan="2"><sup>3</sup> Được sản xuất trên tế bào nấm men (<i>Saccharomyces cerevisiae</i>) bằng công nghệ tái tổ hợp DNA</td>
+    </tr>
+    <tr>
+      <td><sup>4</sup>Được hấp phụ trên nhôm phosphat</td>
+      <td>0,4 milligram Al<sup>3+</sup></td>
+    </tr>
+  </tbody>
+</table>
 
 Twinrix là chất lỏng, màu trắng hơi đục, đựng trong bơm tiêm thủy tinh đóng sẵn.
 
@@ -109,67 +125,214 @@ Rất hiếm gặp: < 1/10000
 Người lớn và thanh thiếu niên từ 16 tuổi trở lên
 Dữ liệu an toàn dưới đây của hơn 6.000 đối tượng được tiêm theo phác đồ tiêu chuẩn 0, 1, 6 tháng hoặc phác đồ tiêm nhanh 0, 7, 21 ngày.
 
-Các nghiên cứu lâm sàng
-| Phân loại theo hệ cơ quan | Tần suất | Tác dụng không mong muốn |
-| :--- | :--- | :--- |
-| **Nhiễm khuẩn và nhiễm kí sinh trùng** | Không thường gặp | Nhiễm khuẩn đường hô hấp trên |
-| **Rối loạn máu và hệ bạch huyết** | Hiếm gặp | Nổi hạch |
-| **Rối loạn dinh dưỡng và chuyển hóa** | Hiếm gặp | Giảm cảm giác thèm ăn |
-| **Rối loạn hệ thần kinh** | Rất thường gặp | Đau đầu |
-| | Không thường gặp | Chóng mặt |
-| | Hiếm gặp | Giảm xúc giác, dị cảm |
-| **Rối loạn mạch máu** | Hiếm gặp | Hạ huyết áp |
-| **Rối loạn hệ tiêu hóa** | Thường gặp | Các triệu chứng đường tiêu hóa (như tiêu chảy, buồn nôn, nôn) |
-| **Rối loạn da và mô dưới da** | Hiếm gặp | Phát ban, ngứa |
-| | Rất hiếm gặp | Mề đay |
-| **Rối loạn cơ xương và mô liên kết** | Không thường gặp | Đau cơ |
-| | Hiếm gặp | Đau khớp |
-| **Rối loạn toàn thân và tại vị trí tiêm** | Rất thường gặp | Đau, đỏ tại chỗ tiêm, mệt mỏi |
-| | Thường gặp | Sưng, phản ứng tại chỗ tiêm, mệt mỏi |
-| | Không thường gặp | Sốt (≥ 37,5°C) |
-| | Hiếm gặp | Triệu chứng giống cúm, ớn lạnh |
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Các nghiên cứu lâm sàng</th>
+    </tr>
+    <tr>
+      <th>Phân loại theo hệ cơ quan</th>
+      <th>Tần suất</th>
+      <th>Tác dụng không mong muốn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nhiễm khuẩn và nhiễm kí sinh trùng</td>
+      <td>Không thường gặp</td>
+      <td>Nhiễm khuẩn đường hô hấp trên</td>
+    </tr>
+    <tr>
+      <td>Rối loạn máu và hệ bạch huyết</td>
+      <td>Hiếm gặp</td>
+      <td>Nổi hạch</td>
+    </tr>
+    <tr>
+      <td>Rối loạn dinh dưỡng và chuyển hóa</td>
+      <td>Hiếm gặp</td>
+      <td>Giảm cảm giác thèm ăn</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Rối loạn hệ thần kinh</td>
+      <td>Rất thường gặp</td>
+      <td>Đau đầu</td>
+    </tr>
+    <tr>
+      <td>Không thường gặp</td>
+      <td>Chóng mặt</td>
+    </tr>
+    <tr>
+      <td>Hiếm gặp</td>
+      <td>Giảm xúc giác, dị cảm</td>
+    </tr>
+    <tr>
+      <td>Rối loạn mạch máu</td>
+      <td>Hiếm gặp</td>
+      <td>Hạ huyết áp</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ tiêu hóa</td>
+      <td>Thường gặp</td>
+      <td>Các triệu chứng đường tiêu hóa (như tiêu chảy, buồn nôn, nôn)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn da và mô dưới da</td>
+      <td>Hiếm gặp</td>
+      <td>Phát ban, ngứa</td>
+    </tr>
+    <tr>
+      <td>Rất hiếm gặp</td>
+      <td>Mề đay</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn cơ xương và mô liên kết</td>
+      <td>Không thường gặp</td>
+      <td>Đau cơ</td>
+    </tr>
+    <tr>
+      <td>Hiếm gặp</td>
+      <td>Đau khớp</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Rối loạn toàn thân và tại vị trí tiêm</td>
+      <td>Rất thường gặp</td>
+      <td>Đau, đỏ tại chỗ tiêm, mệt mỏi</td>
+    </tr>
+    <tr>
+      <td>Thường gặp</td>
+      <td>Sưng, phản ứng tại chỗ tiêm, mệt mỏi</td>
+    </tr>
+    <tr>
+      <td>Không thường gặp</td>
+      <td>Sốt (≥ 37,5°C)</td>
+    </tr>
+    <tr>
+      <td>Hiếm gặp</td>
+      <td>Triệu chứng giống cúm, ớn lạnh</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="2">Dữ liệu hậu mãi*</th>
+    </tr>
+    <tr>
+      <th>Phân loại theo hệ cơ quan</th>
+      <th>Các tác dụng không mong muốn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nhiễm khuẩn và nhiễm kí sinh trùng</td>
+      <td>Viêm màng não</td>
+    </tr>
+    <tr>
+      <td>Rối loạn máu và hệ bạch huyết</td>
+      <td>Giảm tiểu cầu, ban xuất huyết giảm tiểu cầu</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ miễn dịch</td>
+      <td>Sốc phản vệ, phản ứng dị ứng bao gồm phản ứng phản vệ và bệnh giống bệnh huyết thanh</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ thần kinh</td>
+      <td>Viêm não, bệnh não, viêm dây thần kinh, đau dây thần kinh, tê liệt, co giật</td>
+    </tr>
+    <tr>
+      <td>Rối loạn mạch máu</td>
+      <td>Viêm mạch</td>
+    </tr>
+    <tr>
+      <td>Rối loạn da và mô dưới da</td>
+      <td>Phù nề thần kinh mạch máu, liken phẳng, hồng ban đa dạng</td>
+    </tr>
+    <tr>
+      <td>Rối loạn cơ xương và mô liên kết</td>
+      <td>Viêm khớp, nhược cơ</td>
+    </tr>
+    <tr>
+      <td>Rối loạn toàn thân và tại vị trí tiêm</td>
+      <td>Đau tức thời chỗ tiêm, cảm giác châm chích và bỏng</td>
+    </tr>
+  </tbody>
+</table>
+<p>*Các tác dụng không mong muốn này được báo cáo cho vắc xin <strong>Twinrix</strong> (được tiêm theo phác đồ 0, 1, 6 tháng hoặc 0, 7, 21 ngày) hoặc vắc xin đơn giá viêm gan A hoặc viêm gan B của GlaxoSmithKline.</p>
 
-5
+Một nghiên cứu so sánh cho thấy tần suất xảy ra các tác dụng không mong muốn sau khi tiêm **Twinrix** không khác so với sau khi tiêm các vắc xin đơn giá.
 
-Dữ liệu hậu mãi*
-| Phân loại theo hệ cơ quan | Các tác dụng không mong muốn |
-| :--- | :--- |
-| **Nhiễm khuẩn và nhiễm kí sinh trùng** | Viêm màng não |
-| **Rối loạn máu và hệ bạch huyết** | Giảm tiểu cầu, ban xuất huyết giảm tiểu cầu |
-| **Rối loạn hệ miễn dịch** | Sốc phản vệ, phản ứng dị ứng bao gồm phản ứng phản vệ và bệnh giống bệnh huyết thanh |
-| **Rối loạn hệ thần kinh** | Viêm não, bệnh não, viêm dây thần kinh, đau dây thần kinh, tê liệt, co giật |
-| **Rối loạn mạch máu** | Viêm mạch |
-| **Rối loạn da và mô dưới da** | Phù nề thần kinh mạch máu, liken phẳng, hồng ban đa dạng |
-| **Rối loạn cơ xương và mô liên kết** | Viêm khớp, nhược cơ |
-| **Rối loạn toàn thân và tại vị trí tiêm** | Đau tức thời chỗ tiêm, cảm giác châm chích và bỏng |
+Trong 1 thử nghiệm lâm sàng mà **Twinrix** được tiêm theo phác đồ 0, 7, 21 ngày, các triệu chứng toàn thân được báo cáo với cùng phân loại về mặt tần suất như trên. Sau khi tiêm thêm liều thứ tư vào tháng thứ 12, tỷ lệ gặp phải các tác dụng không mong muốn toàn thân cũng tương tự như tỷ lệ gặp phải sau khi tiêm theo phác đồ 0, 7, 21 ngày.
 
-*Các tác dụng không mong muốn này được báo cáo cho vắc xin Twinrix (được tiêm theo phác đồ 0, 1, 6 tháng hoặc 0, 7, 21 ngày) hoặc vắc xin đơn giá viêm gan A hoặc viêm gan B của GlaxoSmithKline.
-Một nghiên cứu so sánh cho thấy tần suất xảy ra các tác dụng không mong muốn sau khi tiêm Twinrix không khác so với sau khi tiêm các vắc xin đơn giá.
-Trong 1 thử nghiệm lâm sàng mà Twinrix được tiêm theo phác đồ 0, 7, 21 ngày, các triệu chứng toàn thân được báo cáo với cùng phân loại về mặt tần suất như trên. Sau khi tiêm thêm liều thứ tư vào tháng thứ 12, tỷ lệ gặp phải các tác dụng không mong muốn toàn thân cũng tương tự như tỷ lệ gặp phải sau khi tiêm theo phác đồ 0, 7, 21 ngày.
+* ***Trẻ từ 1 đến 15 tuổi (bao gồm cả 15 tuổi)***
 
-6
 
-Trẻ từ 1 đến 15 tuổi (bao gồm cả 15 tuổi)
-Các thử nghiệm lâm sàng đã được tiến hành với việc sử dụng 1537 liều Twinrix theo lịch tiêm chủng cơ bản 2 liều cho 778 đối tượng từ 1 đến 15 tuổi.
 
-Các nghiên cứu lâm sàng
-| Phân loại theo hệ cơ quan | Tần suất | Tác dụng không mong muốn |
-| :--- | :--- | :--- |
-| **Rối loạn dinh dưỡng và chuyển hóa** | Rất thường gặp | Chán ăn |
-| **Rối loạn tâm thần** | Rất thường gặp | Kích động |
-| **Rối loạn hệ thần kinh** | Rất thường gặp | Đau đầu |
-| | Thường gặp | Buồn ngủ |
-| **Rối loạn hệ tiêu hóa** | Thường gặp | Các triệu chứng trên đường tiêu hóa |
-| **Rối loạn toàn thân và tại vị trí tiêm** | Rất thường gặp | Mệt mỏi, đau, đỏ tại chỗ tiêm |
-| | Thường gặp | Sốt, sưng tại chỗ tiêm |
+Các thử nghiệm lâm sàng đã được tiến hành với việc sử dụng 1537 liều **Twinrix** theo lịch tiêm chủng cơ bản 2 liều cho 778 đối tượng từ 1 đến 15 tuổi.
 
-Dữ liệu hậu mãi*
-| Phân loại theo hệ cơ quan | Tần suất | Tác dụng không mong muốn |
-| :--- | :--- | :--- |
-| **Rối loạn hệ miễn dịch** | Rất hiếm gặp | Phản ứng dị ứng bao gồm sốc phản vệ và các phản ứng phản vệ |
-| **Rối loạn hệ thần kinh** | Rất hiếm gặp | Ngất hoặc phản ứng phế vị do tiêm, giảm cảm giác |
-
-*Các tác dụng không mong muốn này được báo cáo trong quá trình giám sát hậu mãi sau khi tiêm Twinrix theo phác đồ 2 liều.
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Các nghiên cứu lâm sàng</th>
+    </tr>
+    <tr>
+      <th>Phân loại theo hệ cơ quan</th>
+      <th>Tần suất</th>
+      <th>Tác dụng không mong muốn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn dinh dưỡng và chuyển hóa</td>
+      <td>Rất thường gặp</td>
+      <td>Chán ăn</td>
+    </tr>
+    <tr>
+      <td>Rối loạn tâm thần</td>
+      <td>Rất thường gặp</td>
+      <td>Kích động</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn hệ thần kinh</td>
+      <td>Rất thường gặp</td>
+      <td>Đau đầu</td>
+    </tr>
+    <tr>
+      <td>Thường gặp</td>
+      <td>Buồn ngủ</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ tiêu hóa</td>
+      <td>Thường gặp</td>
+      <td>Các triệu chứng trên đường tiêu hóa</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn toàn thân và tại vị trí tiêm</td>
+      <td>Rất thường gặp</td>
+      <td>Mệt mỏi, đau, đỏ tại chỗ tiêm</td>
+    </tr>
+    <tr>
+      <td>Thường gặp</td>
+      <td>Sốt, sưng tại chỗ tiêm</td>
+    </tr>
+    <tr>
+      <th colspan="3">Dữ liệu hậu mãi*</th>
+    </tr>
+    <tr>
+      <th>Phân loại theo hệ cơ quan</th>
+      <th>Tần suất</th>
+      <th>Tác dụng không mong muốn</th>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ miễn dịch</td>
+      <td>Rất hiếm gặp</td>
+      <td>Phản ứng dị ứng bao gồm sốc phản vệ và các phản ứng phản vệ</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ thần kinh</td>
+      <td>Rất hiếm gặp</td>
+      <td>Ngất hoặc phản ứng phế vị do tiêm, giảm cảm giác</td>
+    </tr>
+  </tbody>
+</table>
+<p>*Các tác dụng không mong muốn này được báo cáo trong quá trình giám sát hậu mãi sau khi tiêm <strong>Twinrix</strong> theo phác đồ 2 liều.</p>
 Thông báo cho bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc
 
 3.9. Quá liều

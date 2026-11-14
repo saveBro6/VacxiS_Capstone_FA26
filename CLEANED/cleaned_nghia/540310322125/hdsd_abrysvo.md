@@ -130,23 +130,68 @@ Không rõ (không thể ước tính từ dữ liệu có sẵn).
 
 Các phản ứng bất lợi được báo cáo được liệt kê theo phân loại hệ cơ quan bị ảnh hưởng theo thứ tự mức độ nghiêm trọng giảm dần.
 
-**Bảng 1: Các phản ứng bất lợi sau khi tiêm Abrysvo**
+<h2>Bảng 1: Các phản ứng bất lợi sau khi tiêm Abrysvo</h2>
 
-| Phân loại hệ cơ quan | Phản ứng bất lợi của thuốc đối với phụ nữ mang thai $\le49$ tuổi | Phản ứng bất lợi của thuốc đối với những người $\ge60$ tuổi |
-| :--- | :--- | :--- |
-| **Rối loạn hệ miễn dịch** | | |
-| Quá mẫn | | Rất hiếm gặp |
-| **Rối loạn hệ thần kinh** | | |
-| Đau đầu | Rất thường gặp | |
-| Hội chứng Guillain-Barré | | Hiếm gặp^a |
-| **Rối loạn cơ xương và mô liên kết** | | |
-| Đau cơ | Rất thường gặp | |
-| **Rối loạn toàn thân và tình trạng tại vị trí tiêm** | | |
-| Đau tại vị trí tiêm vắc xin | Rất thường gặp | Rất thường gặp |
-| Đỏ tại vị trí tiêm vắc xin | Thường gặp | Thường gặp |
-| Sưng tại vị trí tiêm vắc xin | Thường gặp | Thường gặp |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Phân loại hệ cơ quan</th>
+      <th>Phản ứng bất lợi của thuốc đối với phụ nữ mang thai ≤49 tuổi</th>
+      <th>Phản ứng bất lợi của thuốc đối với những người ≥60 tuổi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="3">Rối loạn hệ miễn dịch</td>
+    </tr>
+    <tr>
+      <td>Quá mẫn</td>
+      <td></td>
+      <td>Rất hiếm gặp</td>
+    </tr>
+    <tr>
+      <td colspan="3">Rối loạn hệ thần kinh</td>
+    </tr>
+    <tr>
+      <td>Đau đầu</td>
+      <td>Rất thường gặp</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hội chứng Guillain-Barré</td>
+      <td></td>
+      <td>Hiếm gặp<sup>a</sup></td>
+    </tr>
+    <tr>
+      <td colspan="3">Rối loạn cơ xương và mô liên kết</td>
+    </tr>
+    <tr>
+      <td>Đau cơ</td>
+      <td>Rất thường gặp</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3">Rối loạn toàn thân và tình trạng tại vị trí tiêm</td>
+    </tr>
+    <tr>
+      <td>Đau tại vị trí tiêm vắc xin</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Đỏ tại vị trí tiêm vắc xin</td>
+      <td>Thường gặp</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Sưng tại vị trí tiêm vắc xin</td>
+      <td>Thường gặp</td>
+      <td>Thường gặp</td>
+    </tr>
+  </tbody>
+</table>
 
-^a Trong một nghiên cứu ở những người từ 60 tuổi trở lên, một trường hợp mắc hội chứng Guillain-Barré và một trường hợp mắc hội chứng Miller Fisher đã được báo cáo với thời gian khởi phát lần lượt là 7 ngày và 8 ngày sau khi tiêm Abrysvo và được nghiên cứu viên đánh giá là có thể liên quan đến vắc xin được tiêm. Cả hai trường hợp này đều có các yếu tố nhiễu hoặc một nguyên nhân bệnh lý khác. Một trường hợp nữa, với thời gian khởi phát là 8 tháng sau khi tiêm Abrysvo, đã được nghiên cứu viên đánh giá là không liên quan đến vắc xin được tiêm. Một trường hợp mắc hội chứng Guillain-Barré đã được báo cáo trong nhóm tiêm giả dược 14 tháng sau thời điểm tiêm.
+<p><sup>a</sup> Trong một nghiên cứu ở những người từ 60 tuổi trở lên, một trường hợp mắc hội chứng Guillain-Barré và một trường hợp mắc hội chứng Miller Fisher đã được báo cáo với thời gian khởi phát lần lượt là 7 ngày và 8 ngày sau khi tiêm Abrysvo và được nghiên cứu viên đánh giá là có thể liên quan đến vắc xin được tiêm. Cả hai trường hợp này đều có các yếu tố nhiễu hoặc một nguyên nhân bệnh lý khác. Một trường hợp nữa, với thời gian khởi phát là 8 tháng sau khi tiêm Abrysvo, đã được nghiên cứu viên đánh giá là không liên quan đến vắc xin được tiêm. Một trường hợp mắc hội chứng Guillain-Barré đã được báo cáo trong nhóm tiêm giả dược 14 tháng sau thời điểm tiêm.</p>
 
 ### 12. QUÁ LIỀU VÀ CÁCH XỬ TRÍ
 Việc dùng quá liều Abrysvo không có khả năng xảy ra do vắc xin này được đóng gói ở dạng liều đơn.
@@ -171,29 +216,91 @@ Hiệu quả của vắc xin (vaccine efficacy - VE) được định nghĩa là
 Trong số những phụ nữ mang thai được tiêm Abrysvo, 65% là người Da trắng, 20% là người Da đen hoặc người Mỹ gốc Phi và 29% là người gốc Tây Ban Nha/Latino. Tuổi trung vị là 29 tuổi (trong khoảng từ 16-45 tuổi); 0,2% số người tham gia dưới 18 tuổi và 4,3% số người tham gia dưới 20 tuổi. Tuổi thai trung vị tại thời điểm tiêm vắc xin là 31 tuần 2 ngày (trong khoảng từ 24 tuần 0 ngày đến 36 tuần 4 ngày). Tuổi thai trung vị của trẻ nhũ nhi lúc sinh là 39 tuần 1 ngày (trong khoảng từ 27 tuần 3 ngày đến 43 tuần 6 ngày).
 Hiệu quả của vắc xin được trình bày trong các Bảng 2 và 3.
 
-**Bảng 2: Hiệu quả của vắc xin Abrysvo chống lại bệnh đường hô hấp dưới nặng cần chăm sóc y tế do RSV gây ra ở trẻ nhũ nhi từ khi sinh ra đến 6 tháng tuổi bằng cách tiêm chủng chủ động cho người mẹ lúc mang thai - Nghiên cứu 1**
+<h2>Bảng 2: Hiệu quả của vắc xin Abrysvo chống lại bệnh đường hô hấp dưới nặng cần chăm sóc y tế do RSV gây ra ở trẻ nhũ nhi từ khi sinh ra đến 6 tháng tuổi bằng cách tiêm chủng chủ động cho người mẹ lúc mang thai – Nghiên cứu 1</h2>
 
-| Khoảng thời gian | Abrysvo Số trường hợp N=3.495 | Giả dược Số trường hợp N=3.480 | VE % (CI)^a |
-| :--- | :--- | :--- | :--- |
-| 90 ngày | 6 | 33 | 81,8 (40,6; 96,3) |
-| 120 ngày | 12 | 46 | 73,9 (45,6; 88,8) |
-| 150 ngày | 16 | 55 | 70,9 (44,5; 85,9) |
-| 180 ngày | 19 | 62 | 69,4 (44,3; 84,1) |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Khoảng thời gian</th>
+      <th>Abrysvo<br>Số trường hợp<br>N=3.495</th>
+      <th>Giả dược<br>Số trường hợp<br>N=3.480</th>
+      <th>VE %<br>(CI)<sup>a</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>90 ngày</td>
+      <td>6</td>
+      <td>33</td>
+      <td>81,8 (40,6; 96,3)</td>
+    </tr>
+    <tr>
+      <td>120 ngày</td>
+      <td>12</td>
+      <td>46</td>
+      <td>73,9 (45,6; 88,8)</td>
+    </tr>
+    <tr>
+      <td>150 ngày</td>
+      <td>16</td>
+      <td>55</td>
+      <td>70,9 (44,5; 85,9)</td>
+    </tr>
+    <tr>
+      <td>180 ngày</td>
+      <td>19</td>
+      <td>62</td>
+      <td>69,4 (44,3; 84,1)</td>
+    </tr>
+  </tbody>
+</table>
 
-CI = khoảng tin cậy; VE = hiệu quả của vắc xin
-^a CI 99,5% tại thời điểm 90 ngày; CI 97,58% ở các khoảng thời gian sau đó
+<p>CI = khoảng tin cậy; VE = hiệu quả của vắc xin</p>
 
-**Bảng 3. Hiệu quả của vắc xin Abrysvo chống lại bệnh đường hô hấp dưới cần chăm sóc y tế do RSV gây ra ở trẻ nhũ nhi từ khi sinh ra đến 6 tháng tuổi bằng cách tiêm chủng chủ động cho người mẹ lúc mang thai – Nghiên cứu 1**
+<p><sup>a</sup> CI 99,5% tại thời điểm 90 ngày; CI 97,58% ở các khoảng thời gian sau đó</p>
 
-| Khoảng thời gian | Abrysvo Số trường hợp N=3.495 | Giả dược Số trường hợp N=3.480 | VE % (CI)^a |
-| :--- | :--- | :--- | :--- |
-| 90 ngày | 24 | 56 | 57,1 (14,7; 79,8) |
-| 120 ngày | 35 | 81 | 56,8 (31,2; 73,5) |
-| 150 ngày | 47 | 99 | 52,5 (28,7; 68,9) |
-| 180 ngày | 57 | 117 | 51,3 (29,4; 66,8) |
+<h2>Bảng 3 Hiệu quả của vắc xin Abrysvo chống lại bệnh đường hô hấp dưới cần chăm sóc y tế do RSV gây ra ở trẻ nhũ nhi từ khi sinh ra đến 6 tháng tuổi bằng cách tiêm chủng chủ động cho người mẹ lúc mang thai – Nghiên cứu 1</h2>
 
-CI = khoảng tin cậy; VE = hiệu quả của vắc xin
-^a CI 99,5% tại thời điểm 90 ngày; CI 97,58% ở các khoảng thời gian sau đó
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Khoảng thời gian</th>
+      <th>Abrysvo<br>Số trường hợp<br>N=3.495</th>
+      <th>Giả dược<br>Số trường hợp<br>N=3.480</th>
+      <th>VE %<br>(CI)<sup>a</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>90 ngày</td>
+      <td>24</td>
+      <td>56</td>
+      <td>57,1 (14,7; 79,8)</td>
+    </tr>
+    <tr>
+      <td>120 ngày</td>
+      <td>35</td>
+      <td>81</td>
+      <td>56,8 (31,2; 73,5)</td>
+    </tr>
+    <tr>
+      <td>150 ngày</td>
+      <td>47</td>
+      <td>99</td>
+      <td>52,5 (28,7; 68,9)</td>
+    </tr>
+    <tr>
+      <td>180 ngày</td>
+      <td>57</td>
+      <td>117</td>
+      <td>51,3 (29,4; 66,8)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>CI = khoảng tin cậy; VE = hiệu quả của vắc xin</p>
+
+<p><sup>a</sup> CI 99,5% tại thời điểm 90 ngày; CI 97,58% ở các khoảng thời gian sau đó</p>
 
 Một phân tích hậu định về VE theo tuổi thai của người mẹ đã được thực hiện. Đối với bệnh đường hô hấp dưới nặng cần chăm sóc y tế xảy ra trong vòng 180 ngày, VE là 57,2% (CI 95% là 10,4; 80,9) đối với phụ nữ được tiêm vắc xin sớm trong thai kỳ (24 tuần đến <30 tuần) và 78,1% (CI 95% là 52,1; 91,2) đối với phụ nữ được tiêm vắc xin muộn hơn trong khoảng thời gian đủ điều kiện của thai kỳ (30 tuần đến 36 tuần). Đối với bệnh đường hô hấp dưới cần chăm sóc y tế trong vòng 180 ngày, VE là 30,9% (CI 95% là -14,4; 58,9) đối với phụ nữ được tiêm vắc xin sớm trong thai kỳ (24 tuần đến <30 tuần) và 62,4% (CI 95% là 41,6; 76,4) đối với phụ nữ được tiêm vắc xin muộn hơn trong khoảng thời gian đủ điều kiện của thai kỳ (30 tuần đến 36 tuần).
 
@@ -208,16 +315,38 @@ Trong số những người tham gia được tiêm Abrysvo, 51% là nam giới 
 Khi kết thúc mùa RSV đầu tiên, phân tích đã cho thấy hiệu quả có ý nghĩa thống kê của Abrysvo trong việc giảm bệnh đường hô hấp dưới liên quan đến RSV với $\ge2$ triệu chứng và với $\ge3$ triệu chứng.
 Thông tin về hiệu quả của vắc xin được trình bày trong Bảng 4.
 
-**Bảng 4: Hiệu quả của vắc xin Abrysvo chống lại bệnh RSV - tiêm chủng chủ động cho những người từ 60 tuổi trở lên – Nghiên cứu 2**
+<h2>Bảng 4 Hiệu quả của vắc xin Abrysvo chống lại bệnh RSV - tiêm chủng chủ động cho những người từ 60 tuổi trở lên – Nghiên cứu 2</h2>
 
-| Tiêu chí đánh giá hiệu quả | Abrysvo Số trường hợp N=18.058 | Giả dược Số trường hợp N=18.076 | VE (%) (CI 95%) |
-| :--- | :--- | :--- | :--- |
-| Đợt đầu tiên của bệnh đường hô hấp dưới có liên quan đến RSV với $\ge2$ triệu chứng^a | 15 | 43 | 65,1 (35,9; 82,0) |
-| Đợt đầu tiên của bệnh đường hô hấp dưới có liên quan đến RSV với $\ge3$ triệu chứng^b | 2 | 18 | 88,9 (53,6; 98,7) |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Tiêu chí đánh giá hiệu quả</th>
+      <th>Abrysvo<br>Số trường hợp<br>N=18.058</th>
+      <th>Giả dược<br>Số trường hợp<br>N=18.076</th>
+      <th>VE (%)<br>(CI 95%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Đợt đầu tiên của bệnh đường hô hấp dưới có liên quan đến RSV với ≥2 triệu chứng<sup>a</sup></td>
+      <td>15</td>
+      <td>43</td>
+      <td>65,1 (35,9; 82,0)</td>
+    </tr>
+    <tr>
+      <td>Đợt đầu tiên của bệnh đường hô hấp dưới có liên quan đến RSV với ≥3 triệu chứng<sup>b</sup></td>
+      <td>2</td>
+      <td>18</td>
+      <td>88,9 (53,6; 98,7)</td>
+    </tr>
+  </tbody>
+</table>
 
-CI = khoảng tin cậy; RSV = vi rút hợp bào hô hấp; VE = hiệu quả của vắc xin
-^a Trong một phân tích thăm dò ở RSV phân nhóm A (Abrysvo n=3, giả dược n=16), VE là 81,3% (CI 34,5; 96,5); và ở RSV phân nhóm B (Abrysvo n=12, giả dược n=26), VE là 53,8% (CI 5,2; 78,8).
-^b Trong một phân tích thăm dò ở RSV phân nhóm A (Abrysvo n=1, giả dược n=5), VE là 80,0% (CI -78,7; 99,6); và ở RSV phân nhóm B (Abrysvo n=1, giả dược n=12), VE là 91,7% (CI 43,7; 99,8).
+<p>CI – khoảng tin cậy; RSV – vi rút hợp bào hô hấp; VE – hiệu quả của vắc xin</p>
+
+<p><sup>a</sup> Trong một phân tích thăm dò ở RSV phân nhóm A (Abrysvo n=3, giả dược n=16 VE là 81,3% (CI 34,5; 96,5); và ở RSV phân nhóm B (Abrysvo n=12, giả dược n=26) VE là 53,8% (CI 5,2; 78,8).</p>
+
+<p><sup>b</sup> Trong một phân tích thăm dò ở RSV phân nhóm A (Abrysvo n=1, giả dược n=5), VE là 80,0% (CI -78,7; 99,6); và ở RSV phân nhóm B (Abrysvo n=1, giả dược n=12), VE là 91,7% (CI 43,7; 99,8).</p>
 
 ### 14. ĐẶC TÍNH DƯỢC ĐỘNG HỌC
 Không áp dụng.

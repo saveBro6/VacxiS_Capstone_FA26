@@ -4,18 +4,52 @@
 **Mô tả :** GC FLU pre-filled syringe inj là vắc xin cúm bất hoạt dạng bơm tiêm đóng sẵn (0,5 ml) có chứa chất lỏng không màu hoặc màu trắng nhạt. Vắc xin chứa các kháng nguyên được phân tách từ virus cúm, virus được nuôi cấy trong trứng đã có phôi, phân ly và bất hoạt bằng formaldehyde. Thành phần của vắc xin có các chủng virus cúm được WHO khuyến cáo sử dụng hàng năm.
 
 **Thành phần:**
-Mỗi bơm tiêm đóng sẵn GC FLU (0,5ml) có chứa:
+<h2>Thành phần</h2>
 
-| Thành phần | Hàm lượng |
-| :--- | :--- |
-| Kháng nguyên tinh khiết bất hoạt virus cúm A H1N1 <br> A/California/7/2009 Reassortant virus NYMC X-181 (H1N1) | 15 $\mu g$ |
-| Kháng nguyên tinh khiết bất hoạt virus cúm A H3N2 <br> A/Switzerland/9715293/2013 Reassortant virus NIB-88 (H3N2) | 15 $\mu g$ |
-| Kháng nguyên tinh khiết bất hoạt virus cúm type B <br> B/Phuket/3073/2013 | 15 $\mu g$ |
-| Natri clorid | 4 mg |
-| Kali clorid | 0.1 mg |
-| Dinatri hydrophosphat dihydrat | 0.6 mg |
-| Kali dihydrophosphat | 0.1 mg |
-| Nước cất pha tiêm | Vừa đủ |
+<p>Mỗi bơm tiêm đóng sẵn GC FLU (0,5ml) có chứa:</p>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Thành phần</th>
+      <th>Hàm lượng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Kháng nguyên tinh khiết bất hoạt virus cúm A H1N1<br><br>A/California/7/2009 Reassortant virus NYMC X-181 (H1N1)</td>
+      <td>15 µg</td>
+    </tr>
+    <tr>
+      <td>Kháng nguyên tinh khiết bất hoạt virus cúm A H3N2<br><br>A/Switzerland/9715293/2013 Reassortant virus NIB-88 (H3N2)</td>
+      <td>15 µg</td>
+    </tr>
+    <tr>
+      <td>Kháng nguyên tinh khiết bất hoạt virus cúm type B<br><br>B/Phuket/3073/2013</td>
+      <td>15 µg</td>
+    </tr>
+    <tr>
+      <td>Natri clorid</td>
+      <td>4 mg</td>
+    </tr>
+    <tr>
+      <td>Kali clorid</td>
+      <td>0.1 mg</td>
+    </tr>
+    <tr>
+      <td>Dinatri hydrophosphat dihydrat</td>
+      <td>0.6 mg</td>
+    </tr>
+    <tr>
+      <td>Kali dihydrophosphat</td>
+      <td>0.1 mg</td>
+    </tr>
+    <tr>
+      <td>Nước cất pha tiêm</td>
+      <td>Vừa đủ</td>
+    </tr>
+  </tbody>
+</table>
 
 **Dược lực học**
 Vắc xin tạo kháng thể trung hòa virus cúm. Nhìn chung huyết thanh bảo vệ đạt được trong vòng 2 đến 3 tuần. Thời gian miễn dịch sau khi tiêm đối với các chủng tương tự hoặc với các chủng có quan hệ gần với những chủng virus có trong vắc xin là khác nhau nhưng thông thường từ 6-12 tháng.
@@ -48,19 +82,164 @@ Có 849 đối tượng trên tổng số 1202 đối tượng (70,63%) xuất h
 
 **1. Các biến cố quan sát thấy trong vòng 6 ngày sau tiêm**
 
-| | | Tổng số (N=1202) | | Trẻ em (N=226) | | Người lớn (N=803) | | Người già (N=173) | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | | Số đối tượng | Vừa và nặng | Số đối tượng | Vừa và nặng | Số đối tượng | Vừa và nặng | Số đối tượng | Vừa và nặng |
-| Phản ứng bất lợi tại chỗ | Đau, Nhạy cảm đau | 46,9% | 0,5% | 52,3% | 1,2% | 50,0% | 1,3% | 26,0% | 1,2% |
-| | Ban đỏ nổi đỏ, Chai cứng/sưng | 2,6% <br> 11,3% | 4,5% <br> 1,0% | 26,1% <br> 11,5% | 7,1% <br> 3,1% | 1,5% <br> 7,6% | 2,9% <br> 0,6% | 9,3% <br> 1,7% | 2,9% <br> 0,0% |
-| Phản ứng bất lợi toàn thân | Sốt | 0,3% | 0.8% | 3,1% | 1,3% | 0,1% | 0,0% | 0,6% | 0,6% |
-| | Đau đầu | 17,6% | 1,9% | 9,7% | 1,8% | 20,7% | 2,4% | 13,3% | 0,0% |
-| | Khó chịu | 10,8% | 1,1% | 9,3% | 0,9% | 12,3% | 1,3% | 5,8% | 0,6% |
-| | Run | 8,8% | 1,1% | 5,8% | 0,9% | 10,0% | 1,3% | 7,5% | 0,6% |
-| | Mệt mỏi | 22,9% | 2,1% | 19,0% | 1,3% | 25,9% | 2,2% | 13,9% | 2,3% |
-| | Đổ mồ hôi | 6,3% | 0,8% | 6,2% | 0,9% | 6,2% | 1,0% | 6,9% | 0,0% |
-| | Đau cơ | 17,5% | 1,8% | 13,7% | 2,7% | 20,2% | 1,9% | 9,8% | 0,6% |
-| | Đau khớp | 4,1% | 0,3% | 3,1% | 0,0% | 4,1% | 0,4% | 5,2% | 0,6% |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th rowspan="2"></th>
+      <th colspan="2">Tổng số<br>(N=1202)</th>
+      <th colspan="2">Trẻ em<br>(N=226)</th>
+      <th colspan="2">Người lớn<br>(N=803)</th>
+      <th colspan="2">Người già<br>(N=173)</th>
+    </tr>
+    <tr>
+      <th>Số đối tượng</th>
+      <th>Vừa và nặng</th>
+      <th>Số đối tượng</th>
+      <th>Vừa và nặng</th>
+      <th>Số đối tượng</th>
+      <th>Vừa và nặng</th>
+      <th>Số đối tượng</th>
+      <th>Vừa và nặng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">Phản ứng bất lợi tại chỗ</td>
+      <td>Đau</td>
+      <td>46,9%</td>
+      <td>0,5%</td>
+      <td>50,0%</td>
+      <td>1,3%</td>
+      <td>50,6%</td>
+      <td>0,4%</td>
+      <td>26,0%</td>
+      <td>0,0%</td>
+    </tr>
+    <tr>
+      <td>Nhạy cảm đau</td>
+      <td>52,3%</td>
+      <td>1,2%</td>
+      <td>52,7%</td>
+      <td>2,2%</td>
+      <td>57,8%</td>
+      <td>1,0%</td>
+      <td>26,6%</td>
+      <td>1,2%</td>
+    </tr>
+    <tr>
+      <td>Ban đỏ/nổi đỏ</td>
+      <td>11,3%</td>
+      <td>2,6%</td>
+      <td>26,1%</td>
+      <td>7,1%</td>
+      <td>7,6%</td>
+      <td>1,5%</td>
+      <td>9,3%</td>
+      <td>1,7%</td>
+    </tr>
+    <tr>
+      <td>Chai cứng/sưng</td>
+      <td>4,5%</td>
+      <td>1,0%</td>
+      <td>11,5%</td>
+      <td>3,1%</td>
+      <td>2,9%</td>
+      <td>0,6%</td>
+      <td>2,9%</td>
+      <td>0,0%</td>
+    </tr>
+    <tr>
+      <td rowspan="8">Phản ứng bất lợi toàn thân</td>
+      <td>Sốt</td>
+      <td>0,8%</td>
+      <td>0,3%</td>
+      <td>3,1%</td>
+      <td>1,3%</td>
+      <td>0,1%</td>
+      <td>0,0%</td>
+      <td>0,6%</td>
+      <td>0,6%</td>
+    </tr>
+    <tr>
+      <td>Đau đầu</td>
+      <td>17,6%</td>
+      <td>1,9%</td>
+      <td>9,7%</td>
+      <td>1,8%</td>
+      <td>20,7%</td>
+      <td>2,4%</td>
+      <td>13,3%</td>
+      <td>0,0%</td>
+    </tr>
+    <tr>
+      <td>Khó chịu</td>
+      <td>10,8%</td>
+      <td>1,1%</td>
+      <td>9,3%</td>
+      <td>0,9%</td>
+      <td>12,3%</td>
+      <td>1,3%</td>
+      <td>5,8%</td>
+      <td>0,6%</td>
+    </tr>
+    <tr>
+      <td>Run</td>
+      <td>8,8%</td>
+      <td>1,1%</td>
+      <td>5,8%</td>
+      <td>0,9%</td>
+      <td>10,0%</td>
+      <td>1,3%</td>
+      <td>7,5%</td>
+      <td>0,6%</td>
+    </tr>
+    <tr>
+      <td>Mệt mỏi</td>
+      <td>22,9%</td>
+      <td>2,1%</td>
+      <td>19,0%</td>
+      <td>1,3%</td>
+      <td>25,9%</td>
+      <td>2,2%</td>
+      <td>13,9%</td>
+      <td>2,3%</td>
+    </tr>
+    <tr>
+      <td>Đổ mồ hôi</td>
+      <td>6,3%</td>
+      <td>0,8%</td>
+      <td>6,2%</td>
+      <td>0,9%</td>
+      <td>6,2%</td>
+      <td>1,0%</td>
+      <td>6,9%</td>
+      <td>0,0%</td>
+    </tr>
+    <tr>
+      <td>Đau cơ</td>
+      <td>17,5%</td>
+      <td>1,8%</td>
+      <td>13,7%</td>
+      <td>2,7%</td>
+      <td>20,2%</td>
+      <td>1,9%</td>
+      <td>9,8%</td>
+      <td>0,6%</td>
+    </tr>
+    <tr>
+      <td>Đau khớp</td>
+      <td>4,1%</td>
+      <td>0,3%</td>
+      <td>3,1%</td>
+      <td>0,0%</td>
+      <td>4,1%</td>
+      <td>0,4%</td>
+      <td>5,2%</td>
+      <td>0,6%</td>
+    </tr>
+  </tbody>
+</table>
 
 **2. Biến cố bất lợi nghiêm trọng:**
 5 trường hợp: ngoại trừ 1 trường hợp (co giật), các trường hợp còn lại được đánh giá là không liên quan: đau bụng co giật cấp tính (1 trường hợp), xẹp phổi (1 trường hợp).

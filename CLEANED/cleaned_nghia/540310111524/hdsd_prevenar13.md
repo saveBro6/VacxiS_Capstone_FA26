@@ -653,10 +653,54 @@ thanh và tỷ lệ kháng kháng sinh, huyết thanh týp 6A, 6B, 9V, 14, 15A, 
 thể hiện khả năng kháng cả penicillin và erythromycin.
 Prevenar 13 cung cấp đáp ứng miễn dịch chống lại các chủng S. pneumoniae phổ biến bao gồm các
 chúng có khả năng cao nhất gây bệnh, kháng kháng sinh, và dẫn đến kết quả không tốt.
-| Bảng 1. Khả năng tử vong và Tính kháng các   |  |  |  |  | Týp   |  |  |  |  | huyết thanh Chọn lọc ở Người lớn   |  |  |
-| Týp huyết thanh   |  | 3   | 6A   | 6B   | 9N   | 9V   | 14   |  | 15A   | 19A   | 19F   | 23F   |
-| Khả năng tử vong   |  | +   | +   | +   | +   |  |  |  |  | +/-   | +   | +/-   |
-| Tính kháng   |  |  | +   | +   |  | +   | +   |  | +   | +   | +   | +   |
+<table border="1">
+<thead>
+<tr>
+<th colspan="11">Bảng 1. Khả năng tử vong và Tính kháng các Týp huyết thanh Chọn lọc ở Người lớn</th>
+</tr>
+<tr>
+<td>Týp huyết thanh</td>
+<td>3</td>
+<td>6A</td>
+<td>6B</td>
+<td>9N</td>
+<td>9V</td>
+<td>14</td>
+<td>15A</td>
+<td>19A</td>
+<td>19F</td>
+<td>23F</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khả năng tử vong</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+/-</td>
+<td>+</td>
+<td>+/-</td>
+</tr>
+<tr>
+<td>Tính kháng</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+</tr>
+</tbody>
+</table>
 Nghiên cứu lâm sàng về tính sinh miễn dịch với Prevenar 13 ở trẻ sơ sinh và trẻ em
 Tổ chức Y tế Thế giới (WHO) khuyến cáo nồng độ kháng thể kháng polysaccharid vỏ phế cầu trong
 huyết thanh là $0,35~\mu g/ml$, đo 1 tháng sau đợt tiêm chủng cơ bản cho trẻ em là nồng độ kháng thể đơn
@@ -670,23 +714,180 @@ Các thử nghiệm lâm sàng đã được tiến hành tại một số nư�
 lịch trình tiêm chủng chính. Tỉ lệ phần trăm trẻ sơ sinh đạt nồng độ kháng thể IgG kháng polysaccharid
 vỏ phế cầu khuẩn $\ge0,35~\mu g/ml$ 1 tháng sau đợt tiêm chủng cơ bản 3 liều trong các nghiên cứu đại điện
 được trình bày ở dưới (Bảng 2).
-Bảng 2. Tỉ lệ phần trăm các đối tượng có nồng độ kháng thể IgG kháng polysaccharid võ phế cầu khuẩn
-$\ge0,35~\mu g/ml$ 1 tháng sau đợt tiêm chủng dành cho trẻ sơ sinh
-| Týp  huyết  thanh   | 2, 3, 4 tháng  Đức  (6096A1-  006)   | 2, 3, 4 tháng  Ba Lan  (6096A1-  3000 Sản  xuất)   | 2, 4, 6  tháng  Tây Ban  Nha  (6096A1-  (6096A1-  004)  501)   | 2, 4, 6  tháng  Mỹ   | 2, 4, 6  tháng  Mỹ  Lô 1  (6096A1-  3005)   | 2, 4, 6  tháng  Mỹ  Lô 2  (6096A1-  3005)   | 2, 4, 6  tháng  Mỹ  Lô 3  (6096A1-  3005)   | 6  2, 4,  tháng  Canada  (6096A1-  3008)   |
-|  | $N=282-285$   | $N=106-128$   | $N=261-$  273   | $N=249-$  252   | $N=387-$  399   | $N=398-$  413   | $N=387-$  404   | $N=272-$  277   |
-| 1   | 96,1   | 93,0   | 99,3   | 95,6   | 98,5   | 97,8   | 97.0   | 95,7   |
-| 3   | 98.2   | 93,7   | 90,3   | 63,5   | 79,1   | 68,5   | 72,4   | 79,6   |
-| 4   | 98,2   | 97,7   | 98,9   | 94,4   | 98,5   | 97,6   | 95,5   | 97,1   |
-| 5   | 93,0   | 90,6   | 97,3   | 89,7   | 94,4   | 94,2   | 90,3   | 87,0   |
-| 6A   | 91,9   | 85,2   | 97,4   | 96,0   | 98,2   | 98,1   | 95,5   | 96,4   |
-| 6B   | 77,5   | 77,3   | 98,5   | 87,3   | 94,4   | 94,9   | 89,5   | 93,1   |
-| 7F   | 98,6   | 100,0   | 100,0   | 98,4   | 99,7   | 99,8   | 99,0   | 98,6   |
-| 9V   | 98.6   | 98,4   | 99,3   | 90,5   | 96,5   | 95,4   | 95,5   | 95.3   |
-| 14   | 98,9   | 92,9   | 97,4   | 97,6   | 98,2   | 99,2   | 99,0   | 98,2   |
-| 18C   | 97,2   | 96,1   | 98,1   | 96,8   | 98,0   | 97,8   | 95,8   | 96.4   |
-| 19A   | 99,3   | 99,2   | 99,6   | 98,4   | 98,7   | 98,1   | 99,0   | 97,8   |
-| 19F   | 95.8   | 98,4   | 99,3   | 98,0   | 99,2   | 97,8   | 97,5   | 98,5   |
-| 23F   | 88,7   | 82,8   | 94,6   | 90,5   | 87,2   | 91,2   | 88,1   | 90.2   |
+<table border="1">
+<thead>
+<tr>
+<th colspan="9">Bảng 2. Tỉ lệ phần trăm các đối tượng có nồng độ kháng thể IgG kháng polysaccharid vỏ phế cầu khuẩn ≥0,35 µg/ml 1 tháng sau đợt tiêm chủng dành cho trẻ sơ sinh</th>
+</tr>
+<tr>
+<th>Týp huyết thanh</th>
+<th>2, 3, 4 tháng Đức (6096A1-006)</th>
+<th>2, 3, 4 tháng Ba Lan (6096A1-3000 Sản xuất)</th>
+<th>2, 4, 6 tháng Tây Ban Nha (6096A1-501)</th>
+<th>2, 4, 6 tháng Mỹ (6096A1-004)</th>
+<th>2, 4, 6 tháng Mỹ Lô 1 (6096A1-3005)</th>
+<th>2, 4, 6 tháng Mỹ Lô 2 (6096A1-3005)</th>
+<th>2, 4, 6 tháng Mỹ Lô 3 (6096A1-3005)</th>
+<th>2, 4, 6 tháng Canada (6096A1-3008)</th>
+</tr>
+<tr>
+<th></th>
+<th>N=282-285</th>
+<th>N=106-128</th>
+<th>N=261-273</th>
+<th>N=249-252</th>
+<th>N=387-399</th>
+<th>N=398-413</th>
+<th>N=387-404</th>
+<th>N=272-277</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>96,1</td>
+<td>93,0</td>
+<td>99,3</td>
+<td>95,6</td>
+<td>98,5</td>
+<td>97,8</td>
+<td>97,0</td>
+<td>95,7</td>
+</tr>
+<tr>
+<td>3</td>
+<td>98,2</td>
+<td>93,7</td>
+<td>90,3</td>
+<td>63,5</td>
+<td>79,1</td>
+<td>68,5</td>
+<td>72,4</td>
+<td>79,6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>98,2</td>
+<td>97,7</td>
+<td>98,9</td>
+<td>94,4</td>
+<td>98,5</td>
+<td>97,6</td>
+<td>95,5</td>
+<td>97,1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>93,0</td>
+<td>90,6</td>
+<td>97,3</td>
+<td>89,7</td>
+<td>94,4</td>
+<td>94,2</td>
+<td>90,3</td>
+<td>87,0</td>
+</tr>
+<tr>
+<td>6A</td>
+<td>91,9</td>
+<td>85,2</td>
+<td>97,4</td>
+<td>96,0</td>
+<td>98,2</td>
+<td>98,1</td>
+<td>95,5</td>
+<td>96,4</td>
+</tr>
+<tr>
+<td>6B</td>
+<td>77,5</td>
+<td>77,3</td>
+<td>98,5</td>
+<td>87,3</td>
+<td>94,4</td>
+<td>94,9</td>
+<td>89,5</td>
+<td>93,1</td>
+</tr>
+<tr>
+<td>7F</td>
+<td>98,6</td>
+<td>100,0</td>
+<td>100,0</td>
+<td>98,4</td>
+<td>99,7</td>
+<td>99,8</td>
+<td>99,0</td>
+<td>98,6</td>
+</tr>
+<tr>
+<td>9V</td>
+<td>98,6</td>
+<td>98,4</td>
+<td>99,3</td>
+<td>90,5</td>
+<td>96,5</td>
+<td>95,4</td>
+<td>95,5</td>
+<td>95,3</td>
+</tr>
+<tr>
+<td>14</td>
+<td>98,9</td>
+<td>92,9</td>
+<td>97,4</td>
+<td>97,6</td>
+<td>98,2</td>
+<td>99,2</td>
+<td>99,0</td>
+<td>98,2</td>
+</tr>
+<tr>
+<td>18C</td>
+<td>97,2</td>
+<td>96,1</td>
+<td>98,1</td>
+<td>96,8</td>
+<td>98,0</td>
+<td>97,8</td>
+<td>95,8</td>
+<td>96,4</td>
+</tr>
+<tr>
+<td>19A</td>
+<td>99,3</td>
+<td>99,2</td>
+<td>99,6</td>
+<td>98,4</td>
+<td>98,7</td>
+<td>98,1</td>
+<td>99,0</td>
+<td>97,8</td>
+</tr>
+<tr>
+<td>19F</td>
+<td>95,8</td>
+<td>98,4</td>
+<td>99,3</td>
+<td>98,0</td>
+<td>99,2</td>
+<td>97,8</td>
+<td>97,5</td>
+<td>98,5</td>
+</tr>
+<tr>
+<td>23F</td>
+<td>88,7</td>
+<td>82,8</td>
+<td>94,6</td>
+<td>90,5</td>
+<td>87,2</td>
+<td>91,2</td>
+<td>88,1</td>
+<td>90,2</td>
+</tr>
+</tbody>
+</table>
 Ở trẻ tiêm Prevenar 13, kháng thể IgG liên kết kháng polysaccharid đối với mỗi týp trong 13 týp huyết
 thanh được cho thấy là có mối tương quan với hoạt tính thực bào opsonin hoá (OPA) kháng khuẩn (một
 kháng thể có hoạt tính sinh học). Các thử nghiệm lâm sàng cũng cho thấy rằng đáp ứng với Prevenar
@@ -727,23 +928,130 @@ nồng độ này đều ít nhất tương đương với đợt tiêm chủng 
 cứu (6096A1-004) và (6096A1-3005). Sự so sánh với đáp ứng đợt tiêm chủng cho trẻ sơ sinh như thế
 này tương tự như đã thực hiện với Prevenar (7 týp) để thiết lập lịch trình tiêm chủng ở trẻ em và trẻ sơ
 sinh lớn hơn.
-Băng 3. Nồng độ trung bình nhân của kháng thể IgG kháng polysaccharid võ phế cầu khuẩn
-$(\mu g/ml)$ 1 tháng sau khi tiêm chủng
-| Týp huyết   | $13v/13v$   | $7v/13v$   | 7v/7v   | 13v   | 13v   |
-| thanh   | Sau lứa tuổi mới  biết đi  (6096A1-008)  N-233-236   | Sau lứa tuổi mới  biết đi  (6096A1-008)  $N=108-113$   | Sau lứa tuổi mới  biết đi  (6096A1-008)  N-111-127   | Sau lứa tuổi sơ  sinh  (6096A1-004)  $N=249-252$   | Sau lứa tuổi sơ  sinh  (6096A1-3005)  $N=1172-1213$   |
-| 1   | 4,08   | 1,83   | 0,04   | 2,03   | 1,78   |
-| 3   | 0.99   | 1,32   | 0,10   | 0,49   | 0,56   |
-| 4   | 4,20   | 4,04   | 4,85   | 1,31   | 1,46   |
-| 5   | 3,30   | 1,14   | 0,53   | 1.33   | 1,24   |
-| 6A   | 6,14   | 2,60   | 1,54   | 2.19   | 2,21   |
-| 6B   | 8,99   | 10,33   | 9,63   | 2,10   | 2,51   |
-| 7F   | 4,52   | 3,71   | 0.05   | 2,57   | 2,57   |
-| 9V   | 2,59   | 2,29   | 3,24   | 0,98   | 1,09   |
-| 14   | 9,52   | 7,81   | 10,83   | 4,74   | 5,09   |
-| 18C   | 2,30   | 2,43   | 2,81   | 1,37   | 1,37   |
-| 19A   | 9.50   | 5,33   | 3,98   | 2,07   | 1,91   |
-| 19F   | 5,18   | 3,73   | 4,11   | 1,85   | 2,15   |
-| 23F   | 3,01   | 3,12   | 3,69   | 1,33   | 1,18   |
+
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="6">Bảng 3. Nồng độ trung bình nhân của kháng thể IgG kháng polysaccharid vỏ phế cầu khuẩn (µg/ml) 1 tháng sau khi tiêm chủng</th>
+</tr>
+<tr>
+<th>Týp huyết thanh</th>
+<th>13v/13v<br>Sau lứa tuổi mới biết đi<br>(6096A1-008)<br>N=233-236</th>
+<th>7v/13v<br>Sau lứa tuổi mới biết đi<br>(6096A1-008)<br>N=108-113</th>
+<th>7v/7v<br>Sau lứa tuổi mới biết đi<br>(6096A1-008)<br>N=111-127</th>
+<th>13v<br>Sau lứa tuổi sơ sinh<br>(6096A1-004)<br>N=249-252</th>
+<th>13v<br>Sau lứa tuổi sơ sinh<br>(6096A1-3005)<br>N=1172-1213</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>4,08</td>
+<td>1,83</td>
+<td>0,04</td>
+<td>2,03</td>
+<td>1,78</td>
+</tr>
+<tr>
+<td>3</td>
+<td>0,99</td>
+<td>1,32</td>
+<td>0,10</td>
+<td>0,49</td>
+<td>0,56</td>
+</tr>
+<tr>
+<td>4</td>
+<td>4,20</td>
+<td>4,04</td>
+<td>4,85</td>
+<td>1,31</td>
+<td>1,46</td>
+</tr>
+<tr>
+<td>5</td>
+<td>3,30</td>
+<td>1,14</td>
+<td>0,53</td>
+<td>1,33</td>
+<td>1,24</td>
+</tr>
+<tr>
+<td>6A</td>
+<td>6,14</td>
+<td>2,60</td>
+<td>1,54</td>
+<td>2,19</td>
+<td>2,21</td>
+</tr>
+<tr>
+<td>6B</td>
+<td>8,99</td>
+<td>10,33</td>
+<td>9,63</td>
+<td>2,10</td>
+<td>2,51</td>
+</tr>
+<tr>
+<td>7F</td>
+<td>4,52</td>
+<td>3,71</td>
+<td>0,05</td>
+<td>2,57</td>
+<td>2,57</td>
+</tr>
+<tr>
+<td>9V</td>
+<td>2,59</td>
+<td>2,29</td>
+<td>3,24</td>
+<td>0,98</td>
+<td>1,09</td>
+</tr>
+<tr>
+<td>14</td>
+<td>9,52</td>
+<td>7,81</td>
+<td>10,83</td>
+<td>4,74</td>
+<td>5,09</td>
+</tr>
+<tr>
+<td>18C</td>
+<td>2,30</td>
+<td>2,43</td>
+<td>2,81</td>
+<td>1,37</td>
+<td>1,37</td>
+</tr>
+<tr>
+<td>19A</td>
+<td>9,50</td>
+<td>5,33</td>
+<td>3,98</td>
+<td>2,07</td>
+<td>1,91</td>
+</tr>
+<tr>
+<td>19F</td>
+<td>5,18</td>
+<td>3,73</td>
+<td>4,11</td>
+<td>1,85</td>
+<td>2,15</td>
+</tr>
+<tr>
+<td>23F</td>
+<td>3,01</td>
+<td>3,12</td>
+<td>3,69</td>
+<td>1,33</td>
+<td>1,18</td>
+</tr>
+</tbody>
+</table>
+
 Trẻ sơ sinh thiếu tháng (B1851037 [6096A1-4001])
 Sự an toàn và tính sinh miễn dịch của Prevenar 13 dùng ở 2, 3, 4 và 12 tháng được đánh giá ở 100 trẻ
 sơ sinh thiếu tháng (tuổi thai kỳ trung bình ước lượng (estimated gestational age [EGA]) là 31 tuần;
@@ -767,23 +1075,102 @@ mỗi nhóm tuổi và dữ liệu được trình bày trong Bảng 4.
 Lịch tiêm chủng điều chỉnh thích hợp theo tuổi này tạo ra mức độ đáp ứng kháng thể IgG kháng
 polysaccharid vỏ bao đối với mỗi loại trong 13 týp huyết thanh ít nhất tương đương với đáp ứng của
 đợt tiêm chủng chính gồm 3 liều ở trẻ sơ sinh.
-Bảng 4. Nồng độ trung bình nhân của kháng thể IgG polysaccharid kháng võ phế cầu khuẩn $(\mu g/ml)$ 1
-tháng sau khi tiêm chủng (trong Nghiên cứu 6096A1-3002)
-| Týp huyết thanh \|\|   | Tuổi từ 7 đến 11 tháng \|   | Tuổi từ 12 đến 23 tháng \|   | Tuổi từ ≥ 24 tháng đến 5 tuổi   |
-|  | $(N=83-84)$   | $(N=104-110)$   | $(N=135-152)$   |
-| 1   | 2,88   | 2,74   | 1,78   |
-| 3   | 1,94   | 1,86   | 1,42   |
-| 4   | 3,63   | 4,28   | 3.37   |
-| 5   | 2,85   | 2,16   | 2,33   |
-| 6A   | 3,72   | 2,62   | 2,96   |
-| 6B   | 4,77   | 3,38   | 3,41   |
-| 7F   | 5,30   | 5,99   | 4,92   |
-| 9V   | 2,56   | 3,08   | 2,67   |
-| 14   | 8,04   | 6,45   | 2,24   |
-| 18C   | 2,77   | 3,71   | 2,56   |
-| 19A   | 4,77   | 4,94   | 6,03   |
-| 19F   | 2,88   | 3,07   | 2,53   |
-| 23F   | 2,16   | 1,98   | 1,55   |
+
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="4">Bảng 4. Nồng độ trung bình nhân của kháng thể IgG polysaccharid kháng vỏ phế cầu khuẩn (µg/ml) 1 tháng sau khi tiêm chủng (trong Nghiên cứu 6096A1-3002)</th>
+</tr>
+<tr>
+<th>Týp huyết thanh</th>
+<th>Tuổi từ 7 đến 11 tháng<br>(N=83-84)</th>
+<th>Tuổi từ 12 đến 23 tháng<br>(N=104-110)</th>
+<th>Tuổi từ ≥ 24 tháng đến 5 tuổi<br>(N=135-152)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2,88</td>
+<td>2,74</td>
+<td>1,78</td>
+</tr>
+<tr>
+<td>3</td>
+<td>1,94</td>
+<td>1,86</td>
+<td>1,42</td>
+</tr>
+<tr>
+<td>4</td>
+<td>3,63</td>
+<td>4,28</td>
+<td>3,37</td>
+</tr>
+<tr>
+<td>5</td>
+<td>2,85</td>
+<td>2,16</td>
+<td>2,33</td>
+</tr>
+<tr>
+<td>6A</td>
+<td>3,72</td>
+<td>2,62</td>
+<td>2,96</td>
+</tr>
+<tr>
+<td>6B</td>
+<td>4,77</td>
+<td>3,38</td>
+<td>3,41</td>
+</tr>
+<tr>
+<td>7F</td>
+<td>5,30</td>
+<td>5,99</td>
+<td>4,92</td>
+</tr>
+<tr>
+<td>9V</td>
+<td>2,56</td>
+<td>3,08</td>
+<td>2,67</td>
+</tr>
+<tr>
+<td>14</td>
+<td>8,04</td>
+<td>6,45</td>
+<td>2,24</td>
+</tr>
+<tr>
+<td>18C</td>
+<td>2,77</td>
+<td>3,71</td>
+<td>2,56</td>
+</tr>
+<tr>
+<td>19A</td>
+<td>4,77</td>
+<td>4,94</td>
+<td>6,03</td>
+</tr>
+<tr>
+<td>19F</td>
+<td>2,88</td>
+<td>3,07</td>
+<td>2,53</td>
+</tr>
+<tr>
+<td>23F</td>
+<td>2,16</td>
+<td>1,98</td>
+<td>1,55</td>
+</tr>
+</tbody>
+</table>
+
 Việc tiêm đồng thời với các vắc xin khác ở trẻ sơ sinh và trẻ em
 Trong nghiên cứu 6096A1-004, 6096A1-3005 và 6096A1-3008, các vắc xin dùng thường quy cho trẻ
 em được dùng trong cùng đợt với Prevenar 13. Đáp ứng đối với kháng nguyên vắc xin khác dùng đồng
@@ -793,44 +1180,172 @@ nhận Prevenar 13 tương đương với đáp ứng của trẻ nhận Prevena
 thức về tính không thua kém. Đáp ứng thủy đậu đo bằng bộ kit ELISA tế bào toàn phần thương mại,
 được thiết kế để phát hiện tính miễn dịch sau khi nhiễm trùng tự nhiên, đều thấp trong cả hai nhóm,
 nhưng không có bằng chứng đáp ứng miễn dịch bị nhiễu do Prevenar 13 tiêm đồng thời.
-Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong
-Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 609641-3008)
-| Tên vắc xin/kháng nguyên trong vắc  xin   | % người đáp ứng trong nhóm  Prevenar 13   |  | % người đáp ứng  Prevenar (7 týp)   | trong nhóm   |
-| Mức độ kháng thể định trước)   | $(n^{a}/N^{b})$   |  | $(n^{a}/N^{b})$   |  |
-| Đáp ứng Pediarix (DTaP-IPV-HepB)   | sau đợt tiêm chủng 3 liều dành   | cho   | trẻ sơ sinh   |  |
-| Bạch hầu  $(\ge0,1$ đơn vị quốc tế $[IU]/ml)$   | 95,7 (223/233)   |  | 96,1 (221/230)   |  |
-| Uốn ván  $(\ge0,1$ đơn vị quốc tế [ $[IU]/ml)$   | 98,4 (181/184)   |  | 98,5 (193/196)   |  |
-| Ho gà   |  |  |  |  |
-|   16,5 đơn vị nội độc tố  $[EU]/ml)$  FHA   | 94,1 (225/239)   |  | 95,0 (228/240)   |  |
-|  40,5 đơn vị nội độc tố  $[EU]/ml)$  PRN   26 đơn vị nội độc tố $[EU]/ml)$   | 96,7 (231/239)  93,7 (224/239)   |  | 95,0 (228/240)  95,8 (230/240)   |  |
-| Bại liệt loại 1  độ chuẩn ≥ 1:8)  Bại liệt loại 2  độ chuẩn  1:8)   | 100,0 (183/183)  98,9 (181/183)   |  | 100,0 (187/187)  99,5 (186/187)   |  |
-| Bại liệt loại 3  độ chuẩn ≥ 1:8)   | 100,0 (182/182)   |  | 99,5 (186/187)   |  |
-| Vi rút viêm gan B  (≥10,0 mIU/ml)   | 100,0 (153/153)   |  | 100,0 (173/173)   |  |
-| Đáp ứng ActHIB (PRP) sau đợt tiêm   | chủng dành cho trẻ sơ sinh   |  |  |  |
-| Hib (PRP)  $(\ge0,15~\mu g/ml)$   | 97,9 (232/237)   |  | 97,8 (225/230)   |  |
-| Hib (PRP)  $(\ge1,0~\mu g/ml)$   | 77,6 (184/237)   |  | 78,3 (180/230)   |  |
-| Đáp ứng Pentacel (DTaP-IPV-Hib) sau đợt tiêm chủng dành cho trẻ sơ   |  |  | sinh   |  |
-| Hib (PRP)  $(\ge0,15~\mu g/ml)$  Hib (PRP)  $(\ge1,0~\mu g/ml)$   | 97,8 (266/272)  81,6 (222/272)   |  | 99,6 (265/266)  84,6 (225/266)   |  |
-| Ho gà   12,0 đơn vị nội độc tố $[EU]/ml)$   | 98,6 (278/282)   |  | 96,0 (266/277)   |  |
-| FHA   20,0 đơn vị nội độc tố $[EU]/ml)$   | 99,3 (281/283)   |  | 95,7 (266/278)   |  |
-| PRN  $(\ge7,0$ đơn vị nội độc tố $[EU]/ml)$   | 96,8 (274/283)   |  | 96,0 (266/277)   |  |
-| FIM   |  |  |  |  |
-| $(\ge4,0$ đơn vị nội độc tố  $[EU]/ml)$   | 93,6 (264/282)   |  | 95,3 (262/275)   |  |
 
-Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong
-Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 609641-3008)
-| Tên vắc xin/kháng nguyên trong vắc  xin   | % người đáp ứng trong nhóm  Prevenar 13   | % người đáp ứng  Prevenar (7 týp)  trong nhóm   |
-| (Mức độ kháng thể định trước)   | $(n^{a}/N^{b})$   | $(n^{a}/N^{b})$   |
-| Hib (PRP)  $(\ge0,15~\mu g/ml)$   | 100,0 (230/230)   | 100,0 (214/214)   |
-| Hib (PRP)  $(\ge1,0~\mu g/ml)$   | 90,4 (208/230)   | 92,1 (197/214)   |
-| Đáp ứng ProQuad (MMR-thủy đậu)   | từ 12 đến 15 tháng   |  |
-| Sởi   | 96,4 $(213/221)$   | 97,1 (204/210)   |
-| $(\ge1,10$ qua tĩnh mạch)   |
-| Quai bị  $(\ge1,10$ qua tĩnh mạch)   | 76,5 (169/221)   | 72,9 (153/210)   |
-| Rubella (sởi Đức)  $(\ge15$ đơn vị quốc $t\hat{c}/ml)$   | 91,9 (192/209)   | 90,7 (185/204)   |
-| Thủy đậu  $(\ge1,09$ qua tĩnh mạch)   | 26,7 (59/221)   | 21,9 (46/210)   |
-|  Số đối tượng đạt mức độ kháng thể định trước.   |  |  |
- Số đối tượng trong quần thể có tính sinh miễn dịch đánh giá được.
+<table border="1">
+<thead>
+<tr>
+<th colspan="3">Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 6096A1-3008)</th>
+</tr>
+<tr>
+<th>Tên vắc xin/kháng nguyên trong vắc xin<br>(Mức độ kháng thể định trước)</th>
+<th>% người đáp ứng trong nhóm Prevenar 13<br>(n<sup>a</sup>/N<sup>b</sup>)</th>
+<th>% người đáp ứng trong nhóm Prevenar (7 týp)<br>(n<sup>a</sup>/N<sup>b</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="3">Đáp ứng Pediarix (DTaP-IPV-HepB) sau đợt tiêm chủng 3 liều dành cho trẻ sơ sinh</th>
+</tr>
+<tr>
+<td>Bạch hầu<br>(≥ 0,1 đơn vị quốc tế [IU]/ml)</td>
+<td>95,7 (223/233)</td>
+<td>96,1 (221/230)</td>
+</tr>
+<tr>
+<td>Uốn ván<br>(≥ 0,1 đơn vị quốc tế [IU]/ml)</td>
+<td>98,4 (181/184)</td>
+<td>98,5 (193/196)</td>
+</tr>
+<tr>
+<td>Ho gà<br>(≥ 16,5 đơn vị nội độc tố [EU]/ml)</td>
+<td>94,1 (225/239)</td>
+<td>95,0 (228/240)</td>
+</tr>
+<tr>
+<td>FHA<br>(≥ 40,5 đơn vị nội độc tố [EU]/ml)</td>
+<td>96,7 (231/239)</td>
+<td>95,0 (228/240)</td>
+</tr>
+<tr>
+<td>PRN<br>(≥ 26 đơn vị nội độc tố [EU]/ml)</td>
+<td>93,7 (224/239)</td>
+<td>95,8 (230/240)</td>
+</tr>
+<tr>
+<td>Bại liệt loại 1<br>(độ chuẩn ≥ 1:8)</td>
+<td>100,0 (183/183)</td>
+<td>100,0 (187/187)</td>
+</tr>
+<tr>
+<td>Bại liệt loại 2<br>(độ chuẩn ≥ 1:8)</td>
+<td>98,9 (181/183)</td>
+<td>99,5 (186/187)</td>
+</tr>
+<tr>
+<td>Bại liệt loại 3<br>(độ chuẩn ≥ 1:8)</td>
+<td>100,0 (182/182)</td>
+<td>99,5 (186/187)</td>
+</tr>
+<tr>
+<td>Vi rút viêm gan B<br>(≥ 10,0 mIU/ml)</td>
+<td>100,0 (153/153)</td>
+<td>100,0 (173/173)</td>
+</tr>
+<tr>
+<th colspan="3">Đáp ứng ActHIB (PRP) sau đợt tiêm chủng dành cho trẻ sơ sinh</th>
+</tr>
+<tr>
+<td>Hib (PRP)<br>(≥ 0,15 µg/ml)</td>
+<td>97,9 (232/237)</td>
+<td>97,8 (225/230)</td>
+</tr>
+<tr>
+<td>Hib (PRP)<br>(≥ 1,0 µg/ml)</td>
+<td>77,6 (184/237)</td>
+<td>78,3 (180/230)</td>
+</tr>
+<tr>
+<th colspan="3">Đáp ứng Pentacel (DTaP-IPV-Hib) sau đợt tiêm chủng dành cho trẻ sơ sinh</th>
+</tr>
+<tr>
+<td>Hib (PRP)<br>(≥ 0,15 µg/ml)</td>
+<td>97,8 (266/272)</td>
+<td>99,6 (265/266)</td>
+</tr>
+<tr>
+<td>Hib (PRP)<br>(≥ 1,0 µg/ml)</td>
+<td>81,6 (222/272)</td>
+<td>84,6 (225/266)</td>
+</tr>
+<tr>
+<td>Ho gà<br>(≥ 12,0 đơn vị nội độc tố [EU]/ml)</td>
+<td>98,6 (278/282)</td>
+<td>96,0 (266/277)</td>
+</tr>
+<tr>
+<td>FHA<br>(≥ 20,0 đơn vị nội độc tố [EU]/ml)</td>
+<td>99,3 (281/283)</td>
+<td>95,7 (266/278)</td>
+</tr>
+<tr>
+<td>PRN<br>(≥ 7,0 đơn vị nội độc tố [EU]/ml)</td>
+<td>96,8 (274/283)</td>
+<td>96,0 (266/277)</td>
+</tr>
+<tr>
+<td>FIM<br>(≥ 4,0 đơn vị nội độc tố [EU]/ml)</td>
+<td>93,6 (264/282)</td>
+<td>95,3 (262/275)</td>
+</tr>
+<tr>
+<th colspan="3">Đáp ứng PedvaxHIB (PRP-OMP) từ 12 đến 15 tháng sau đợt tiêm chủng ActHIB dành cho trẻ sơ sinh</th>
+</tr>
+</tbody>
+</table>
+
+
+<div>
+<table border="1">
+<thead>
+<tr>
+<th colspan="3">Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 6096A1-3008)</th>
+</tr>
+<tr>
+<th>Tên vắc xin/kháng nguyên trong vắc xin<br>(Mức độ kháng thể định trước)</th>
+<th>% người đáp ứng trong nhóm Prevenar 13<br>(n<sup>a</sup>/N<sup>b</sup>)</th>
+<th>% người đáp ứng trong nhóm Prevenar (7 týp)<br>(n<sup>a</sup>/N<sup>b</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hib (PRP)<br>(≥ 0,15 µg/ml)</td>
+<td>100,0 (230/230)</td>
+<td>100,0 (214/214)</td>
+</tr>
+<tr>
+<td>Hib (PRP)<br>(≥ 1,0 µg/ml)</td>
+<td>90,4 (208/230)</td>
+<td>92,1 (197/214)</td>
+</tr>
+<tr>
+<th colspan="3">Đáp ứng ProQuad (MMR-thủy đậu) từ 12 đến 15 tháng</th>
+</tr>
+<tr>
+<td>Sởi<br>(≥ 1,10 qua tĩnh mạch)</td>
+<td>96,4 (213/221)</td>
+<td>97,1 (204/210)</td>
+</tr>
+<tr>
+<td>Quai bị<br>(≥ 1,10 qua tĩnh mạch)</td>
+<td>76,5 (169/221)</td>
+<td>72,9 (153/210)</td>
+</tr>
+<tr>
+<td>Rubella (sởi Đức)<br>(≥ 15 đơn vị quốc tế/ml)</td>
+<td>91,9 (192/209)</td>
+<td>90,7 (185/204)</td>
+</tr>
+<tr>
+<td>Thủy đậu<br>(≥ 1,09 qua tĩnh mạch)</td>
+<td>26,7 (59/221)</td>
+<td>21,9 (46/210)</td>
+</tr>
+</tbody>
+</table>
+<p><sup>a</sup> Số đối tượng đạt mức độ kháng thể định trước.<br><sup>b</sup> Số đối tượng trong quần thể có tính sinh miễn dịch đánh giá được.</p>
+</div>
+
+
 Trẻ em và thiếu niên từ 5 đến 17 tuổi
 Trong Nghiên cứu 6096A1-3011 tại Mỹ, ở trẻ em từ 5 đến <10 tuổi trước đó được tiêm chủng tối thiểu
 một liều Prevenar (7 týp), và ở trẻ em và thiếu niên chưa tiêm chủng vắc xin phế cầu khuẩn từ 10 đến
@@ -843,91 +1358,437 @@ ra bởi liều Prevenar (7 týp) thứ tư ở lúc từ 12 đến 15 tháng tu
 nồng độ IgG sinh ra bởi một liều đơn Prevenar 13 đối với 6 týp huyết thanh bổ sung ở trẻ em từ 5 đến
 <10 tuổi không kém hơn so với nồng độ sinh ra bởi liều Prevenar 13 thứ tư ở lúc từ 12 đến 15 tháng
 tuổi (Nghiên cứu 6096A1-3005) như thể hiện trong Bảng 6 và 7.
-Bảng 2. So sánh nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn $(\mu g/ml)$ cho 7 týp huyết
-thanh thường gặp sau một liều đơn Prevenar 13 (Nghiên cứu 6096A1-3011) với Prevenar (7 týp) sau
-liều thứ tư (Nghiên cứu 6096A1-3005)"
-|  |  | Nhóm Vắc xin (theo Ghi danh/Chọn ngẫu nhiên)   |  |  |  |  |  |
-|  | Prevenar 13  5 đến <10 tuổi  (Nghiên cứu 6096A1-3011)   |  |  | Prevenar (7 týp)  12-15 tháng tuổi  (Nghiên cứu 6096A1-3005)   |  |  |  |
-| Týp  huyết   |  |  |  |  |  |  |  |
-| thanh   | nb  GMC   | (CI 95%)   |  | $n^{b}$  GMC   | (CI 95%)   | Tỷ $l\hat{e}^{e}$   | (CI 95%)   |
-| Thường gặp   |  |  |  |  |  |  |  |
-| 4   | 8,45  169   | (7,24, 9,87)   |  | 2,79  173   | (2,45, 3,18)   | 3,03   | (2,48, 3,71)   |
-| 6B   | 53,56  171   | (45,48, 63,07)   |  | 9,47  173   | (8,26, 10,86)   | 5,66   | (4,57, 6,99)   |
-| 9V   | 9,51  171   | (8,38, 10,78)   |  | 1,97  172   | (1,77, 2,19)   | 4,83   | (4,10, 5,70)   |
-| 14   | 29,36  169   | (24,78,34,78)   |  | 8,19  173   | (7,31,9,18)   | 3,58   | (2,93, 4,39)   |
-| 18C   | 171  8,23   | (7,13, 9,51)   |  | 2,33  173   | (2,05, 2,65)   | 3,53   | (2,91, 4,29)   |
-| 19F   | 17,58  171   | (14,95, 20,67)   |  | 3,31  173   | (2,87, 3,81)   | 5,31   | (4,29, 6,58)   |
-| 23F   | 11,26  169   | (9,79, 12,95)   |  | 173  4,49   | (3,86, 5,23)   | 2,51   | (2,04, 3,08)   |
-* Quần thể sinh miễn dịch có thể đánh giá.
- $n=S\dot{o}$ đối tượng có nồng độ kháng thể xác định cho týp huyết thanh quy định.
- Nồng độ trung bình nhân (GMC) được tính toán bằng tất cả các đối tượng có sẵn dữ liệu cho đợt lấy máu quy
-định. GMC sau liều thứ tư đối với Prevenar (7 týp) (Nghiên cứu 6096A1-3005).
- Khoảng tin cậy (CI) là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student với lô ga rít trung bình
-của nồng độ.
-Tỷ lệ GMC: Prevenar 13 (Nghiên cứu 6096A1-3011) so với Prevenar (7 týp) (Nghiên cứu 6096A1-3005).
-CI đối với tỷ lệ là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student đối với chênh lệch trung
-bình của lô ga rít số đo (Prevenar 13 [Nghiên cứu 6096A1-3011]-Prevenar (7 týp) [Nghiên cứu 6096A1-3005]).
-Lưu ý  Các số NCT trên Clinical Trials.gov là như sau: (Nghiên cứu 6096A1-3011) NCT00761631, (Nghiên cứu
-6096A1-3005) NCT00444457.
-Bảng 3. So sánh nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn $(\mu g/ml)$ cho 6 týp huyết
-thanh bổ sung sau một liều đơn Prevenar 13 (Nghiên cứu 6096A1-3011) với Prevenar 13 trong Nghiên
-cứu 609641-3005 sau liều thứ tư (trong Nghiên cứu 6096A1-3005)"
-|  |  | Nhóm Vắc xin (theo Ghi danh/Chọn ngẫu nhiên)   |  |  |  |  |
-|  | Prevenar 13  (5 đến <10 tuổi)  (Nghiên cứu   | 6096A1-3011)   | Prevenar 13   | (12-15 tháng)  (Nghiên cứu 6096A1-3005)   |  |  |
-| Týp huyết  thanh  $n^{b}$   | $n^{b}$  GMC   | (CI 95%)   | GMC   | (CI 95%)   | Tỷ $l\hat{e}^{c}$   | (CI 95%)   |
-| Bổ sung  1   |  |  |  |  |  |  |
-| 1068   | 3.57  171   | (3.05, 4.18)   | 2.90   | (2,75, 3,05)   | 1,23   | (1,07, 1,42)   |
-| 1065  3   | 2,38  171   | (2,07, 2,74)   | 0,75   | (0,72, 0,79)   | 3,17   | (2,78, 3,62)   |
-| 1068  5   | 5,52  171   | (4,82, 6,32)   | 2,85   | (2,72, 2,98)   | 1,94   | (1,71, 2,20)   |
-| 1063  6A   | 169  21,51   | (18,15,25,51)   | 7,11   | (6,78, 7,46)   | 3,03   | (2,64,3,47)   |
-| 1067  7F   | 6,24  170   | (5,49, 7,08)   | 4,39   | (4,18,4,61)   | 1,42   | (1,24, 1,62)   |
-| 1056  19A   | 17,18  170   | (15,01, 19,67)   | 8,44   | (8,05, 8,86)   | 2,03   | (1,78, 2,32)   |
- Quần thể sinh miễn dịch có thể đánh giá.
- $n=S\hat{o}$ đối tượng có nồng độ kháng thể xác định cho týp huyết thanh quy định.
-* Nồng độ trung bình nhân (GMC) được tính toán bằng tất cả các đối tượng có sẵn dữ liệu cho đợt lấy máu quy
-định. GMC sau liều thứ tư đối với Prevenar 13 (Nghiên cứu 6096A1-3005).
- Khoảng tin cậy (CI) là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student với lô ga rít trung bình
-của nồng độ.
- Tỷ lệ GMC: Prevenar 13 (Nghiên cứu 6096A1-3011) so với Prevenar 13 (Nghiên cứu 6096A1-3005).
- CI đối với tỷ lệ là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student đối với chênh lệch trung
-bình của lô ga rít số đo (Prevenar 13 [Nghiên cứu 6096A1-3011]-Prevenar 13 [Nghiên cứu 6096A1-3005]).
-Lưu ý - Các số NCT trên Clinical Trials.gov là như sau: (Nghiên cứu 6096A1-3011) NCT00761631, (Nghiên cứu
-6096A1-3005) NCT00444457.
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="9">Bảng 2. So sánh nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn (µg/ml) cho 7 týp huyết thanh thường gặp sau một liều đơn Prevenar 13 (Nghiên cứu 6096A1-3011) với Prevenar (7 týp) sau liều thứ tư (Nghiên cứu 6096A1-3005)<sup>a</sup></th>
+</tr>
+<tr>
+<th></th>
+<th colspan="8">Nhóm Vắc xin (theo Ghi danh/Chọn ngẫu nhiên)</th>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Prevenar 13<br>5 đến &lt;10 tuổi<br>(Nghiên cứu 6096A1-3011)</th>
+<th colspan="3">Prevenar (7 týp)<br>12-15 tháng tuổi<br>(Nghiên cứu 6096A1-3005)</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th>Týp huyết thanh</th>
+<th>n<sup>b</sup></th>
+<th>GMC<sup>c</sup></th>
+<th>(CI 95%<sup>d</sup>)</th>
+<th>n<sup>b</sup></th>
+<th>GMC<sup>c</sup></th>
+<th>(CI 95%<sup>d</sup>)</th>
+<th>Tỷ lệ<sup>e</sup></th>
+<th>(CI 95%<sup>f</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="9">Thường gặp</td>
+</tr>
+<tr>
+<td>4</td>
+<td>169</td>
+<td>8,45</td>
+<td>(7,24, 9,87)</td>
+<td>173</td>
+<td>2,79</td>
+<td>(2,45, 3,18)</td>
+<td>3,03</td>
+<td>(2,48, 3,71)</td>
+</tr>
+<tr>
+<td>6B</td>
+<td>171</td>
+<td>53,56</td>
+<td>(45,48, 63,07)</td>
+<td>173</td>
+<td>9,47</td>
+<td>(8,26, 10,86)</td>
+<td>5,66</td>
+<td>(4,57, 6,99)</td>
+</tr>
+<tr>
+<td>9V</td>
+<td>171</td>
+<td>9,51</td>
+<td>(8,38, 10,78)</td>
+<td>172</td>
+<td>1,97</td>
+<td>(1,77, 2,19)</td>
+<td>4,83</td>
+<td>(4,10, 5,70)</td>
+</tr>
+<tr>
+<td>14</td>
+<td>169</td>
+<td>29,36</td>
+<td>(24,78, 34,78)</td>
+<td>173</td>
+<td>8,19</td>
+<td>(7,31, 9,18)</td>
+<td>3,58</td>
+<td>(2,93, 4,39)</td>
+</tr>
+<tr>
+<td>18C</td>
+<td>171</td>
+<td>8,23</td>
+<td>(7,13, 9,51)</td>
+<td>173</td>
+<td>2,33</td>
+<td>(2,05, 2,65)</td>
+<td>3,53</td>
+<td>(2,91, 4,29)</td>
+</tr>
+<tr>
+<td>19F</td>
+<td>171</td>
+<td>17,58</td>
+<td>(14,95, 20,67)</td>
+<td>173</td>
+<td>3,31</td>
+<td>(2,87, 3,81)</td>
+<td>5,31</td>
+<td>(4,29, 6,58)</td>
+</tr>
+<tr>
+<td>23F</td>
+<td>169</td>
+<td>11,26</td>
+<td>(9,79, 12,95)</td>
+<td>173</td>
+<td>4,49</td>
+<td>(3,86, 5,23)</td>
+<td>2,51</td>
+<td>(2,04, 3,08)</td>
+</tr>
+<tr>
+<td colspan="9">
+<sup>a</sup> Quần thể sinh miễn dịch có thể đánh giá.<br>
+<sup>b</sup> n = Số đối tượng có nồng độ kháng thể xác định cho týp huyết thanh quy định.<br>
+<sup>c</sup> Nồng độ trung bình nhân (GMC) được tính toán bằng tất cả các đối tượng có sẵn dữ liệu cho đợt lấy máu quy định. GMC sau liều thứ tư đối với Prevenar (7 týp) (Nghiên cứu 6096A1-3005).<br>
+<sup>d</sup> Khoảng tin cậy (CI) là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student với lô ga rít trung bình của nồng độ.<br>
+<sup>e</sup> Tỷ lệ GMC: Prevenar 13 (Nghiên cứu 6096A1-3011) so với Prevenar (7 týp) (Nghiên cứu 6096A1-3005).<br>
+<sup>f</sup> CI đối với tỷ lệ là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student đối với chênh lệch trung bình của lô ga rít số đo (Prevenar 13 [Nghiên cứu 6096A1-3011] – Prevenar (7 týp) [Nghiên cứu 6096A1-3005]).<br>
+Lưu ý – Các số NCT trên ClinicalTrials.gov là như sau: (Nghiên cứu 6096A1-3011) NCT00761631, (Nghiên cứu 6096A1-3005) NCT0044457.
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="9">Bảng 3. So sánh nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn (µg/ml) cho 6 týp huyết thanh bổ sung sau một liều đơn Prevenar 13 (Nghiên cứu 6096A1-3011) với Prevenar 13 trong Nghiên cứu 6096A1-3005 sau liều thứ tư (trong Nghiên cứu 6096A1-3005)<sup>a</sup></th>
+</tr>
+<tr>
+<th></th>
+<th colspan="6">Nhóm Vắc xin (theo Ghi danh/Chọn ngẫu nhiên)</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Prevenar 13<br>(5 đến &lt;10 tuổi)<br>(Nghiên cứu 6096A1-3011)</th>
+<th colspan="3">Prevenar 13<br>(12-15 tháng)<br>(Nghiên cứu 6096A1-3005)</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th>Týp huyết thanh</th>
+<th>n<sup>b</sup></th>
+<th>GMC<sup>c</sup></th>
+<th>(CI 95%<sup>d</sup>)</th>
+<th>n<sup>b</sup></th>
+<th>GMC<sup>c</sup></th>
+<th>(CI 95%<sup>d</sup>)</th>
+<th>Tỷ lệ<sup>e</sup></th>
+<th>(CI 95%<sup>f</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="9">Bổ sung</td>
+</tr>
+<tr>
+<td>1</td>
+<td>171</td>
+<td>3,57</td>
+<td>(3.05, 4.18)</td>
+<td>1068</td>
+<td>2.90</td>
+<td>(2,75, 3,05)</td>
+<td>1,23</td>
+<td>(1,07, 1,42)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>171</td>
+<td>2,38</td>
+<td>(2,07, 2,74)</td>
+<td>1065</td>
+<td>0,75</td>
+<td>(0,72, 0,79)</td>
+<td>3,17</td>
+<td>(2,78, 3,62)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>171</td>
+<td>5,52</td>
+<td>(4,82, 6,32)</td>
+<td>1068</td>
+<td>2,85</td>
+<td>(2,72, 2,98)</td>
+<td>1,94</td>
+<td>(1,71, 2,20)</td>
+</tr>
+<tr>
+<td>6A</td>
+<td>169</td>
+<td>21,51</td>
+<td>(18,15, 25,51)</td>
+<td>1063</td>
+<td>7,11</td>
+<td>(6,78, 7,46)</td>
+<td>3,03</td>
+<td>(2,64, 3,47)</td>
+</tr>
+<tr>
+<td>7F</td>
+<td>170</td>
+<td>6,24</td>
+<td>(5,49, 7,08)</td>
+<td>1067</td>
+<td>4,39</td>
+<td>(4,18, 4,61)</td>
+<td>1,42</td>
+<td>(1,24, 1,62)</td>
+</tr>
+<tr>
+<td>19A</td>
+<td>170</td>
+<td>17,18</td>
+<td>(15,01, 19,67)</td>
+<td>1056</td>
+<td>8,44</td>
+<td>(8,05, 8,86)</td>
+<td>2,03</td>
+<td>(1,78, 2,32)</td>
+</tr>
+<tr>
+<td colspan="9">
+<sup>a</sup> Quần thể sinh miễn dịch có thể đánh giá.<br>
+<sup>b</sup> n = Số đối tượng có nồng độ kháng thể xác định cho týp huyết thanh quy định.<br>
+<sup>c</sup> Nồng độ trung bình nhân (GMC) được tính toán bằng tất cả các đối tượng có sẵn dữ liệu cho đợt lấy máu quy định. GMC sau liều thứ tư đối với Prevenar 13 (Nghiên cứu 6096A1-3005).<br>
+<sup>d</sup> Khoảng tin cậy (CI) là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student với lô ga rít trung bình của nồng độ.<br>
+<sup>e</sup> Tỷ lệ GMC: Prevenar 13 (Nghiên cứu 6096A1-3011) so với Prevenar 13 (Nghiên cứu 6096A1-3005).<br>
+<sup>f</sup> CI đối với tỷ lệ là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student đối với chênh lệch trung bình của lô ga rít số đo (Prevenar 13 [Nghiên cứu 6096A1-3011] – Prevenar 13 [Nghiên cứu 6096A1-3005]).<br>
+Lưu ý – Các số NCT trên ClinicalTrials.gov là như sau: (Nghiên cứu 6096A1-3011) NCT00761631, (Nghiên cứu 6096A1-3005) NCT0044457.
+</td>
+</tr>
+</tbody>
+</table>
+
 Ở trẻ em và thiếu niên từ 10 đến 17 tuổi, hiệu giá trung bình nhân (GMT) của hoạt tính opsonin hóa
 (OPA) 1 tháng sau khi tiêm chủng không kém hơn (ví dụ, giới hạn dưới cho khoảng tin cậy 95% 2 bên
 cho nồng độ trung bình nhân là >0,5) so với GMT của OPA ở nhóm từ 5 đến <10 tuổi cho 12 trên 13
 týp huyết thanh (trừ huyết thanh týp 3), như thể hiện trong Bảng 8.
-Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm
-Prevenar 13 (10-17 tuổi) với Prevenar 13 (5 đến <10 tuổi) trong Nghiên cứu 6096A1-3011ª
-|  | Nhóm Vắc xin   |  |  |  |  |  |
-|  | Prevenar 13   |  | Prevenar 13   |  |  |  |
-|  | (10-17  tuổi)   |  | (5 to <10 tuổi)   |  |  |  |
-| huyết  Týp  thanh   | $n^{b}$  GMT   | (CI 95%)   | $n^{b}$  GMT   | (CI 95%)   | Tỷ lệ   | (CI 95%)   |
-| Thường gặp   |  |  |  |  |  |  |
-| 4   | 188  6912   | (6101,2, 7831,4)   | 181  4629   | (4017,2, 5334,3)   | 1,5   | (1,24, 1,80)   |
-| 6B   | 183  14224   | (12316,4, 16427,3)   | 178  14996   | (13164,1, 17083,1)   | 0,9   | (0,78, 1,15)   |
-| 9V   | 4485  186   | (4001,1, 5027,5)   | 4733  180   | (4203,3, 5328,4)   | 0,9   | (0,80, 1,12)   |
-| 14   | 6894  187   | (6028,3, 7884,0)   | 4759  176   | (4120,4, 5497,0)   | 1,4   | (1,19, 1,76)   |
-| 18C   | 182  6263   | (5436,4, 7215,1)   | 175  8815   | (7738,2, 10041,0)   | 0,7   | (0,59, 0,86)   |
-| 19F   | 184  2280   | (1949,4, 2667,6)   | 178  1559   | (1293,3, 1878,9)   | 1,5   | (1,15, 1,86)   |
-| 23F   | 187  3808   | (3354,7, 4322,6)   | 176  3245   | (2818,8, 3735,5)   | 1,2   | (0,97, 1,42)   |
-| Bổ sung   |  |  |  |  |  |  |
-| 1   | 189  319   | (271,2, 376,0)   | 179  187   | (160,4, 218,6)   | 1,7   | (1,36, 2,13)   |
-| 3   | 114  181   | (100,4, 129,4)   | 178  202   | (180,9, 226,3)   | 0,6   | (0,48, 0,67)   |
-| 5   | 183  336   | (270,3, 417,6)   | 178  491   | (426,3,565,3)   | 0,7   | (0,53, 0,89)   |
-| 6A   | 182  9928   | (8457,0, 11654,8)   | 178  7514   | (6350,8, 8890,7)   | 1,3   | (1,05, 1,67)   |
-| 7F   | 185  6584   | (5829,4, 7435,5)   | 178  10334   | (9099,0, 11736,8)   | 0,6   | (0,53, 0,76)   |
-| 19A   | 187  1276   | (1131,7, 1439,0)   | 180  1180   | (1047,5, 1329,4)   | 1,1   | (0,91, 1,28)   |
-chủng,
- 
- Quần thể sinh miễn dịch có thể đánh giá
-$n=S\hat{o}$ đối tượng với nồng độ kháng thể xác định cho týp huyết thanh quy định.
-* Hiệu giá trung bình nhân (GMT) được tính toán bằng tất cả các đối tượng có sẵn dữ liệu cho đợt lấy máu quy định.
- Khoảng tin cậy (CI) là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student với lô ga rít trung bình
-của hiệu giá.
- Tỷ lệ GMT: Prevenar 13 (10-17 tuổi) so với Prevenar 13 (5 đến <10 tuổi).
- CI đối với tỷ lệ là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student đối với chênh lệch trung
-bình của lô ga rít số số đo [Prevenar 13 (10-17 tuổi) – Prevenar 13 (5 đến <1
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="9">Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm chủng Prevenar 13 (10-17 tuổi) với Prevenar 13 (5 đến &lt;10 tuổi) trong Nghiên cứu 6096A1-3011<sup>a</sup></th>
+</tr>
+<tr>
+<th></th>
+<th colspan="8">Nhóm Vắc xin</th>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Prevenar 13<br>(10-17 tuổi)</th>
+<th colspan="3">Prevenar 13<br>(5 to &lt;10 tuổi)</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th>Týp huyết thanh</th>
+<th>n<sup>b</sup></th>
+<th>GMT<sup>c</sup></th>
+<th>(CI 95%<sup>d</sup>)</th>
+<th>n<sup>b</sup></th>
+<th>GMT<sup>c</sup></th>
+<th>(CI 95%<sup>d</sup>)</th>
+<th>Tỷ lệ<sup>e</sup></th>
+<th>(CI 95%<sup>f</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="9">Thường gặp</td>
+</tr>
+<tr>
+<td>4</td>
+<td>188</td>
+<td>6912</td>
+<td>(6101,2, 7831,4)</td>
+<td>181</td>
+<td>4629</td>
+<td>(4017,2, 5334,3)</td>
+<td>1,5</td>
+<td>(1,24, 1,80)</td>
+</tr>
+<tr>
+<td>6B</td>
+<td>183</td>
+<td>14224</td>
+<td>(12316,4, 16427,3)</td>
+<td>178</td>
+<td>14996</td>
+<td>(13164,1, 17083,1)</td>
+<td>0,9</td>
+<td>(0,78, 1,15)</td>
+</tr>
+<tr>
+<td>9V</td>
+<td>186</td>
+<td>4485</td>
+<td>(4001,1, 5027,5)</td>
+<td>180</td>
+<td>4733</td>
+<td>(4203,3, 5328,4)</td>
+<td>0,9</td>
+<td>(0,80, 1,12)</td>
+</tr>
+<tr>
+<td>14</td>
+<td>187</td>
+<td>6894</td>
+<td>(6028,3, 7884,0)</td>
+<td>176</td>
+<td>4759</td>
+<td>(4120,4, 5497,0)</td>
+<td>1,4</td>
+<td>(1,19, 1,76)</td>
+</tr>
+<tr>
+<td>18C</td>
+<td>182</td>
+<td>6263</td>
+<td>(5436,4, 7215,1)</td>
+<td>175</td>
+<td>8815</td>
+<td>(7738,2, 10041,0)</td>
+<td>0,7</td>
+<td>(0,59, 0,86)</td>
+</tr>
+<tr>
+<td>19F</td>
+<td>184</td>
+<td>2280</td>
+<td>(1949,4, 2667,6)</td>
+<td>178</td>
+<td>1559</td>
+<td>(1293,3, 1878,9)</td>
+<td>1,5</td>
+<td>(1,15, 1,86)</td>
+</tr>
+<tr>
+<td>23F</td>
+<td>187</td>
+<td>3808</td>
+<td>(3354,7, 4322,6)</td>
+<td>176</td>
+<td>3245</td>
+<td>(2818,8, 3735,5)</td>
+<td>1,2</td>
+<td>(0,97, 1,42)</td>
+</tr>
+<tr>
+<td colspan="9">Bổ sung</td>
+</tr>
+<tr>
+<td>1</td>
+<td>189</td>
+<td>319</td>
+<td>(271,2, 376,0)</td>
+<td>179</td>
+<td>187</td>
+<td>(160,4, 218,6)</td>
+<td>1,7</td>
+<td>(1,36, 2,13)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>181</td>
+<td>114</td>
+<td>(100,4, 129,4)</td>
+<td>178</td>
+<td>202</td>
+<td>(180,9, 226,3)</td>
+<td>0,6</td>
+<td>(0,48, 0,67)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>183</td>
+<td>336</td>
+<td>(270,3, 417,6)</td>
+<td>178</td>
+<td>491</td>
+<td>(426,3, 565,3)</td>
+<td>0,7</td>
+<td>(0,53, 0,89)</td>
+</tr>
+<tr>
+<td>6A</td>
+<td>182</td>
+<td>9928</td>
+<td>(8457,0, 11654,8)</td>
+<td>178</td>
+<td>7514</td>
+<td>(6350,8, 8890,7)</td>
+<td>1,3</td>
+<td>(1,05, 1,67)</td>
+</tr>
+<tr>
+<td>7F</td>
+<td>185</td>
+<td>6584</td>
+<td>(5829,4, 7435,5)</td>
+<td>178</td>
+<td>10334</td>
+<td>(9099,0, 11736,8)</td>
+<td>0,6</td>
+<td>(0,53, 0,76)</td>
+</tr>
+<tr>
+<td>19A</td>
+<td>187</td>
+<td>1276</td>
+<td>(1131,7, 1439,0)</td>
+<td>180</td>
+<td>1180</td>
+<td>(1047,5, 1329,4)</td>
+<td>1,1</td>
+<td>(0,91, 1,28)</td>
+</tr>
+<tr>
+<td colspan="9">
+<sup>a</sup> Quần thể sinh miễn dịch có thể đánh giá.<br>
+<sup>b</sup> n = Số đối tượng với nồng độ kháng thể xác định cho týp huyết thanh quy định.<br>
+<sup>c</sup> Hiệu giá trung bình nhân (GMT) được tính toán bằng tất cả các đối tượng có sẵn dữ liệu cho đợt lấy máu quy định.<br>
+<sup>d</sup> Khoảng tin cậy (CI) là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student với lô ga rít trung bình của hiệu giá.<br>
+<sup>e</sup> Tỷ lệ GMT: Prevenar 13 (10-17 tuổi) so với Prevenar 13 (5 đến &lt;10 tuổi).<br>
+<sup>f</sup> CI đối với tỷ lệ là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân phối t Student đối với chênh lệch trung bình của lô ga rít số đo [Prevenar 13 (10-17 tuổi) – Prevenar 13 (5 đến &lt;10 tuổi)].
+</td>
+</tr>
+</tbody>
+</table>
+
 Công hiệu của Prevenar 13
 Bệnh phế cầu khuẩn xâm lấn
 1 <10 tuổi)].
@@ -940,28 +1801,106 @@ cho mỗi týp huyết thanh trong 5 týp huyết thanh bổ sung trong Prevenar
 IPD týp huyết thanh 5 nào) theo nhóm tuổi được thể hiện trong Bảng 9 và dao động từ 68% (týp huyết
 thanh 3) đến 100% (týp huyết thanh 6A) cho trẻ em dưới 5 tuổi. Cũng quan sát thấy giảm tỷ lệ đáng kể
 ở nhóm tuổi cao hơn không được tiêm chủng bằng Prevenar 13 (ảnh hưởng gián tiếp).
-Băng 9: Mức giảm số ca và tỷ lệ mắc IPD theo từng týp huyết thanh trong 2013/14 so
-với 2008/09-2009/10 (2008/10) theo tuổi ở Anh và xứ Wales
-|  | <5 tuổi   |  |  | 5 đến 64 tuổi   |  | ≥65 tuổi   |  |  |
-|  | 2008-  10    | 2013/  149   | % giảm tỷ  (CI  lệ  95%*)   | 2013/  2008-  105  149   | % giảm tỷ  lệ (CI  95%*)   | 2008-  10   | 2013/  14   | % giảm tỷ lệ  (CI 95%*)   |
-|  |  |  | Các týp huyết thanh bổ sung có trong Prevenar 13   |  |  |  |  |  |
-| 1   | 59 (54)   | 5 (5)   | 91%  (98%;  68%)**   | 77 (71)  458  (382)   | 83%  (88%;  74%)**   | 102  (89)   | 13  (13)   | 87%  (94%;  72%)**   |
-| 
-| 3   | 26 (24)   | 8 (8)   | 68%   | 178  73 (68)   | 59%   | 256   | 143   | 44%   |
-|  |  |  | (89%; 6%)   | (148)   | (72%;  38%)**   | (224)   | (146)   | (57%;  27%)**   |
-| 6A   | 10 (9)   | 0 (0)   | 100%   | 5 (5)  53 (44)   | 90%   | 94 (82)   | 5 (5)   | 95%   |
-|  |  |  | 100%;  (  62%)**   |  | (97%;  56%)**   |  |  | (99%;  81%)**   |
-| 7F   | 90 (82)   | 8 (8)   | 91%  (97%;  $74\%$   | 160  430  (361)  (148)   | 63%  (71%;  50%)**   | 173  (152)   | 75  (77)   | 56%  (70%;  37%)**   |
-| 19A   | 85 (77)   | 7 (7)   | 91%   | 104  225  (191)  (97)   | 54%   | 279  (246)   | 97  (99)   | 65%   |
-|  |  |  | (97%;  75%)**   |  | (65%;  $32\%)^{**}$   |  |  | (75%;  53%)**   |
-§
-*
-Hiệu chỉnh theo tỷ lệ mẫu lấy theo týp huyết thanh, độ tuổi bỏ qua, mẫu số so với 2009/10, và theo xu hướng
-trong toàn bộ bệnh phế cầu khuẩn xâm lấn tính đến 2009/10 (sau đó không có xu hướng nào được hiệu chỉnh
-nữa).
-CI 95% cao lên do khoảng Poisson được tính theo độ phân tán quá mức 2-1 quan sát được từ mô hình của
-tất cả dữ liệu IPD trước khi dùng Prevenar (7 týp) 2000-06.
-** p<0,005 để gộp cả 6A trong trường hợp $p=0,002$
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="10">Bảng 9: Mức giảm số ca và tỷ lệ mắc IPD theo từng týp huyết thanh trong 2013/14 so với 2008/09-2009/10 (2008/10) theo tuổi ở Anh và xứ Wales</th>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">&lt;5 tuổi</th>
+<th colspan="3">5 đến 64 tuổi</th>
+<th colspan="3">≥65 tuổi</th>
+</tr>
+<tr>
+<th></th>
+<th>2008-10<sup>§</sup></th>
+<th>2013/14<sup>§</sup></th>
+<th>% giảm tỷ lệ (CI 95%*)</th>
+<th>2008-10<sup>§</sup></th>
+<th>2013/14<sup>§</sup></th>
+<th>% giảm tỷ lệ (CI 95%*)</th>
+<th>2008-10<sup>§</sup></th>
+<th>2013/14<sup>§</sup></th>
+<th>% giảm tỷ lệ (CI 95%*)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="10">Các týp huyết thanh bổ sung có trong Prevenar 13</th>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td>59 (54)</td>
+<td>5 (5)</td>
+<td>91%<br>(98%; 68%)**</td>
+<td>458 (382)</td>
+<td>77 (71)</td>
+<td>83%<br>(88%; 74%)**</td>
+<td>102 (89)</td>
+<td>13 (13)</td>
+<td>87%<br>(94%; 72%)**</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>26 (24)</td>
+<td>8 (8)</td>
+<td>68%<br>(89%; 6%)</td>
+<td>178 (148)</td>
+<td>73 (68)</td>
+<td>59%<br>(72%; 38%)**</td>
+<td>256 (224)</td>
+<td>143 (146)</td>
+<td>44%<br>(57%; 27%)**</td>
+</tr>
+<tr>
+<td><strong>6A</strong></td>
+<td>10 (9)</td>
+<td>0 (0)</td>
+<td>100%<br>(100%; 62%)**</td>
+<td>53 (44)</td>
+<td>5 (5)</td>
+<td>90%<br>(97%; 56%)**</td>
+<td>94 (82)</td>
+<td>5 (5)</td>
+<td>95%<br>(99%; 81%)**</td>
+</tr>
+<tr>
+<td><strong>7F</strong></td>
+<td>90 (82)</td>
+<td>8 (8)</td>
+<td>91%<br>(97%; 74%)**</td>
+<td>430 (361)</td>
+<td>160 (148)</td>
+<td>63%<br>(71%; 50%)**</td>
+<td>173 (152)</td>
+<td>75 (77)</td>
+<td>56%<br>(70%; 37%)**</td>
+</tr>
+<tr>
+<td><strong>19A</strong></td>
+<td>85 (77)</td>
+<td>7 (7)</td>
+<td>91%<br>(97%; 75%)**</td>
+<td>225 (191)</td>
+<td>104 (97)</td>
+<td>54%<br>(65%; 32%)**</td>
+<td>279 (246)</td>
+<td>97 (99)</td>
+<td>65%<br>(75%; 53%)**</td>
+</tr>
+<tr>
+<td colspan="10">
+<sup>§</sup> Hiệu chỉnh theo tỷ lệ mẫu lấy theo týp huyết thanh, độ tuổi bỏ qua, mẫu số so với 2009/10, và theo xu hướng trong toàn bộ bệnh phế cầu khuẩn xâm lấn tính đến 2009/10 (sau đó không có xu hướng nào được hiệu chỉnh nữa).<br>
+* CI 95% cao lên do khoảng Poisson được tính theo độ phân tán quá mức 2·1 quan sát được từ mô hình của tất cả dữ liệu IPD trước khi dùng Prevenar (7 týp) 2000-06.<br>
+** p&lt;0,005 để gộp cả 6A trong trường hợp p=0,002
+</td>
+</tr>
+</tbody>
+</table>
+
+Viêm tai giữa (OM)
 Trong đợt tiêm chủng chính hai liều và liều nhắc lại trong năm tuổi thứ hai, tác động của Prevenar 13
 lên OM được ghi lại trong hệ thống giám sát chủ động tại quần thể ở Israel với việc rút để nuôi cấy chất
 dịch trong tai giữa ở trẻ dưới 2 tuổi bị OM. Sau khi Prevenar (7 týp) và sau đó là Prevenar 13 được
@@ -1090,64 +2029,254 @@ mạnh hơn đáng kể về thống kê so với đáp ứng miễn dịch quan
 Prevenar 13 so với nồng độ kháng thể sau khi dùng PPSV23 đối với 7 trên 12 týp huyết thanh chung.
 Ở người lớn từ 50 đến 59 tuổi, nồng độ kháng thể 1 năm sau tiêm Prevenar 13 cao hơn đối với 12 trên
 13 týp huyết thanh so với tiêm Prevenar 13 ở người từ 60 đến 64 tuổi.
-Bảng 10. Hiệu giá trung bình nhân (GMT) của OPA ở người lớn chưa tiêm PPSV23 từ 50 đến 59 tuổi
-được tiêm Prevenar 13; và ở người lớn từ 60 đến 64 tuổi được tiêm Prevenar 13 hoặc PPSV23 (trong
-Nghiên cứu 6115A1-004),b
-|  | Prevenar 13   | Prevenar 13   | PPSV23   | Prevenar 13,   | Prevenar 13 so với   |
-|  | 50-59 tuổi  $N=350-384$   | 60-64 tuổi  $N=359-404$   | 60-64 tuổi  $N=367-402$   | 50-59 so với  60-64 tuổi   | PPSV23,  60-64 tuổi   |
-| Týp huyết   | GMT   | GMT   | GMT   | GMR (CI 95%)   | (CI 95%)  GMR   |
-| thanh   |  |  |  |
-|  | 200   | 146   | 104   | (1,08, 1,73)  1.4   | 1,4  (1,10, 1,78)   |
-|  | 91   | 93   | 85   | (0,81, 1,19)  1.0   | (0,90, 1,32)  1,1   |
-| 4   | 2833   | 2062   | 1295   | (1,07, 1,77)  1.4   | 1,6  (1,19,2,13)   |
-| 5   | 269   | 199   | 162   | (1,01, 1,80)  1.4   | (0,93, 1,62)  1,2   |
-| $6A^{+}$   | 4328   | 2593   | 213   | (1,30, 2,15)  1.7   | (8,63, 17,08)  12,1   |
-| 6B   | 3212   | 1984   | 788   | (1,24, 2,12)  1.6   | (1,82, 3,48)  2,5   |
-| 7F   | 1520   | 1120   | 405   | (1,03, 1,79)  1.4   | (1,98, 3,87)  2,8   |
-| 9V   | 1726   | 1164   | 407   | (1,11, 1,98)  1.5   | 2,9  (2,00, 4,08)   |
-| 14   | 957   | 612   | 692   | (1,16, 2,12)  1.6   | 0,9  (0,64, 1,21)   |
-| 18C   | 1939   | 1726   | 925   | (0,86, 1,47)  1.1   | (1,39, 2,51)  1,9   |
-| 19A   | 956   | 682   | 352   | (1,16, 1,69)  1.4   | (1,56, 2,41)  1,9   |
-| 19F   | 599   | 517   | 539   | (0,87, 1,54)  1.2   | 1,0  (0,72, 1,28)   |
-| 23F   | 494   | 375   | 72   | (0,94, 1,84)  1.3   | 5,2  (3,67, 7,33)   |
-1
-3
-GMT, hiệu giá trung bình nhân.
-GMR, tỷ lệ trung bình nhân.
- 6A là týp huyết thanh chỉ có trong Prevenar 13 nhưng không có trong PPSV23.
- Không kém hơn được định nghĩa là giới hạn dưới của C1 95% 2 bên với GMR lớn hơn 0.5. Đáp ứng mạnh hơn đáng kể
-về thống kê được định nghĩa là giới hạn dưới của CI 95% 2 bên với GMR lớn hơn 1.
- Với týp huyết thanh 6A, chỉ có trong Prevenar 13, đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn
-dưới của CI 95% 2 bên với GMR lớn hơn 2.
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="9">Bảng 10. Hiệu giá trung bình nhân (GMT) của OPA ở người lớn chưa tiêm PPSV23 từ 50 đến 59 tuổi được tiêm Prevenar 13; và ở người lớn từ 60 đến 64 tuổi được tiêm Prevenar 13 hoặc PPSV23 (trong Nghiên cứu 6115A1-004)<sup>a,b</sup></th>
+</tr>
+<tr>
+<th></th>
+<th>Prevenar 13<br>50-59 tuổi<br>N=350-384</th>
+<th>Prevenar 13<br>60-64 tuổi<br>N=359-404</th>
+<th>PPSV23<br>60-64 tuổi<br>N=367-402</th>
+<th colspan="2">Prevenar 13,<br>50-59 so với<br>60-64 tuổi</th>
+<th colspan="2">Prevenar 13 so với PPSV23,<br>60-64 tuổi</th>
+</tr>
+<tr>
+<th>Týp huyết thanh</th>
+<th>GMT</th>
+<th>GMT</th>
+<th>GMT</th>
+<th>GMR</th>
+<th>(CI 95%)</th>
+<th>GMR</th>
+<th>(CI 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>200</td>
+<td>146</td>
+<td>104</td>
+<td>1.4</td>
+<td>(1,08, 1,73)</td>
+<td>1,4</td>
+<td>(1,10, 1,78)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>91</td>
+<td>93</td>
+<td>85</td>
+<td>1.0</td>
+<td>(0,81, 1,19)</td>
+<td>1,1</td>
+<td>(0,90, 1,32)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2833</td>
+<td>2062</td>
+<td>1295</td>
+<td>1.4</td>
+<td>(1,07, 1,77)</td>
+<td>1,6</td>
+<td>(1,19, 2,13)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>269</td>
+<td>199</td>
+<td>162</td>
+<td>1.4</td>
+<td>(1,01, 1,80)</td>
+<td>1,2</td>
+<td>(0,93, 1,62)</td>
+</tr>
+<tr>
+<td>6A<sup>†</sup></td>
+<td>4328</td>
+<td>2593</td>
+<td>213</td>
+<td>1.7</td>
+<td>(1,30, 2,15)</td>
+<td>12,1</td>
+<td>(8,63, 17,08)</td>
+</tr>
+<tr>
+<td>6B</td>
+<td>3212</td>
+<td>1984</td>
+<td>788</td>
+<td>1.6</td>
+<td>(1,24, 2,12)</td>
+<td>2,5</td>
+<td>(1,82, 3,48)</td>
+</tr>
+<tr>
+<td>7F</td>
+<td>1520</td>
+<td>1120</td>
+<td>405</td>
+<td>1.4</td>
+<td>(1,03, 1,79)</td>
+<td>2,8</td>
+<td>(1,98, 3,87)</td>
+</tr>
+<tr>
+<td>9V</td>
+<td>1726</td>
+<td>1164</td>
+<td>407</td>
+<td>1.5</td>
+<td>(1,11, 1,98)</td>
+<td>2,9</td>
+<td>(2,00, 4,08)</td>
+</tr>
+<tr>
+<td>14</td>
+<td>957</td>
+<td>612</td>
+<td>692</td>
+<td>1.6</td>
+<td>(1,16, 2,12)</td>
+<td>0,9</td>
+<td>(0,64, 1,21)</td>
+</tr>
+<tr>
+<td>18C</td>
+<td>1939</td>
+<td>1726</td>
+<td>925</td>
+<td>1.1</td>
+<td>(0,86, 1,47)</td>
+<td>1,9</td>
+<td>(1,39, 2,51)</td>
+</tr>
+<tr>
+<td>19A</td>
+<td>956</td>
+<td>680</td>
+<td>352</td>
+<td>1.4</td>
+<td>(1,16, 1,69)</td>
+<td>1,9</td>
+<td>(1,56, 2,41)</td>
+</tr>
+<tr>
+<td>19F</td>
+<td>599</td>
+<td>517</td>
+<td>539</td>
+<td>1.2</td>
+<td>(0,87, 1,54)</td>
+<td>1,0</td>
+<td>(0,72, 1,28)</td>
+</tr>
+<tr>
+<td>23F</td>
+<td>494</td>
+<td>375</td>
+<td>72</td>
+<td>1.3</td>
+<td>(0,94, 1,84)</td>
+<td>5,2</td>
+<td>(3,67, 7,33)</td>
+</tr>
+<tr>
+<td colspan="8">
+GMT, hiệu giá trung bình nhân.<br>
+GMR, tỷ lệ trung bình nhân.<br>
+<sup>†</sup> 6A là týp huyết thanh chỉ có trong Prevenar 13 nhưng không có trong PPSV23.<br>
+<sup>a</sup> Không kém hơn được định nghĩa là giới hạn dưới của CI 95% 2 bên với GMR lớn hơn 0.5. Đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn dưới của CI 95% 2 bên với GMR lớn hơn 1.<br>
+<sup>b</sup> Với týp huyết thanh 6A, chỉ có trong Prevenar 13, đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn dưới của CI 95% 2 bên với GMR lớn hơn 2.
+</td>
+</tr>
+</tbody>
+</table>
+
 Bảng 11 hiển thị các giá trị GMT của OPA 1 tháng sau khi tiêm chủng cho các đối tượng từ 18 đến 29
 tuổi, từ 30 đến 39 tuổi, và từ 40 đến 49 tuổi với một liều đơn Prevenar 13. Bảng này cũng cho thấy sự
 so sánh GMT của OPA ở các đối tượng từ 18 đến 49 tuổi và từ 60 đến 64 tuổi.
-Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên
-cứu 611541-004) với Prevenar $13^{a,b}$
-|  | 18-29 tuổi  $N=276-290$   | 30-39 tuổi  $N=276-288$   | 40-49 tuổi  $N=279-290$   | 18-49 tuổi  $N=836-866$   | 60-64 tuổi  $N=359-404$   | 18-49 tuổi  so với  60-64 tuổi   |  |
-| Týp   |  |  |  |  |  |  |  |
-| huyết   |  |  |  |  |  |  |  |
-| thanh   | GMT   | GMT   | GMT   | GMT   | GMT   | GMR   | (CI 95%)   |
-| 1   | 409   | 353   | 305   | 353   | 146   | 2.4   | (2,03, 2,87)   |
-|  | 112   | 93   | 72   | 91   | 93   | 1.0   | (0,84, 1,13)   |
-| 4   | 7152   | 4589   | 3229   | 4747   | 2062   | 2.3   | (1,92, 2,76)   |
-| 5   | 567   | 375   | 271   | 386   | 199   | 1.9   | (1,55, 2,42)   |
-| 6A   | 8476   | 6131   | 3626   | 5746   | 2593   | 2.2   | (1,84, 2,67)   |
-| 6B   | 14134   | 10180   | 6571   | 9813   | 1984   | 4.9   | (4,13, 5,93)   |
-| 7F   | 3741   | 3276   | 2792   | 3249   | 1120   | 2.9   | (2,41, 3,49)   |
-| 9V   | 5086   | 3208   | 2292   | 3339   | 1164   | 2.9   | (2,34, 3,52)   |
-| 14   | 4452   | 2919   | 2049   | 2983   | 612   | 4.9   | (4,01, 5,93)   |
-| 18C   | 5240   | 3841   | 3171   | 3989   | 1726   | 2.3   | (1,91, 2,79)   |
-| 19A   | 2162   | 1504   | 1209   | 1580   | 682   | 2.3   | (2,02, 2,66)   |
-| 19F   | 2251   | 1507   | 1076   | 1533   | 517   | 3.0   | (2,44, 3,60)   |
-| 23F   | 2954   | 1606   | 814   | 1570   | 375   | 4.2   | (3,31, 5,31)   |
-3
- Không kém hơn được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với độ trung bình nhân lớn hơn
-0.5.
-Đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với tỷ
-lệ trung bình nhân lớn hơn 1.
-Khoảng tin cậy (CI) với tỷ lệ là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân bố t của Student với lô
-ga rít trung bình của số đo.
+<h3>Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên cứu 6115A1-004) với Prevenar 13<sup>a,b</sup></h3>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th rowspan="2">Týp huyết thanh</th>
+      <th>18-29 tuổi<br>N=276-290</th>
+      <th>30-39 tuổi<br>N=276-288</th>
+      <th>40-49 tuổi<br>N=279-290</th>
+      <th>18-49 tuổi<br>N=836-866</th>
+      <th>60-64 tuổi<br>N=359-404</th>
+      <th colspan="2">18-49 tuổi<br>so với<br>60-64 tuổi</th>
+    </tr>
+    <tr>
+      <th>GMT<sup>b</sup></th>
+      <th>GMT<sup>b</sup></th>
+      <th>GMT<sup>b</sup></th>
+      <th>GMT<sup>b</sup></th>
+      <th>GMT<sup>b</sup></th>
+      <th>GMR</th>
+      <th>(CI 95%<sup>c</sup>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td><td>409</td><td>353</td><td>305</td><td>353</td><td>146</td><td>2.4</td><td>(2,03, 2,87)</td>
+    </tr>
+    <tr>
+      <td>3</td><td>112</td><td>93</td><td>72</td><td>91</td><td>93</td><td>1.0</td><td>(0,84, 1,13)</td>
+    </tr>
+    <tr>
+      <td>4</td><td>7152</td><td>4589</td><td>3229</td><td>4747</td><td>2062</td><td>2.3</td><td>(1,92, 2,76)</td>
+    </tr>
+    <tr>
+      <td>5</td><td>567</td><td>375</td><td>271</td><td>386</td><td>199</td><td>1.9</td><td>(1,55, 2,42)</td>
+    </tr>
+    <tr>
+      <td>6A</td><td>8476</td><td>6131</td><td>3626</td><td>5746</td><td>2593</td><td>2.2</td><td>(1,84, 2,67)</td>
+    </tr>
+    <tr>
+      <td>6B</td><td>14134</td><td>10180</td><td>6571</td><td>9813</td><td>1984</td><td>4.9</td><td>(4,13, 5,93)</td>
+    </tr>
+    <tr>
+      <td>7F</td><td>3741</td><td>3276</td><td>2792</td><td>3249</td><td>1120</td><td>2.9</td><td>(2,41, 3,49)</td>
+    </tr>
+    <tr>
+      <td>9V</td><td>5086</td><td>3208</td><td>2292</td><td>3339</td><td>1164</td><td>2.9</td><td>(2,34, 3,52)</td>
+    </tr>
+    <tr>
+      <td>14</td><td>4452</td><td>2919</td><td>2049</td><td>2983</td><td>612</td><td>4.9</td><td>(4,01, 5,93)</td>
+    </tr>
+    <tr>
+      <td>18C</td><td>5240</td><td>3841</td><td>3171</td><td>3989</td><td>1726</td><td>2.3</td><td>(1,91, 2,79)</td>
+    </tr>
+    <tr>
+      <td>19A</td><td>2162</td><td>1504</td><td>1209</td><td>1580</td><td>682</td><td>2.3</td><td>(2,02, 2,66)</td>
+    </tr>
+    <tr>
+      <td>19F</td><td>2251</td><td>1507</td><td>1076</td><td>1533</td><td>517</td><td>3.0</td><td>(2,44, 3,60)</td>
+    </tr>
+    <tr>
+      <td>23F</td><td>2954</td><td>1606</td><td>814</td><td>1570</td><td>375</td><td>4.2</td><td>(3,31, 5,31)</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="8"><sup>a</sup> Không kém hơn được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với độ trung bình nhân lớn hơn 0.5.</td>
+    </tr>
+    <tr>
+      <td colspan="8"><sup>b</sup> Đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với tỷ lệ trung bình nhân lớn hơn 1.</td>
+    </tr>
+    <tr>
+      <td colspan="8"><sup>c</sup> Khoảng tin cậy (CI) với tỷ lệ là phép biến đổi hồi quy của khoảng tin cậy dựa trên phân bố t của Student với loga rít trung bình của số đó.</td>
+    </tr>
+  </tfoot>
+</table>
+
 Ở người lớn từ 18 đến 29 tuổi, GMT của OPA với 13 týp huyết thanh trong Prevenar 13 không kém
 hơn so với đáp ứng Prevenar 13 ở người lớn từ 60 đến 64 tuổi. Với 12 týp huyết thanh, đáp ứng miễn
 dịch có liên quan đến tuổi tác, với người lớn từ 18 đến 49 tuổi thể hiện đáp ứng mạnh hơn đáng kể về
@@ -1225,33 +2354,54 @@ tiêm PPSV23 $\ge70$ tuổi. GMT của OPA với týp huyết thanh 6A cao hơn 
 dùng Prevenar 13 so với sau khi dùng PPSV23.
 Thử nghiệm lâm sàng này chứng minh rằng ở người lớn $\ge70$ tuổi và đã được tiêm PPSV23 $\ge5$ năm
 trước đó, tiêm chủng Prevenar 13 cho đáp ứng miễn dịch tốt hơn so với tái tiêm chủng bằng PPSV23.
-)
+
 2 Mù đôi điều chỉnh nghĩa là nhân viên tại cơ sở phát và tiêm vắc xin không bị ẩn thông tin, nhưng tất cả các
 nhân viên nghiên cứu khác bao gồm nghiên cứu viên chính và đối tượng đều bị ẩn thông tin.
-Bảng 12. Hiệu giá trung bình nhân (GMT) của OPA ở người lớn trước đó đã tiêm PPSV23 $\ge70$ tuổi
-(trong Nghiên cứu 6115A1-3005) được cho dùng Prevenar 13 hoặc PPSV234,b
-| Týp huyết thanh   | Prevenar 13  $N=400-426$   | PPSV23  $N=395-445$   | Prevenar 13  so với PPSV23   |
-|  | GMT   | GMT   | (CI 95%)  Tỷ lệ   |
-| 1   | 81   | 55   | (1,17, 1,88)  1,5   |
-| 3   | 55   | 49   | (0,91, 1,35)  1,1   |
-| 4   | 545   | 203   | (1,93,3,74)  2,7   |
-| 5   | 72   | 36   | (1,55, 2,63)  2,0   |
-| $6A^{+}$   | 903   | 94   | (7,00, 13,26)  9,6   |
-| 6B   | 1261   | 417   | (2,21, 4,13)  3,0   |
-| 7F   | 245   | 160   | (1,07, 2,18)  1,5   |
-| 9V   | 181   | 90   | (1,36, 2,97)  2,0   |
-| 14   | 280   | 285   | (0,73, 1,33)  1,0   |
-| 18C   | 907   | 481   | (1,42, 2,50)  1.9   |
-| 19A   | 354   | 200   | 1,8  (1,43, 2,20)   |
-| 19F   | 333   | 214   | (1,17, 2,06)  1,6   |
-| 23F   | 158   | 43   | (2,69, 5,09)  3,7   |
-GMT, hiệu giá trung bình nhân.
-16A là một týp huyết thanh chỉ có trong Prevenar 13 nhưng không có trong PPSV23.
-* Không kém hơn được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với tỷ lệ trung bình nhân (GMR) lớn
-hơn 0,5. Đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với
-GMR lớn hơn 1.
- Với týp huyết thanh 6A, chỉ có trong Prevenar 13, đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn
-dưới của khoảng tin cậy 95% 2 bên với GMR lớn hơn 2.
+<h3>Bảng 12. Hiệu giá trung bình nhân (GMT) của OPA ở người lớn trước đó đã tiêm PPSV23 ≥70 tuổi (trong Nghiên cứu 6115A1-3005) được cho dùng Prevenar 13 hoặc PPSV23<sup>a,b</sup></h3>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th>Týp huyết thanh</th>
+      <th>Prevenar 13<br>N=400-426</th>
+      <th>PPSV23<br>N=395-445</th>
+      <th colspan="2">Prevenar 13<br>so với PPSV23</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>GMT</th>
+      <th>GMT</th>
+      <th>Tỷ lệ</th>
+      <th>(CI 95%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>81</td><td>55</td><td>1,5</td><td>(1,17 , 1,88)</td></tr>
+    <tr><td>3</td><td>55</td><td>49</td><td>1,1</td><td>(0,91 , 1,35)</td></tr>
+    <tr><td>4</td><td>545</td><td>203</td><td>2,7</td><td>(1,93 , 3,74)</td></tr>
+    <tr><td>5</td><td>72</td><td>36</td><td>2,0</td><td>(1,55 , 2,63)</td></tr>
+    <tr><td>6A<sup>†</sup></td><td>903</td><td>94</td><td>9,6</td><td>(7,00 , 13,26)</td></tr>
+    <tr><td>6B</td><td>1261</td><td>417</td><td>3,0</td><td>(2,21 , 4,13)</td></tr>
+    <tr><td>7F</td><td>245</td><td>160</td><td>1,5</td><td>(1,07 , 2,18)</td></tr>
+    <tr><td>9V</td><td>181</td><td>90</td><td>2,0</td><td>(1,36 , 2,97)</td></tr>
+    <tr><td>14</td><td>280</td><td>285</td><td>1,0</td><td>(0,73 , 1,33)</td></tr>
+    <tr><td>18C</td><td>907</td><td>481</td><td>1,9</td><td>(1,42 , 2,50)</td></tr>
+    <tr><td>19A</td><td>354</td><td>200</td><td>1,8</td><td>(1,43 , 2,20)</td></tr>
+    <tr><td>19F</td><td>333</td><td>214</td><td>1,6</td><td>(1,17 , 2,06)</td></tr>
+    <tr><td>23F</td><td>158</td><td>43</td><td>3,7</td><td>(2,69 , 5,09)</td></tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="5">
+        GMT, hiệu giá trung bình nhân.<br>
+        † 6A là một týp huyết thanh chỉ có trong Prevenar 13 nhưng không có trong PPSV23.<br>
+        <sup>a</sup> Không kém hơn được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với tỷ lệ trung bình nhân (GMR) lớn hơn 0,5. Đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với GMR lớn hơn 1.<br>
+        <sup>b</sup> Với týp huyết thanh 6A, chỉ có trong Prevenar 13, đáp ứng mạnh hơn đáng kể về thống kê được định nghĩa là giới hạn dưới của khoảng tin cậy 95% 2 bên với GMR lớn hơn 2.
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
 Thử nghiệm lâm sàng để đánh giá Prevenar 13 dùng cùng với TIV theo mùa ở người lớn
 Hai (2) thử nghiệm lâm sàng mù đôi, ngẫu nhiên (6115A1-3001 và 6115A1-3008) đánh giá tính sinh
 miễn dịch của Prevenar 13 dùng cùng với TIV (chủng A/H1N1, A/H3N2, và B) ở người lớn chưa
@@ -1284,71 +2434,217 @@ sau khi Prevenar 13 được cho dùng đồng thời với TIV so với chỉ T
 dùng đồng thời với TIV so với chỉ TIV. Đạt được sự không kém hơn cho chủng A/H1N1, và B nhưng
 không cho A/H3N2 với giới hạn dưới của khoảng tin cậy (CI) 95% là -10,4% (Bảng 14).
 Bảng 13. Tỷ lệ người tham gia từ 50 đến 59 tuổi có mức tăng ≥4 lần trong hiệu giá HAI sau TIV với
-Prevenar 13 và TIV với giả dược (trong Nghiên cứu 6115A1-3001)
-| TIV   |  | TIV + Prevenar 13   | TIV + Giả   | dược   | Chênh lệch   |
-| HAI   | n/N   | % (CI 95%)   | n/N   | % (CI 95%)   | % (CI 95%)   |
-| A/HINI   | 445/530   | 84,0 (80,6, 87,0)   | 431/531   | 81,2 (77,6, 84,4)   | 2,8 (-1,8, 7,4)   |
-| A/H3N2   | 377/530   | 71,1 (67,1, 75,0)   | 369/531   | 69,5 (65,4, 73,4)   | 1,6 (-3,9, 7,2)   |
-| B   | 321/530   | 60,6 (56,3, 64,8)   | 320/531   | 60,3 (56,0, 64,5)   | 0,3 (-5,6, 6,2)   |
-Băng 14. Tỷ lệ người tham gia ≥65 tuổi có mức tăng ≥4 lần trong hiệu giá HAI sau TIV với Prevenar 13
-và TIV với giả dược (trong Nghiên cứu 6115A1-3008)
-| TIV  HAI   | TIV +  n/N   | Prevenar 13  % (CI 95%)   | TIV + Giả  n/N   | dược  % (CI 95%)   | Chênh lệch  % (CI 95%)   |
-| A/HINI   | 440/548   | 80,3 (76,7, 83,5)   | 429/546   | 78,6 (74,9, 81,9)   | 1,7 (-3,1, 6,5)   |
-| A/H3N2   | 316/545   | 58,0 (53,7, 62,2)   | 341/545   | 62,6 (58,4, 66,6)   | -4,6 (-10,4, 1,3)   |
-| B   | 286/548   | 52,2 (47,9, 56,4)   | 295/546   | 54,0 (49,7, 58,3)   | -1,8 (-7,8, 4,1)   |
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th colspan="6" style="text-align: left;">
+        Bảng 13. Tỷ lệ người tham gia từ 50 đến 59 tuổi có mức tăng ≥4 lần trong hiệu giá HAI sau TIV với Prevenar 13 và TIV với giả dược (trong Nghiên cứu 6115A1-3001)
+      </th>
+    </tr>
+    <tr>
+      <th rowspan="2" style="text-align: left; vertical-align: top;">
+        TIV
+        <div style="margin-top: 4px;">HAI</div>
+      </th>
+      <th colspan="2" style="text-align: left;">TIV + Prevenar 13</th>
+      <th colspan="2" style="text-align: left;">TIV + Giả dược</th>
+      <th style="text-align: left;">Chênh lệch</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;">n/N</th>
+      <th style="text-align: left;">% (CI 95%)</th>
+      <th style="text-align: left;">n/N</th>
+      <th style="text-align: left;">% (CI 95%)</th>
+      <th style="text-align: left;">% (CI 95%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A/H1N1</td>
+      <td>445/530</td>
+      <td>84,0 (80,6, 87,0)</td>
+      <td>431/531</td>
+      <td>81,2 (77,6, 84,4)</td>
+      <td>2,8 (-1,8, 7,4)</td>
+    </tr>
+    <tr>
+      <td>A/H3N2</td>
+      <td>377/530</td>
+      <td>71,1 (67,1, 75,0)</td>
+      <td>369/531</td>
+      <td>69,5 (65,4, 73,4)</td>
+      <td>1,6 (-3,9, 7,2)</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>321/530</td>
+      <td>60,6 (56,3, 64,8)</td>
+      <td>320/531</td>
+      <td>60,3 (56,0, 64,5)</td>
+      <td>0,3 (-5,6, 6,2)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th colspan="6" style="text-align: left;">
+        Bảng 14. Tỷ lệ người tham gia ≥65 tuổi có mức tăng ≥4 lần trong hiệu giá HAI sau TIV với Prevenar 13 và TIV với giả dược (trong Nghiên cứu 6115A1-3008)
+      </th>
+    </tr>
+    <tr>
+      <th rowspan="2" style="text-align: left; vertical-align: top;">
+        TIV
+        <div>HAI</div>
+      </th>
+      <th colspan="2" style="text-align: left;">TIV + Prevenar 13</th>
+      <th colspan="2" style="text-align: left;">TIV + Giả dược</th>
+      <th style="text-align: left;">Chênh lệch</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;">n/N</th>
+      <th style="text-align: left;">% (CI 95%)</th>
+      <th style="text-align: left;">n/N</th>
+      <th style="text-align: left;">% (CI 95%)</th>
+      <th style="text-align: left;">% (CI 95%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A/H1N1</td>
+      <td>440/548</td>
+      <td>80,3 (76,7, 83,5)</td>
+      <td>429/546</td>
+      <td>78,6 (74,9, 81,9)</td>
+      <td>1,7 (-3,1, 6,5)</td>
+    </tr>
+    <tr>
+      <td>A/H3N2</td>
+      <td>316/545</td>
+      <td>58,0 (53,7, 62,2)</td>
+      <td>341/545</td>
+      <td>62,6 (58,4, 66,6)</td>
+      <td>-4,6 (-10,4, 1,3)</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>286/548</td>
+      <td>52,2 (47,9, 56,4)</td>
+      <td>295/546</td>
+      <td>54,0 (49,7, 58,3)</td>
+      <td>-1,8 (-7,8, 4,1)</td>
+    </tr>
+  </tbody>
+</table>
+
 Đáp ứng miễn dịch Prevenar 13 ở người từ 50 đến 59 tuổi: Đạt được sự không kém hơn cho tất cả các
 týp huyết thanh (Bảng 15).
 Đáp ứng miễn dịch Prevenar 13 ở người $\ge65$ tuổi: Đạt được sự không kém hơn cho tất cả các týp huyết
 thanh trừ týp huyết thanh 19F. Giới hạn dưới của khoảng tin cậy 95% cho tỷ lệ trung bình nhân đối với
 19F là 0,49 [tiêu chí 0,5] (Bảng 16).
-Bảng 15. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và
-1 tháng sau Prevenar 13 (Cho dùng 1 tháng sau giả dược và TIV) cho người tham gia từ 50 đến 59 tuổi
-(trong Nghiên cứu 6115A1-3001).b
-|  | Sau liều 1   | Sau liều 2   |  |
-|  | Prevenar 13+ TIV  $(N=247-294)$   | Prevenar $13^{*}$  $(N=247-289)$   | So sánh vắc xin   |
-| Týp huyết  thanh   | GMC, $\mu g/ml$   | GMC, $\mu g/ml$   | Tỷ lệ (khoảng tin cậy 95%)   |
-| 1   | 4,05   | 5,45   | 0,74 (0,58, 0,95)   |
-| 3   | 1,15   | 1,46   | 0,79 (0,66, 0,93)   |
-| 4   | 2,35   | 3,41   | 0,69 (0,55, 0,87)   |
-| 5   | 6,03   | 7,18   | 0,84 (0,67, 1,05)   |
-| 6A   | 5,78   | 6,70   | 0,86 (0,70, 1,06)   |
-| 6B   | 7,58   | 10,09   | 0,75 (0,60, 0,93)   |
-| 7F   | 8.14   | 10,57   | 0,77 (0,63, 0,95)   |
-| 9V   | 4,96   | 6.97   | 0,71 (0,59, 0,86)   |
-| 14   | 10,77   | 14,05   | 0,77 (0,60, 0,98)   |
-| 18C   | 9,65   | 13,49   | 0,72 (0,58, 0,88)   |
-| 19A   | 16,80   | 18,84   | 0,89 (0,74, 1,08)   |
-| 19F   | 6,13   | 7,13   | 0,86 (0,67, 1,10)   |
-| 23F   | 7,17   | 8,54   | 0,84 (0,66, 1,08)   |
-GMC, Nồng độ trung bình nhân.
-* Cho dùng 4 tuần sau giả dược và TIV.
-* Kháng thể đo bằng ELISA chuẩn hóa.
- Đạt được tiêu chí không kém hơn nếu giới hạn dưới của khoảng tin cậy 95% 2 bên cho nồng độ trung bình
-nhân GMC của IgG (Prevenar 13 và TIV so với chỉ Prevenar 13) >0,5 (tiêu chí gấp 2 lần).
-Bảng 16. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và
-1 tháng sau Prevenar 13 (Cho dùng 1 tháng sau giả dược và TIV) cho người tham gia $\ge65$ tuổi (trong
-Nghiên cứu 6115A1-3008)a.b
-|  | Sau liều 1   | Sau liều 2   |  |
-|  | Prevenar $13+TIV$  $(N=247-294)$   | Prevenar $13^{*}$  $(N=247-289)$   | So sánh vắc xin   |
-| Týp huyết  thanh   | GMC, $\mu g/ml$   | GMC, $\mu g/ml$   | Tỷ lệ (khoảng tin cậy 95%)   |
-| 1   | 2,52   | 3,20   | 0,79 (0,60, 1,04)   |
-| 3   | 1,08   | 1,15   | 0,94 (0,78, 1,13)   |
-| 4   | 2,15   | 3,24   | 0,66 (0,51, 0,87)   |
-| 5   | 4,74   | 6,90   | 0,69 (0,55, 0,86)   |
-| 6A   | 4,61   | 6,10   | 0,76 (0,61, 0,94)   |
-| 6B   | 6,24   | 6,43   | 0,97 (0,75, 1,25)   |
-| 7F   | 7,63   | 9,04   | 0,84 (0,67, 1,07)   |
-| 9V   | 4,97   | 6.21   | 0,80 (0,63, 1,02)   |
-| 14   | 8,95   | 12,44   | 0,72 (0,53, 0,97)   |
-| 18C   | 8,88   | 11,07   | 0,80 (0,64, 1,01)   |
-| 19A   | 11,93   | 17,10   | 0,70 (0,56, 0,87)   |
-| 19F   | 4,78   | 7,39   | 0,65 (0,49, 0,85)   |
-| 23F   | 5,82   | 6,11   | 0,95 (0,71, 1,27)   |
-GMC, Nồng độ trung bình nhân.
-* Cho dùng 4 tuần sau giả dược và TIV.
- Kháng thể đo bằng ELISA chuẩn hóa.
- Đạt được tiêu chí không kém hơn nếu giới hạn dưới của khoảng tin cậy 95% 2 bên cho nồng độ trung bình
-nhân của IgG (Prevenar 13 và TIV so với chỉ Prevenar 13) >0,5 (tiêu chí gấp 2 lần).
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align: left;">
+        Bảng 15. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và 1 tháng sau Prevenar 13 (Cho dùng 1 tháng sau giả dược và TIV) cho người tham gia từ 50 đến 59 tuổi (trong Nghiên cứu 6115A1-3001)<sup>a,b</sup>
+      </th>
+    </tr>
+    <tr>
+      <th rowspan="2"></th>
+      <th style="text-align: left;">Sau liều 1</th>
+      <th style="text-align: left;">Sau liều 2</th>
+      <th rowspan="2" style="text-align: left;">So sánh vắc xin</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;">Prevenar 13 + TIV<br>(N=247-294)</th>
+      <th style="text-align: left;">Prevenar 13<sup>*</sup><br>(N=247-289)</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;">Týp huyết thanh</th>
+      <th style="text-align: left;">GMC, µg/ml</th>
+      <th style="text-align: left;">GMC, µg/ml</th>
+      <th style="text-align: left;">Tỷ lệ (khoảng tin cậy 95%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>4,05</td><td>5,45</td><td>0,74 (0,58, 0,95)</td></tr>
+    <tr><td>3</td><td>1,15</td><td>1,46</td><td>0,79 (0,66, 0,93)</td></tr>
+    <tr><td>4</td><td>2,35</td><td>3,41</td><td>0,69 (0,55, 0,87)</td></tr>
+    <tr><td>5</td><td>6,03</td><td>7,18</td><td>0,84 (0,67, 1,05)</td></tr>
+    <tr><td>6A</td><td>5,78</td><td>6,70</td><td>0,86 (0,70, 1,06)</td></tr>
+    <tr><td>6B</td><td>7,58</td><td>10,09</td><td>0,75 (0,60, 0,93)</td></tr>
+    <tr><td>7F</td><td>8,14</td><td>10,57</td><td>0,77 (0,63, 0,95)</td></tr>
+    <tr><td>9V</td><td>4,96</td><td>6,97</td><td>0,71 (0,59, 0,86)</td></tr>
+    <tr><td>14</td><td>10,77</td><td>14,05</td><td>0,77 (0,60, 0,98)</td></tr>
+    <tr><td>18C</td><td>9,65</td><td>13,49</td><td>0,72 (0,58, 0,88)</td></tr>
+    <tr><td>19A</td><td>16,80</td><td>18,84</td><td>0,89 (0,74, 1,08)</td></tr>
+    <tr><td>19F</td><td>6,13</td><td>7,13</td><td>0,86 (0,67, 1,10)</td></tr>
+    <tr><td>23F</td><td>7,17</td><td>8,54</td><td>0,84 (0,66, 1,08)</td></tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="4" style="text-align: left;">
+        GMC, Nồng độ trung bình nhân.<br>
+        * Cho dùng 4 tuần sau giả dược và TIV.<br>
+        <sup>a</sup> Kháng thể đo bằng ELISA chuẩn hóa.<br>
+        <sup>b</sup> Đạt được tiêu chí không kém hơn nếu giới hạn dưới của khoảng tin cậy 95% 2 bên cho nồng độ trung bình nhân GMC của IgG (<b>Prevenar 13</b> và TIV so với chỉ <b>Prevenar 13</b>) &gt;0,5 (tiêu chí gấp 2 lần).
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align: left;">
+        Bảng 16. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và 1 tháng sau Prevenar 13 (Cho dùng 1 tháng sau giả dược và TIV) cho người tham gia ≥65 tuổi (trong Nghiên cứu 6115A1-3008)<sup>a,b</sup>
+      </th>
+    </tr>
+    <tr>
+      <th rowspan="2"></th>
+      <th style="text-align: left;">Sau liều 1</th>
+      <th style="text-align: left;">Sau liều 2</th>
+      <th rowspan="2" style="text-align: left;">So sánh vắc xin</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;">Prevenar 13 + TIV<br>(N=247-294)</th>
+      <th style="text-align: left;">Prevenar 13*<br>(N=247-289)</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;">Týp huyết thanh</th>
+      <th style="text-align: left;">GMC, µg/ml</th>
+      <th style="text-align: left;">GMC, µg/ml</th>
+      <th style="text-align: left;">Tỷ lệ (khoảng tin cậy 95%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>2,52</td><td>3,20</td><td>0,79 (0,60, 1,04)</td></tr>
+    <tr><td>3</td><td>1,08</td><td>1,15</td><td>0,94 (0,78, 1,13)</td></tr>
+    <tr><td>4</td><td>2,15</td><td>3,24</td><td>0,66 (0,51, 0,87)</td></tr>
+    <tr><td>5</td><td>4,74</td><td>6,90</td><td>0,69 (0,55, 0,86)</td></tr>
+    <tr><td>6A</td><td>4,61</td><td>6,10</td><td>0,76 (0,61, 0,94)</td></tr>
+    <tr><td>6B</td><td>6,24</td><td>6,43</td><td>0,97 (0,75, 1,25)</td></tr>
+    <tr><td>7F</td><td>7,63</td><td>9,04</td><td>0,84 (0,67, 1,07)</td></tr>
+    <tr><td>9V</td><td>4,97</td><td>6,21</td><td>0,80 (0,63, 1,02)</td></tr>
+    <tr><td>14</td><td>8,95</td><td>12,44</td><td>0,72 (0,53, 0,97)</td></tr>
+    <tr><td>18C</td><td>8,88</td><td>11,07</td><td>0,80 (0,64, 1,01)</td></tr>
+    <tr><td>19A</td><td>11,93</td><td>17,10</td><td>0,70 (0,56, 0,87)</td></tr>
+    <tr><td>19F</td><td>4,78</td><td>7,39</td><td>0,65 (0,49, 0,85)</td></tr>
+    <tr><td>23F</td><td>5,82</td><td>6,11</td><td>0,95 (0,71, 1,27)</td></tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="4" style="text-align: left;">
+        GMC, Nồng độ trung bình nhân.<br>
+        * Cho dùng 4 tuần sau giả dược và TIV.<br>
+        <sup>a</sup> Kháng thể đo bằng ELISA chuẩn hóa.<br>
+        <sup>b</sup> Đạt được tiêu chí không kém hơn nếu giới hạn dưới của khoảng tin cậy 95% 2 bên cho nồng độ trung bình nhân của IgG (<b>Prevenar 13</b> và TIV so với chỉ <b>Prevenar 13</b>) &gt;0,5 (tiêu chí gấp 2 lần).
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
 Prevenar 13 có thể được cho dùng đồng thời với TIV theo mùa.
 Khi Prevenar 13 được cho dùng đồng thời với TIV, đáp ứng miễn dịch với TIV tương tự như đáp ứng
 khi chỉ cho dùng TIV.
@@ -1365,51 +2661,122 @@ Prevenar 13. tính không kém hơn được chứng minh nếu giới hạn dư
 đối với tỷ lệ OPA GMT (Prevenar 13+ QIV so với Prevenar 13) là 0,5. Đáp ứng kháng thể Prevenar
 13 mcOPA thỏa tiêu chí không kém hơn đối với tất cả 13 týp huyết thanh sau khi Prevenar 13 được
 dùng đồng thời với QIV so với Prevenar 13 dùng đơn độc (Bảng 17).
-Bảng 17. Hiệu giá trung bình nhân (GMT) của OPA 1 tháng sau khi tiêm Prevenar 13 và QIV và 1
-tháng sau khi dùng Prevenar 13 (tiêm 1 tháng sau khi tiêm QIV + giả dược)
-|  | Prevenar $13+QIV$  $(n^{n}=412-425)$   | Prevenar 13 $(n^{a}=405-$  419)   | So sánh vắc xin   |
-| Týp huyết  thanh   | $GMT^{b}$   | $GMT^{b}$   | Tỷ lệ (khoảng tin cậy 95%)   |
-| 1   | 75   | 83   | 0,9 (0,74, 1,12)   |
-| 3   | 41   | 49   | 0,8 (0,70, 0,98)   |
-| 4   | 587   | 824   | 0,7 (0,55, 0,91)   |
-| S   | 97   | 101   | 1,0 (0,78, 1,18)   |
-| 6A   | 953   | 1413   | 0,7 (0,53, 0,85)   |
-| 6B   | 867   | 1041   | 0,8 (0,64, 1,08)   |
-| 7F   | 651   | 670   | 1,0 (0,83, 1,14)   |
-| 9V   | 699   | 838   | 0,8 (0,69, 1,00)   |
-| 14   | 574   | 760   | 0,8 (0,62, 0,92)   |
-| 18C   | 713   | 865   | 0,8 (0,64, 1,06)   |
-| 19A   | 337   | 390   | 0,9 (0,72, 1,04)   |
-| 19F   | 324   | 360   | 0,9 (0,71, 1,14)   |
-| 23F   | 278   | 364   | 0,8 (0,56, 1,03)   |
-= hoạt tính thực bào opsonin hóa.
-Viết tắt: GMT = hiệu giá trung bình nhân; OPA
-a. $\mathfrak{n}=S\hat{o}$ đối tượng có hiệu giá OPA xác định đối với týp huyết thanh tương ứng.
-b. GMT được tính toán dựa trên tất cả các đối tượng với số liệu sẵn có được lấy máu theo chỉ định.
-c. Tỷ lệ GMT (Prevenar 13+ QIV / giả dược so với giả dược + QIV / Prevenar 13) được tính bằng cách
-chuyển dạng trở lại khác biệt trung bình giữa các trình tự vắc xin theo thang lô ga rít.
-d. Các khoảng tin cậy đối với tỷ lệ này là giá trị chuyển dạng trở lại của khoảng tin cậy dựa trên phân phối t
-Student cho sự khác biệt trung bình của lô ga rít của các giá trị này (Prevenar 13+ QIV / giả dược  giả dược
-+ QIV/Prevenar 13).
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align: left;">
+        Bảng 17. Hiệu giá trung bình nhân (GMT) của OPA 1 tháng sau khi tiêm Prevenar 13 và QIV và 1 tháng sau khi dùng Prevenar 13 (tiêm 1 tháng sau khi tiêm QIV + giả dược)
+      </th>
+    </tr>
+    <tr>
+      <th></th>
+      <th style="text-align: left;">Prevenar 13 + QIV<br>(n<sup>a</sup>=412-425)</th>
+      <th style="text-align: left;">Prevenar 13 (n<sup>a</sup>=405-419)</th>
+      <th style="text-align: left;">So sánh vắc xin</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;">Týp huyết thanh</th>
+      <th style="text-align: left;">GMT<sup>b</sup></th>
+      <th style="text-align: left;">GMT<sup>b</sup></th>
+      <th style="text-align: left;">Tỷ lệ<sup>c</sup> (khoảng tin cậy 95%<sup>d</sup>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>75</td><td>83</td><td>0,9 (0,74, 1,12)</td></tr>
+    <tr><td>3</td><td>41</td><td>49</td><td>0,8 (0,70, 0,98)</td></tr>
+    <tr><td>4</td><td>587</td><td>824</td><td>0,7 (0,55, 0,91)</td></tr>
+    <tr><td>5</td><td>97</td><td>101</td><td>1,0 (0,78, 1,18)</td></tr>
+    <tr><td>6A</td><td>953</td><td>1413</td><td>0,7 (0,53, 0,85)</td></tr>
+    <tr><td>6B</td><td>867</td><td>1041</td><td>0,8 (0,64, 1,08)</td></tr>
+    <tr><td>7F</td><td>651</td><td>670</td><td>1,0 (0,83, 1,14)</td></tr>
+    <tr><td>9V</td><td>699</td><td>838</td><td>0,8 (0,69, 1,00)</td></tr>
+    <tr><td>14</td><td>574</td><td>760</td><td>0,8 (0,62, 0,92)</td></tr>
+    <tr><td>18C</td><td>713</td><td>865</td><td>0,8 (0,64, 1,06)</td></tr>
+    <tr><td>19A</td><td>337</td><td>390</td><td>0,9 (0,72, 1,04)</td></tr>
+    <tr><td>19F</td><td>324</td><td>360</td><td>0,9 (0,71, 1,14)</td></tr>
+    <tr><td>23F</td><td>278</td><td>364</td><td>0,8 (0,56, 1,03)</td></tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="4" style="text-align: left;">
+        Viết tắt: GMT = hiệu giá trung bình nhân; OPA = hoạt tính thực bào opsonin hóa.<br>
+        a. n = Số đối tượng có hiệu giá OPA xác định đối với týp huyết thanh tương ứng.<br>
+        b. GMT được tính toán dựa trên tất cả các đối tượng với số liệu sẵn có được lấy mẫu theo chỉ định.<br>
+        c. Tỷ lệ GMT (<b>Prevenar 13</b> + QIV / giả dược so với giả dược + QIV / <b>Prevenar 13</b>) được tính bằng cách chuyển dạng trở lại khác biệt trung bình giữa các trình tự vắc xin theo thang lô ga rít.<br>
+        d. Các khoảng tin cậy đối với tỷ lệ này là giá trị chuyển dạng trở lại của khoảng tin cậy dựa trên phân phối t Student cho sự khác biệt trung bình của lô ga rít của các giá trị này (<b>Prevenar 13</b> + QIV / giả dược – giả dược + QIV / <b>Prevenar 13</b>).
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
 Các đáp ứng kháng thể bởi QIV được đo bằng HAI 1 tháng sau khi tiêm QIV. Đáp ứng miễn dịch được
 đo bằng HAI GMT cho mỗi týp QIV 1 tháng sau khi chủng ngừa. Tính không kém hơn đã được chứng
 minh đối với mỗi loại kháng nguyên vắc xin nếu giới hạn dưới của khoảng tin cậy 95% 2 bên đối với
 tỷ lệ GMT của hiệu giá HAI $1a>0,5$. Tính không kém hơn cũng đã được chứng minh cho mỗi týp trong
 4 týp QIV sau khi Prevenar 13 được dùng đồng thời với QIV so với QIV dùng riêng biệt (Bảng 18).
-Bảng 18. Hiệu giá trung bình nhân (GMT) HẠI 1 tháng sau khi tiêm Prevenar 13 với PIV và Giả dược
-với QIV
-| Týp huyết thanh   | Prevenar 13+QIV  $n^{a}=427$  GMT   | Placebo+QIV  $n^{\prime\prime}=430$  GMTb   | Vaccine Comparison  Ratio (95% CI)   |
-| A/H1N1  A/H3N2   | 115  226   | 113  196   | 1,0  (0,88, 1,18)  (1,01, 1,32)  1,2   |
-| B/Brisbane   | 28   | 26   | 1,1  (0,95, 1,24)   |
-| B/Massachusetts   | 45   | 43   | (0,90, 1,21)  1,0   |
-Viết tắt: GMT = Hiệu giá trung bình nhân; HAI = định lượng ức chế ngưng kết hồng cầu
-a. $n=S\hat{o}$ lượng đối tượng có hiệu giá HAI xác định đối với týp huyết thanh tương ứng.
-b. GMT được tính toán dựa trên tất cả các đối tượng với số liệu sẵn có được lấy máu theo chỉ định.
-c. Tỷ lệ GMT (Prevenar 13+ QIV/ giả dược so với giả dược + QIV / Prevenar 13) được tính bằng cách chuyển
-dạng trở lại khác biệt trung bình giữa các trình tự vắc xin theo thang lô ga rít.
-d. Các khoảng tin cậy đối với tỷ lệ này là giá trị chuyển dạng trở lại của khoảng tin cậy dựa trên phân phối t Student
-cho sự khác biệt trung bình của lô ga rít của các giá trị này (Prevenar 13 + QIV / giả dược  giả dược + QIV /
-Prevenar 13).
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th colspan="6" style="text-align: left;">
+        Bảng 18. Hiệu giá trung bình nhân (GMT) HAI 1 tháng sau khi tiêm Prevenar 13 với PIV và Giả dược với QIV
+      </th>
+    </tr>
+    <tr>
+      <th colspan="6" style="border-bottom: 1px solid; height: 12px;"></th>
+    </tr>
+    <tr>
+      <th rowspan="2" style="text-align: left; vertical-align: bottom;">Týp huyết thanh</th>
+      <th colspan="2" style="text-align: center;">Prevenar 13+QIV<br>n<sup>a</sup> =427</th>
+      <th colspan="2" style="text-align: center;">Placebo+QIV<br>n<sup>a</sup>=430</th>
+      <th style="text-align: center; vertical-align: bottom;">Vaccine Comparison</th>
+    </tr>
+    <tr style="border-bottom: 1px solid;">
+      <th colspan="2" style="text-align: center;">GMT<sup>b</sup></th>
+      <th colspan="2" style="text-align: center;">GMT<sup>b</sup></th>
+      <th style="text-align: center;">Ratio<sup>c</sup> (95% CI<sup>d</sup>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">A/H1N1</td>
+      <td colspan="2" style="text-align: center;">115</td>
+      <td colspan="2" style="text-align: center;">113</td>
+      <td style="text-align: center;">1,0&nbsp;&nbsp;&nbsp;&nbsp; (0,88, 1,18)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">A/H3N2</td>
+      <td colspan="2" style="text-align: center;">226</td>
+      <td colspan="2" style="text-align: center;">196</td>
+      <td style="text-align: center;">1,2&nbsp;&nbsp;&nbsp;&nbsp; (1,01, 1,32)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">B/Brisbane</td>
+      <td colspan="2" style="text-align: center;">28</td>
+      <td colspan="2" style="text-align: center;">26</td>
+      <td style="text-align: center;">1,1&nbsp;&nbsp;&nbsp;&nbsp; (0,95, 1,24)</td>
+    </tr>
+    <tr style="border-bottom: 1px solid;">
+      <td style="text-align: center;">B/Massachusetts</td>
+      <td colspan="2" style="text-align: center;">45</td>
+      <td colspan="2" style="text-align: center;">43</td>
+      <td style="text-align: center;">1,0&nbsp;&nbsp;&nbsp;&nbsp; (0,90, 1,21)</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="6" style="text-align: left;">
+        Viết tắt: GMT = Hiệu giá trung bình nhân; HAI = định lượng ức chế ngưng kết hồng cầu<br>
+        a. n = Số lượng đối tượng có hiệu giá HAI xác định đối với týp huyết thanh tương ứng.<br>
+        b. GMT được tính toán dựa trên tất cả các đối tượng với số liệu sẵn có được lấy mẫu theo chỉ định.<br>
+        c. Tỷ lệ GMT (<b>Prevenar 13</b> + QIV / giả dược so với giả dược + QIV / <b>Prevenar 13</b>) được tính bằng cách chuyển dạng trở lại khác biệt trung bình giữa các trình tự vắc xin theo thang lô ga rít.<br>
+        d. Các khoảng tin cậy đối với tỷ lệ này là giá trị chuyển dạng trở lại của khoảng tin cậy dựa trên phân phối t Student cho sự khác biệt trung bình của lô ga rít của các giá trị này (<b>Prevenar 13</b> + QIV / giả dược – giả dược + QIV / <b>Prevenar 13</b>).
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
 5.2 Đặc tính dược động học
 Không áp dụng
 5.3 Dữ liệu an toàn tiền lâm sàng

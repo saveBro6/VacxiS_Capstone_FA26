@@ -58,26 +58,96 @@ Người lớn hơn 18 tuổi và người già.
 Nghiên cứu lâm sàng INFQ3001, 1535 người lớn trên 18 tuổi và người già nhận được liều đơn
 của Influvac tetra và 442 đối tượng nhận liều đơn Influvac tam giá.
 
-Bảng: Hiệu giá kháng thể trung bình sau tiêm
+<h2>Bảng: Hiệu giá kháng thể trung bình sau tiêm</h2>
 
-| Người lớn 18-60 tuổi | Influvac tetra $N=768$ | Influvac¹ $N=112$ | Influvac2 $N=110$ |
-| :--- | :--- | :--- | :--- |
-| | | Hiệu giá kháng thể trung bình (95% khoảng tin cậy) | |
-| A/H1H1 | 272.2 (248.0, 298.8) | 304.4 (235.1, 394.1) | 316.0 (245.1, 407.3) |
-| B/H3N2 | 442.4 (407.6, 480.2) | 536.5 (421.7, 682.6) | 417.0 (323.7, 537.1) |
-| B (Yamagata)3 | 162.5 (147.8, 187.7) | 128.7 (100.3, 165.2) | 81.7 (60.7, 109.9) |
-| B (Victoria)4 | 214.0 (195.5, 234.3) | 85.1 (62.5, 115.6) | 184.7 (139.0, 245.3) |
-| Người già trên 61 tuổi | Influvac tetra $N=765$ | Influvac¹ $N=108$ | Influvac² $N=110$ |
-| | | Hiệu giá kháng thể trung bình (95% | khoảng tin cậy) |
-| A/HIH1 | 127.2 (114.9, 140.9) | 142.4 (107.6, 188.3) | 174.2 (135.9, 223.3) |
-| B/H3N2 | 348.5 (316.8, 383.5) | 361.5 (278.3, 469.6) | 353.4 (280.7, 445.0) |
-| B (Yamagata)³ | 63.7 (57.7, 70.4) | 57.4 (43.6, 75.7) | 27.3 (20.7, 36.0) |
-| B (Victoria)4 | 109.4 (98.1, 122.0) | 48.0 (34.6, 66.6) | 106.6 (79.7, 142.8) |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Người lớn 18-60 tuổi</th>
+      <th>Influvac tetra<br>N=768</th>
+      <th>Influvac<sup>1</sup><br>N=112</th>
+      <th>Influvac<sup>2</sup><br>N=110</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="3" align="center">Hiệu giá kháng thể trung bình (95% khoảng tin cậy)</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A/H1H1</td>
+      <td>272.2 (248.0, 298.8)</td>
+      <td>304.4 (235.1, 394.1)</td>
+      <td>316.0 (245.1, 407.3)</td>
+    </tr>
+    <tr>
+      <td>B/H3N2</td>
+      <td>442.4 (407.6, 480.2)</td>
+      <td>536.5 (421.7, 682.6)</td>
+      <td>417.0 (323.7, 537.1)</td>
+    </tr>
+    <tr>
+      <td>B (Yamagata)<sup>3</sup></td>
+      <td>162.5 (147.8, 187.7)</td>
+      <td>128.7 (100.3, 165.2)</td>
+      <td>81.7 (60.7, 109.9)</td>
+    </tr>
+    <tr>
+      <td>B (Victoria)<sup>4</sup></td>
+      <td>214.0 (195.5, 234.3)</td>
+      <td>85.1 (62.5, 115.6)</td>
+      <td>184.7 (139.0, 245.3)</td>
+    </tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Người già trên 61 tuổi</th>
+      <th>Influvac tetra<br>N=765</th>
+      <th>Influvac<sup>1</sup><br>N=108</th>
+      <th>Influvac<sup>2</sup><br>N=110</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="3" align="center">Hiệu giá kháng thể trung bình (95% khoảng tin cậy)</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A/H1H1</td>
+      <td>127.2 (114.9, 140.9)</td>
+      <td>142.4 (107.6, 188.3)</td>
+      <td>174.2 (135.9, 223.3)</td>
+    </tr>
+    <tr>
+      <td>B/H3N2</td>
+      <td>348.5 (316.8, 383.5)</td>
+      <td>361.5 (278.3, 469.6)</td>
+      <td>353.4 (280.7, 445.0)</td>
+    </tr>
+    <tr>
+      <td>B (Yamagata)<sup>3</sup></td>
+      <td>63.7 (57.7, 70.4)</td>
+      <td>57.4 (43.6, 75.7)</td>
+      <td>27.3 (20.7, 36.0)</td>
+    </tr>
+    <tr>
+      <td>B (Victoria)<sup>4</sup></td>
+      <td>109.4 (98.1, 122.0)</td>
+      <td>48.0 (34.6, 66.6)</td>
+      <td>106.6 (79.7, 142.8)</td>
+    </tr>
+  </tbody>
+</table>
 
-¹ chứa A/HINI, A/H3N2 và B (chủng Yamagata)
-² chứa A/H1N1, A/H3N2 và B (chủng Victoria)
-³ khuyến cáo của WHO cho chủng B mùa 2014-2015 của vaccine tam giá
-⁴ khuyến cáo của WHO cho chủng B mùa 2014-2015 của vaccine tứ giá
+<p><sup>1</sup> chứa A/H1N1, A/H3N2 và B (chủng Yamagata)</p>
+
+<p><sup>2</sup>chứa A/H1N1, A/H3N2 và B (chủng Victoria)</p>
+
+<p><sup>3</sup> khuyến cáo của WHO cho chủng B mùa 2014-2015 của vaccine tam giá</p>
+
+<p><sup>4</sup> khuyến cáo của WHO cho chủng B mùa 2014-2015 của vaccine tứ giá</p>
 
 Trẻ em
 Trẻ em từ 3-17 tuổi
@@ -86,21 +156,58 @@ Influvac tetra và 798 trẻ em được tiêm một hoặc hai liều Influvac 
 vắc xin cúm của trẻ.
 
 \[Page 5\]
-Bảng: Hiệu giá kháng thể trung bình sau tiêm
+<h2>Bảng: Hiệu giá kháng thể trung bình sau tiêm</h2>
 
-| Trẻ em từ 3-17 tuổi | Influvac tetra $N=396$ | Influvac¹ $N=389$ | Influvac2 $N=399$ |
-| :--- | :--- | :--- | :--- |
-| | Hiệu giá kháng thể trung | bình (95% khoảng tin cậy) | |
-| A/H1H1 | 546.2 (487.1, 612.6) | 605.6 (536.3, 83.8) | 633.1 (562.8, 712.2) |
-| B/H3N2 | 1161.5 (1035.8, 1302.5) | 1075.4 (947.7, 1220.3) | 1306.4 (1162.5, 1468.1) |
-| B (Yamagata)3 | 280.8 (246.2, 320.1) | 269.0 (232.8, 310.7) | 38.3 (31.9, 46.1) |
-| B (Victoria)4 | 306.7 (266.0, 353.6) | 104.5 (86.8, 125.8) | 361.4 (311.0, 420 0) |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Trẻ em từ 3-17 tuổi</th>
+      <th>Influvac tetra<br>N=396</th>
+      <th>Influvac<sup>1</sup><br>N=389</th>
+      <th>Influvac<sup>2</sup><br>N=399</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="3">Hiệu giá kháng thể trung bình (95% khoảng tin cậy)</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A/H1H1</td>
+      <td>546.2 (487.1, 612.6)</td>
+      <td>605.6 (536.3, 83.8)</td>
+      <td>633.1 (562.8, 712.2)</td>
+    </tr>
+    <tr>
+      <td>B/H3N2</td>
+      <td>1161.5 (1035.8, 1302.5)</td>
+      <td>1075.4 (947.7, 1220.3)</td>
+      <td>1306.4 (1162.5, 1468.1)</td>
+    </tr>
+    <tr>
+      <td>B (Yamagata)<sup>3</sup></td>
+      <td>280.8 (246.2, 320.1)</td>
+      <td>269.0 (232.8, 310.7)</td>
+      <td>38.3 (31.9, 46.1)</td>
+    </tr>
+    <tr>
+      <td>B (Victoria)<sup>4</sup></td>
+      <td>306.7 (266.0, 353.6)</td>
+      <td>104.5 (86.8, 125.8)</td>
+      <td>361.4 (311.0, 420.0)</td>
+    </tr>
+  </tbody>
+</table>
 
-$N=s\hat{o}$ lượng đối tượng nghiên cứu trong đánh giá hiệu quả
-¹ chứa A/H1N1, A/H3N2 và B (chủng Yamagata)
-² chứa A/HINI, A/H3N2 và B (chúng Victoria)
-³ khuyến cáo của WHO cho chủng B mùa 2016-2017 của vaccine tam giá
-⁴ khuyến cáo của WHO cho chủng B mùa 2016-2017 của vaccine tứ giá
+<p>N= số lượng đối tượng nghiên cứu trong đánh giá hiệu quả</p>
+
+<p><sup>1</sup> chứa A/H1N1, A/H3N2 và B (chủng Yamagata)</p>
+
+<p><sup>2</sup>chứa A/H1N1, A/H3N2 và B (chủng Victoria)</p>
+
+<p><sup>3</sup> khuyến cáo của WHO cho chủng B mùa 2016-2017 của vaccine tam giá</p>
+
+<p><sup>4</sup> khuyến cáo của WHO cho chủng B mùa 2016-2017 của vaccine tứ giá</p>
 
 Các số liệu an toàn tiền lâm sàng
 Các dữ liệu tiền lâm sàng cho thấy không có nguy hại nào cho người dựa trên các nghiên cứu
@@ -217,42 +324,164 @@ Người lớn và người lớn tuổi
 Các phản ứng không mong muốn được báo cáo của Influvac tetra/ Influvac
 
 \[Page 8\]
-| Loại cơ quan | Rất phổ biến $\ge1/10$ | Phổ biến $\ge1/100$ $<1/10$ | Không phổ biến $\ge1/1000$, $<1/100$ | Không biết (không dự đoán được từ các dữ liệu sẵn có) |
-| :--- | :--- | :--- | :--- | :--- |
-| Rối loạn máu và hệ bạch huyết | | | | Giảm tiểu cầu tạm thời, hạch bạch huyết thoáng qua |
-| Rối loạn hệ miễn dịch | | | | Các phản ứng dị ứng, hiếm có các trường hợp dẫn tới sốc, chứng phù mạch |
-| Rối loạn hệ thần kinh | Đau đầu | | | Chứng đau dây thần kinh, cảm giác khác thường, sốt co giật, các rối loạn thần kinh như viêm não tủy, viêm dây thần kinh, hội chứng Guillain Barré. |
-| Rối loạn về mạch | | | | Rất hiếm xảy ra, các vi mạch của thận bị co lại tạm thời. |
-| Rối loạn da và mô dưới da | | Đổ mồ hôi | | Các phản ứng da phổ biến bao gồm ngứa, mày đay hoặc phát ban không đặc hiệu. |
-| Rối loạn cơ và các mô liên kết | | Đau cơ, đau khớp | | |
-| Các rối loạn chung và tại chỗ | Mệt | Khó chịu, rùng mình | Sốt | Sund |
-| | Phản ứng tại chỗ: đau | Phản ứng tại chỗ: đỏ, sưng, chàm | | |
+<h2>Người lớn và người lớn tuổi</h2>
 
-* Vì những phản ứng này được báo cáo tự nguyện từ một quần thể có kích thước không chắc chắn, nên không thể tin cậy ước tính tần suất của họ hoặc thiết lập mối quan hệ nhân quả với sử dụng thuốc
-* Ở người cao tuổi $(\ge61$ tuổi) được báo cáo là phổ biến
+<p>Các phản ứng không mong muốn được báo cáo của Influvac tetra/ Influvac</p>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Loại cơ quan</th>
+      <th>Rất phổ biến<br>≥1/10</th>
+      <th>Phổ biến<br>≥1/100, &lt;1/10</th>
+      <th>Không phổ biến<br>≥1/1000, &lt;1/100</th>
+      <th>Không biết<sup>a</sup> (không dự đoán được từ các dữ liệu sẵn có)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn máu và hệ bạch huyết</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Giảm tiểu cầu tạm thời, hạch bạch huyết thoáng qua</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ miễn dịch</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Các phản ứng dị ứng, hiếm có các trường hợp dẫn tới sốc, chứng phù mạch</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ thần kinh</td>
+      <td>Đau đầu<sup>b</sup></td>
+      <td></td>
+      <td></td>
+      <td>Chứng đau dây thần kinh, cảm giác khác thường, sốt co giật, các rối loạn thần kinh như viêm não tủy, viêm dây thần kinh, hội chứng Guillain Barré.</td>
+    </tr>
+    <tr>
+      <td>Rối loạn về mạch</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Rất hiếm xảy ra, các vi mạch của thận bị co lại tạm thời.</td>
+    </tr>
+    <tr>
+      <td>Rối loạn da và mô dưới da</td>
+      <td></td>
+      <td>Đổ mồ hôi</td>
+      <td></td>
+      <td>Các phản ứng da phổ biến bao gồm ngứa, mày đay hoặc phát ban không đặc hiệu.</td>
+    </tr>
+    <tr>
+      <td>Rối loạn cơ và các mô liên kết</td>
+      <td></td>
+      <td>Đau cơ, đau khớp</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Các rối loạn chung và tại chỗ</td>
+      <td>Mệt<br>Phản ứng tại chỗ: đau</td>
+      <td>Khó chịu, rùng mình<br>Phản ứng tại chỗ: đỏ, sưng, chàm</td>
+      <td>Sốt</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><sup>a</sup> Vì những phản ứng này được báo cáo tự nguyện từ một quần thể có kích thước không chắc chắn, nên không thể tin cậy ước tính tần suất của họ hoặc thiết lập mối quan hệ nhân quả với sử dụng thuốc</p>
+
+<p><sup>b</sup> Ở người cao tuổi (≥ 61 tuổi) được báo cáo là phổ biến</p>
 
 Trẻ em
-Trẻ em (3-17 tuổi). Các phản ứng không mong muốn được báo cáo của Influvac tetra/ Influvac
+<h2>Trẻ em (3-17 tuổi). Các phản ứng không mong muốn được báo cáo của Influvac tetra/ Influvac</h2>
 
-| Loại cơ quan | Rất phổ biến $\ge1/10$ | Phổ biến $\ge1/100$, $<1/10$ | Không phổ biến $\ge1/1000$, $<1/100$ | Không biết (không dự đoán được từ các dữ liệu sẵn có) |
-| :--- | :--- | :--- | :--- | :--- |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Loại cơ quan</th>
+      <th>Rất phổ biến<br>≥1/10</th>
+      <th>Phổ biến<br>≥1/100, &lt;1/10</th>
+      <th>Không phổ biến<br>≥1/1000, &lt;1/100</th>
+      <th>Không biết<sup>a</sup> (không dự đoán được từ các dữ liệu sẵn có)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn máu và hệ bạch huyết</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Giảm tiểu cầu tạm thời, hạch bạch huyết thoáng qua</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ miễn dịch</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Các phản ứng dị ứng, hiếm có các trường hợp dẫn tới sốc, chứng phù mạch</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ thần kinh</td>
+      <td>Đau đầu<sup>d</sup><br>Buồn ngủ<sup>b</sup></td>
+      <td></td>
+      <td></td>
+      <td>Chứng đau dây thần kinh, cảm giác khác thường, sốt co giật, các rối loạn thần kinh như viêm não tủy, viêm dây thần kinh, hội chứng Guillain Barré.</td>
+    </tr>
+    <tr>
+      <td>Rối loạn về mạch</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Rất hiếm xảy ra, các vi mạch của thận bị co lại tạm thời.</td>
+    </tr>
+    <tr>
+      <td>Rối loạn da và mô dưới da</td>
+      <td></td>
+      <td>Đổ mồ hôi<sup>c</sup></td>
+      <td></td>
+      <td>Các phản ứng da phổ biến bao gồm ngứa, mày đay hoặc phát ban không đặc hiệu.</td>
+    </tr>
+    <tr>
+      <td>Rối loạn chuyển hóa và dinh dưỡng</td>
+      <td>Mất ngon miệng<sup>b</sup></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rối loạn đường tiêu hóa</td>
+      <td>Triệu ứng rối loạn tiêu hóa<sup>d</sup></td>
+      <td>Tiêu chảy<sup>b</sup>, nôn<sup>b</sup></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rối loạn cơ và các mô liên kết</td>
+      <td>Đau cơ<sup>d</sup></td>
+      <td>Đau khớp<sup>d</sup></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Các rối loạn chung và tại chỗ</td>
+      <td>Mệt mỏi<sup>d</sup>, suy nhược<sup>d</sup><br>Phản ứng tại chỗ: đau<sup>c</sup>, đỏ<sup>c</sup>, sưng<sup>c</sup>, cứng tại chỗ tiêm<sup>c</sup></td>
+      <td>Sốt<sup>c</sup>, rùng mình<sup>d</sup><br>Phản ứng tại chỗ: chàm<sup>c</sup></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-\[Page 9\]
-| Rối loạn máu và hệ bạch huyết | | | | Giảm tiểu cầu tạm thời, hạch bạch huyết thoáng qua |
-| Rối loạn hệ miễn dịch | | | | Các phản ứng dị ứng, hiếm có các trường hợp dẫn tới sốc, chứng phù mạch |
-| Rối loạn hệ thần kinh | Buồn ngủ | Đau đầud | | Chứng đau dây thần kinh, cảm giác khác thường, sốt co giật, các rối loạn thần kinh như viêm não tủy, viêm dây thần kinh, hội chứng Guillain Barré. |
-| Rối loạn về mạch | | | | Rất hiếm xảy ra, các vi mạch của thận bị co lại tạm thời. |
-| Rối loạn da và mô dưới da | | Đổ mồ hôi | | Các phản ứng da phổ biến bao gồm ngứa, mày đay hoặc phát ban không đặc hiệu. |
-| Rối loạn chuyển hóa và dinh dưỡng | Mất ngon miệng | | | |
-| Rối loạn đường tiêu hóa | Triệu ứng rối loạn tiêu hóa | Tiêu chảy, nôn | | |
-| Rối loạn cơ và các mô liên kết | | Đau cơd, Đau khớpd | | |
-| Các rối loạn chung và tại chỗ | Mệt mỏi, suy nhượcd | Sốt, rùng mình | | Vance |
-| | Phản ứng tại chỗ: đau, đỏ, sưng, cứng tại chỗ tiêm | chàm | | |
+<p><sup>a</sup> Vì những phản ứng này được báo cáo tự nguyện từ một quần thể có kích thước không chắc chắn, nên không thể tin cậy ước tính tần suất của họ hoặc thiết lập mối quan hệ nhân quả với sử dụng thuốc</p>
 
-* Vì những phản ứng này được báo cáo tự nguyện từ một quần thể có kích thước không chắc chắn, nên không thể tin cậy ước tính tần suất của họ hoặc thiết lập mối quan hệ nhân quả với sử dụng thuốc
-* Được báo cáo là triệu chứng ở nhóm trẻ 3-5 tuổi
-* Được báo cáo là triệu chứng ở nhóm trẻ 3-17 tuổi
-* Được báo cáo là triệu chứng ở nhóm trẻ 6-17 tuổi
+<p><sup>b</sup> Được báo cáo là triệu chứng ở nhóm trẻ 3-5 tuổi</p>
+
+<p><sup>c</sup> Được báo cáo là triệu chứng ở nhóm trẻ 3-17 tuổi</p>
+
+<p><sup>d</sup> Được báo cáo là triệu chứng ở nhóm trẻ 6-17 tuổi</p>
 
 \[Page 10\]
 TNAM

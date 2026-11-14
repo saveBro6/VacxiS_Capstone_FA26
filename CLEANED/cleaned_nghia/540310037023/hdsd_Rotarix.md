@@ -96,13 +96,48 @@ Trong phân tích tổng hợp từ 17 thử nghiệm lâm sàng có nhóm chứ
 
 Nguy cơ của lồng ruột được đánh giá trong một thử nghiệm lớn về tính an toàn tiến hành tại Mỹ La Tinh và Phần Lan với 63.225 đối tượng tham gia. Kết quả cho thấy không có bằng chứng về sự gia tăng nguy cơ của lồng ruột trong nhóm Rotarix khi so sánh với nhóm placebo, chi tiết được trình bày trong bảng dưới đây.
 
-| | Rotarix™ | Placebo | Nguy cơ tương đối (95% CI) |
-| :--- | :--- | :--- | :--- |
-| **Lồng ruột trong vòng 31 ngày sau khi sử dụng:** | $N=31.673$ | $N=31.552$ | |
-| Liều thứ nhất | 1 | 2 | 0,50 (0,07; 3,80) |
-| Liều thứ hai | 5 | 5 | 0,99 (0,31; 3,21) |
-| **Lồng ruột xuất hiện trong vòng 1 năm tuổi** | $N=10.159$ | $N=10.010$ | |
-| Từ liều đầu tiên cho tới 1 năm tuổi | 4 | 14 | 0,28 (0,10; 0,81) |
+<table border="1">
+  <thead>
+    <tr>
+      <th></th>
+      <th><i>Rotarix™</i></th>
+      <th>Placebo</th>
+      <th>Nguy cơ tương đối (95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Lồng ruột trong vòng 31 ngày sau khi sử dụng:</strong></td>
+      <td>N=31.673</td>
+      <td>N=31.552</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liều thứ nhất</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0,50 (0,07; 3,80)</td>
+    </tr>
+    <tr>
+      <td>Liều thứ hai</td>
+      <td>5</td>
+      <td>5</td>
+      <td>0,99 (0,31; 3,21)</td>
+    </tr>
+    <tr>
+      <td><strong>Lồng ruột xuất hiện trong vòng 1 năm tuổi</strong></td>
+      <td>N=10.159</td>
+      <td>N=10.010</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Từ liều đầu tiên cho tới 1 năm tuổi</td>
+      <td>4</td>
+      <td>14</td>
+      <td>0,28 (0,10; 0,81)</td>
+    </tr>
+  </tbody>
+</table>
 
 CI: khoảng tin cậy
 
@@ -137,39 +172,120 @@ hoặc
 
 Hiệu quả bảo vệ của vắc xin sau khi uống hai liều Rotarix™ được quan sát trong các nghiên cứu lâm sàng tiến hành ở châu Âu và châu Mỹ La Tinh trong suốt năm đầu và năm tuổi thứ 2 gộp lại và được thể hiện trong bảng 1 và bảng 2 sau đây.
 
-**Bảng 1: Nghiên cứu ở Châu Âu: Số liệu kết hợp của năm 1 tuổi và 2 tuổi (Rotarix™ $N=2.572$, Placebo $N=1.302$ (§))**
+<h2>Bảng 1: Nghiên cứu ở Châu Âu: Số liệu kết hợp của năm 1 tuổi và 2 tuổi</h2>
 
-| Chủng | Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột do rotavirus mức độ nặng và bất kỳ [95% CI] | |
-| :--- | :--- | :--- |
-| | Mức độ bất kỳ | Mức độ nặng* |
-| G1P[8] | 89,5 [82,5; 94,1] | 96,4 [90,4; 99,1] |
-| G2P[4] | 58,3 [10,1; 81,0] | 85,5 [24,0; 98,5] |
-| G3P[8] | 84,8 [41,0; 97,3] | 93,7 [52,8; 99,9] |
-| G4P[8] | 95,4 [68,3; 99,9] | 83,1 [55,6; 94,5] |
-| G9P[8] | 72,5 [58,6; 82,0] | 84,7 [71,0; 92,4] |
-| Chủng với genotype P[8] | 91,9 [86,8; 95,3] | 81,8 [75,8; 86,5] |
-| Các chủng rotavirus lưu hành | 78,9 [72,7; 83,8] | 90,4 [85,1; 94,1] |
-| **Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột do rotavirus cần can thiệp y khoa [95% CI]** | | |
-| Các chủng rotavirus lưu hành | 83,8 [76,8; 88,9] | |
-| **Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột do rotavirus cần nhập viện [95% CI]** | | |
-| Các chủng rotavirus lưu hành | 96,0 [83,8; 99,5] | |
+<p><strong>(<i>Rotarix<sup>TM</sup></i> N=2.572; Placebo N=1.302 (§))</strong></p>
 
-\* Viêm dạ dày ruột nặng được định nghĩa là có số điểm $\ge 11$ trong thang điểm Vesikari
-(§) Đoàn hệ ATP đánh giá hiệu quả, bao gồm tất cả những đối tượng từ đoàn hệ ATP được đánh giá an toàn tham gia vào quá trình theo dõi hiệu quả sau đó.
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="3">Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột do rotavirus mức độ nặng và bất kỳ<br>[95% CI]</th>
+    </tr>
+    <tr>
+      <th>Chủng</th>
+      <th>Mức độ bất kỳ</th>
+      <th>Mức độ nặng<sup>†</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>G1P[8]</td>
+      <td>89,5<br>[82,5; 94,1]</td>
+      <td>96,4<br>[90,4; 99,1]</td>
+    </tr>
+    <tr>
+      <td>G2P[4]</td>
+      <td>58,3<br>[10,1; 81,0]</td>
+      <td>85,5<br>[24,0; 98,5]</td>
+    </tr>
+    <tr>
+      <td>G3P[8]</td>
+      <td>84,8<br>[41,0; 97,3]</td>
+      <td>93,7<br>[52,8; 99,9]</td>
+    </tr>
+    <tr>
+      <td>G4P[8]</td>
+      <td>83,1<br>[55,6; 94,5]</td>
+      <td>95,4<br>[68,3; 99,9]</td>
+    </tr>
+    <tr>
+      <td>G9P[8]</td>
+      <td>72,5<br>[58,6; 82,0]</td>
+      <td>84,7<br>[71,0; 92,4]</td>
+    </tr>
+    <tr>
+      <td>Chủng với genotype P[8]</td>
+      <td>81,8<br>[75,8; 86,5]</td>
+      <td>91,9<br>[86,8; 95,3]</td>
+    </tr>
+    <tr>
+      <td>Các chủng rotavirus lưu hành</td>
+      <td>78,9<br>[72,7; 83,8]</td>
+      <td>90,4<br>[85,1; 94,1]</td>
+    </tr>
+    <tr>
+      <th colspan="3">Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột do rotavirus cần can thiệp y khoa<br>[95% CI]</th>
+    </tr>
+    <tr>
+      <td>Các chủng rotavirus lưu hành</td>
+      <td colspan="2">83,8<br>[76,8; 88,9]</td>
+    </tr>
+    <tr>
+      <th colspan="3">Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột do rotavirus cần nhập viện<br>[95% CI]</th>
+    </tr>
+    <tr>
+      <td>Các chủng rotavirus lưu hành</td>
+      <td colspan="2">96,0<br>[83,8; 99,5]</td>
+    </tr>
+  </tbody>
+</table>
 
-**Bảng 2: Nghiên cứu ở Châu Mỹ La Tinh: Số liệu kết hợp của năm 1 tuổi và 2 tuổi (Rotarix™ $N=7.205$; Placebo $N=7.081$ (§))**
+<p><sup>†</sup> Viêm dạ dày ruột nặng được định nghĩa là có số điểm ≥ 11 trong thang điểm Vesikari</p>
 
-| Chủng | Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột nặng do rotavirus* [95% CI] |
-| :--- | :--- |
-| Viêm dạ dày ruột do bất kỳ chủng rotavirus | 80,5 [71,3; 87,1] |
-| G1P[8] | 82,1 [64,6; 91,9] |
-| G3P[8] | 78,9 [24,5; 96,1] |
-| G4P[8] | 61,8 [4,1; 86,5] |
-| G9P[8] | 86,6 [73,0; 94,1] |
-| Chủng có genotype P[8] | 82,2 [73,0; 88,6] |
+<p>(§) Đoàn hệ ATP đánh giá hiệu quả, bao gồm tất cả những đối tượng từ đoàn hệ ATP được đánh giá an toàn tham gia vào quá trình theo dõi hiệu quả sau đó.</p>
 
-\* Viêm dạ dày ruột nặng được xác định tùy thuộc vào đợt tiêu chảy có hoặc không có nôn mửa cần nhập viện hoặc bù nước tại các cơ sở y tế (tiêu chuẩn của WHO)
-(§) Đoàn hệ ATP đánh giá hiệu quả, bao gồm tất cả những đối tượng từ đoàn hệ ATP được đánh giá an toàn tham gia vào quá trình theo dõi hiệu quả sau đó.
+<h2>Bảng 2: Nghiên cứu ở Châu Mỹ La Tinh: Số liệu kết hợp của năm 1 tuổi và 2 tuổi</h2>
+
+<p><strong>(<i>Rotarix<sup>TM</sup></i> N=7.205; Placebo N=7.081 (§))</strong></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Chủng</th>
+      <th>Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột nặng do rotavirus<sup>†</sup><br>[95% CI]</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Viêm dạ dày ruột do bất kỳ chủng rotavirus</td>
+      <td>80,5<br>[71,3; 87,1]</td>
+    </tr>
+    <tr>
+      <td>G1P[8]</td>
+      <td>82,1<br>[64,6; 91,9]</td>
+    </tr>
+    <tr>
+      <td>G3P[8]</td>
+      <td>78,9<br>[24,5; 96,1]</td>
+    </tr>
+    <tr>
+      <td>G4P[8]</td>
+      <td>61,8<br>[4,1; 86,5]</td>
+    </tr>
+    <tr>
+      <td>G9P[8]</td>
+      <td>86,6<br>[73,0; 94,1]</td>
+    </tr>
+    <tr>
+      <td>Chủng có genotype P[8]</td>
+      <td>82,2<br>[73,0; 88,6]</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><sup>†</sup> Viêm dạ dày ruột nặng được xác định tùy thuộc vào đợt tiêu chảy có hoặc không có nôn mửa cần nhập viện hoặc bù nước tại các cơ sở y tế (tiêu chuẩn của WHO)</p>
+
+<p>(§) Đoàn hệ ATP đánh giá hiệu quả, bao gồm tất cả những đối tượng từ đoàn hệ ATP được đánh giá an toàn tham gia vào quá trình theo dõi hiệu quả sau đó.</p>
 
 Hiệu quả của vắc xin chống lại viêm dạ dày-ruột nặng do rotavirus chủng G2P[4] là 38,6% (95% CI: <0,0; 84,2). Số các trường hợp để ước tính hiệu quả vắc xin chống lại G2P[4] là rất ít.
 Một nghiên cứu tổng hợp gồm 4 nghiên cứu về hiệu quả cho thấy hiệu quả chống lại viêm dạ dày ruột nặng do rotavirus chủng G2P[4] (điểm Vesikari $\ge 11$) là 71,4% (95% CI: 20,1; 91,1).
@@ -179,47 +295,147 @@ Có thể ngoại suy mức độ hiệu quả bảo vệ của dạng đông kh
 Một nghiên cứu lâm sàng được tiến hành ở Châu Phi trên hơn 4.900 đối tượng dùng Rotarix™ ở tuổi từ 10 và 14 tuần tuổi (2 liều) hoặc 6, 10 và 14 tuần (3 liều). Hiệu quả của vắc xin chống lại viêm dạ dày ruột nặng do rotavirus trong năm tuổi đầu tiên là 61,2% (95% CI: 44,0; 73,2). Nghiên cứu không đánh giá sự khác biệt về hiệu quả giữa liệu trình chủng ngừa 2 liều và 3 liều.
 Hiệu quả bảo vệ của vắc xin chống lại viêm dạ dày ruột mức độ nặng và mức độ bất kỳ đã được quan sát và thể hiện trong bảng 3 dưới đây.
 
-**Bảng 3: Nghiên cứu ở Châu Phi: Kết quả nghiên cứu tổng hợp ở năm tuổi đầu tiên (Rotarix™ $N=2.974$, Placebo $N=1.443$ (§))**
+<h2>Bảng 3: Nghiên cứu ở Châu Phi: Kết quả nghiên cứu tổng hợp ở năm tuổi đầu tiên</h2>
 
-| Chủng | Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột mức độ nặng và bất kỳ do rotavirus [95% CI] | |
-| :--- | :--- | :--- |
-| | Mức độ bất kỳ | Mức độ nặng* |
-| G1P[8] | 68,3 (53,6; 78,5) | 56,6 (11,8; 78,8) |
-| G2P[4] | 49,3 (4,6; 73,0) | 83,8 (9,6; 98,4) |
-| G3P[8] | 43,4* (<0; 83,7) | 51,5* (<0; 96,5) |
-| G8P[4] | 38,7* (<0; 67,8) | 63,6 (5,9; 86,5) |
-| G9P[8] | 41,8* (<0; 72,3) | 56,9* (<0; 85,5) |
-| G12P[6] | 48,0 (9,7; 70,0) | 55,5* (<0; 82,2) |
-| Chủng với genotype P[4] | 39,3 (7,7; 59,9) | 70,9 (37,5; 87,0) |
-| Chủng với genotype P[6] | 46,6 (9,4; 68,4) | 55,2* (<0; 81,3) |
-| Chủng với genotype P[8] | 61,0 (47,3; 71,2) | 59,1 (32,8; 75,3) |
+<p><strong>(<i>Rotarix<sup>TM</sup></i> N=2.974; Placebo N=1.443 (§))</strong></p>
 
-\* Viêm dạ dày ruột nặng được định nghĩa là có số điểm $\ge 11$ trong thang điểm Vesikari
-(§) Đoàn hệ ATP đánh giá hiệu quả, bao gồm tất cả những đối tượng từ đoàn hệ ATP được đánh giá an toàn tham gia vào quá trình theo dõi hiệu quả sau đó.
-\* Không có ý nghĩa thống kê ($p \ge 0,05$). Những dữ liệu này cần được giải thích cẩn thận.
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="3">Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột mức độ nặng và bất kỳ do rotavirus<br>[95% CI]</th>
+    </tr>
+    <tr>
+      <th>Chủng</th>
+      <th>Mức độ bất kỳ</th>
+      <th>Mức độ nặng<sup>†</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>G1P[8]</strong></td>
+      <td>68,3<br>(53,6; 78,5)</td>
+      <td>56,6<br>(11,8; 78,8)</td>
+    </tr>
+    <tr>
+      <td><strong>G2P[4]</strong></td>
+      <td>49,3<br>(4,6; 73,0)</td>
+      <td>83,8<br>(9,6; 98,4)</td>
+    </tr>
+    <tr>
+      <td><strong>G3P[8]</strong></td>
+      <td>43,4*<br>(&lt;0; 83,7)</td>
+      <td>51,5*<br>(&lt;0; 96,5)</td>
+    </tr>
+    <tr>
+      <td><strong>G8P[4]</strong></td>
+      <td>38,7*<br>(&lt;0; 67,8)</td>
+      <td>63,6<br>(5,9; 86,5)</td>
+    </tr>
+    <tr>
+      <td><strong>G9P[8]</strong></td>
+      <td>41,8*<br>(&lt;0; 72,3)</td>
+      <td>56,9*<br>(&lt;0; 85,5)</td>
+    </tr>
+    <tr>
+      <td><strong>G12P[6]</strong></td>
+      <td>48,0<br>(9,7; 70,0)</td>
+      <td>55,5*<br>(&lt;0; 82,2)</td>
+    </tr>
+    <tr>
+      <td><strong>Chủng với genotype P[4]</strong></td>
+      <td>39,3<br>(7,7; 59,9)</td>
+      <td>70,9<br>(37,5; 87,0)</td>
+    </tr>
+    <tr>
+      <td><strong>Chủng với genotype P[6]</strong></td>
+      <td>46,6<br>(9,4; 68,4)</td>
+      <td>55,2*<br>(&lt;0; 81,3)</td>
+    </tr>
+    <tr>
+      <td><strong>Chủng với genotype P[8]</strong></td>
+      <td>61,0<br>(47,3; 71,2)</td>
+      <td>59,1<br>(32,8; 75,3)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><sup>†</sup> Viêm dạ dày ruột nặng được định nghĩa là có số điểm ≥ 11 trong thang điểm Vesikari</p>
+
+<p>(§) Đoàn hệ ATP đánh giá hiệu quả, bao gồm tất cả những đối tượng từ đoàn hệ ATP được đánh giá an toàn tham gia vào quá trình theo dõi hiệu quả sau đó.</p>
+
+<p>* Không có ý nghĩa thống kê (p ≥ 0,05). Những dữ liệu này cần được giải thích cẩn thận.</p>
 
 *Hiệu quả kéo dài đến 3 tuổi ở Châu Á*
 Một nghiên cứu lâm sàng tiến hành ở châu Á (Hồng Kông, Singapore và Đài Loan) trên hơn 10.000 đối tượng được dùng Rotarix™ theo các liệu trình khác nhau (2, 4 tháng tuổi; 3, 4 tháng tuổi).
 Sau khi dùng 2 liều Rotarix™, hiệu quả bảo vệ của vắc xin quan sát đến khi 3 tuổi được thể hiện trong bảng 4.
 
-**Bảng 4: Nghiên cứu ở Châu Á: Hiệu quả bảo vệ đến năm 2 tuổi và 3 tuổi (Rotarix™ $N=5.263$, Placebo $N=5.256$ (§))**
+<div>
+  <h2>Bảng 4: Nghiên cứu ở Châu Á: Hiệu quả bảo vệ đến năm 2 tuổi và 3 tuổi (<i>Rotarix<sup>TM</sup></i> N=5.263; Placebo N=5.256 (§))</h2>
 
-| Chủng | Hiệu quả của vắc xin (%) chống lại viêm dạ dày – ruột nặng do rotavirus (95% CI) | |
-| :--- | :--- | :--- |
-| | Hiệu quả đến 2 tuổi (Mức độ nặng*) | Hiệu quả đến 3 tuổi (Mức độ nặng*) |
-| G1P[8] | 100,0 (84,8; 100,0) | 100,0 (80,8; 100,0) |
-| G2P[4] | 100,0* (<0; 100,0) | 100,0* (<0; 100,0) |
-| G3P[8] | 94,5 (64,9; 99,9) | 95,2 (70,4; 99,9) |
-| G9P[8] | 91,7 (43,8; 99,8) | 91,7 (43,8; 99,8) |
-| Chủng với genotype P[8] | 95,8 (83,8; 99,5) | 96,6 (87,0; 99,6) |
-| Các chủng rotavirus lưu hành | 96,1 (85,1; 99,5) | 96,9 (88,3; 99,6) |
-| **Hiệu quả của vắc xin (%) chống lại viêm dạ dày ruột nặng do rotavirus cần nhập viện hoặc bù nước tại các cơ sở y tế (95% CI)** | | |
-| Các chủng rotavirus lưu hành | 94,2 (82,2; 98,8) | 95,5 (86,4; 99,1) |
+  <table border="1">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Hiệu quả đến 2 tuổi</th>
+        <th>Hiệu quả đến 3 tuổi</th>
+      </tr>
+      <tr>
+        <th colspan="3">Hiệu quả của vắc xin (%) chống lại viêm dạ dày – ruột nặng do rotavirus (95% CI)</th>
+      </tr>
+      <tr>
+        <th>Chủng</th>
+        <th>Mức độ nặng<sup>†</sup></th>
+        <th>Mức độ nặng<sup>†</sup></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>G1P[8]</strong></td>
+        <td>100,0<br>(80,8; 100,0)</td>
+        <td>100,0<br>(84,8; 100,0)</td>
+      </tr>
+      <tr>
+        <td><strong>G2P[4]</strong></td>
+        <td>100,0*<br>(&lt;0; 100,0)</td>
+        <td>100,0*<br>(&lt;0; 100,0)</td>
+      </tr>
+      <tr>
+        <td><strong>G3P[8]</strong></td>
+        <td>94,5<br>(64,9; 99,9)</td>
+        <td>95,2<br>(70,4; 99,9)</td>
+      </tr>
+      <tr>
+        <td><strong>G9P[8]</strong></td>
+        <td>91,7<br>(43,8; 99,8)</td>
+        <td>91,7<br>(43,8; 99,8)</td>
+      </tr>
+      <tr>
+        <td><strong>Chủng với genotype P[8]</strong></td>
+        <td>95,8<br>(83,8; 99,5)</td>
+        <td>96,6<br>(87,0; 99,6)</td>
+      </tr>
+      <tr>
+        <td><strong>Các chủng rotavirus lưu hành</strong></td>
+        <td>96,1<br>(85,1; 99,5)</td>
+        <td>96,9<br>(88,3; 99,6)</td>
+      </tr>
+      <tr>
+        <th colspan="3">Hiệu quả của vắc xin (%) chống lại viêm dạ dày – ruột nặng do rotavirus cần nhập viện hoặc bù nước tại các cơ sở y tế (95% CI)</th>
+      </tr>
+      <tr>
+        <td><strong>Các chủng rotavirus lưu hành</strong></td>
+        <td>94,2<br>(82,2; 98,8)</td>
+        <td>95,5<br>(86,4; 99,1)</td>
+      </tr>
+    </tbody>
+  </table>
 
-\* Viêm dạ dày ruột nặng được định nghĩa là có số điểm $\ge 11$ trong thang điểm Vesikari
-(§) Đoàn hệ ATP đánh giá hiệu quả, bao gồm tất cả những đối tượng từ đoàn hệ ATP được đánh giá an toàn tham gia vào quá trình theo dõi hiệu quả sau đó.
+  <p><sup>†</sup> Viêm dạ dày ruột nặng được định nghĩa là có số điểm ≥ 11 trong thang điểm Vesikari</p>
 
-\* Không có ý nghĩa thống kê ($p \ge 0,05$). Những dữ liệu này cần được giải thích thận trọng.
+  <p>(§) Đoàn hệ ATP đánh giá hiệu quả, bao gồm tất cả những đối tượng từ đoàn hệ ATP được đánh giá an toàn tham gia vào quá trình theo dõi hiệu quả sau đó.</p>
+
+  <p>* Không có ý nghĩa thống kê (p ≥ 0,05). Những dữ liệu này cần được giải thích cẩn thận.</p>
+</div>
 
 *Đáp ứng miễn dịch*
 Trong các nghiên cứu lâm sàng khác nhau tiến hành ở Châu Âu, Châu Mỹ La Tinh và Châu Á, 1.957 trẻ sơ sinh đã được cho uống Rotarix™ dạng đông khô và 1.006 trẻ sơ sinh dùng placebo theo các liệu trình chủng ngừa khác nhau. Tỷ lệ phần trăm số trẻ ban đầu có huyết thanh âm tính với rotavirus (hiệu giá kháng thể IgA $< 20 \text{ U/ml}$ (bằng phương pháp ELISA) so với hiệu giá kháng thể IgA kháng rotavirus trong huyết thanh $\ge 20\text{ U/ml}$ dao động trong khoảng 77,9% đến 100% và từ 0% đến 17,1% một hoặc hai tháng sau liều vắc xin thứ hai hay placebo.
@@ -241,47 +457,139 @@ Trong hai thử nghiệm lâm sàng có nhóm chứng so sánh, bài tiết viru
 Trong các nghiên cứu quan sát, hiệu quả của vắc xin đã được chứng minh chống lại viêm dạ dày-ruột nặng dẫn đến nhập viện do rotavirus của các chủng phổ biến như G1P[8], G2P[4], G3P[8] và G9P[8] cũng như các chủng rotavirus ít phổ biến hơn như G9P[4] và G9P[6]. Tất cả các chủng này đều đang lưu hành trên thế giới.
 Bảng 5 cho thấy kết quả của các nghiên cứu bệnh-chứng bắt cặp được tiến hành để đánh giá hiệu quả của Rotarix phòng viêm dạ dày ruột nặng do rotavirus phải nhập viện.
 
-**Bảng 5: Hiệu quả của Rotarix phòng viêm dạ dày ruột nặng do rotavirus phải nhập viện:**
 
-| Nước | Tuổi | N (Số ca bệnh/Số chứng) | Chủng | Hiệu quả sau khi sử dụng 2 liều Nhập viện do Rotavirus Hiệu quả (%) [Khoảng tin cậy 95%] |
-| :--- | :--- | :--- | :--- | :--- |
-| **Các nước thu nhập cao** | | | | |
-| Bỉ | < 4 tuổi | 160/198 | Tất cả | 90 [81; 95] |
-| | | | G1P[8] | 95 [78; 99] |
-| | | | G2P[4] | 85 [64; 94] |
-| | 3-11 tháng | | Tất cả | 91 [75; 97] |
-| | | | G2P[4] | 83 [11; 96] |
-| Singapore | < 5 tuổi | 136/272 | Tất cả | 84 [32; 96] |
-| | | | G1P[8] | 91 [30; 99] |
-| Đài Loan | < 3 tuổi | 275/1.623 | Tất cả | 92 [75; 98] |
-| | | | G1P[8] | 95 [69; 100] |
-| Mỹ | < 2 tuổi | 85/1.062 | Tất cả | 85 [73; 92] |
-| | | | G1P[8] | 88 [68; 95] |
-| | | | G2P[4] | 88 [68; 95] |
-| | 8-11 tháng | | Tất cả | 89 [48; 98] |
-| Mỹ | < 5 tuổi | 74/255 | G3P[8] | 68 [34; 85] |
-| **Các nước thu nhập trung bình** | | | | |
-| Bolivia | < 3 tuổi | 300/974 | Tất cả | 77 [65; 84] |
-| | | | G9P[8] | 85 [69; 93] |
-| | | | G3P[8] | 93 [70; 98] |
-| | | | G2P[4] | 69 [14; 89] |
-| | | | G9P[6] | 87 [19; 98] |
-| | 6-11 tháng | | Tất cả | 77 [51; 89] |
-| | | | G9P[8] | 90 [65; 97] |
-| Brazil | < 2 tuổi | 115/1.481 | Tất cả | 72 [44; 85] |
-| | | | G1P[8] | 89 [78; 95] |
-| | | | G2P[4] | 76 [64; 84] |
-| Brazil | < 3 tuổi | 249/249 | Tất cả | 76 [58; 86] |
-| | | | G2P[4] | 75 [57; 86] |
-| | 3-11 tháng | | Tất cả | 96 [68; 99] |
-| | | | G2P[4] | 95 [66; 99] |
-| El Salvador | < 2 tuổi | 251/770 | Tất cả | 76 [64; 84]* |
-| | 6-11 tháng | | | 83 [68; 91] |
-| Mexico | < 2 tuổi | 9/17 | G9P[4] | 94 [16; 100] |
-| **Các nước thu nhập thấp** | | | | |
-| Malawi | < 2 tuổi | 81/234 | Tất cả | 63 [23; 83] |
 
-\* Ở những đối tượng không uống đủ liều vắc xin, hiệu quả sau một liều là 51% (khoảng tin cậy 95% 26; 67)
+<h2>Bảng 5: Hiệu quả của Rotarix<sup>TM</sup> phòng viêm dạ dày ruột nặng do rotavirus phải nhập viện:</h2>
+<table border="1">
+<thead>
+<tr>
+<th>Nước</th>
+<th>Tuổi</th>
+<th>N<br>(Số ca bệnh/<br>Số chứng)</th>
+<th colspan="2">Hiệu quả sau khi sử dụng 2 liều<br>Nhập viện do Rotavirus</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th>Chủng</th>
+<th>Hiệu quả (%)<br>[Khoảng tin cậy 95%]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" align="center">Các nước thu nhập cao</td>
+</tr>
+<tr>
+<td rowspan="2">Bỉ</td>
+<td>&lt; 4 tuổi</td>
+<td rowspan="2">160/198</td>
+<td>Tất cả<br>G1P[8]<br>G2P[4]</td>
+<td>90 [81; 95]<br>95 [78; 99]<br>85 [64; 94]</td>
+</tr>
+<tr>
+<td>3-11 tháng</td>
+<td>Tất cả<br>G2P[4]</td>
+<td>91[75;97]<br>83[11;96]</td>
+</tr>
+<tr>
+<td>Singapore</td>
+<td>&lt; 5 tuổi</td>
+<td>136/272</td>
+<td>Tất cả<br>G1P[8]</td>
+<td>84 [32; 96]<br>91 [30; 99]</td>
+</tr>
+<tr>
+<td>Đài Loan</td>
+<td>&lt; 3 tuổi</td>
+<td>275/1.623</td>
+<td>Tất cả<br>G1P[8]</td>
+<td>92 [75;98]<br>95 [69;100]</td>
+</tr>
+<tr>
+<td rowspan="2">Mỹ</td>
+<td>&lt; 2 tuổi</td>
+<td rowspan="2">85/1.062</td>
+<td>Tất cả<br>G1P[8]<br>G2P[4]</td>
+<td>85 [73;92]<br>88 [68;95]<br>88 [68;95]</td>
+</tr>
+<tr>
+<td>8-11 tháng</td>
+<td>Tất cả</td>
+<td>89 [48;98]</td>
+</tr>
+<tr>
+<td>Mỹ</td>
+<td>&lt; 5 tuổi</td>
+<td>74/255</td>
+<td>G3P[8]</td>
+<td>68 [34;85]</td>
+</tr>
+<tr>
+<td colspan="5" align="center">Các nước thu nhập trung bình</td>
+</tr>
+<tr>
+<td rowspan="2">Bolivia</td>
+<td>&lt; 3 tuổi</td>
+<td rowspan="2">300/974</td>
+<td>Tất cả<br>G9P[8]<br>G3P[8]<br>G2P[4]<br>G9P[6]</td>
+<td>77 [65;84]<br>85 [69;93]<br>93 [70;98]<br>69 [14;89]<br>87 [19;98]</td>
+</tr>
+<tr>
+<td>6-11 tháng</td>
+<td>Tất cả<br>G9P[8]</td>
+<td>77 [51;89]<br>90 [65;97]</td>
+</tr>
+<tr>
+<td>Brazil</td>
+<td>&lt; 2 tuổi</td>
+<td>115/1,481</td>
+<td>Tất cả<br>G1P[8]<br>G2P[4]</td>
+<td>72 [44;85]<br>89 [78;95]<br>76 [64;84]</td>
+</tr>
+<tr>
+<td rowspan="2">Brazil</td>
+<td>&lt; 3 tuổi</td>
+<td rowspan="2">249/249</td>
+<td>Tất cả<br>G2P[4]</td>
+<td>76 [58;86]<br>75 [57;86]</td>
+</tr>
+<tr>
+<td>3-11 tháng</td>
+<td>Tất cả<br>G2P[4]</td>
+<td>96 [68;99]<br>95 [66;99]</td>
+</tr>
+<tr>
+<td rowspan="2">El Salvador</td>
+<td>&lt; 2 tuổi</td>
+<td rowspan="2">251/770</td>
+<td rowspan="2">Tất cả</td>
+<td>76 [64;84]*</td>
+</tr>
+<tr>
+<td>6-11 tháng</td>
+<td>83[68;91]</td>
+</tr>
+<tr>
+<td>Mexico</td>
+<td>&lt; 2 tuổi</td>
+<td>9/17</td>
+<td>G9P[4]</td>
+<td>94 [16;100]</td>
+</tr>
+<tr>
+<td colspan="5" align="center">Các nước thu nhập thấp</td>
+</tr>
+<tr>
+<td>Malawi</td>
+<td>&lt; 2 tuổi</td>
+<td>81/234</td>
+<td>Tất cả</td>
+<td>63 [23;83]</td>
+</tr>
+</tbody>
+</table>
+<p><i>* Ở những đối tượng không uống đủ liều vắc xin, hiệu quả sau một liều là 51 % (khoảng tin cậy 95%: 26; 67)</i></p>
 
 *Ảnh hưởng đến tỉ lệ tử vong*
 Các nghiên cứu về sự ảnh hưởng của Rotarix™ được tiến hành ở Panama, Brazil và Mexico cho thấy tỉ lệ tử vong do tiêu chảy do mọi nguyên nhân giảm từ 22% đến 56% ở trẻ em dưới 5 tuổi, trong vòng 2 đến 3 năm sau khi uống vắc xin.

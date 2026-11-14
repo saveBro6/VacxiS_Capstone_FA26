@@ -96,28 +96,73 @@ Không được trộn Shingrix với các thuốc khác.
 Hồ sơ an toàn được trình bày dưới đây dựa trên phân tích gộp của hơn 14.500 người lớn $\ge50$ tuổi, đã được tiêm ít nhất một liều Shingrix. Dữ liệu này được xây dựng từ các nghiên cứu lâm sàng có đối chứng với giả dược (thực hiện tại Châu Âu, Bắc Mỹ, Châu Mỹ Latin, Châu Á và Úc), trong đó Shingrix được tiêm theo lịch trình 0, 2 tháng.
 Thêm vào đó, trong các nghiên cứu lâm sàng, 1587 người lớn $\ge18$ tuổi bị thiếu hụt miễn dịch hoặc ức chế miễn dịch do bệnh hoặc liệu pháp điều trị (được cho là bị suy giảm miễn dịch (immunocompromised - IC)), được chủng ngừa với ít nhất một liều Shingrix. Các phản ứng bất lợi nhất quán với kết quả được trình bày trong Bảng dưới đây.
 Các phản ứng bất lợi được liệt kê theo tần suất như sau:
-Rất phổ biến: $\ge1/10$
-Phổ biến: $\ge1/100$ đến $<1/10$
-Không phổ biến: $\ge1/1.000$ đến $<1/100$
-Hiếm gặp: $\ge1/10.000$ đến $<1/1.000$
+Rất phổ biến: $\ge1/10$,
+Phổ biến: $\ge1/100$ đến $<1/10$,
+Không phổ biến: $\ge1/1.000$ đến $<1/100$,
+Hiếm gặp: $\ge1/10.000$ đến $<1/1.000$,
 Rất hiếm: $<1/10.000$
 
-| Hệ cơ quan | Tần suất | Phản ứng bất lợi |
-|---|---|---|
-| Rối loạn hệ thần kinh | Rất phổ biến | Đau đầu |
-| Rối loạn tiêu hoá | Rất phổ biến | Các triệu chứng tiêu hóa (gồm buồn nôn, nôn, tiêu chảy và/hoặc đau bụng) |
-| Rối loạn hệ cơ xương và mô liên kết | Rất phổ biến<br>Không phổ biến | Đau cơ<br>Đau khớp |
-| Rối loạn toàn thân và tại vị trí tiêm | Rất phổ biến | Phản ứng tại vị trí tiêm (như đau, đỏ, sưng), mệt mỏi, ớn lạnh, sốt |
-| | Phổ biến | Ngứa chỗ tiêm, khó chịu |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Hệ cơ quan</th>
+      <th>Tần suất</th>
+      <th>Phản ứng bất lợi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn hệ thần kinh</td>
+      <td>Rất phổ biến</td>
+      <td>Đau đầu</td>
+    </tr>
+    <tr>
+      <td>Rối loạn tiêu hoá</td>
+      <td>Rất phổ biến</td>
+      <td>Các triệu chứng tiêu hóa (gồm buồn nôn, nôn, tiêu chảy và/hoặc đau bụng)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn hệ cơ xương và mô liên kết</td>
+      <td>Rất phổ biến</td>
+      <td>Đau cơ</td>
+    </tr>
+    <tr>
+      <td>Không phổ biến</td>
+      <td>Đau khớp</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn toàn thân và tại vị trí tiêm</td>
+      <td>Rất phổ biến</td>
+      <td>Phản ứng tại vị trí tiêm (như đau, đỏ, sưng), mệt mỏi, ớn lạnh, sốt</td>
+    </tr>
+    <tr>
+      <td>Phổ biến</td>
+      <td>Ngứa chỗ tiêm, khó chịu</td>
+    </tr>
+  </tbody>
+</table>
 
 Nhìn chung, tỷ lệ mắc một số phản ứng bất lợi ở các nhóm trẻ tuổi xảy ra cao hơn. Tuy nhiên, tần suất chung và mức độ nặng của các biến cố này không cho thấy một đặc tính gây phản ứng khác biệt có ý nghĩa lâm sàng ở người trẻ tuổi. Trong các nghiên cứu trên người lớn bị suy giảm miễn dịch (IC), tỷ lệ bị đau tại vị trí tiêm, mệt mỏi, đau cơ, đau đầu, rùng mình và sốt ở người 18 đến 49 tuổi cao hơn so với người từ 50 tuổi trở lên. Trong các nghiên cứu ở người cao tuổi, tỷ lệ bị đau và sưng tại vị trí tiêm, mệt mỏi, đau cơ, đau đầu, rùng mình, sốt và các triệu chứng tiêu hóa ở người 50 đến 69 tuổi cao hơn so với người từ 70 tuổi trở lên.
 Trong một nghiên cứu lâm sàng ở 119 người $\ge50$ tuổi được chủng ngừa với Shingrix theo phác đồ 0, 6 tháng, hồ sơ an toàn tương tự những gì quan sát được ở những người được chủng ngừa với Shingrix theo phác đồ 0, 2 tháng.
 Trong một nghiên cứu lâm sàng gồm 865 đối tượng $\ge50$ tuổi, sốt và rùng mình được báo cáo thường xuyên hơn khi tiêm đồng thời vắc xin PPV23 với Shingrix (tương ứng 16% và 21%) so với tiêm Shingrix đơn lẻ (7% cho cả 2 nhóm về phản ứng bất lợi).
 
 **Dữ liệu hậu mãi**
-| Hệ cơ quan | Tần suất | Phản ứng bất lợi |
-|---|---|---|
-| Rối loạn hệ miễn dịch | Hiếm gặp | Phản ứng quá mẫn gồm phát ban, mề đay, phù mạch |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Hệ cơ quan</th>
+      <th>Tần suất</th>
+      <th>Phản ứng bất lợi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn hệ miễn dịch</td>
+      <td>Hiếm gặp</td>
+      <td>Phản ứng quá mẫn gồm phát ban, mề đay, phù mạch</td>
+    </tr>
+  </tbody>
+</table>
 
 Thông báo ngay cho bác sĩ hoặc dược sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.
 
@@ -153,33 +198,154 @@ Shingrix làm giảm đáng kể tỷ lệ mắc HZ và PHN so với giả dư�
 
 Kết quả hiệu lực của vắc xin được trình bày trong Bảng 1.
 
-Bảng 1: Hiệu lực của Shingrix đối với HZ và PHN (mTVC)
-| Tuổi | N | HZ Hiệu lực (%) | HZ CI 95% | N | PHN Hiệu lực (%) | PHN CI 95% |
-|---|---|---|---|---|---|---|
-| Zoster-006 | | | | | | |
-| $\ge50$ | 7.344 | 97,2 | 93,7; 99,0 | 7.340 | 100,0 | 77,1; 100,0 |
-| 50-59 | 3.492 | 96,6 | 89,6; 99,4 | 3.491 | 100,0 | 40,8; 100,0 |
-| $\ge60$ | 3.852 | 97,6 | 92,7; 99,6 | 3.849 | 100,0 | 55,2; 100,0 |
-| 60-69 | 2.141 | 97,4 | 90,1; 99,7 | 2.140 | 100,0^§ | <0; 100,0 |
-| Gộp Zoster-006 và Zoster-022** | | | | | | |
-| $\ge70$ | 8.250 | 91,3 | 86,8; 94,5 | 8.250 | 88,8 | 68,7; 97,1 |
-| 70-79 | 6.468 | 91,3 | 86,0; 94,9 | 6.468 | 93,0 | 72,4; 99,2 |
-| $\ge80$ | 1.782 | 91,4 | 80,2; 97,0 | 1.782 | 71,2^§ | < 0; 97,1 |
-| Zoster-002*** (người sử dụng liệu pháp aHSCT #) | | | | | | |
-| $\ge18$ | 870 | 68,2 | 55,5; 77,6 | 870 | 89,3 | 22,5; 99,8 |
-| 18-49 | 213 | 71,8 | 38,7; 88,3 | 213 | 100,0^§ | <0; 100,0 |
-| $\ge50$ | 657 | 67,3 | 52,6; 77,9 | 657 | 88,0 | 10,4; 99,8 |
-| Zoster-039 (bệnh nhân có bệnh lý máu ác tính) | | | | | | |
-| $\ge18$ | 259 | 87,2**** | 44,2; 98,6 | | | |
+<h2>Bảng 1: Hiệu lực của Shingrix đối với HZ và PHN (mTVC)</h2>
 
-N: Số lượng người có thể đánh giá
-CI: Khoảng tin cậy
-* Trung vị thời gian theo dõi lần lượt là 3,1 và 4,1 năm để báo cáo ca bệnh HZ và PHN
-** Trung vị thời gian theo dõi là 4,0 năm để báo cáo ca bệnh HZ và PHN
-*** Trung vị thời gian theo dõi là 21 tháng để báo cáo ca bệnh HZ và PHN
-**** Tính toán VE được tiến hành sau nghiên cứu; trung vị thời gian theo dõi là 11,1 tháng
-# Đã được cấp phép điều trị dự phòng kháng virus theo tiêu chuẩn chăm sóc tại địa phương
-§ Không có ý nghĩa thống kê
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="2">Tuổi</th>
+      <th colspan="3">HZ</th>
+      <th colspan="3">PHN</th>
+    </tr>
+    <tr>
+      <th>N</th>
+      <th>Hiệu lực<br>(%)</th>
+      <th>CI 95%</th>
+      <th>N</th>
+      <th>Hiệu lực<br>(%)</th>
+      <th>CI 95%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="7">Zoster-006*</th>
+    </tr>
+    <tr>
+      <td>≥ 50</td>
+      <td>7.344</td>
+      <td>97,2</td>
+      <td>93,7; 99,0</td>
+      <td>7.340</td>
+      <td>100,0</td>
+      <td>77,1; 100,0</td>
+    </tr>
+    <tr>
+      <td>50-59</td>
+      <td>3.492</td>
+      <td>96,6</td>
+      <td>89,6; 99,4</td>
+      <td>3.491</td>
+      <td>100,0</td>
+      <td>40,8; 100,0</td>
+    </tr>
+    <tr>
+      <td>≥ 60</td>
+      <td>3.852</td>
+      <td>97,6</td>
+      <td>92,7; 99,6</td>
+      <td>3.849</td>
+      <td>100,0</td>
+      <td>55,2; 100,0</td>
+    </tr>
+    <tr>
+      <td>60-69</td>
+      <td>2.141</td>
+      <td>97,4</td>
+      <td>90,1; 99,7</td>
+      <td>2.140</td>
+      <td>100,0<sup>§</sup></td>
+      <td>&lt; 0; 100,0</td>
+    </tr>
+    <tr>
+      <th colspan="7">Gộp Zoster-006 và Zoster-022**</th>
+    </tr>
+    <tr>
+      <td>≥ 70</td>
+      <td>8.250</td>
+      <td>91,3</td>
+      <td>86,8; 94,5</td>
+      <td>8.250</td>
+      <td>88,8</td>
+      <td>68,7; 97,1</td>
+    </tr>
+    <tr>
+      <td>70-79</td>
+      <td>6.468</td>
+      <td>91,3</td>
+      <td>86,0; 94,9</td>
+      <td>6.468</td>
+      <td>93,0</td>
+      <td>72,4; 99,2</td>
+    </tr>
+    <tr>
+      <td>≥ 80</td>
+      <td>1.782</td>
+      <td>91,4</td>
+      <td>80,2; 97,0</td>
+      <td>1.782</td>
+      <td>71,2<sup>§</sup></td>
+      <td>&lt; 0; 97,1</td>
+    </tr>
+    <tr>
+      <th colspan="7">Zoster-002*** (người sử dụng liệu pháp aHSCT<sup>#</sup>)</th>
+    </tr>
+    <tr>
+      <td>≥ 18</td>
+      <td>870</td>
+      <td>68,2</td>
+      <td>55,5; 77,6</td>
+      <td>870</td>
+      <td>89,3</td>
+      <td>22,5; 99,8</td>
+    </tr>
+    <tr>
+      <td>18-49</td>
+      <td>213</td>
+      <td>71,8</td>
+      <td>38,7; 88,3</td>
+      <td>213</td>
+      <td>100,0<sup>§</sup></td>
+      <td>&lt; 0; 100,0</td>
+    </tr>
+    <tr>
+      <td>≥ 50</td>
+      <td>657</td>
+      <td>67,3</td>
+      <td>52,6; 77,9</td>
+      <td>657</td>
+      <td>88,0</td>
+      <td>10,4; 99,8</td>
+    </tr>
+    <tr>
+      <th colspan="7">Zoster-039 (bệnh nhân có bệnh lý máu ác tính<sup>#</sup>)</th>
+    </tr>
+    <tr>
+      <td>≥ 18</td>
+      <td>259</td>
+      <td>87,2****</td>
+      <td>44,2; 98,6</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>N&nbsp;&nbsp; Số lượng người có thể đánh giá</p>
+
+<p>CI&nbsp;&nbsp; Khoảng tin cậy</p>
+
+<p>* Trung vị thời gian theo dõi lần lượt là 3,1 và 4,1 năm để báo cáo ca bệnh HZ và PHN</p>
+
+<p>** Trung vị thời gian theo dõi là 4,0 năm để báo cáo ca bệnh HZ và PHN</p>
+
+<p>*** Trung vị thời gian theo dõi là 21 tháng để báo cáo ca bệnh HZ và PHN</p>
+
+<p>**** Tính toán VE được tiến hành sau nghiên cứu; trung vị thời gian theo dõi là 11,1 tháng</p>
+
+<p># Đã được cấp phép điều trị dự phòng kháng virus theo tiêu chuẩn chăm sóc tại địa phương</p>
+
+<p>§ Không có ý nghĩa thống kê</p>
 
 Zoster-006 mTVC: N (Shingrix) = 7.344 N (Giả dược) = 7.415
 Phân tích gộp của nghiên cứu Zoster-006 và Zoster-022 mTVC: N (Shingrix) = 8.250 N (Giả dược) = 8.346
@@ -204,36 +370,103 @@ Trong Zoster-002, Shingrix làm giảm đáng kể 38,5% (CI 95%: 11,0; 57,6) th
 Mối tương quan miễn dịch về khả năng bảo vệ chưa được thiết lập; do đó chưa biết rõ mức độ đáp ứng miễn dịch bảo vệ chống lại HZ.
 Ở người lớn $\ge50$ tuổi, đáp ứng miễn dịch với Shingrix được đánh giá trong một phân nhóm đối tượng từ các nghiên cứu hiệu lực pha III như Zoster-006 [miễn dịch dịch thể và miễn dịch qua trung gian tế bào (CMI)] và Zoster-022 (miễn dịch dịch thể). Đáp ứng miễn dịch đặc hiệu với gE (dịch thể và CMI) được tạo ra sau tiêm Shingrix tại thời điểm 1 tháng sau liều thứ 2 được trình bày lần lượt trong Bảng 2 và 3.
 
-Bảng 2: Tính sinh miễn dịch dịch thể của Shingrix ở người lớn $\ge50$ tuổi tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)
-| Nhóm tuổi (tuổi) | N | Đáp ứng miễn dịch kháng gE^<br>VRR (%) (CI 95%) | GMC (CI 95%) | Trung vị số lần tăng nồng độ so với trước chủng ngừa (Q1; Q3) |
-|---|---|---|---|---|
-| Zoster-006 | | | | |
-| $\ge50$ | 1.070 | 98,5 (97,6; 99,1) | 52.376,6 (50.264,1; 54.577,9) | 41,9 (20,8; 86,9) |
-| Gộp Zoster-006 và Zoster-022 | | | | |
-| $\ge70$ | 742 | 96,6 (95,1; 97,8) | 49.691,5 (47.250,8; 52.258,2) | 34,3 (16,7; 68,5) |
+<h2>Bảng 2: Tính sinh miễn dịch dịch thể của Shingrix ở người lớn ≥ 50 tuổi tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)</h2>
 
-ATP: Tuân thủ đúng theo đề cương
-^ Đáp ứng miễn dịch kháng gE = mức kháng thể kháng gE, được đo bằng phương pháp định lượng hấp thụ miễn dịch liên kết với enzym (gE ELISA)
-N: Số người có thể đánh giá tại thời điểm đã xác định (đối với GMC)
-§: Tỷ lệ đáp ứng vắc xin (VRR) đối với kháng gE được định nghĩa là phần trăm đối tượng có nồng độ kháng thể kháng gE sau liều thứ 2 tăng ít nhất gấp 4 lần so với kháng thể kháng gE trước chủng ngừa (đối tượng có huyết thanh dương tính ban đầu), hoặc so với giá trị giới hạn huyết thanh dương tính của kháng thể kháng gE (đối tượng có huyết thanh âm tính ban đầu)
-CI: Khoảng tin cậy
-GMC: Nồng độ kháng thể trung bình nhân
-Q1; Q3: Tứ phân vị thứ nhất và thứ ba
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th colspan="5">Đáp ứng miễn dịch kháng gE ^</th>
+    </tr>
+    <tr>
+      <th>Nhóm tuổi<br>(tuổi)</th>
+      <th>N</th>
+      <th>VRR<sup>§</sup> (%)<br>(CI 95%)</th>
+      <th>GMC<br>(CI 95%)</th>
+      <th>Trung vị số lần tăng nồng độ so với trước chủng ngừa (Q1; Q3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="5">Zoster-006</th>
+    </tr>
+    <tr>
+      <td>≥ 50</td>
+      <td>1.070</td>
+      <td>98,5<br>(97,6; 99,1)</td>
+      <td>52.376,6<br>(50.264,1; 54.577,9)</td>
+      <td>41,9<br>(20,8; 86,9)</td>
+    </tr>
+    <tr>
+      <th colspan="5">Gộp Zoster-006 và Zoster-022</th>
+    </tr>
+    <tr>
+      <td>≥ 70</td>
+      <td>742</td>
+      <td>96,6<br>(95,1; 97,8)</td>
+      <td>49.691,5<br>(47.250,8; 52.258,2)</td>
+      <td>34,3<br>(16,7; 68,5)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>ATP: Tuân thủ đúng theo đề cương</p>
+
+<p>^ Đáp ứng miễn dịch kháng gE = mức kháng thể kháng gE, được đo bằng phương pháp định lượng hấp thụ miễn dịch liên kết với enzym (gE ELISA)</p>
+
+<p>N Số người có thể đánh giá tại thời điểm đã xác định (đối với GMC)</p>
+
+<p>§ Tỷ lệ đáp ứng vắc xin (VRR) đối với kháng gE được định nghĩa là phần trăm đối tượng có nồng độ kháng thể kháng gE sau liều thứ 2 tăng ít nhất gấp 4 lần so với kháng thể kháng gE trước chủng ngừa (đối tượng có huyết thanh dương tính ban đầu), hoặc so với giá trị giới hạn huyết thanh dương tính của kháng thể kháng gE (đối tượng có huyết thanh âm tính ban đầu)</p>
+
+<p>CI Khoảng tin cậy</p>
+
+<p>GMC Nồng độ kháng thể trung bình nhân</p>
+
+<p>Q1; Q3 Tứ phân vị thứ nhất và thứ ba</p>
 
 Vào năm thứ 3 sau liều 2, trung vị số lần tăng so với ban đầu là 9,3 (Q1: 4,9; Q3: 19,5) ở người lớn $\ge50$ tuổi (nghiên cứu Zoster-006) và 7,2 (Q1: 3,5; Q3: 14,5) ở người lớn $\ge70$ tuổi (gộp của nghiên cứu Zoster-006 và Zoster-022).
 
-Bảng 3: Tính sinh miễn dịch qua trung gian tế bào của Shingrix ở người lớn $\ge50$ tuổi tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)
-| Nhóm tuổi (tuổi) | N | Đáp ứng tế bào T $CD4^{2+}$ đặc hiệu với gE^<br>Trung vị tần suất (Q1; Q3) | Trung vị số lần tăng tần suất so với trước chủng ngừa (Q1; Q3) |
-|---|---|---|---|
-| Zoster-006 | | | |
-| $\ge50$ | 164 | 1.844,1 (1.253,6; 2.932,3) | 24,6 (9,9; 744,2) |
-| $\ge70$* | 52 | 1.494,6 (922,9; 2.067,1) | 33,2 (10,0; 1.052,0) |
+<h2>Bảng 3: Tính sinh miễn dịch qua trung gian tế bào của Shingrix ở người lớn ≥ 50 tuổi tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)</h2>
 
-ATP: Tuân thủ đúng theo đề cương
-^ Đáp ứng tế bào T $CD4^{2+}$ đặc hiệu với gE = hoạt tính tế bào T CD4+ đặc hiệu với gE, được đo bằng phương pháp định lượng nhuộm cytokine nội bào (ICS) (Tế bào T $CD4^{2+}$ = các tế bào T CD4+ biểu hiện ít nhất 2 trong 4 dấu hiệu miễn dịch chọn lọc)
-N: Số người có thể đánh giá tại thời điểm đã xác định về trung vị tần suất
-Q1; Q3: Tứ phân vị thứ nhất và thứ ba
-* Dữ liệu $CD4^{2+}$ đặc hiệu gE ở nhóm $\ge70$ tuổi chỉ được tạo ra từ nghiên cứu Zoster-006 vì hoạt tính của tế bào T CD4+ không được đánh giá trong nghiên cứu Zoster-022
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th colspan="4">Đáp ứng tế bào T CD4[2+] đặc hiệu với gE ^</th>
+    </tr>
+    <tr>
+      <th>Nhóm tuổi<br>(tuổi)</th>
+      <th>N</th>
+      <th>Trung vị tần suất<br>(Q1; Q3)</th>
+      <th>Trung vị số lần tăng tần suất so với trước chủng ngừa<br>(Q1; Q3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="4">Zoster-006</th>
+    </tr>
+    <tr>
+      <td>≥ 50</td>
+      <td>164</td>
+      <td>1.844,1<br>(1.253,6; 2.932,3)</td>
+      <td>24,6<br>(9,9; 744,2)</td>
+    </tr>
+    <tr>
+      <td>≥ 70*</td>
+      <td>52</td>
+      <td>1.494,6<br>(922,9; 2.067,1)</td>
+      <td>33,2<br>(10,0; 1.052,0)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>ATP Tuân thủ đúng theo đề cương</p>
+
+<p>^ Đáp ứng tế bào T CD4[2+] đặc hiệu với gE = hoạt tính tế bào T CD4+ đặc hiệu với gE, được đo bằng phương pháp định lượng nhuộm cytokine nội bào (ICS) (Tế bào T CD4[2+] = các tế bào T CD4+ biểu hiện ít nhất 2 trong 4 dấu hiệu miễn dịch chọn lọc)</p>
+
+<p>N Số người có thể đánh giá tại thời điểm đã xác định về trung vị tần suất</p>
+
+<p>Q1; Q3 Tứ phân vị thứ nhất và thứ ba</p>
+
+<p>* Dữ liệu CD4[2+] đặc hiệu gE ở nhóm ≥ 70 tuổi chỉ được tạo ra từ nghiên cứu Zoster-006 vì hoạt tính của tế bào T CD4+ không được đánh giá trong nghiên cứu Zoster-022</p>
 
 Vào năm thứ 3 sau liều 2, trong nghiên cứu Zoster-006, tăng ngưỡng trung vị so với ban đầu là 7,9 (Q1: 2,7; Q3: 31,6) ở người lớn $\ge50$ tuổi và 7,3 (Q1: 1,7; Q3: 31,6) ở người lớn $\ge70$ tuổi.
 Dữ liệu từ một nghiên cứu lâm sàng theo dõi, pha II, nhãn mở, đơn nhóm, ở người lớn $\ge60$ tuổi (Zoster-024) cho thấy đáp ứng miễn dịch do vắc xin (dịch thể và CMI) duy trì đến Tháng 72 (khoảng 6 năm sau liều 1, tức là 70 tháng sau liều 2), theo lịch tiêm 0, 2 tháng (N = 119).
@@ -246,37 +479,149 @@ Trung vị nồng độ kháng thể kháng gE cao hơn gấp 7 lần trung vị
 
 Đáp ứng miễn dịch đặc hiệu gE (dịch thể và qua trung gian tế bào) được tạo ra sau tiêm Shingrix 01 tháng sau liều thứ 2 ở tất cả đối tượng bị suy giảm miễn dịch trong nghiên cứu được trình bày tương ứng ở Bảng 4 và 5.
 
-Bảng 4: Tính sinh miễn dịch dịch thể của Shingrix ở người lớn $\ge18$ tuổi bị suy giảm miễn dịch tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)
-| Nhóm đối tượng | N | Đáp ứng miễn dịch kháng gE^<br>VRR (%) (CI 95%) | GMC (CI 95%) | Trung vị số lần tăng nồng độ so với trước chủng ngừa (Q1; Q3) |
-|---|---|---|---|---|
-| Zoster-002 (người sử dụng liệu pháp aHSCT) | 82 | 67,1 (55,8; 77,1) | 12.753,2 (7.973,0; 20.399,4) | 14,1 (1,7; 137,0) |
-| Zoster-028 (bệnh nhân có khối u đặc) | 87 | 86,2 (77,1; 92,7) | 18.291,7 (14.432,1; 23.183,5) | 21,5 (7,0; 45,2) |
-| Zoster-039 (bệnh nhân có bệnh lý máu ác tính) | 217 | 65,4 (58,7; 71,7) | 13.445,6 (10.158,9; 17.795,6) | 17,2 (1,4; 87,4) |
-| Zoster-041 (bệnh nhân ghép thận) | 121 | 80,2 (71,9; 86,9) | 19.163,8 (15.041,5; 24.416,0) | 15,1 (6,1; 35,0) |
-| Zoster-015 (người nhiễm HIV) | 53 | 98,1 (89,9; 100) | 42.723,6 (31.233,0; 58.441,6) | 40,9 (18,8; 93,0) |
+<h2>Bảng 4: Tính sinh miễn dịch dịch thể của Shingrix ở người lớn ≥ 18 tuổi bị suy giảm miễn dịch tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)</h2>
 
-ATP (Đoàn hệ): Tuân thủ đúng theo đề cương
-^ Đáp ứng miễn dịch kháng gE = mức kháng thể kháng gE, được đo bằng phương pháp định lượng hấp thụ miễn dịch liên kết với enzym (gE ELISA)
-N: Số người có thể đánh giá tại thời điểm đã xác định (đối với GMC)
-§ Tỷ lệ đáp ứng vắc xin (VRR) kháng gE được định nghĩa là phần trăm đối tượng có nồng độ kháng thể kháng gE sau liều thứ 2 tăng ít nhất gấp 4 lần so với kháng thể kháng gE trước chủng ngừa (đối tượng có huyết thanh dương tính ban đầu), hoặc so với giá trị giới hạn huyết thanh dương tính của kháng thể kháng gE (đối tượng có huyết thanh âm tính ban đầu)
-CI: Khoảng tin cậy
-GMC: Nồng độ kháng thể trung bình nhân
-Q1; Q3: Tứ phân vị thứ nhất và thứ ba
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th colspan="4">Đáp ứng miễn dịch kháng gE ^</th>
+    </tr>
+    <tr>
+      <th>N</th>
+      <th>VRR<sup>§</sup> (%)<br>(CI 95%)</th>
+      <th>GMC<br>(CI 95%)</th>
+      <th>Trung vị số lần tăng nồng độ so với trước chủng ngừa (Q1; Q3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="4">Zoster-002 (người sử dụng liệu pháp aHSCT)</th>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>67,1<br>(55,8; 77,1)</td>
+      <td>12.753,2<br>(7.973,0; 20.399,4)</td>
+      <td>14,1<br>(1,7; 137,0)</td>
+    </tr>
+    <tr>
+      <th colspan="4">Zoster-028 (bệnh nhân có khối u đặc)</th>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>86,2<br>(77,1; 92,7)</td>
+      <td>18.291,7<br>(14.432,1; 23.183,5)</td>
+      <td>21,5<br>(7,0; 45,2)</td>
+    </tr>
+    <tr>
+      <th colspan="4">Zoster-039 (bệnh nhân có bệnh lý máu ác tính)</th>
+    </tr>
+    <tr>
+      <td>217</td>
+      <td>65,4<br>(58,7; 71,7)</td>
+      <td>13.445,6<br>(10.158,9; 17.795,6)</td>
+      <td>17,2<br>(1,4; 87,4)</td>
+    </tr>
+    <tr>
+      <th colspan="4">Zoster-041 (bệnh nhân ghép thận)</th>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>80,2<br>(71,9; 86,9)</td>
+      <td>19.163,8<br>(15.041,5; 24.416,0)</td>
+      <td>15,1<br>(6,1; 35,0)</td>
+    </tr>
+    <tr>
+      <th colspan="4">Zoster-015 (người nhiễm HIV)</th>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>98,1<br>(89,9; 100)</td>
+      <td>42.723,6<br>(31.233,0; 58.441,6)</td>
+      <td>40,9<br>(18,8; 93,0)</td>
+    </tr>
+  </tbody>
+</table>
 
-Bảng 5: Tính sinh miễn dịch qua trung gian tế bào của Shingrix ở người lớn $\ge18$ tuổi bị suy giảm miễn dịch tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)
-| Nhóm đối tượng | N | Đáp ứng tế bào T $CD4^{2+}$ đặc hiệu với gE^<br>Trung vị tần suất (Q1; Q3) | Trung vị số lần tăng tần suất so với trước chủng ngừa (Q1; Q3) |
-|---|---|---|---|
-| Zoster-002 (người sử dụng liệu pháp aHSCT) | 51 | 6.644,9 (1.438,3; 13.298,6) | 109,0 (34,4; 2.716,4) |
-| Zoster-028* (bệnh nhân có khối u đặc) | 22 | 778,8 (393,1; 1.098,2) | 4,9 (1,7; 33,0) |
-| Zoster-039 (bệnh nhân có bệnh lý máu ác tính) | 53 | 3.081,9 (1.766,2; 7.413,6) | 45,9 (16,4; 2.221,9) |
-| Zoster-041 (bệnh nhân ghép thận) | 32 | 2.149,0 (569,4; 3.695,1) | 47,7 (14,7; 439,6) |
-| Zoster-015 (người nhiễm HIV) | 41 | 2.809,7 (1.554,5; 4.663,7) | 23,4 (8,5; 604,1) |
+<p>ATP (Đoàn hệ) Tuân thủ đúng theo đề cương</p>
 
-ATP: Tuân thủ đúng theo đề cương
-^ Đáp ứng tế bào T $CD4^{2+}$ đặc hiệu với gE = hoạt tính tế bào T CD4+ đặc hiệu với gE, được đo bằng phương pháp định lượng nhuộm cytokine nội bào (ICS) (Tế bào T $CD4^{2+}$ = các tế bào T CD4+ biểu hiện ít nhất 2 trong 4 dấu ấn miễn dịch chọn lọc)
-N: Số người có thể đánh giá tại thời điểm đã xác định về trung vị tần suất
-Q1; Q3: Tứ phân vị thứ nhất và thứ ba
-* Máu để xác định miễn dịch qua trung gian tế bào được thu thập từ nhóm người đã tiêm liều Shingrix thứ nhất 8-30 ngày trước khi bắt đầu chu kỳ hóa trị (tức là nhóm lớn nhất của nghiên cứu)
+<p>^ Đáp ứng miễn dịch kháng gE = mức kháng thể kháng gE, được đo bằng phương pháp định lượng hấp thụ miễn dịch liên kết với enzym (gE ELISA)</p>
+
+<p>N Số người có thể đánh giá tại thời điểm đã xác định (đối với GMC)</p>
+
+<p>§ Tỷ lệ đáp ứng vắc xin (VRR) kháng gE được định nghĩa là phần trăm đối tượng có nồng độ kháng thể kháng gE sau liều thứ 2 tăng ít nhất gấp 4 lần so với kháng thể kháng gE trước chủng ngừa (đối tượng có huyết thanh dương tính ban đầu), hoặc so với giá trị giới hạn huyết thanh dương tính của kháng thể kháng gE (đối tượng có huyết thanh âm tính ban đầu)</p>
+
+<p>CI Khoảng tin cậy</p>
+
+<p>GMC Nồng độ kháng thể trung bình nhân</p>
+
+<p>Q1; Q3 Tứ phân vị thứ nhất và thứ ba</p>
+
+<h2>Bảng 5: Tính sinh miễn dịch qua trung gian tế bào của Shingrix ở người lớn ≥ 18 tuổi bị suy giảm miễn dịch tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)</h2>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th colspan="3">Đáp ứng tế bào T CD4[2+] đặc hiệu với gE ^</th>
+    </tr>
+    <tr>
+      <th>N</th>
+      <th>Trung vị tần suất<br>(Q1; Q3)</th>
+      <th>Trung vị số lần tăng tần suất so với trước chủng ngừa<br>(Q1; Q3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="3">Zoster-002 (người sử dụng liệu pháp aHSCT)</th>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>6.644,9<br>(1.438,3; 13.298,6)</td>
+      <td>109,0<br>(34,4; 2.716,4)</td>
+    </tr>
+    <tr>
+      <th colspan="3">Zoster-028* (bệnh nhân có khối u đặc)</th>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>778,8<br>(393,1; 1.098,2)</td>
+      <td>4,9<br>(1,7; 33,0)</td>
+    </tr>
+    <tr>
+      <th colspan="3">Zoster-039 (bệnh nhân có bệnh lý máu ác tính)</th>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>3.081,9<br>(1.766,2; 7.413,6)</td>
+      <td>45,9<br>(16,4; 2.221,9)</td>
+    </tr>
+    <tr>
+      <th colspan="3">Zoster-041 (bệnh nhân ghép thận)</th>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>2.149,0<br>(569,4; 3.695,1)</td>
+      <td>47,7<br>(14,7; 439,6)</td>
+    </tr>
+    <tr>
+      <th colspan="3">Zoster-015 (người nhiễm HIV)</th>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>2.809,7<br>(1.554,5; 4.663,7)</td>
+      <td>23,4<br>(8,5; 604,1)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>ATP: Tuân thủ đúng theo đề cương</p>
+
+<p>^ Đáp ứng tế bào T CD4[2+] đặc hiệu với gE = hoạt tính tế bào T CD4+ đặc hiệu với gE, được đo bằng phương pháp định lượng nhuộm cytokine nội bào (ICS) (Tế bào T CD4[2+] = các tế bào T CD4+ biểu hiện ít nhất 2 trong 4 dấu ấn miễn dịch chọn lọc)</p>
+
+<p>N Số người có thể đánh giá tại thời điểm đã xác định về trung vị tần suất</p>
+
+<p>Q1; Q3 Tứ phân vị thứ nhất và thứ ba</p>
+
+<p>* Mẫu để xác định miễn dịch qua trung gian tế bào được thu thập từ nhóm người đã tiêm liều Shingrix thứ nhất 8-30 ngày trước khi bắt đầu chu kỳ hóa trị (tức là nhóm lớn nhất của nghiên cứu)</p>
 
 1 năm sau liều thứ 2, ngưỡng trung vị tăng so với ban đầu dao động từ 2,7 đến 6,5 đối với nồng độ kháng thể kháng gE, và từ 2,0 đến 43,6 đối với tần suất tế bào T $CD4^{2+}$ đặc hiệu gE (các nghiên cứu Zoster-002, Zoster-028, Zoster-039 và Zoster-041).
 2 năm sau liều thứ 2, trong nghiên cứu Zoster-002, tăng ngưỡng trung vị so với ban đầu là 1,3 đối với nồng độ kháng thể kháng gE và 50,9 đối với tần suất tế bào T $CD4^{2+}$.

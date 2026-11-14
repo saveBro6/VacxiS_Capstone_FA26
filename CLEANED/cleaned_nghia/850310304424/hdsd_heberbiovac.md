@@ -3,18 +3,63 @@ Rx- Thuốc kê đơn
 HEBERBIOVAC HB
 Vắc xin Viêm gan B tái tổ hợp
 Hỗn dịch tiêm bắp
-| Thành phần   | Hàm lượng   |
-|  | 1,0mL/liều  $0,5~mL/li\hat{e}u$   |
-| Protein kháng nguyên bề mặt HBsAg (độ tinh khiết   | 10 µg  20 µg   |
-| $\ge95\%)$   |  |
-| Gel hydroxide nhôm $(Al^{3+})$   | 0,50 mg  0,25 mg   |
-| Thiomersal   | 0,025 mg  0,05 mg   |
-| Sodium chloride   | 4,0 mg  8,0mg   |
-| Disodium hydrogen phosphate   | 0,56 mg  1,12 mg   |
-| Sodium dihydrogen phosphate dihydrate   | 0,62 mg  1,24 mg   |
-| HOẶC Sodium dihydrogen phosphate monohydrate   | 0,55 mg  1,10 mg   |
-| Nước pha tiêm vừa đủ   | 0,5 ml  1,0 ml   |
-Thành phần
+<h2>Thành phần</h2>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="2">Thành phần</th>
+      <th colspan="2">Hàm lượng</th>
+    </tr>
+    <tr>
+      <th>0,5 mL/liều</th>
+      <th>1,0mL/liều</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Protein kháng nguyên bề mặt HBsAg (độ tinh khiết ≥95%)</td>
+      <td>10 µg</td>
+      <td>20 µg</td>
+    </tr>
+    <tr>
+      <td>Gel hydroxide nhôm (Al<sup>3+</sup>)</td>
+      <td>0,25 mg</td>
+      <td>0,50 mg</td>
+    </tr>
+    <tr>
+      <td>Thiomersal</td>
+      <td>0,025 mg</td>
+      <td>0,05 mg</td>
+    </tr>
+    <tr>
+      <td>Sodium chloride</td>
+      <td>4,0 mg</td>
+      <td>8,0mg</td>
+    </tr>
+    <tr>
+      <td>Disodium hydrogen phosphate</td>
+      <td>0,56 mg</td>
+      <td>1,12 mg</td>
+    </tr>
+    <tr>
+      <td>Sodium dihydrogen phosphate dihydrate</td>
+      <td>0,62 mg</td>
+      <td>1,24 mg</td>
+    </tr>
+    <tr>
+      <td>HOẶC Sodium dihydrogen phosphate monohydrate</td>
+      <td>0,55 mg</td>
+      <td>1,10 mg</td>
+    </tr>
+    <tr>
+      <td>Nước pha tiêm vừa đủ</td>
+      <td>0,5 ml</td>
+      <td>1,0 ml</td>
+    </tr>
+  </tbody>
+</table>
+
 Đặc tính:
 Heberbiovac HB, vắc xin viêm gan B tái tổ hợp (CIGB) có chứa protein kháng nguyên bề mặt
 virus Viêm gan B (HBV). Kháng nguyên này được sản xuất từ quá trình nuôi cấy tế bào nấm men

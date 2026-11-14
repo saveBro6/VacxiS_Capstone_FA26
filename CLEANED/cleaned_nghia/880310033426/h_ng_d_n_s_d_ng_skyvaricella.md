@@ -168,20 +168,78 @@ Bệnh thủy đậu phát sinh do việc nhiễm vi rút varicella-zoster (VZV)
 **Tính sinh miễn dịch của vắc xin SKYVaricella Inj. từ thử nghiệm lâm sàng:**
 Hiệu quả (tính sinh miễn dịch) của SKYVaricella Inj. được đánh giá thông qua một nghiên cứu lâm sàng đa quốc gia, ngẫu nhiên, mù kép, có đối chứng tích cực, song song trên trẻ em khỏe mạnh từ 12 tháng đến 12 tuổi. Kết cục chính trong đánh giá tính sinh miễn dịch là tính không thua kém về tỉ lệ chuyển đổi huyết thanh được chứng minh bằng thử nghiệm phát hiện kháng thể huỳnh quang của kháng nguyên màng (fluorescent antibody to membrane antigen assay - FAMA). Phân tích này được thực hiện trên tổng số 458 đối tượng trong bộ phân tích tuân thủ đề cương (PPS). Kết quả của thử nghiệm FAMA trong nghiên cứu lâm sàng giai đoạn III được trình bày trong bảng dưới đây:
 
-| | | Nhóm tiêm SKYVaricella Inj. (N=228) | Nhóm đối chứng (N=230) |
-| :--- | :--- | :--- | :--- |
-| **Kháng thể nền** | GMT $\pm$ SD | $1,37 \pm 2,62$ | $1,22 \pm 1,97$ |
-| | 95% CI của GMT | [1,21; 1,55] | [1,11; 1,33] |
-| **6 tuần sau tiêm** | GMT $\pm$ SD | $103,15 \pm 2,87$ | $54,22 \pm 3,32$ |
-| | 95% CI của GMT | [89,89; 118,36] | [46,39; 63,38] |
-| **6 tuần sau tiêm/kháng thể nền** | GMR $\pm$ SD | $75,42 \pm 3,77$ | $44,58 \pm 3,69$ |
-| | 95% CI của GMT | [63,42; 89,69] | [37,63; 52,81] |
-| **Tỉ lệ chuyển đổi huyết thanh*** | % (n/N) | 99,53 (211/212) | 96,38 (213/221) |
-| | 95% CI của tỉ lệ chuyển đổi huyết thanh | [97,40; 99,99] | [92,99; 98,42] |
-| | Khác biệt về tỉ lệ giữa 2 vắc xin | 3,15 | |
-| | 95% CI của sự khác biệt về tỉ lệ giữa 2 vắc xin | [0,52; 5,78] | |
-
-* Tỉ lệ chuyển đổi huyết thanh: Tỉ lệ đối tượng có chuyển đổi huyết thanh từ âm tính trước khi tiêm (với hiệu giá kháng thể VZV theo thử nghiệm FAMA < 1:4) thành huyết thanh dương tính sau tiêm (với hiệu giá kháng thể VZV theo thử nghiệm FAMA $\ge$ 1:4)
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Nhóm tiêm<br>SKYVaricella Inj.<br>(N=228)</th>
+      <th>Nhóm đối chứng<br>(N=230)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Kháng thể nền</td>
+      <td>GMT±GSD</td>
+      <td>1,37 ± 2,62</td>
+      <td>1,22 ± 1,97</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>95% CI của GMT</td>
+      <td>[1,21; 1,55]</td>
+      <td>[1,11; 1,33]</td>
+    </tr>
+    <tr>
+      <td>6 tuần sau tiêm</td>
+      <td>GMT±GSD</td>
+      <td>103,15 ± 2,87</td>
+      <td>54,22 ± 3,32</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>95% CI của GMT</td>
+      <td>[89,89; 118,36]</td>
+      <td>[46,39; 63,38]</td>
+    </tr>
+    <tr>
+      <td>6 tuần sau tiêm/kháng thể nền</td>
+      <td>GMR±GSD</td>
+      <td>75,42 ± 3,77</td>
+      <td>44,58 ± 3,69</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>95% CI của GMT</td>
+      <td>[63,42; 89,69]</td>
+      <td>[37,63; 52,81]</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Tỉ lệ chuyển đổi huyết thanh*</td>
+      <td>% (n/N)</td>
+      <td>99,53 (211/212)</td>
+      <td>96,38 (213/221)</td>
+    </tr>
+    <tr>
+      <td>95% CI của tỉ lệ chuyển đổi huyết thanh</td>
+      <td>[97,40; 99,99]</td>
+      <td>[92,99; 98,42]</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Khác biệt về tỉ lệ giữa 2 vắc xin</td>
+      <td colspan="2" align="center">3,15</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>95% CI của sự khác biệt về tỉ lệ giữa 2 vắc xin</td>
+      <td colspan="2" align="center">[0,52; 5,78]</td>
+    </tr>
+    <tr>
+      <td colspan="4">* Tỉ lệ chuyển đổi huyết thanh: Tỉ lệ đối tượng có chuyển đổi huyết thanh từ âm tính trước khi tiêm (với hiệu giá kháng thể VZV theo thử nghiệm FAMA &lt; 1:4) thành huyết thanh dương tính sau tiêm (với hiệu giá kháng thể VZV theo thử nghiệm FAMA ≥ 1:4)</td>
+    </tr>
+  </tbody>
+</table>
 
 **Thông tin tiền lâm sàng:**
 Kết quả từ các nghiên cứu dược lý học an toàn (trên hệ thống tim mạch, hô hấp và hệ thần kinh trung ương), các nghiên cứu về độc tính trên liều đơn và liều lặp lại cho thấy không có tác dụng phụ tiềm tàng nào có thể xảy ra trên người.

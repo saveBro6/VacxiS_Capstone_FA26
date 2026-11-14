@@ -129,40 +129,80 @@ Phản ứng tại chỗ tiêm đã xảy ra trong vòng 3 ngày sau khi tiêm c
 b. Bảng liệt kê các phản ứng bất lợi
 Bảng dưới đây tóm tắt tần suất của các phản ứng bất lợi đã được báo cáo với vắc-xin polysaccharide phế cầu trong các thử nghiệm lâm sàng và/hoặc trong theo dõi hậu mãi, sử dụng quy ước sau: rất thường gặp (≥ 1/10); thường gặp (≥ 1/100 đến < 1/10); ít gặp (≥ 1/1.000 đến < 1/100); hiếm gặp (≥ 1/10.000 đến < 1/1.000); rất hiếm gặp (< 1/10.000); không rõ (không thể ước tính từ các dữ liệu hiện có).
 
-| Phản ứng bất lợi | Tần suất |
-| :--- | :--- |
-| **Rối loạn máu và hệ bạch huyết** | |
-| Thiếu máu tan máu§ | |
-
-5/10
-
-TRANG 6 (Page 6 of 10)
-| Phản ứng bất lợi | Tần suất |
-| :--- | :--- |
-| Tăng bạch cầu<br>Viêm hạch bạch huyết<br>Bệnh hạch bạch huyết<br>Giảm tiểu cầu§§ | Không rõ |
-| **Rối loạn hệ miễn dịch** | |
-| Phản ứng dạng phản vệ<br>Phù thần kinh mạch<br>Bệnh huyết thanh | Không rõ |
-| **Rối loạn hệ thần kinh** | |
-| Co giật có sốt<br>Hội chứng Guillain-Barré<br>Nhức đầu<br>Dị cảm<br>Bệnh thần kinh-rễ | Không rõ |
-| **Rối loạn tiêu hóa** | |
-| Buồn nôn<br>Nôn | Không rõ |
-| **Rối loạn da và mô dưới da** | |
-| Phát ban<br>Nổi mề đay | Không rõ |
-| **Rối loạn hệ cơ xương và mô liên kết** | |
-| Đau khớp<br>Viêm khớp<br>Đau cơ | Không rõ |
-| **Rối loạn toàn thân và tình trạng tại chỗ tiêm** | |
-| Sốt (≤ 38,8°C)<br>Phản ứng tại chỗ tiêm:<br>- ban đỏ<br>- chai cứng<br>- đau<br>- đau nhức<br>- sưng<br>- ấm | Rất thường gặp |
-| Sưng lan tỏa chi được tiêm† | Hiếm gặp |
-| Suy nhược<br>Ớn lạnh<br>Sốt<br>Giảm tính cử động của chi được tiêm†† | Không rõ |
-
-6/10
-
-TRANG 7 (Page 7 of 10)
-| Phản ứng bất lợi | Tần suất |
-| :--- | :--- |
-| Khó chịu<br>Phù ngoại biên | Không rõ |
-| **Xét nghiệm** | |
-| Tăng protein phản ứng C | Không rõ |
+<table>
+  <thead>
+    <tr>
+      <th>Phản ứng bất lợi</th>
+      <th>Tần suất</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><i>Rối loạn máu và hệ bạch huyết</i></td>
+    </tr>
+    <tr>
+      <td>Thiếu máu tan máu*<br>Tăng bạch cầu<br>Viêm hạch bạch huyết<br>Bệnh hạch bạch huyết<br>Giảm tiểu cầu**</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn hệ miễn dịch</i></td>
+    </tr>
+    <tr>
+      <td>Phản ứng dạng phản vệ<br>Phù thần kinh mạch<br>Bệnh huyết thanh</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn hệ thần kinh</i></td>
+    </tr>
+    <tr>
+      <td>Co giật có sốt<br>Hội chứng Guillain-Barré<br>Nhức đầu<br>Dị cảm<br>Bệnh thần kinh-rễ</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn tiêu hóa</i></td>
+    </tr>
+    <tr>
+      <td>Buồn nôn<br>Nôn</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn da và mô dưới da</i></td>
+    </tr>
+    <tr>
+      <td>Phát ban<br>Nổi mề đay</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn hệ cơ xương và mô liên kết</i></td>
+    </tr>
+    <tr>
+      <td>Đau khớp<br>Viêm khớp<br>Đau cơ</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn toàn thân và tình trạng tại chỗ tiêm</i></td>
+    </tr>
+    <tr>
+      <td>Sốt (≤ 38,8°C)<br>Phản ứng tại chỗ tiêm:<br>• ban đỏ<br>• chai cứng<br>• đau<br>• đau nhức<br>• sưng<br>• ấm</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Sưng lan tỏa chi được tiêm†</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Suy nhược<br>Ớn lạnh<br>Sốt<br>Giảm tính cử động của chi được tiêm<br>Khó chịu<br>Phù ngoại biên††</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Xét nghiệm</i></td>
+    </tr>
+    <tr>
+      <td>Tăng protein phản ứng C</td>
+      <td>Không rõ</td>
+    </tr>
+  </tbody>
+</table>
 
 § ở những bệnh nhân bị rối loạn về huyết học khác
 §§ ở những bệnh nhân bị ban xuất huyết giảm tiểu cầu tự phát ổn định

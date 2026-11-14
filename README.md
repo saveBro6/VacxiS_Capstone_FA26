@@ -59,7 +59,21 @@ Collection được giữ mặc định; chỉ `--recreate` mới xóa và tạo
 
 Các CLI `vacxis-generation`, `vacxis-retrieval`, `vacxis-eval`, `vacxis-evaluation` và `generate-test-dataset` vẫn được giữ. `vacxis-generation` không còn các cờ planner/làm rõ; dành chức năng đó cho API Python bên dưới. Tên lớp mới trong testdata là `OpenRouterAnswerGenerator`, không có alias cho tên lớp cũ.
 
-## Backend cho website demo
+## Web UI
+
+Chạy từ thư mục gốc sau khi cấu hình `.env`, chuẩn bị model và nạp collection vào Qdrant.
+
+```bash
+uv run --env-file .env vacxis-web
+```
+
+Mở [VacxiS tại localhost](http://127.0.0.1:8000). Giao diện Gradio có hai tab **Hỏi đáp** và **Tài liệu vắc xin**. Mục **Quá trình trả lời** cập nhật trong lúc hệ thống phân tích, tìm tài liệu, xếp hạng lại và soạn câu trả lời. Bấm nút nguồn dưới câu trả lời để mở đúng đoạn được trích dẫn.
+
+Dùng **Cuộc trò chuyện mới** để bắt đầu phiên khác hoặc chọn một phiên trong **Lịch sử trò chuyện** để mở lại. Lịch sử lưu trên cùng trình duyệt. Đặt `VACXIS_HISTORY_SECRET` ổn định trong `.env` và dùng cùng địa chỉ, cổng để giữ lịch sử qua các lần khởi động lại Gradio.
+
+Dùng `--port` để đổi cổng và `--chunks` để chọn tệp Parquet dùng trong tab tài liệu. Các tùy chọn `--qdrant-host`, `--qdrant-port`, `--collection-name`, `--model-path`, `--reranker-path`, `--top-k` và `--skip-rerank` dùng cùng mặc định với CLI pipeline. Máy chủ web lắng nghe trên loopback để chạy demo cục bộ.
+
+### API Python cho luồng hỏi đáp
 
 ```python
 from vacxis_capstone_fa26.generation import VacxisRAGPipeline
@@ -73,7 +87,7 @@ with VacxisRAGPipeline(query_planner=QueryPlanner()) as pipeline:
         pass
 ```
 
-Lượt tiếp theo gọi `run_turn(original_query, clarifications=[Clarification(question, user_answer)])`. Khi trả `ClarifyPlan`, pipeline không gọi retrieval/generation. Website chịu trách nhiệm lưu phiên và lịch sử; lần thay đổi này chưa tạo website.
+Lượt tiếp theo gọi `run_turn(original_query, clarifications=[Clarification(question, user_answer)])`. Khi trả `ClarifyPlan`, pipeline không gọi retrieval/generation. Web UI gửi lại câu hỏi gốc cùng các lượt làm rõ của lần tra cứu hiện tại.
 
 ## Kiểm thử
 

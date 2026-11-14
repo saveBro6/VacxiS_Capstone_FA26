@@ -11,19 +11,43 @@ NẾU CẦN THÊM THÔNG TIN XIN HỎI Ý KIẾN BÁC SỸ.
 BOOSTRIX
 Vắc-xin kết hợp bạch hầu - uốn ván - ho gà vô bào
 
-2. Thành phần định tính và định lượng
-1 liều (0,5 mL) có chứa:
-Giải độc tố bạch hầu¹: không ít hơn 2 Đơn vị Quốc tế (IU) (2,5 Lf)
-Giải độc tố uốn ván¹: không ít hơn 20 Đơn vị Quốc tế (IU) (5 Lf)
-Các kháng nguyên của ho gà (Bordetella pertussis):
-
-| Kháng nguyên / Thành phần | Hàm lượng |
-| :--- | :--- |
-| Giải độc tố ho gà¹ | 8 microgram |
-| Ngưng kết tố hồng cầu dạng sợi¹ | 8 microgram |
-| Pertactin¹ | 2,5 microgram |
-| ¹ được hấp phụ trên aluminium hydroxid, hydrat hoá (Al(OH)3) | 0,3 milligram Al³⁺ |
-| và aluminium phosphat (AlPO4) | 0,2 milligram Al³⁺ |
+<p><u><strong>2. Thành phần định tính và định lượng</strong></u></p>
+<p>1 liều (0,5 mL) có chứa:</p>
+<table>
+  <tbody>
+    <tr>
+      <td>Giải độc tố bạch hầu<sup>1</sup></td>
+      <td>không ít hơn 2 Đơn vị Quốc tế (IU) (2,5 Lf)</td>
+    </tr>
+    <tr>
+      <td>Giải độc tố uốn ván<sup>1</sup></td>
+      <td>không ít hơn 20 Đơn vị Quốc tế (IU) (5 Lf)</td>
+    </tr>
+    <tr>
+      <td colspan="2">Các kháng nguyên của ho gà (<em>Bordetella pertussis</em>)</td>
+    </tr>
+    <tr>
+      <td>Giải độc tố ho gà<sup>1</sup></td>
+      <td>8 microgram</td>
+    </tr>
+    <tr>
+      <td>Ngưng kết tố hồng cầu dạng sợi<sup>1</sup></td>
+      <td>8 microgram</td>
+    </tr>
+    <tr>
+      <td>Pertactin<sup>1</sup></td>
+      <td>2,5 microgram</td>
+    </tr>
+    <tr>
+      <td><sup>1</sup> được hấp phụ trên aluminium hydroxid, hydrat hoá (Al(OH)<sub>3</sub>)</td>
+      <td>0,3 milligram Al<sup>3+</sup></td>
+    </tr>
+    <tr>
+      <td>và aluminium phosphat (AlPO<sub>4</sub>)</td>
+      <td>0,2 milligram Al<sup>3+</sup></td>
+    </tr>
+  </tbody>
+</table>
 
 Boostrix là hỗn dịch màu trắng đục. Trong quá trình bảo quản, có thể quan sát thấy tủa trắng và phần nước nổi trong. Đó là hiện tượng bình thường.
 
@@ -198,14 +222,36 @@ Mã ACT: J07AJ52
 Đáp ứng miễn dịch
 Đáp ứng miễn dịch đối với thành phần bạch hầu, uốn ván và ho gà vô bào trong các nghiên cứu lâm sàng được trình bày trong bảng bên dưới. Khoảng một tháng sau tiêm ngừa tăng cường với Boostrix, tỉ lệ huyết thanh có kháng thể bảo vệ/ huyết thanh dương tính đã được quan sát như sau:
 
-| Kháng nguyên | Huyết thanh có kháng thể bảo vệ/ Huyết thanh dương tính | Người lớn và trẻ trên 10 tuổi, ít nhất 1690 đối tượng (% đối tượng được tiêm) | Trẻ từ 4-9 tuổi, ít nhất 415 đối tượng (% đối tượng được tiêm) |
-| :--- | :--- | :--- | :--- |
-| **Bạch hầu** | ≥ 0,1 IU/mL* | 97,2% | 99,8% |
-| **Uốn ván** | ≥ 0,1 IU/mL* | 99,0% | 100,0% |
-| **Ho gà:** | | | |
-| Giải độc tố ho gà | ≥ 5 EL.U/mL | 97,8% | 99,0% |
-| Ngưng kết hồng cầu dạng sợi | ≥ 5 EL.U/mL | 99,9% | 100,0% |
-| Pertactin | ≥ 5 EL.U/mL | 99,4% | 99,8% |
+<table>
+  <thead>
+    <tr>
+      <th>Kháng nguyên</th>
+      <th>Huyết thanh có kháng thể bảo vệ/ Huyết thanh dương tính</th>
+      <th>Người lớn và trẻ trên 10 tuổi, ít nhất 1690 đối tượng (% đối tượng được tiêm)</th>
+      <th>Trẻ từ 4-9 tuổi, ít nhất 415 đối tượng (% đối tượng được tiêm)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bạch hầu</td>
+      <td>≥ 0.1 IU/mL*</td>
+      <td>97,2%</td>
+      <td>99,8%</td>
+    </tr>
+    <tr>
+      <td>Uốn ván</td>
+      <td>≥ 0.1 IU/mL*</td>
+      <td>99,0%</td>
+      <td>100,0%</td>
+    </tr>
+    <tr>
+      <td>Ho gà:<br>- Giải độc tố ho gà<br>- Ngưng kết hồng cầu dạng sợi<br>- Pertactin</td>
+      <td><br>≥ 5 EL.U/mL<br>≥ 5 EL.U/mL<br>≥ 5 EL.U/mL</td>
+      <td><br>97,8%<br>99,9%<br>99,4%</td>
+      <td><br>99,0%<br>100,0%<br>99,8%</td>
+    </tr>
+  </tbody>
+</table>
 
 * Giới hạn được xem là có tác dụng bảo vệ
 Kết quả của các nghiên cứu so sánh với các vắc xin bạch hầu, uốn ván thương mại (dT) cho thấy mức độ và thời gian bảo vệ không khác biệt so với các vắc xin này đạt được.

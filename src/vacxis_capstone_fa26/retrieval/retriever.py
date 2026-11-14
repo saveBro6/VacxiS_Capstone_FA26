@@ -1,6 +1,7 @@
 """End-to-end Retrieval Pipeline for VacxiS Capstone."""
 from __future__ import annotations
 
+from collections.abc import Callable
 import logging
 from typing import Sequence, TYPE_CHECKING
 
@@ -98,6 +99,8 @@ class VacxisRetriever:
         rrf_top_k: int | None = None,
         skip_rerank: bool | None = None,
         query_max_length: int = 512,
+        *,
+        on_rerank: Callable[[], None] | None = None,
     ) -> list[RetrievedChunk]:
         """Execute hybrid search, RRF fusion, and reranking for a single query.
 
@@ -158,6 +161,8 @@ class VacxisRetriever:
 
         # 3. Rerank
         if not should_skip_rerank:
+            if on_rerank is not None:
+                on_rerank()
             return self.reranker.rerank(
                 query=query,
                 candidates=candidates,
@@ -177,6 +182,8 @@ class VacxisRetriever:
         skip_rerank: bool | None = None,
         batch_size: int = 16,
         query_max_length: int = 512,
+        *,
+        on_rerank: Callable[[], None] | None = None,
     ) -> list[list[RetrievedChunk]]:
         """Execute hybrid search, RRF, and reranking across multiple queries.
 
@@ -241,6 +248,8 @@ class VacxisRetriever:
 
         # 2. Batched cross-encoder reranking across all candidate pairs
         if not should_skip_rerank:
+            if on_rerank is not None and any(all_candidates):
+                on_rerank()
             return self.reranker.batch_rerank(
                 queries=query_list,
                 candidates_list=all_candidates,

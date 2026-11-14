@@ -207,19 +207,85 @@ Các phản ứng bất lợi được liệt kê theo các phân loại tần s
 
 Trong mỗi nhóm tần suất, các phản ứng có hại được trình bày theo thứ tự mức độ nghiêm trọng giảm dần.
 
-**Bảng 1: Bảng tóm tắt các phản ứng bất lợi sau khi sử dụng MenQuadfi từ các thử nghiệm lâm sàng**
+### Bảng 1: Bảng tóm tắt các phản ứng bất lợi sau khi sử dụng MenQuadfi từ các thử nghiệm lâm sàng ở các đối tượng từ 2 tuổi trở lên
 
-| Phân loại hệ cơ quan theo MedDRA PDF | Tần suất PDF | Phản ứng bất lợi PDF |
-| --- | --- | --- |
-| Rối loạn hệ máu và bạch huyết | Hiếm gặp | Nổi hạch |
-| Rối loạn hệ thần kinh | Rất thường gặp<br>Ít gặp | Đau đầu<br>Chóng mặt |
-| Rối loạn tiêu hóa | Ít gặp<br>Hiếm gặp | Nôn, buồn nôn<br>Tiêu chảy, đau dạ dày |
-| Rối loạn da và mô dưới da | Hiếm gặp | Mề đay, ngứa, phát ban |
-| Rối loạn cơ xương và mô liên kết | Rất thường gặp<br>Hiếm gặp | Đau cơ<br>Đau ở các chi |
-| Các rối loạn chung và tại vị trí tiêm | Rất thường gặp | Khó chịu<br>Đau chỗ tiêm |
-|  | Thường gặp | Sốt<br>Tại chỗ tiêm: sưng tấy, ban đỏ |
-|  | Ít gặp | Mệt mỏi<br>Tại chỗ tiêm: ngứa, nóng, bầm tím, phát ban |
-|  | Hiếm gặp | Ớn lạnh, đau nách<br>Tại chỗ tiêm: cứng |
+<table>
+  <thead>
+    <tr>
+      <th>Phân loại hệ cơ quan theo MedDRA</th>
+      <th>Tần suất</th>
+      <th>Phản ứng bất lợi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn hệ máu và bạch huyết</td>
+      <td>Hiếm gặp</td>
+      <td>Nổi hạch</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn hệ thần kinh</td>
+      <td>Rất thường gặp</td>
+      <td>Đau đầu</td>
+    </tr>
+    <tr>
+      <td>Ít gặp</td>
+      <td>Chóng mặt</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn tiêu hóa</td>
+      <td>Ít gặp</td>
+      <td>Nôn, buồn nôn</td>
+    </tr>
+    <tr>
+      <td>Hiếm gặp</td>
+      <td>Tiêu chảy, đau dạ dày</td>
+    </tr>
+    <tr>
+      <td>Rối loạn da và mô dưới da</td>
+      <td>Hiếm gặp</td>
+      <td>Mề đay, ngứa, phát ban</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn cơ xương và mô liên kết</td>
+      <td>Rất thường gặp</td>
+      <td>Đau cơ</td>
+    </tr>
+    <tr>
+      <td>Hiếm gặp</td>
+      <td>Đau ở các chi</td>
+    </tr>
+    <tr>
+      <td rowspan="8">Các rối loạn chung và tại vị trí tiêm</td>
+      <td rowspan="2">Rất thường gặp</td>
+      <td>Khó chịu</td>
+    </tr>
+    <tr>
+      <td>Đau chỗ tiêm</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Thường gặp</td>
+      <td>Sốt</td>
+    </tr>
+    <tr>
+      <td>Tại chỗ tiêm: sưng tấy, ban đỏ</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Ít gặp</td>
+      <td>Mệt mỏi</td>
+    </tr>
+    <tr>
+      <td>Tại chỗ tiêm: ngứa, nóng, bầm tím, phát ban</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Hiếm gặp</td>
+      <td>Ớn lạnh, đau nách</td>
+    </tr>
+    <tr>
+      <td>Tại chỗ tiêm: cứng</td>
+    </tr>
+  </tbody>
+</table>
 
 **Dân số trẻ em**
 
@@ -229,24 +295,74 @@ Dữ liệu về tính an toàn của MenQuadfi ở trẻ em và thanh thiếu n
 
 *Ở trẻ mới biết đi từ 12 đến 23 tháng tuổi:* ban đỏ và sưng tấy tại vị trí tiêm vắc-xin MenQuadfi (rất phổ biến), nôn mửa (thường gặp) và tiêu chảy (thường gặp), được báo cáo thường xuyên hơn so với các nhóm tuổi lớn hơn. Các phản ứng khác, như được liệt kê trong Bảng 2 dưới đây, đã được báo cáo rất thường gặp hoặc thường gặp sau khi sử dụng MenQuadfi ở trẻ mới biết đi trong các thử nghiệm lâm sàng:
 
-**Bảng 2: Bảng tổng hợp các phản ứng có hại sau khi sử dụng MenQuadfi từ các thử nghiệm lâm sàng ở các đối tượng từ 12 tháng đến 23 tháng**
+### Bảng 2: Bảng tổng hợp các phản ứng có hại sau khi sử dụng MenQuadfi từ các thử nghiệm lâm sàng ở các đối tượng từ 12 tháng đến 23 tháng
 
-| Phân loại hệ cơ quan theo MedDRA PDF | Tần suất PDF | Phản ứng bất lợi PDF |
-| --- | --- | --- |
-| Rối loạn chuyển hóa và dinh dưỡng | Rất thường gặp | Mất cảm giác ngon miệng |
-| Rối loạn tâm thần | Rất thường gặp | Cáu gắt |
+<table>
+  <thead>
+    <tr>
+      <th>Phân loại hệ cơ quan theo MedDRA</th>
+      <th>Tần suất</th>
+      <th>Phản ứng bất lợi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn chuyển hóa và dinh dưỡng</td>
+      <td>Rất thường gặp</td>
+      <td>Mất cảm giác ngon miệng</td>
+    </tr>
+    <tr>
+      <td>Rối loạn tâm thần</td>
+      <td>Rất thường gặp</td>
+      <td>Cáu gắt</td>
+    </tr>
+  </tbody>
+</table>
 
-Trang 6
+5
 
-| Phân loại hệ cơ quan theo MedDRA PDF | Tần suất PDF | Phản ứng bất lợi PDF |
-| --- | --- | --- |
-| *(tiếp theo Rối loạn tâm thần)* | Không thường gặp | Mất ngủ |
-| Rối loạn hệ thần kinh | Rất thường gặp | Buồn ngủ |
-| Rối loạn tiêu hóa | Chung | Nôn mửa, tiêu chảy |
-| Rối loạn da và mô dưới da | Ít gặp | Mày đay |
-| Các rối loạn chung và tại vị trí tiêm | Rất thường gặp | Khóc bất thường<br>Tại chỗ tiêm: đau / nhức, ban đỏ, sưng tấy |
-|  | Thường gặp | Sốt |
-|  | Ít gặp | Tại chỗ tiêm: ngứa, chai cứng, bầm tím, phát ban |
+[Trang 6]
+
+<table>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>Không thường gặp</td>
+      <td>Mất ngủ</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ thần kinh</td>
+      <td>Rất thường gặp</td>
+      <td>Buồn ngủ</td>
+    </tr>
+    <tr>
+      <td>Rối loạn tiêu hóa</td>
+      <td>Chung</td>
+      <td>Nôn mửa, tiêu chảy</td>
+    </tr>
+    <tr>
+      <td>Rối loạn da và mô dưới da</td>
+      <td>Ít gặp</td>
+      <td>Mày đay</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Các rối loạn chung và tại vị trí tiêm</td>
+      <td rowspan="2">Rất thường gặp</td>
+      <td>Khóc bất thường</td>
+    </tr>
+    <tr>
+      <td>Tại chỗ tiêm: đau / nhức, ban đỏ, sưng tấy</td>
+    </tr>
+    <tr>
+      <td>Thường gặp</td>
+      <td>Sốt</td>
+    </tr>
+    <tr>
+      <td>Ít gặp</td>
+      <td>Tại chỗ tiêm: ngứa, chai cứng, bầm tím, phát ban</td>
+    </tr>
+  </tbody>
+</table>
 
 **Người cao tuổi**
 
@@ -290,34 +406,140 @@ MET51 được tiến hành trên những đối tượng chưa từng chủng n
 
 MET57 được tiến hành trên trẻ nhỏ chưa được chủng ngừa vắc-xin não mô cầu để đánh giá tính sinh miễn dịch và tính an toàn khi sử dụng đồng thời MenQuadfi với các vắc-xin trên trẻ nhỏ (MMR + V, DTaP-IPV-HB-Hib hoặc PCV-13).
 
-**Bảng 3: So sánh đáp ứng kháng thể diệt khuẩn giữa vắc-xin MenQuadfi và MenACWY-TT 30 ngày sau tiêm vắc-xin não mô cầu trên đối tượng chưa tiêm vắc-xin viêm não mô cầu trước đó hoặc phối hợp (chưa tiêm + đã tiêm MenC) từ 12 đến 23 tháng tuổi (nghiên cứu MET51 *)**
+[Trang 7]
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) Chưa tiêm PDF | MenACWY-TT (95% CI) Chưa tiêm PDF | MenQuadfi (95% CI) Phối hợp (chưa tiêm + đã tiêm MenC) PDF | MenACWY-TT (95% CI) Phối hợp (chưa tiêm + đã tiêm MenC) PDF |
-| --- | --- | --- | --- | --- |
-| **A** | N = 295 | N = 293 | N = 490 | N = 393-394 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) ** | 89,5 (85,4; 92,7) | 90,8 (86,9; 93,8) | 90,4 (87,4; 92,9) | 91,6 (88,4; 94,2) |
-| % Đáp ứng huyết thanh | 72,5 (67,1; 77,6) | 76,8 (71,5; 81,5) | 76,5 (72,5; 80,2) | 77,1 (72,6; 81,2) |
-| hSBA GMT | 28,0 (24,4; 32,1) | 28,7 (25,2; 32,6) | 29,9 (26,9; 33,2) | 34,5 (30,5; 39,0) |
-| **C** | N = 293 | N = 295 | N = 489 | N = 393-394 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) ** | 97,6 (95,2; 99,0) | 81,4 (76,4; 85,6) | 99,2 (97,9; 99,8) | 85,5 (81,7; 88,9) |
-| % Đáp ứng huyết thanh | 97,1 (94,4; 98,7) | 71,5 (66,0; 76,6) | 98,4 (96,8; 99,3) | 77,4 (72,9; 81,4) |
-| hSBA GMT | 88,0 (74,8; 103,5) | 26,4 (22,5; 31,0) | 436 (380; 500) | 77,1 (60,7; 98,0) |
-| **W** | N = 293 | N = 296 | N = 489 | N = 393-394 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) ** | 83,6 (78,9; 87,7) | 83,4 (78,7; 87,5) | 84,9 (81,4; 87,9) | 84,0 (80,0; 87,5) |
-| % Đáp ứng huyết thanh | 67,6 (61,9; 72,9) | 66,6 (60,9; 71,9) | 70,8 (66,5; 74,8) | 68,4 (63,6; 73,0) |
-| hSBA GMT | 24,4 (21,8; 27,5) | 16,4 (14,4; 18,6) | 22,0 (18,9; 25,5) | 17,7 (15,8; 19,8) |
-| **Y** | N = 293 | N = 296 | N = 488-490 | N = 394-395 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) ** | 93,2 (89,7; 95,8) | 91,6 (87,8; 94,5) | 94,3 (91,8; 96,2) | 91,6 (88,5; 94,2) |
-| % Đáp ứng huyết thanh | 81,9 (77,0; 86,1) | 79,1 (74,0; 83,5) | 84,8 (81,3; 87,9) | 78,9 (74,6; 82,9) |
-| hSBA GMT | 38,0 (33,0; 43,9) | 32,2 (28,0; 37,0) | 41,7 (37,5; 46,5) | 31,9 (28,4; 36,0) |
+### Bảng 3: So sánh đáp ứng kháng thể diệt khuẩn giữa vắc-xin MenQuadfi và MenACWY-TT 30 ngày sau tiêm vắc-xin não mô cầu trên đối tượng chưa tiêm vắc-xin viêm não mô cầu trước đó hoặc phối hợp (chưa tiêm + đã tiêm MenC) từ 12 đến 23 tháng tuổi (nghiên cứu MET51 *)
 
-* *Mã số định danh thử nghiệm lâm sàng NCT02955797*
+<table>
+  <thead>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th>MenQuadfi<br>(95% CI)<br>Chưa tiêm</th>
+      <th>MenACWY-TT<br>(95% CI)<br>Chưa tiêm</th>
+      <th>MenQuadfi<br>(95% CI)<br>Phối hợp (chưa tiêm + đã tiêm MenC)</th>
+      <th>MenACWY-TT<br>(95% CI)<br>Phối hợp (chưa tiêm + đã tiêm MenC)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td>N = 293</td>
+      <td>N = 295</td>
+      <td>N = 490</td>
+      <td>N = 393-394</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ) **</td>
+      <td>90,8<br>(86,9; 93,8)</td>
+      <td>89,5<br>(85,4; 92,7)</td>
+      <td>90,4<br>(87,4; 92,9)</td>
+      <td>91,6<br>(88,4; 94,2)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>76,8<br>(71,5; 81,5)</td>
+      <td>72,5<br>(67,1; 77,6)</td>
+      <td>76,5<br>(72,5; 80,2)</td>
+      <td>77,1<br>(72,6; 81,2)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>28,7<br>(25,2; 32,6)</td>
+      <td>28,0<br>(24,4; 32,1)</td>
+      <td>29,9<br>(26,9; 33,2)</td>
+      <td>34,5<br>(30,5; 39,0)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>N = 293</td>
+      <td>N = 295</td>
+      <td>N = 489</td>
+      <td>N = 393-394</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ) **</td>
+      <td>99,3<br>(97,6; 99,9)</td>
+      <td>81,4<br>(76,4; 85,6)</td>
+      <td>99,2<br>(97,9; 99,8)</td>
+      <td>85,5<br>(81,7; 88,9)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>98,3<br>(96,1; 99,4)</td>
+      <td>71,5<br>(66,0; 76,6)</td>
+      <td>97,1<br>(95,2; 98,4)</td>
+      <td>77,4<br>(72,9; 81,4)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>436<br>(380; 500)</td>
+      <td>26,4<br>(22,5; 31,0)</td>
+      <td>88,0<br>(748; 1035)</td>
+      <td>77,1<br>(60,7; 98,0)</td>
+    </tr>
+    <tr>
+      <td>W</td>
+      <td>N = 293</td>
+      <td>N = 296</td>
+      <td>N = 489</td>
+      <td>N = 393-394</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ) **</td>
+      <td>83,6<br>(78,9; 87,7)</td>
+      <td>83,4<br>(78,7; 87,5)</td>
+      <td>84,9<br>(81,4; 87,9)</td>
+      <td>84,0<br>(80,0; 87,5)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>67,6<br>(61,9; 72,9)</td>
+      <td>66,6<br>(60,9; 71,9)</td>
+      <td>70,8<br>(66,5; 74,8)</td>
+      <td>68,4<br>(63,6; 73,0)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>22,0<br>(18,9; 25,5)</td>
+      <td>16,4<br>(14,4; 18,6)</td>
+      <td>24,4<br>(21,8; 27,5)</td>
+      <td>17,7<br>(15,8; 19,8)</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td>N = 293</td>
+      <td>N = 296</td>
+      <td>N = 488-490</td>
+      <td>N = 394-395</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ) **</td>
+      <td>93,2<br>(89,7; 95,8)</td>
+      <td>91,6<br>(87,8; 94,5)</td>
+      <td>94,3<br>(91,8; 96,2)</td>
+      <td>91,6<br>(88,5; 94,2)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>81,9<br>(77,0; 86,1)</td>
+      <td>79,1<br>(74,0; 83,5)</td>
+      <td>84,8<br>(81,3; 87,9)</td>
+      <td>78,9<br>(74,6; 82,9)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>38,0<br>(33,0; 43,9)</td>
+      <td>32,2<br>(28,0; 37,0)</td>
+      <td>41,7<br>(37,5; 46,5)</td>
+      <td>31,9<br>(28,4; 36,0)</td>
+    </tr>
+  </tbody>
+</table>
 
-*N: số đối tượng theo phân tích từ đề cương nghiên cứu có kết quả huyết thanh học hợp lệ.*
-
-*95% CI của mỗi tỷ lệ được tính toán theo phương pháp nhị thức tuyệt đối.*
-
-*Đáp ứng tiêu chí không thua kém*
+<p>* Mã số định danh thử nghiệm lâm sàng NCT02955797<br>
+N: số đối tượng theo phân tích từ đề cương nghiên cứu có kết quả huyết thanh học hợp lệ.<br>
+95% CI của mỗi tỷ lệ được tính toán theo phương pháp nhị thức tuyệt đối.<br>
+** Đáp ứng tiêu chí không thua kém</p>
 
 Trang 8
 
@@ -341,25 +563,226 @@ Sau liều nhắc lại, mức huyết thanh bảo vệ là gần 100% đối v�
 
 Trang 9
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | Tồn tại# (ở trẻ đã tiêm MenQuadfi) N=42 Ngày D30 Sau liều cơ bản PDF | Tồn tại# (ở trẻ đã tiêm MenQuadfi) N=42 Ngày D0- trước liều nhắc lại PDF | Nhắc lại$ (MenQuadfi ở trẻ đã tiêm MenQuadfi) N=40 PDF | Tồn tại# (ở trẻ đã tiêm MenACWY-TT) N=49 Ngày D30 Sau liều cơ bản PDF | Tồn tại# (ở trẻ đã tiêm MenACWY-TT) N=49 Ngày D0- trước liều nhắc lại PDF | Nhắc lại$ (MenQuadfi ở trẻ đã tiêm MenACWY-TT) N=44 PDF | Tồn tại# (Tổng MenQuadfi + MenACWY-TT) N=91 Ngày D30 Sau liều cơ bản PDF | Tồn tại# (Tổng MenQuadfi + MenACWY-TT) N=91 Ngày D0- trước liều nhắc lại PDF | Nhắc lại$ (Tổng MenQuadfi ở trẻ đã tiêm MenQuadfi + MenACWY-TT) N=84 PDF |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **A** |  |  |  |  |  |  |  |  |  |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 97,6 (87,4; 99,9) | 66,7 (50,5; 80,4) | 100 (91,2; 100) | 89,8 (77,8; 96,6) | 83,7 (70,3; 92,7) | 100 (92,0; 100) | 93,4 (86,2; 97,5) | 75,8 (65,7; 84,2) | 100 (95,7; 100) |
-| % Đáp ứng huyết thanh | - | - | 100 (91,2; 100) | - | - | 95,5 (84,5; 99,4) | - | - | 97,6 (91,7; 99,7) |
-| hSBA GMT | 83,3 (63,9; 109) | 11,9 (8,11; 17,4) | 763 (521; 1117) | 49,6 (32,1; 76,7) | 14,7 (10,7; 20,2) | 659 (427; 1017) | 63,0 (48,3; 82,2) | 13,3 (10,5; 17,0) | 706 (531; 940) |
-| **C** |  |  |  |  |  |  |  |  |  |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 100 (91,6; 100) | 100 (91,6; 100) | 100 (91,2; 100) | 87,8 (75,2; 95,4) | 57,1 (42,2; 71,2) | 100 (92,0; 100) | 93,4 (86,2; 97,5) | 76,9 (66,9; 85,1) | 100 (95,7; 100) |
-| % Đáp ứng huyết thanh | - | - | 95,0 (83,1; 99,4) | - | - | 100 (92,0; 100) | - | - | 97,6 (91,7; 99,7) |
-| hSBA GMT | 594 (445; 793) | 103 (71,7; 149) | 5894 (4325; 8031) | 29,4 (20,1; 43,1) | 11,6 (7,28; 18,3) | 1592 (1165; 2174) | 118 (79,3; 175) | 31,8 (21,9; 46,1) | 2969 (2293; 3844) |
-| **W** |  |  |  |  |  |  |  |  |  |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 97,6 (87,4; 99,9) | 100 (91,6; 100) | 97,5 (86,8; 99,9) | 95,9 (86,0; 99,5) | 83,7 (70,3; 92,7) | 100 (92,0; 100) | 97,8 (92,3; 99,7) | 90,1 (82,1; 95,4) | 98,8 (93,5; 100) |
-| % Đáp ứng huyết thanh | - | - | 97,5 (86,8; 99,9) | - | - | 100 (92,0; 100) | - | - | 98,8 (93,5; 100) |
-| hSBA GMT | 50,0 (35,9; 69,5) | 71,8 (53,3; 96,7) | 2656 (1601; 4406) | 40,1 (30,6; 52,6) | 21,2 (14,6; 30,9) | 3444 (2387; 4970) | 52,5 (42,7; 64,5) | 31,5 (24,2; 41,0) | 3043 (2248; 4120) |
-| **Y** |  |  |  |  |  |  |  |  |  |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 97,6 (87,4; 99,9) | 100 (91,6; 100) | 100 (91,2; 100) | 100 (92,7; 100) | 89,8 (77,8; 96,6) | 100 (92,0; 100) | 100 (96,0; 100) | 93,4 (86,2; 97,5) | 100 (95,7; 100) |
-| % Đáp ứng huyết thanh | - | - | 100 (91,2; 100) | - | - | 100 (92,0; 100) | - | - | 100 (95,7; 100) |
-| hSBA GMT | 105 (73,9; 149) | 32,5 (24,8; 42,7) | 2013 (1451; 2792) | 75,8 (54,2; 106) | 18,2 (13,8; 24,0) | 2806 (2066; 3813) | 88,1 (69,3; 112) | 23,8 (19,4; 29,1) | 2396 (1919; 2991) |
-
+<table>
+  <thead>
+    <tr>
+      <th rowspan="3">Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th colspan="3">Nhắc lại Men Quadfi ở trẻ đã tiêm MenQuadfi (95% CI)</th>
+      <th colspan="3">Nhắc lại Men Quadfi ở trẻ đã tiêm MenACWY-TT (95% CI)</th>
+      <th colspan="3">Nhắc lại Men Quadfi ở trẻ đã tiêm MenQuadfi + MenACWY-TT (95% CI)</th>
+    </tr>
+    <tr>
+      <th colspan="2">Tồn tại<br>N = 42</th>
+      <th rowspan="2">Nhắc lại §<br>N = 40</th>
+      <th colspan="2">Tồn tại<br>N = 49</th>
+      <th rowspan="2">Nhắc lại §<br>N = 44</th>
+      <th colspan="2">Tồn tại<br>N = 91</th>
+      <th rowspan="2">Nhắc lại §<br>N = 84</th>
+    </tr>
+    <tr>
+      <th>Ngày D30<br>Sau liều cơ bản</th>
+      <th>Ngày D0 - trước liều nhắc lại</th>
+      <th>Ngày D30<br>Sau liều cơ bản</th>
+      <th>Ngày D0 - trước liều nhắc lại</th>
+      <th>Ngày D30<br>Sau liều cơ bản</th>
+      <th>Ngày D0 - trước liều nhắc lại</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ)</td>
+      <td>97,6<br>(87,4; 99,9)</td>
+      <td>66,7<br>(50,5; 80,4)</td>
+      <td>100<br>(91,2; 100)</td>
+      <td>89,8<br>(77,8; 96,6)</td>
+      <td>83,7<br>(70,3; 92,7)</td>
+      <td>100<br>(92,0; 100)</td>
+      <td>93,4<br>(86,2; 97,5)</td>
+      <td>75,8<br>(65,7; 84,2)</td>
+      <td>100<br>(95,7; 100)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>-</td>
+      <td>-</td>
+      <td>100<br>(91,2; 100)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>95,5<br>(84,5; 99,4)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>97,6<br>(91,7; 99,7)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>83,3<br>(63,9; 109)</td>
+      <td>11,9<br>(8,11; 17,4)</td>
+      <td>763<br>(521; 1117)</td>
+      <td>49,6<br>(32,1; 76,7)</td>
+      <td>14,7<br>(10,7; 20,2)</td>
+      <td>659<br>(427; 1017)</td>
+      <td>63,0<br>(48,3; 82,2)</td>
+      <td>13,3<br>(10,5; 17,0)</td>
+      <td>706<br>(531; 940)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ)</td>
+      <td>100<br>(91,6; 100)</td>
+      <td>100<br>(91,6; 100)</td>
+      <td>100<br>(91,2; 100)</td>
+      <td>87,8<br>(75,2; 95,4)</td>
+      <td>57,1<br>(42,2; 71,2)</td>
+      <td>100<br>(92,0; 100)</td>
+      <td>93,4<br>(86,2; 97,5)</td>
+      <td>76,9<br>(66,9; 85,1)</td>
+      <td>100<br>(95,7; 100)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>-</td>
+      <td>-</td>
+      <td>95,0<br>(83,1; 99,4)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>100<br>(92,0; 100)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>97,6<br>(91,7; 99,7)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>594<br>(445; 793)</td>
+      <td>103<br>(71,7; 149)</td>
+      <td>5894<br>(4325; 8031)</td>
+      <td>29,4<br>(20,1; 43,1)</td>
+      <td>11,6<br>(7,28; 18,3)</td>
+      <td>1592<br>(1165; 2174)</td>
+      <td>118<br>(79,3; 175)</td>
+      <td>31,8<br>(21,9; 46,1)</td>
+      <td>2969<br>(2293; 3844)</td>
+    </tr>
+    <tr>
+      <td>W</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ)</td>
+      <td>100<br>(91,6; 100)</td>
+      <td>97,6<br>(87,4; 99,9)</td>
+      <td>97,5<br>(86,8; 99,9)</td>
+      <td>95,9<br>(86,0; 99,5)</td>
+      <td>83,7<br>(70,3; 92,7)</td>
+      <td>100<br>(92,0; 100)</td>
+      <td>97,8<br>(92,3; 99,7)</td>
+      <td>90,1<br>(82,1; 95,4)</td>
+      <td>98,8<br>(93,5; 100)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>-</td>
+      <td>-</td>
+      <td>97,5<br>(86,8; 99,9)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>100<br>(92,0; 100)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>98,8<br>(93,5; 100)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>71,8<br>(53,3; 96,7)</td>
+      <td>50,0<br>(35,9; 69,5)</td>
+      <td>2656<br>(1601; 4406)</td>
+      <td>40,1<br>(30,6; 52,6)</td>
+      <td>21,2<br>(14,6; 30,9)</td>
+      <td>3444<br>(2387; 4970)</td>
+      <td>52,5<br>(42,7; 64,5)</td>
+      <td>31,5<br>(24,2; 41,0)</td>
+      <td>3043<br>(2248; 4120)</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ)</td>
+      <td>100<br>(91,6; 100)</td>
+      <td>97,6<br>(87,4; 99,9)</td>
+      <td>100<br>(91,2; 100)</td>
+      <td>100<br>(92,7; 100)</td>
+      <td>89,8<br>(77,8; 96,6)</td>
+      <td>100<br>(92,0; 100)</td>
+      <td>100<br>(96,0; 100)</td>
+      <td>93,4<br>(86,2; 97,5)</td>
+      <td>100<br>(95,7; 100)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>-</td>
+      <td>-</td>
+      <td>100<br>(91,2; 100)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>100<br>(92,0; 100)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>100<br>(95,7; 100)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>105<br>(73,9; 149)</td>
+      <td>32,5<br>(24,8; 42,7)</td>
+      <td>2013<br>(1451; 2792)</td>
+      <td>75,8<br>(54,2; 106)</td>
+      <td>18,2<br>(13,8; 24,0)</td>
+      <td>2806<br>(2066; 3813)</td>
+      <td>88,1<br>(69,3; 112)</td>
+      <td>23,8<br>(19,4; 29,1)</td>
+      <td>2396<br>(1919; 2991)</td>
+    </tr>
+  </tbody>
+</table>
 Trang 10
 
 * *MET54-NCT03205358. Nghiên cứu được thực hiện ở trẻ từ 12-23 tháng tuổi.*
@@ -381,30 +804,154 @@ Khả năng sinh miễn dịch ở đối tượng từ 2 đến 9 tuổi đư�
 Nhìn chung, trên các đối tượng từ 2 đến 9 tuổi, đáp ứng huyết thanh hSBA cho thấy tính miễn dịch không thua kém khi so sánh MenQuadfi với MenACWY-CRM ở bốn nhóm huyết thanh.
 
 **Bảng 5: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-CRM 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 2 đến 5 tuổi và từ 6 đến 9 tuổi (nghiên cứu MET35 *)**
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">2-5 tuổi</th>
+      <th colspan="2">6-9 tuổi</th>
+    </tr>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th>MenQuadfi<br>(95% CI)</th>
+      <th>MenACWY-CRM<br>(95% CI)</th>
+      <th>MenQuadfi<br>(95% CI)</th>
+      <th>MenACWY-CRM<br>(95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td>N = 227-228</td>
+      <td>N = 221</td>
+      <td>N = 228</td>
+      <td>N = 237</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ)</td>
+      <td>84,6<br>(79,3; 89,1)</td>
+      <td>76,5<br>(70,3; 81,9)</td>
+      <td>88,2<br>(83,2; 92,0)</td>
+      <td>81,9<br>(76,3; 86,5)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>52,4<br>(45,7; 59,1)</td>
+      <td>44,8<br>(38,1; 51,6)</td>
+      <td>58,3<br>(51,6; 64,8)</td>
+      <td>50,6<br>(44,1; 57,2)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>21,6<br>(18,2; 25,5)</td>
+      <td>18,9<br>(15,5; 23,0)</td>
+      <td>28,4<br>(23,9; 33,8)</td>
+      <td>26,8<br>(22,0; 32,6)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>N=229</td>
+      <td>N=222-223</td>
+      <td>N=229</td>
+      <td>N=236</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ)</td>
+      <td>97,4<br>(94,4; 99,0)</td>
+      <td>64,6<br>(57,9; 70,8)</td>
+      <td>98,3<br>(95,6; 99,5)</td>
+      <td>69,5<br>(63,2; 75,3)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>94,3<br>(90,5; 96,9)</td>
+      <td>43,2<br>(36,6; 50,0)</td>
+      <td>96,1<br>(92,7; 98,2)</td>
+      <td>52,1<br>(45,5; 58,6)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>208<br>(175; 246)</td>
+      <td>11,9<br>(9,79; 14,6)</td>
+      <td>272<br>(224; 330)</td>
+      <td>23,7<br>(18,2; 31,0)</td>
+    </tr>
+    <tr>
+      <td>W</td>
+      <td>N=229</td>
+      <td>N=222</td>
+      <td>N=229</td>
+      <td>N=237</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ)</td>
+      <td>90,8<br>(86,3; 94,2)</td>
+      <td>80,6<br>(74,8; 85,6)</td>
+      <td>98,7<br>(96,2; 99,7)</td>
+      <td>91,6<br>(87,3; 94,8)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>73,8<br>(67,6; 79,4)</td>
+      <td>61,3<br>(54,5; 67,7)</td>
+      <td>83,8<br>(78,4; 88,4)</td>
+      <td>66,7<br>(60,3; 72,6)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>28,8<br>(24,6; 33,7)</td>
+      <td>20,1<br>(16,7; 24,2)</td>
+      <td>48,9<br>(42,5; 56,3)</td>
+      <td>33,6<br>(28,2; 40,1)</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td>N=229</td>
+      <td>N=222</td>
+      <td>N=229</td>
+      <td>N=237</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8<br>(Huyết thanh bảo vệ)</td>
+      <td>97,8<br>(95,0; 99,3)</td>
+      <td>86,9<br>(81,8; 91,1)</td>
+      <td>99,1<br>(96,9; 99,9)</td>
+      <td>94,5<br>(90,8; 97,0)</td>
+    </tr>
+  </tbody>
+</table>
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | 2-5 tuổi MenQuadfi (95% CI) PDF | 2-5 tuổi MenACWY-CRM (95% CI) PDF | 6-9 tuổi MenQuadfi (95% CI) PDF | 6-9 tuổi MenACWY-CRM (95% CI) PDF |
-| --- | --- | --- | --- | --- |
-| **A** | N = 227-228 | N = 221 | N = 228 | N = 237 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 84,6 (79,3; 89,1) | 76,5 (70,3; 81,9) | 88,2 (83,2; 92,0) | 81,9 (76,3; 86,5) |
-| % Đáp ứng huyết thanh | 52,4 (45,7; 59,1) | 44,8 (38,1; 51,6) | 58,3 (51,6; 64,8) | 50,6 (44,1; 57,2) |
-| hSBA GMT | 21,6 (18,2; 25,5) | 18,9 (15,5; 23,0) | 28,4 (23,9; 33,8) | 26,8 (22,0; 32,6) |
-| **C** | N = 229 | N = 222-223 | N = 229 | N = 236 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 97,4 (94,4; 99,0) | 64,6 (57,9; 70,8) | 98,3 (95,6; 99,5) | 69,5 (63,2; 75,3) |
-| % Đáp ứng huyết thanh | 94,3 (90,5; 96,9) | 43,2 (36,6; 50,0) | 96,1 (92,7; 98,2) | 52,1 (45,5; 58,6) |
-| hSBA GMT | 208 (175; 246) | 11,9 (9,79; 14,6) | 272 (224; 330) | 23,7 (18,2; 31,0) |
-| **W** | N = 229 | N = 222 | N = 229 | N = 237 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 90,8 (86,3; 94,2) | 80,6 (74,8; 85,6) | 98,7 (96,2; 99,7) | 91,6 (87,3; 94,8) |
-| % Đáp ứng huyết thanh | 73,8 (67,6; 79,4) | 61,3 (54,5; 67,7) | 83,8 (78,4; 88,4) | 66,7 (60,3; 72,6) |
-| hSBA GMT | 28,8 (24,6; 33,7) | 20,1 (16,7; 24,2) | 48,9 (42,5; 56,3) | 33,6 (28,2; 40,1) |
-| **Y** | N = 229 | N = 222 | N = 229 | N = 237 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 97,8 (95,0; 99,3) | 86,9 (81,8; 91,1) | 99,1 (96,9; 99,9) | 94,5 (90,8; 97,0) |
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">2-5 tuổi</th>
+      <th colspan="2">6-9 tuổi</th>
+    </tr>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th>MenQuadfi<br>(95% CI)</th>
+      <th>MenACWY-CRM<br>(95% CI)</th>
+      <th>MenQuadfi<br>(95% CI)</th>
+      <th>MenACWY-CRM<br>(95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>% Đáp ứng huyết thanh</td>
+      <td>88,2<br>(83,3; 92,1)</td>
+      <td>77,0<br>(70,9; 82,4)</td>
+      <td>94,8<br>(91,0; 97,3)</td>
+      <td>81,4<br>(75,9; 86,2)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>49,8<br>(43,0; 57,6)</td>
+      <td>36,1<br>(29,2; 44,7)</td>
+      <td>95,1<br>(80,2; 113)</td>
+      <td>51,8<br>(42,5; 63,2)</td>
+    </tr>
+  </tbody>
+</table>
 
-Trang 11
-
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | 2-5 tuổi MenQuadfi (95% CI) PDF | 2-5 tuổi MenACWY-CRM (95% CI) PDF | 6-9 tuổi MenQuadfi (95% CI) PDF | 6-9 tuổi MenACWY-CRM (95% CI) PDF |
-| --- | --- | --- | --- | --- |
-| % Đáp ứng huyết thanh | 88,2 (83,3; 92,1) | 77,0 (70,9; 82,4) | 94,8 (91,0; 97,3) | 81,4 (75,9; 86,2) |
-| hSBA GMT | 49,8 (43,0; 57,6) | 36,1 (29,2; 44,7) | 95,1 (80,2; 113) | 51,8 (42,5; 63,2) |
 
 * *Mã số định danh thử nghiệm lâm sàng NCT03077438*
 
@@ -420,25 +967,121 @@ MET50 được tiến hành trên những đối tượng chưa sử dụng vắ
 
 **Bảng 6: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-CRM 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 10 đến 17 tuổi (nghiên cứu MET50 *)**
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) PDF | MenACWY-CRM (95% CI) PDF |
-| --- | --- | --- |
-| **A** | N = 463 | N = 464 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 93,5 (90,9; 95,6) | 82,8 (79,0; 86,1) |
-| % Đáp ứng huyết thanh ** # | 75,6 (71,4; 79,4) | 66,4 (61,9; 70,7) |
-| hSBA GMT | 44,1 (39,2; 49,6) | 35,2 (30,3; 41,0) |
-| **C** | N = 462 | N = 463 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 98,5 (96,9; 99,4) | 76,0 (71,9; 79,8) |
-| % Đáp ứng huyết thanh ** # | 97,2 (95,2; 98,5) | 72,6 (68,3; 76,6) |
-| hSBA GMT | 387 (329; 456) | 51,4 (41,2; 64,2) |
-| **W** | N = 463 | N = 464 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 99,1 (97,8; 99,8) | 90,7 (87,7; 93,2) |
-| % Đáp ứng huyết thanh ** # | 86,2 (82,7; 89,2) | 66,6 (62,1; 70,9) |
-| hSBA GMT | 86,9 (77,8; 97,0) | 36,0 (31,5; 41,0) |
-| **Y** | N = 463 | N = 464 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 97,2 (95,2; 98,5) | 83,2 (79,5; 86,5) |
-| % Đáp ứng huyết thanh ** # | 97,0 (95,0; 98,3) | 80,8 (76,9; 84,3) |
-| hSBA GMT | 75,7 (66,2; 86,5) | 27,6 (23,8; 32,1) |
-
+<table>
+  <thead>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th colspan="2">MenQuadfi<br>( 95% CI)</th>
+      <th colspan="2">MenACWY-CRM<br>( 95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td colspan="2">N = 463</td>
+      <td colspan="2">N = 464</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>93,5</td>
+      <td>(90,9; 95,6)</td>
+      <td>82,8</td>
+      <td>(79,0; 86,1)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh ** #</td>
+      <td>75,6</td>
+      <td>(71,4; 79,4)</td>
+      <td>66,4</td>
+      <td>(61,9; 70,7)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>44,1</td>
+      <td>(39,2; 49,6)</td>
+      <td>35,2</td>
+      <td>(30,3; 41,0)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td colspan="2">N=462</td>
+      <td colspan="2">N=463</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>98,5</td>
+      <td>(96,9; 99,4)</td>
+      <td>76,0</td>
+      <td>(71,9; 79,8)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh ** #</td>
+      <td>97,2</td>
+      <td>(95,2; 98,5)</td>
+      <td>72,6</td>
+      <td>(68,3; 76,6)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>387</td>
+      <td>(329; 456)</td>
+      <td>51,4</td>
+      <td>(41,2; 64,2)</td>
+    </tr>
+    <tr>
+      <td>W</td>
+      <td colspan="2">N=463</td>
+      <td colspan="2">N=464</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>99,1</td>
+      <td>(97,8; 99,8)</td>
+      <td>90,7</td>
+      <td>(87,7; 93,2)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh ** #</td>
+      <td>86,2</td>
+      <td>(82,7; 89,2)</td>
+      <td>66,6</td>
+      <td>(62,1; 70,9)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>86,9</td>
+      <td>(77,8; 97,0)</td>
+      <td>36,0</td>
+      <td>(31,5; 41,0)</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td colspan="2">N=463</td>
+      <td colspan="2">N=464</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>97,2</td>
+      <td>(95,2; 98,5)</td>
+      <td>83,2</td>
+      <td>(79,5; 86,5)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh ** #</td>
+      <td>97,0</td>
+      <td>(95,0; 98,3)</td>
+      <td>80,8</td>
+      <td>(76,9; 84,3)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>75,7</td>
+      <td>(66,2; 86,5)</td>
+      <td>27,6</td>
+      <td>(23,8; 32,1)</td>
+    </tr>
+  </tbody>
+</table>
 * *Mã số định danh thử nghiệm lâm sàng NCT02199691*
 
 *N: số đối tượng theo phân tích từ đề cương nghiên cứu có kết quả huyết thanh học hợp lệ.*
@@ -455,24 +1098,121 @@ Nghiên cứu MET43 được thực hiện để đánh giá khả năng sinh mi
 
 **Bảng 7: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-DT 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 10 đến 17 tuổi (nghiên cứu MET43 *)**
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) PDF | MenACWY-DT (95% CI) PDF |
-| --- | --- | --- |
-| **A** | N = 1.097 | N = 300 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 96,2 (94,9; 97,2) | 89,0 (84,9; 92,3) |
-| % Đáp ứng huyết thanh ** | 74,0 (71,3; 76,6) | 55,3 (49,5; 61,0) |
-| hSBA GMT | 78,0 (71,4; 85,2) | 44,2 (36,4; 53,7) |
-| **C** | N = 1.097-1.098 | N = 300 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 98,5 (97,5; 99,1) | 74,7 (69,3; 79,5) |
-| % Đáp ứng huyết thanh ** | 95,6 (94,2; 96,8) | 53,3 (47,5; 59,1) |
-| hSBA GMT | 504 (456; 558) | 44,1 (33,7; 57,8) |
-| **W** | N = 1.097 | N = 300 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 98,3 (97,3; 99,0) | 93,7 (90,3; 96,1) |
-| % Đáp ứng huyết thanh ** | 84,5 (82,2; 86,6) | 72,0 (66,6; 77,0) |
-| hSBA GMT | 97,2 (88,3; 107) | 59,2 (49,1; 71,3) |
-| **Y** | N = 1.097 | N = 300 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 99,1 (98,3; 99,6) | 94,3 (91,1; 96,7) |
-| % Đáp ứng huyết thanh ** | 95,6 (94,2; 96,8) | 85,7 (81,2; 89,4) |
-| hSBA GMT | 208 (189; 228) | 80,3 (65,6; 98,2) |
+<table>
+  <thead>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th colspan="2">MenQuadfi<br>(95% CI)</th>
+      <th colspan="2">MenACWY-DT<br>(95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td colspan="2">N = 1.097</td>
+      <td colspan="2">N = 300</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>96,2</td>
+      <td>(94,9; 97,2)</td>
+      <td>89,0</td>
+      <td>(84,9; 92,3)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>74,0</td>
+      <td>(71,3; 76,6)</td>
+      <td>55,3</td>
+      <td>(49,5; 61,0)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>78</td>
+      <td>(71,4; 85,2)</td>
+      <td>44,2</td>
+      <td>(36,4; 53,7)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td colspan="2">N=1.097-1.098</td>
+      <td colspan="2">N=300</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>98,5</td>
+      <td>(97,5; 99,1)</td>
+      <td>74,7</td>
+      <td>(69,3; 79,5)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>95,6</td>
+      <td>(94,2; 96,8)</td>
+      <td>53,3</td>
+      <td>(47,5; 59,1)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>504</td>
+      <td>(456; 558)</td>
+      <td>44,1</td>
+      <td>(33,7; 57,8)</td>
+    </tr>
+    <tr>
+      <td>W</td>
+      <td colspan="2">N=1.097</td>
+      <td colspan="2">N=300</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>98,3</td>
+      <td>(97,3; 99,0)</td>
+      <td>93,7</td>
+      <td>(90,3; 96,1)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>84,5</td>
+      <td>(82,2; 86,6)</td>
+      <td>72,0</td>
+      <td>(66,6; 77,0)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>97,2</td>
+      <td>(88,3; 107)</td>
+      <td>59,2</td>
+      <td>(49,1; 71,3)</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td colspan="2">N=1.097</td>
+      <td colspan="2">N=300</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>99,1</td>
+      <td>(98,3; 99,6)</td>
+      <td>94,3</td>
+      <td>(91,1; 96,7)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>95,6</td>
+      <td>(94,2; 96,8)</td>
+      <td>85,7</td>
+      <td>(81,2; 89,4)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>208</td>
+      <td>(189; 228)</td>
+      <td>80,3</td>
+      <td>(65,6; 98,2)</td>
+    </tr>
+  </tbody>
+</table>
 
 * *Mã số định danh thử nghiệm lâm sàng NCT02842853*
 
@@ -488,29 +1228,135 @@ Khả năng sinh miễn dịch ở các đối tượng từ 18 đến 55 tuổi
 
 **Bảng 8: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-DT 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 18 đến 55 tuổi (nghiên cứu MET43 *)**
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) PDF | MenACWY-DT (95% CI) PDF |
-| --- | --- | --- |
-| **A** | N = 1.406-1.408 | N = 293 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 93,5 (92,1; 94,8) | 88,1 (83,8; 91,5) |
-| % Đáp ứng huyết thanh ** | 73,5 (71,2; 75,8) | 53,9 (48,0; 59,7) |
+<table>
+  <thead>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th colspan="2">MenQuadfi<br>(95% CI)</th>
+      <th colspan="2">MenACWY-DT (95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td colspan="2">N = 1.406-1.408</td>
+      <td colspan="2">N = 293</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>93,5</td>
+      <td>(92,1; 94,8)</td>
+      <td>88,1</td>
+      <td>(83,8; 91,5)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>73,5</td>
+      <td>(71,2; 75,8)</td>
+      <td>53,9</td>
+      <td>(48,0; 59,7)</td>
+    </tr>
+  </tbody>
+</table>
 
-Trang 13
+12
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) PDF | MenACWY-DT (95% CI) PDF |
-| --- | --- | --- |
-| hSBA GMT | 106 (97,2; 117) | 52,3 (42,8; 63,9) |
-| **C** | N = 1.406-1.408 | N = 293 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 93,5 (92,0; 94,7) | 77,8 (72,6; 82,4) |
-| % Đáp ứng huyết thanh ** | 83,4 (81,4; 85,3) | 42,3 (36,6; 48,2) |
-| hSBA GMT | 234 (210; 261) | 37,5 (29,0; 48,5) |
-| **W** | N = 1.408-1.410 | N = 293 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 94,5 (93,2; 95,7) | 80,2 (75,2; 84,6) |
-| % Đáp ứng huyết thanh ** | 77,0 (74,7; 79,2) | 50,2 (44,3; 56,0) |
-| hSBA GMT | 75,6 (68,7; 83,2) | 33,2 (26,3; 42,0) |
-| **Y** | N = 1.408-1.410 | N = 293 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 98,6 (97,8; 99,1) | 81,2 (76,3; 85,5) |
-| % Đáp ứng huyết thanh ** | 88,1 (86,3; 89,8) | 60,8 (54,9; 66,4) |
-| hSBA GMT | 219 (200; 239) | 54,6 (42,3; 70,5) |
+<table>
+  <thead>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th colspan="2">MenQuadfi<br>(95% CI)</th>
+      <th colspan="2">MenACWY-DT (95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>106</td>
+      <td>(97,2; 117)</td>
+      <td>52,3</td>
+      <td>(42,8; 63,9)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td colspan="2">N=1.406-1.408</td>
+      <td colspan="2">N=293</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>93,5</td>
+      <td>(92,0; 94,7)</td>
+      <td>77,8</td>
+      <td>(72,6; 82,4)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>83,4</td>
+      <td>(81,4; 85,3)</td>
+      <td>42,3</td>
+      <td>(36,6; 48,2)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>234</td>
+      <td>(210; 261)</td>
+      <td>37,5</td>
+      <td>(29,0; 48,5)</td>
+    </tr>
+    <tr>
+      <td>W</td>
+      <td colspan="2">N=1.408-1.410</td>
+      <td colspan="2">N=293</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>94,5</td>
+      <td>(93,2; 95,7)</td>
+      <td>80,2</td>
+      <td>(75,2; 84,6)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>77,0</td>
+      <td>(74,7; 79,2)</td>
+      <td>50,2</td>
+      <td>(44,3; 56,0)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>75,6</td>
+      <td>(68,7; 83,2)</td>
+      <td>33,2</td>
+      <td>(26,3; 42,0)</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td colspan="2">N=1.408-1.410</td>
+      <td colspan="2">N=293</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>98,6</td>
+      <td>(97,8; 99,1)</td>
+      <td>81,2</td>
+      <td>(76,3; 85,5)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>88,1</td>
+      <td>(86,3; 89,8)</td>
+      <td>60,8</td>
+      <td>(54,9; 66,4)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>219</td>
+      <td>(200; 239)</td>
+      <td>54,6</td>
+      <td>(42,3; 70,5)</td>
+    </tr>
+  </tbody>
+</table>
 
 * *Mã số định danh thử nghiệm lâm sàng NCT02842853*
 
@@ -526,29 +1372,135 @@ Khả năng sinh miễn dịch ở người lớn ≥ 56 tuổi (trung bình 67,
 
 **Bảng 9: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY polysaccharide 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 56 tuổi trở lên (nghiên cứu MET49 *)**
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) PDF | MenACWY polysaccharide (95% CI) PDF |
-| --- | --- | --- |
-| **A** | N = 433 | N = 431 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 89,4 (86,1; 92,1) | 84,2 (80,4; 87,5) |
-| % Đáp ứng huyết thanh ** | 58,2 (53,4; 62,9) | 42,5 (37,7; 47,3) |
-| hSBA GMT | 55,1 (46,8; 65,0) | 31,4 (26,9; 36,7) |
-| **C** | N = 433 | N = 431 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 90,1 (86,9; 92,7) | 71,0 (66,5; 75,2) |
-| % Đáp ứng huyết thanh ** | 77,1 (72,9; 81,0) | 49,7 (44,8; 54,5) |
-| hSBA GMT | 101 (83,8; 123) | 24,7 (20,7; 29,5) |
-| **W** | N = 433 | N = 431 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 77,4 (73,1; 81,2) | 63,1 (58,4; 67,7) |
+<table>
+  <thead>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th colspan="2">MenQuadfi<br>( 95% CI)</th>
+      <th colspan="2">MenACWY polysaccharide<br>(95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td colspan="2">N = 433</td>
+      <td colspan="2">N = 431</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>89,4</td>
+      <td>(86,1; 92,1)</td>
+      <td>84,2</td>
+      <td>(80,4; 87,5)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>58,2</td>
+      <td>(53,4; 62,9)</td>
+      <td>42,5</td>
+      <td>(37,7; 47,3)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>55,1</td>
+      <td>(46,8; 65,0)</td>
+      <td>31,4</td>
+      <td>(26,9; 36,7)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td colspan="2">N=433</td>
+      <td colspan="2">N=431</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>90,1</td>
+      <td>(86,9; 92,7)</td>
+      <td>71,0</td>
+      <td>(66,5; 75,2)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>77,1</td>
+      <td>(72,9; 81,0)</td>
+      <td>49,7</td>
+      <td>(44,8; 54,5)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>101</td>
+      <td>(83,8; 123)</td>
+      <td>24,7</td>
+      <td>(20,7; 29,5)</td>
+    </tr>
+    <tr>
+      <td>W</td>
+      <td colspan="2">N=433</td>
+      <td colspan="2">N=431</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>77,4</td>
+      <td>(73,1; 81,2)</td>
+      <td>63,1</td>
+      <td>(58,4; 67,7)</td>
+    </tr>
+  </tbody>
+</table>
 
-Trang 14
+13
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) PDF | MenACWY polysaccharide (95% CI) PDF |
-| --- | --- | --- |
-| % Đáp ứng huyết thanh ** | 62,6 (57,8; 67,2) | 44,8 (40,0; 49,6) |
-| hSBA GMT | 28,1 (23,7; 33,3) | 15,5 (13,0; 18,4) |
-| **Y** | N = 433 | N = 431 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 91,7 (88,7; 94,1) | 67,7 (63,1; 72,1) |
-| % Đáp ứng huyết thanh ** | 74,4 (70,0; 78,4) | 43,4 (38,7; 48,2) |
-| hSBA GMT | 69,1 (58,7; 81,4) | 21,0 (17,4; 25,3) |
+<table>
+  <thead>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th colspan="2">MenQuadfi<br>( 95% CI)</th>
+      <th colspan="2">MenACWY polysaccharide<br>(95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>62,6</td>
+      <td>(57,8; 67,2)</td>
+      <td>44,8</td>
+      <td>(40,0; 49,6)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>28,1</td>
+      <td>(23,7; 33,3)</td>
+      <td>15,5</td>
+      <td>(13,0; 18,4)</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td colspan="2">N=433</td>
+      <td colspan="2">N=431</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>91,7</td>
+      <td>(88,7; 94,1)</td>
+      <td>67,7</td>
+      <td>(63,1; 72,1)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>74,4</td>
+      <td>(70,0; 78,4)</td>
+      <td>43,4</td>
+      <td>(38,7; 48,2)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>69,1</td>
+      <td>(58,7; 81,4)</td>
+      <td>21,0</td>
+      <td>(17,4; 25,3)</td>
+    </tr>
+  </tbody>
+</table>
 
 * *Mã số định danh thử nghiệm lâm sàng NCT02842866*
 
@@ -565,31 +1517,123 @@ Nghiên cứu MET56 (NCT02752906) so sánh tính sinh miễn dịch của liều
 Tại thời điểm ban đầu, huyết thanh bảo vệ hSBA và GMT là tương tự nhau đối với các nhóm huyết thanh A, C, W và Y.
 
 **Bảng 10: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-DT 30 ngày sau liều tiêm nhắc lại (nghiên cứu MET56 *)**
+### Bảng 10: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-DT 30 ngày sau liều tiêm nhắc lại (nghiên cứu MET56 *)
 
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) PDF | MenACWY-DT (95% CI) PDF |
-| --- | --- | --- |
-| **A** | N = 384 | N = 389 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 100,0 (99,0; 100,0) | 99,0 (97,4; 99,7) |
-| % Đáp ứng huyết thanh ** | 92,2 (89,0; 94,7) | 87,1 (83,4; 90,3) |
-| hSBA GMT | 497 (436; 568) | 296 (256; 343) |
-| **C** | N = 384 | N = 389 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 99,5 (98,1; 99,9) | 99,0 (97,4; 99,7) |
-| % Đáp ứng huyết thanh ** | 97,1 (94,9; 98,6) | 91,8 (88,6; 94,3) |
-| hSBA GMT | 2.618 (2.227; 3.078) | 599 (504; 711) |
-| **W** | N = 384 | N = 389 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 100,0 (99,0; 100,0) | 99,7 (98,6; 100,0) |
-| % Đáp ứng huyết thanh ** | 98,2 (96,3; 99,3) | 90,7 (87,4; 93,4) |
-| hSBA GMT | 1.747 (1.508; 2.025) | 723 (614; 853) |
-| **Y** | N = 384 | N = 389 |
-| % ≥ 1:8 (Huyết thanh bảo vệ) | 99,7 (98,6; 100,0) | 99,5 (98,2; 99,9) |
-| % Đáp ứng huyết thanh ** | 97,4 (95,3; 98,7) | 95,6 (93,1; 97,4) |
-
-Trang 15
-
-| Điểm đánh giá chính theo Nhóm huyết thanh PDF | MenQuadfi (95% CI) PDF | MenACWY-DT (95% CI) PDF |
-| --- | --- | --- |
-| hSBA GMT | 2.070 (1.807; 2.371) | 811 (699; 941) |
-
+<table>
+  <thead>
+    <tr>
+      <th>Điểm đánh giá chính theo Nhóm huyết thanh</th>
+      <th colspan="2">MenQuadfi<br>(95% CI)</th>
+      <th colspan="2">MenACWY-DT<br>(95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td colspan="2">N = 384</td>
+      <td colspan="2">N = 389</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>100,0</td>
+      <td>(99,0; 100,0)</td>
+      <td>99,0</td>
+      <td>(97,4; 99,7)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>92,2</td>
+      <td>(89,0; 94,7)</td>
+      <td>87,1</td>
+      <td>(83,4; 90,3)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>497</td>
+      <td>(436; 568)</td>
+      <td>296</td>
+      <td>(256; 343)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td colspan="2">N=384</td>
+      <td colspan="2">N=389</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>99,5</td>
+      <td>(98,1; 99,9)</td>
+      <td>99,0</td>
+      <td>(97,4; 99,7)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>97,1</td>
+      <td>(94,9; 98,6)</td>
+      <td>91,8</td>
+      <td>(88,6; 94,3)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>2,618</td>
+      <td>(2,227; 3,078)</td>
+      <td>599</td>
+      <td>(504; 711)</td>
+    </tr>
+    <tr>
+      <td>W</td>
+      <td colspan="2">N=384</td>
+      <td colspan="2">N=389</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>100,0</td>
+      <td>(99,0; 100,0)</td>
+      <td>99,7</td>
+      <td>(98,6; 100,0)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>98,2</td>
+      <td>(96,3; 99,3)</td>
+      <td>90,7</td>
+      <td>(87,4; 93,4)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>1,747</td>
+      <td>(1,508; 2,025)</td>
+      <td>723</td>
+      <td>(614; 853)</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td colspan="2">N=384</td>
+      <td colspan="2">N=389</td>
+    </tr>
+    <tr>
+      <td>% ≥1:8 (Huyết thanh bảo vệ)</td>
+      <td>99,7</td>
+      <td>(98,6; 100,0)</td>
+      <td>99,5</td>
+      <td>(98,2; 99,9)</td>
+    </tr>
+    <tr>
+      <td>% Đáp ứng huyết thanh**</td>
+      <td>97,4</td>
+      <td>(95,3; 98,7)</td>
+      <td>95,6</td>
+      <td>(93,1; 97,4)</td>
+    </tr>
+    <tr>
+      <td>hSBA GMT</td>
+      <td>2,070</td>
+      <td>(1,807; 2,371)</td>
+      <td>811</td>
+      <td>(699; 941)</td>
+    </tr>
+  </tbody>
+</table>
 * *Mã số định danh thử nghiệm lâm sàng NCT02752906*
 
 *N: số đối tượng theo phân tích từ đề cương nghiên cứu có kết quả huyết thanh học hợp lệ.*

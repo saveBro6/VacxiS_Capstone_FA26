@@ -7,28 +7,75 @@ Vắc-xin đông khô và vắc-xin dạng hỗn dịch, hoàn nguyên thành h�
 Để xa tầm tay trẻ em.
 Thông báo ngay cho bác sỹ hoặc dược sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.
 
-THÀNH PHẦN:
-Sau khi hoàn nguyên, một liều (0,5ml) chứa:
+<p><b>THÀNH PHẦN:</b><br>
+Sau khi hoàn nguyên, một liều (0,5ml) chứa:</p>
 
-Hoạt chất:
-| Hoạt chất | Hàm lượng |
-| :--- | :--- |
-| Giải độc tố bạch hầu(1) | ≥ 30 I.U. |
-| Giải độc tố uốn ván(1) | ≥ 40 I.U. |
-| **Các kháng nguyên Bordetella pertussis:** | |
-| - Giải độc tố ho gà(1) | 25 microgam |
-| - Ngưng kết tố hồng cầu dạng sợi (FHA)(1) | 25 microgam |
-| **Virus bại liệt (bất hoạt)** | |
-| - Týp 1 (chủng Mahoney) | 40 DU(2)(3)(4) |
-| - Týp 2 (chủng MEF-1) | 8 DU(2)(3)(4) |
-| - Týp 3 (chủng Saukett) | 32 DU(2)(3)(4) |
-| Polysaccharide của Haemophilus influenzae týp b | 10 microgam |
-| cộng hợp với protein uốn ván | 18-30 microgam |
+<p><u><b><i>Hoạt chất:</i></b></u></p>
 
-(1) hấp phụ bằng hydroxyt nhôm, hydrat hóa: 0,3 mg Al³⁺
-(2) DU: đơn vị kháng nguyên D
-(3) hoặc lượng kháng nguyên tương đương được xác định bằng một phương pháp hóa miễn dịch thích hợp.
-(4) nuôi cấy trên tế bào VERO.
+<table>
+  <tbody>
+    <tr>
+      <td>Giải độc tố bạch hầu<sup>(1)</sup></td>
+      <td>≥ 30 I.U.</td>
+    </tr>
+    <tr>
+      <td>Giải độc tố uốn ván<sup>(1)</sup></td>
+      <td>≥ 40 I.U.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Các kháng nguyên <i>Bordetella pertussis</i>:</td>
+    </tr>
+    <tr>
+      <td>Giải độc tố ho gà<sup>(1)</sup></td>
+      <td>25 microgam</td>
+    </tr>
+    <tr>
+      <td>Ngưng kết tố hồng cầu dạng sợi (FHA)<sup>(1)</sup></td>
+      <td>25 microgam</td>
+    </tr>
+    <tr>
+      <td colspan="2">Virus bại liệt (bất hoạt)</td>
+    </tr>
+    <tr>
+      <td>Týp 1 (chủng Mahoney)</td>
+      <td>40 DU<sup>(2)(3)(4)</sup></td>
+    </tr>
+    <tr>
+      <td>Týp 2 (chủng MEF-1)</td>
+      <td>8 DU<sup>(2)(3)(4)</sup></td>
+    </tr>
+    <tr>
+      <td>Týp 3 (chủng Saukett)</td>
+      <td>32 DU<sup>(2)(3)(4)</sup></td>
+    </tr>
+    <tr>
+      <td>Polysaccharide của <i>Haemophilus influenzae</i> týp b</td>
+      <td>10 microgam</td>
+    </tr>
+    <tr>
+      <td>cộng hợp với protein uốn ván</td>
+      <td>18-30 microgam</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><sup>(1)</sup> hấp phụ bằng hydroxyt nhôm, hydrat hóa</td>
+      <td>0,3 mg Al<sup>3+</sup></td>
+    </tr>
+    <tr>
+      <td colspan="2"><sup>(2)</sup> DU đơn vị kháng nguyên D</td>
+    </tr>
+    <tr>
+      <td colspan="2"><sup>(3)</sup> hoặc lượng kháng nguyên tương đương được xác định bằng một phương pháp hóa miễn dịch thích hợp.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><sup>(4)</sup> nuôi cấy trên tế bào VERO.</td>
+    </tr>
+  </tbody>
+</table>
 
 Tá dược:
 Hỗn dịch tiêm

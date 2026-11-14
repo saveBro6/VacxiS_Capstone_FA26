@@ -176,57 +176,143 @@ Những tác dụng không mong muốn phổ biến nhất được báo cáo kh
 b. Danh sách các tác dụng không mong muốn dưới dạng bảng
 Các tác dụng không mong muốn được phân loại dựa trên tần suất theo quy ước sau:
 [Rất thường gặp (≥ 1/10); Thường gặp (≥ 1/100 đến < 1/10); Không thường gặp (≥ 1/1.000 đến < 1/100); Không rõ (không thể ước tính được từ dữ liệu có sẵn)].
-
-| Các tác dụng không mong muốn | Tần suất |
-| :--- | :--- |
-| **Nhiễm khuẩn và nhiễm ký sinh trùng** | |
-| Viêm mũi họng, viêm đường hô hấp trên hoặc nhiễm vi-rút | Không thường gặp |
-
-Page 11 of 18
-
-TRANG 12 (Page 12 of 18)
-| Các tác dụng không mong muốn | Tần suất |
-| :--- | :--- |
-| Viêm màng não vô trùng†, sởi không điển hình, viêm mào tinh hoàn, viêm tinh hoàn, viêm tai giữa, viêm tuyến mang tai, viêm mũi, viêm não xơ hóa bán cấp† | Không rõ |
-| **Rối loạn máu và hệ bạch huyết** | |
-| Bệnh lý hạch khu trú tại vùng, giảm tiểu cầu | Không rõ |
-| **Rối loạn hệ miễn dịch** | |
-| Phản ứng phản vệ, sốc phản vệ và các hiện tượng liên quan như phù mạch thần kinh, phù mặt và phù ngoại vi | Không rõ |
-| **Rối loạn tâm thần** | |
-| Khóc | Không thường gặp |
-| Cáu gắt | Không rõ |
-| **Rối loạn hệ thần kinh** | |
-| Co giật không sốt hoặc cơn động kinh, mất điều hòa vận động, chóng mặt, viêm não†, bệnh não†, co giật do sốt (ở trẻ em), hội chứng Guillain-Barre, đau đầu, viêm não thể vùi do sởi (MIBE) (xem phần CẢNH BÁO VÀ THẬN TRỌNG KHI DÙNG THUỐC), liệt nhãn cầu, viêm dây thần kinh thị giác, dị cảm, viêm đa dây thần kinh, bệnh đa dây thần kinh, viêm dây thần kinh sau nhãn cầu, ngất | Không rõ |
-| **Rối loạn về mắt** | |
-| Viêm kết mạc, viêm võng mạc | Không rõ |
-| **Rối loạn tai và mê đạo** | |
-| Điếc thần kinh | Không rõ |
-| **Rối loạn hô hấp, lồng ngực và trung thất** | |
-| Sổ mũi | Không thường gặp |
-| Co thắt phế quản, ho, viêm phổi, viêm phổi vô trùng (xem phần CẢNH BÁO VÀ THẬN TRỌNG KHI DÙNG THUỐC), đau họng | Không rõ |
-
-Page 12 of 18
-
-TRANG 13 (Page 13 of 18)
-| Các tác dụng không mong muốn | Tần suất |
-| :--- | :--- |
-| **Rối loạn tiêu hóa** | |
-| Tiêu chảy hoặc nôn mửa | Không thường gặp |
-| Buồn nôn | Không rõ |
-| **Rối loạn da và mô dưới da** | |
-| Phát ban dạng sởi hoặc phát ban khác | Thường gặp |
-| Mày đay | Không thường gặp |
-| Viêm mô mỡ dưới da, ngứa, ban xuất huyết, xơ cứng bì, hội chứng Stevens-Johnson | Không rõ |
-| **Rối loạn cơ xương, mô liên kết và xương** | |
-| Viêm khớp† và/hoặc đau khớp† (thường thoáng qua và hiếm khi mãn tính), đau cơ | Không rõ |
-| **Rối loạn toàn thân và tại chỗ tiêm** | |
-| Sốt (38,5°C hoặc cao hơn), ban đỏ tại chỗ tiêm, đau chỗ tiêm và sưng chỗ tiêm | Rất thường gặp |
-| Bầm tím chỗ tiêm | Thường gặp |
-| Phát ban tại chỗ tiêm | Không thường gặp |
-| Nóng rát và/hoặc cảm giác châm chích trong thời gian ngắn tại chỗ tiêm, khó chịu, viêm gai thị, phù ngoại biên, sưng tấy, đau, mụn nước tại chỗ tiêm, nổi phồng và đỏ tại chỗ tiêm | Không rõ |
-| **Rối loạn mạch máu** | |
-| Viêm mạch | Không rõ |
-
+<table>
+  <thead>
+    <tr>
+      <th>Các tác dụng không mong muốn</th>
+      <th>Tần suất</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><i>Nhiễm khuẩn và nhiễm ký sinh trùng</i></td>
+    </tr>
+    <tr>
+      <td>Viêm mũi họng, viêm đường hô hấp trên hoặc nhiễm vi-rút</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Viêm màng não vô trùng†, sởi không điển hình, viêm mào tinh hoàn, viêm tinh hoàn, viêm tai giữa, viêm tuyến mang tai, viêm mũi, viêm não xơ hóa bán cấp†</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn máu và hệ bạch huyết</i></td>
+    </tr>
+    <tr>
+      <td>Bệnh lý hạch khu trú tại vùng, giảm tiểu cầu</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn hệ miễn dịch</i></td>
+    </tr>
+    <tr>
+      <td>Phản ứng phản vệ, sốc phản vệ và các hiện tượng liên quan như phù mạch thần kinh, phù mặt và phù ngoại vi</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn tâm thần</i></td>
+    </tr>
+    <tr>
+      <td>Khóc</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Cáu gắt</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn hệ thần kinh</i></td>
+    </tr>
+    <tr>
+      <td>Co giật không sốt hoặc cơn động kinh, mất điều hòa vận động, chóng mặt, viêm não†, bệnh não†, co giật do sốt (ở trẻ em), hội chứng Guillain-Barre, đau đầu, viêm não thể thể vùi do sởi (MIBE) (xem phần CẢNH BÁO VÀ THẬN TRỌNG KHI DÙNG THUỐC), liệt nhãn cầu, viêm dây thần kinh thị giác, dị cảm, viêm đa dây thần kinh, bệnh đa dây thần kinh, viêm dây thần kinh sau nhãn cầu, ngất</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn về mắt</i></td>
+    </tr>
+    <tr>
+      <td>Viêm kết mạc, viêm võng mạc</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn tai và mê đạo</i></td>
+    </tr>
+    <tr>
+      <td>Điếc thần kinh</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn hô hấp, lồng ngực và trung thất</i></td>
+    </tr>
+    <tr>
+      <td>Sổ mũi</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Co thắt phế quản, ho, viêm phổi, viêm phổi vô trùng (xem phần CẢNH BÁO VÀ THẬN TRỌNG KHI DÙNG THUỐC), đau họng</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn tiêu hóa</i></td>
+    </tr>
+    <tr>
+      <td>Tiêu chảy hoặc nôn mửa</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Buồn nôn</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn da và mô dưới da</i></td>
+    </tr>
+    <tr>
+      <td>Phát ban dạng sởi hoặc phát ban khác</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Mày đay</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Viêm mô mỡ dưới da, ngứa, ban xuất huyết, xơ cứng bì, hội chứng Stevens-Johnson</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn cơ xương, mô liên kết và xương</i></td>
+    </tr>
+    <tr>
+      <td>Viêm khớp† và/hoặc đau khớp† (thường thoáng qua và hiếm khi mãn tính), đau cơ</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn toàn thân và tại chỗ tiêm</i></td>
+    </tr>
+    <tr>
+      <td>Sốt (38,5°C hoặc cao hơn), ban đỏ tại chỗ tiêm, đau chỗ tiêm và sưng chỗ tiêm</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Bầm tím chỗ tiêm</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Phát ban tại chỗ tiêm</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Nóng rát và/hoặc cảm giác châm chích trong thời gian ngắn tại chỗ tiêm, khó chịu, viêm gai thị, phù ngoại biên, sưng tấy, đau, mụn nước tại chỗ tiêm, nổi phồng và đỏ tại chỗ tiêm</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i>Rối loạn mạch máu</i></td>
+    </tr>
+    <tr>
+      <td>Viêm mạch</td>
+      <td>Không rõ</td>
+    </tr>
+  </tbody>
+</table>
 † xem mục c.
 
 c. Mô tả các phản ứng bất lợi được lựa chọn

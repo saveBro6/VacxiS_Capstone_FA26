@@ -218,79 +218,233 @@ chỗ tiêm bao gồm đau/nhạy cảm đau/nhức, đỏ, sưng hoặc bầm t
 b. Bảng liệt kê các phản ứng bất lợi
 Các phản ứng bất lợi sau đây đã được nhà nghiên cứu báo cáo là liên quan đến vắc-xin ở những người sau khi dùng một liều ProQuad duy nhất. Một số biến cố bất lợi đã được thu thập trong các nghiên cứu lâm sàng và được chỉ rõ bằng ký hiệu (*). Ngoài ra, các biến cố bất lợi khác đã được báo cáo với việc sử dụng ProQuad hậu mãi và/hoặc trong các nghiên cứu lâm sàng và sử dụng hậu mãi vắc-xin sởi, quai bị và rubella do Merck Sharp & Dohme LLC sản xuất, các vắc-xin thành phần đơn giá của vắc-xin sởi, quai bị và rubella do Merck Sharp & Dohme LLC sản xuất, hoặc vắc-xin vi-rút thủy đậu sống (Oka/Merck). Tần suất của các biến cố bất lợi này được cho là "Không rõ" khi không thể ước tính được dựa trên các dữ liệu hiện có.
 Rất thường gặp (≥ 1/10); Thường gặp (≥ 1/100, < 1/10); Ít gặp (≥ 1/1.000, < 1/100); Hiếm gặp (≥ 1/10.000, < 1/1.000); Không rõ (không thể ước tính từ các dữ liệu hiện có)
-
-| Phản ứng bất lợi | Tần suất |
-| :--- | :--- |
-| **Nhiễm khuẩn và nhiễm ký sinh trùng** | |
-| Nhiễm khuẩn tai, viêm dạ dày ruột, viêm tai giữa, viêm họng, nhiễm vi-rút, phát ban do vi-rút | Ít gặp |
-| Viêm mô tế bào, nhiễm khuẩn đường hô hấp, nhiễm khuẩn da, viêm amiđan, thủy đậu, viêm kết mạc do vi-rút | Hiếm gặp |
-| Viêm màng não vô khuẩn, viêm não, viêm mào tinh hoàn, herpes zoster (bệnh zona)*, nhiễm khuẩn, sởi, viêm tinh hoàn, viêm tuyến mang tai | Không rõ |
-| **Rối loạn máu và hệ bạch huyết** | |
-| Tăng bạch cầu, bệnh hạch bạch huyết | Hiếm gặp |
-| Viêm hạch bạch huyết, giảm tiểu cầu | Không rõ |
-| **Rối loạn hệ miễn dịch** | |
-| Quá mẫn | Hiếm gặp |
-| Phản ứng dạng phản vệ, phản ứng phản vệ, phù mạch, phù mặt và phù ngoại biên | Không rõ |
-| **Rối loạn chuyển hóa và dinh dưỡng** | |
-| Giảm sự ngon miệng | Ít gặp |
-| Mất nước | Hiếm gặp |
-
-10/20
-
-TRANG 11 (Page 11 of 20)
-| Phản ứng bất lợi | Tần suất |
-| :--- | :--- |
-| **Rối loạn tâm thần** | |
-| Dễ bị kích thích | Thường gặp |
-| Khóc, rối loạn giấc ngủ | Ít gặp |
-| Thờ ơ, bám víu, bồn chồn | Hiếm gặp |
-| **Rối loạn hệ thần kinh** | |
-| Co giật do sốt, buồn ngủ | Ít gặp |
-| Mất điều hòa, động kinh, nhức đầu, tăng vận động, mất ngủ, ngủ lịm, run | Hiếm gặp |
-| Liệt nửa mặt, tai biến mạch máu não, chóng mặt, bệnh não, hội chứng Guillain-Barré, viêm não thể vùi do sởi (xem phần Chống chỉ định), liệt mắt, dị cảm, bệnh đa dây thần kinh, viêm não toàn bộ xơ cứng bán cấp, ngất, viêm tủy ngang | Không rõ |
-| **Rối loạn mắt** | |
-| Viêm kết mạc, tiết dịch mắt, viêm bờ mi, kích ứng mắt, sưng mắt, sung huyết mắt, tăng chảy nước mắt, khó chịu mắt | Hiếm gặp |
-| Phù mí mắt, viêm dây thần kinh thị giác, viêm võng mạc, viêm dây thần kinh sau nhãn cầu | Không rõ |
-| **Rối loạn tai và mê đạo** | |
-| Đau tai | Hiếm gặp |
-| Điếc thần kinh | Không rõ |
-| **Rối loạn mạch máu** | |
-| Đỏ bừng, tái | Hiếm gặp |
-| Thoát mạch | Không rõ |
-| **Rối loạn hô hấp, ngực và trung thất** | |
-| Ho, sung huyết đường hô hấp, sổ mũi | Ít gặp |
-| Rối loạn xoang, hắt hơi, thở khò khè | Hiếm gặp |
-| Co thắt phế quản, viêm phế quản, tổn thương viêm tại phổi (pneumonitis) (xem phần Chống chỉ định), viêm phổi (pneumonia), viêm mũi, viêm xoang, đau họng | Không rõ |
-| **Rối loạn tiêu hóa** | |
-| Tiêu chảy, nôn | Thường gặp |
-| Đau vùng bụng trên, buồn nôn, viêm miệng | Hiếm gặp |
-
-11/20
-
-TRANG 12 (Page 12 of 20)
-| Phản ứng bất lợi | Tần suất |
-| :--- | :--- |
-| Đau bụng, đại tiện phân có máu | Không rõ |
-| **Rối loạn da và mô dưới da** | |
-| Phát ban giống sởi, phát ban, phát ban giống thủy đậu | Thường gặp |
-| Viêm da (bao gồm cả phát ban tiếp xúc và dị ứng), phát ban giống rubella, nổi mề đay, ban đỏ | Ít gặp |
-| Đổ mồ hôi lạnh, viêm da tróc vảy, phát ban do thuốc, ban xuất huyết Henoch-Schönlein, ban sần, ngứa, da đổi màu, tổn thương da, phát ban dạng zona | Hiếm gặp |
-| Ban đỏ đa dạng, viêm mô mỡ dưới da, ban xuất huyết, cứng da, hội chứng Stevens-Johnson | Không rõ |
-| **Rối loạn hệ cơ xương và mô liên kết** | |
-| Đau cánh tay, cứng cơ xương | Hiếm gặp |
-| Viêm khớp, đau khớp, đau cơ xương, đau cơ, sưng | Không rõ |
-| **Rối loạn toàn thân và tình trạng tại chỗ tiêm** | |
-| Sốt, ban đỏ hoặc đau/nhạy cảm đau/nhức tại chỗ tiêm | Rất thường gặp |
-| Bầm máu hoặc sưng tại chỗ tiêm, phát ban tại chỗ tiêm | Thường gặp |
-| Suy nhược, mệt mỏi, xuất huyết tại chỗ tiêm, cứng tại chỗ tiêm, khối u tại chỗ tiêm, khó chịu | Ít gặp |
-| Bệnh giống cúm, tróc vảy tại chỗ tiêm, đổi màu tại chỗ tiêm, ngứa tại chỗ tiêm, phản ứng tại chỗ tiêm, sẹo tại chỗ tiêm, tăng thân nhiệt, đau | Hiếm gặp |
-| Than phiền tại chỗ tiêm (Đau, phù, mề đay, khối tụ máu, chai cứng, cục u, mụn nước), viêm, viêm nhú | Không rõ |
-| **Xét nghiệm** | |
-| Sút cân | Hiếm gặp |
-| **Biến chứng do tổn thương, ngộ độc và thủ thuật** | |
-| Đụng dập | Hiếm gặp |
-| **Hoàn cảnh xã hội** | |
-| Các hoạt động sinh hoạt hàng ngày bị suy giảm | Hiếm gặp |
+<table>
+  <thead>
+    <tr>
+      <th>Phản ứng bất lợi</th>
+      <th>Tần suất</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Nhiễm khuẩn và nhiễm ký sinh trùng</strong></td>
+    </tr>
+    <tr>
+      <td>Nhiễm khuẩn tai, viêm dạ dày ruột, viêm tai giữa, viêm họng, nhiễm vi-rút, phát ban do vi-rút</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Viêm mô tế bào, nhiễm khuẩn đường hô hấp, nhiễm khuẩn da, viêm amiđan, thủy đậu<sup>+‡</sup>, viêm kết mạc do vi-rút</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Viêm màng não vô khuẩn<sup>*</sup>, viêm não<sup>*</sup>, viêm mào tinh hoàn, herpes zoster (bệnh zona)<sup>*</sup>, nhiễm khuẩn, sởi, viêm tinh hoàn, viêm tuyến mang tai</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn máu và hệ bạch huyết</strong></td>
+    </tr>
+    <tr>
+      <td>Tăng bạch cầu, bệnh hạch bạch huyết</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Viêm hạch bạch huyết, giảm tiểu cầu</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn hệ miễn dịch</strong></td>
+    </tr>
+    <tr>
+      <td>Quá mẫn</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Phản ứng dạng phản vệ, phản ứng phản vệ, phù mạch, phù mặt và phù ngoại biên</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn chuyển hóa và dinh dưỡng</strong></td>
+    </tr>
+    <tr>
+      <td>Giảm sự ngon miệng</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Mất nước</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn tâm thần</strong></td>
+    </tr>
+    <tr>
+      <td>Dễ bị kích thích</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Khóc, rối loạn giấc ngủ</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Thờ ơ, bám víu, bồn chồn</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn hệ thần kinh</strong></td>
+    </tr>
+    <tr>
+      <td>Co giật do sốt<sup>*</sup>, buồn ngủ</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Mất điều hòa, động kinh, nhức đầu, tăng vận động, mất ngủ, ngủ lịm, run</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Liệt –nửa mặt, tai biến mạch máu não, chóng mặt, bệnh não<sup>*</sup>, hội chứng Guillain-Barré, viêm não thể vùi do sởi (xem phần <strong><em>Chống chỉ định</em></strong>), liệt mắt, dị cảm, bệnh đa dây thần kinh, viêm não toàn bộ xơ cứng bán cấp<sup>*</sup>, ngất, viêm tủy ngang</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn mắt</strong></td>
+    </tr>
+    <tr>
+      <td>Viêm kết mạc, tiết dịch mắt, viêm bờ mi, kích ứng mắt, sưng mắt, sung huyết mắt, tăng chảy nước mắt, khó chịu mắt</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Phù mí mắt, viêm dây thần kinh thị giác, viêm võng mạc, viêm dây thần kinh sau nhãn cầu</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn tai và mê đạo</strong></td>
+    </tr>
+    <tr>
+      <td>Đau tai</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Điếc thần kinh</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn mạch máu</strong></td>
+    </tr>
+    <tr>
+      <td>Đỏ bừng, tái</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Thoát mạch</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn hô hấp, ngực và trung thất</strong></td>
+    </tr>
+    <tr>
+      <td>Ho, sung huyết đường hô hấp, sổ mũi</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Rối loạn xoang, hắt hơi, thở khò khè</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Co thắt phế quản, viêm phế quản, tổn thương viêm tại phổi (pneumonitis) (xem phần <strong><em>Chống chỉ định</em></strong>), viêm phổi (pneumonia), viêm mũi, viêm xoang, đau họng</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn tiêu hóa</strong></td>
+    </tr>
+    <tr>
+      <td>Tiêu chảy, nôn</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Đau vùng bụng trên, buồn nôn, viêm miệng</td>
+      <td>Hiếm gặp</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Đau bụng, đại tiện phân có máu</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn da và mô dưới da</strong></td>
+    </tr>
+    <tr>
+      <td>Phát ban giống sởi<sup>‡</sup>, phát ban, phát ban giống thủy đậu<sup>‡</sup></td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Viêm da (bao gồm cả phát ban tiếp xúc và dị ứng), phát ban giống rubella<sup>‡</sup>, nổi mề đay, ban đỏ</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Đổ mồ hôi lạnh, viêm da tróc vảy, phát ban do thuốc, ban xuất huyết Henoch-Schönlein, ban sần, ngứa, da đổi màu, tổn thương da, phát ban dạng zona</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Ban đỏ đa dạng, viêm mô mỡ dưới da, ban xuất huyết, cứng da, hội chứng Stevens-Johnson</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn hệ cơ xương và mô liên kết</strong></td>
+    </tr>
+    <tr>
+      <td>Đau cánh tay, cứng cơ xương</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Viêm khớp, đau khớp <sup>*</sup>, đau cơ xương, đau cơ, sưng</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Rối loạn toàn thân và tình trạng tại chỗ tiêm</strong></td>
+    </tr>
+    <tr>
+      <td>Sốt<sup>‡</sup>, ban đỏ<sup>‡</sup> hoặc đau/nhạy cảm đau/nhức<sup>‡</sup> tại chỗ tiêm</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Bầm máu hoặc sưng<sup>‡</sup> tại chỗ tiêm, phát ban tại chỗ tiêm<sup>‡</sup></td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Suy nhược, mệt mỏi, xuất huyết tại chỗ tiêm, cứng tại chỗ tiêm, khối u tại chỗ tiêm, khó chịu</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Bệnh giống cúm, tróc vảy tại chỗ tiêm, đổi màu tại chỗ tiêm, ngứa tại chỗ tiêm, phản ứng tại chỗ tiêm, sẹo tại chỗ tiêm, tăng thân nhiệt, đau</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Than phiền tại chỗ tiêm (Đau, phù, mề đay, khối tụ máu, chai cứng, cục u, mụn nước), viêm, viêm nhú,</td>
+      <td>Không rõ</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Xét nghiệm</strong></td>
+    </tr>
+    <tr>
+      <td>Sút cân</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Biến chứng do tổn thương, ngộ độc và thủ thuật</strong></td>
+    </tr>
+    <tr>
+      <td>Đụng dập</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Hoàn cảnh xã hội</strong></td>
+    </tr>
+    <tr>
+      <td>Các hoạt động sinh hoạt hàng ngày bị suy giảm</td>
+      <td>Hiếm gặp</td>
+    </tr>
+  </tbody>
+</table>
 
 * Bệnh thủy đậu gây ra do chủng của vắc-xin đã được quan sát thấy trong quá trình sử dụng hậu mãi với vắc-xin vi-rút thủy đậu sống (Oka/Merck).
 + Xem phần “Mô tả các phản ứng bất lợi chọn lọc”
@@ -371,14 +525,76 @@ Các thử nghiệm lâm sàng bao gồm 6.987 đối tượng được dùng Pr
 Một nghiên cứu lâm sàng đã được thực hiện với ProQuad được dùng theo lịch trình 2 liều, các liều được tiêm cách nhau 3 tháng ở 1.620 đối tượng khỏe mạnh từ 9-12 tháng tuổi tại thời điểm dùng liều đầu tiên. Hồ sơ về an toàn sau liều thứ nhất và liều thứ 2 nói chung là tương đương nhau đối với tất cả các đoàn hệ theo tuổi.
 Trong Nhóm phân tích toàn bộ (các đối tượng được tiêm chủng bất kể nồng độ kháng thể của trẻ lúc ban đầu), tỷ lệ huyết thanh bảo vệ cao > 99% được tạo ra đối với quai bị, rubella và thủy đậu sau liều thứ 2, bất kể độ tuổi của người được tiêm chủng ở liều đầu tiên. Sau 2 liều, tỷ lệ huyết thanh bảo vệ đối với sởi là 98,1% khi tiêm liều đầu tiên lúc 11 tháng, so với 98,9% khi tiêm liều đầu tiên lúc 12 tháng (đáp ứng mục tiêu nghiên cứu không thua kém). Sau hai liều, tỷ lệ huyết thanh bảo vệ đối với sởi là 94,6% khi tiêm liều đầu tiên lúc 9 tháng, so với 98,9% khi tiêm liều đầu tiên lúc 12 tháng (không đáp ứng mục tiêu nghiên cứu không thua kém).
 Tỷ lệ huyết thanh bảo vệ đối với sởi, quai bị, rubella và thủy đậu lúc 6 tuần sau liều thứ nhất và 6 tuần sau liều thứ 2, đối với Nhóm phân tích toàn bộ được nêu trong bảng sau.
-
-| Hóa trị (mức độ huyết thanh bảo vệ) | Thời điểm | Liều thứ nhất lúc 9 tháng/Liều thứ 2 lúc 12 tháng N = 527 Tỷ lệ huyết thanh bảo vệ [khoảng tin cậy (CI) 95%] | Liều thứ nhất lúc 11 tháng/Liều thứ 2 lúc 14 tháng N = 480 Tỷ lệ huyết thanh bảo vệ [khoảng tin cậy (CI) 95%] | Liều thứ nhất lúc 12 tháng/Liều thứ 2 lúc 15 tháng N = 466 Tỷ lệ huyết thanh bảo vệ [khoảng tin cậy (CI) 95%] |
-| :--- | :--- | :--- | :--- | :--- |
-| Sởi (nồng độ ≥ 255 mIU/mL) | Sau liều thứ nhất<br>Sau liều thứ 2 | 72,3% [68,2; 76,1]<br>94,6% [92,3; 96,4] | 87,6% [84,2; 90,4]<br>98,1% [96,4; 99,1] | 90,6% [87,6; 93,1]<br>98,9% [97,5; 99,6] |
-| Quai bị (nồng độ ≥ 10 đơn vị ELISA Ab/mL) | Sau liều thứ nhất<br>Sau liều thứ 2 | 96,4% [94,4; 97,8]<br>99,2% [98,0; 99,8] | 98,7% [97,3; 99,5]<br>99,6% [98,5; 99,9] | 98,5% [96,9; 99,4]<br>99,3% [98,1; 99,9] |
-| Rubella (nồng độ ≥ 10 IU/mL) | Sau liều thứ nhất<br>Sau liều thứ 2 | 97,3% [95,5; 98,5]<br>99,4% [98,3; 99,9] | 98,7% [97,3; 99,5]<br>99,4% [98,1; 99,9] | 97,8% [96,0; 98,9]<br>99,6% [98,4; 99,9] |
-| Thủy đậu (nồng độ ≥ 5 đơn vị gpELISA/mL) | Sau liều thứ nhất<br>Sau liều thứ 2 | 93,1% [90,6; 95,1]<br>100% [99,3; 100] | 97,0% [95,1; 98,4]<br>100% [99,2; 100] | 96,5% [94,4; 98,0]<br>100% [99,2; 100] |
-
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Hóa trị (mức độ huyết thanh bảo vệ)</th>
+      <th rowspan="2">Thời điểm</th>
+      <th>Liều thứ nhất lúc 9 tháng/Liều thứ 2 lúc 12 tháng<br>N=527</th>
+      <th>Liều thứ nhất lúc 11 tháng/Liều thứ 2 lúc 14 tháng<br>N=480</th>
+      <th>Liều thứ nhất lúc 12 tháng/Liều thứ 2 lúc 15 tháng<br>N=466</th>
+    </tr>
+    <tr>
+      <th>Tỷ lệ huyết thanh bảo vệ [khoảng tin cậy (CI) 95%]</th>
+      <th>Tỷ lệ huyết thanh bảo vệ [khoảng tin cậy (CI) 95%]</th>
+      <th>Tỷ lệ huyết thanh bảo vệ [khoảng tin cậy (CI) 95%]</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><strong>Sởi</strong> (nồng độ ≥ 255 mIU/mL)</td>
+      <td><strong>Sau liều thứ nhất</strong></td>
+      <td>72,3%<br>[68,2;76,1]</td>
+      <td>87,6%<br>[84,2;90,4]</td>
+      <td>90,6%<br>[87,6;93,1]</td>
+    </tr>
+    <tr>
+      <td><strong>Sau liều thứ 2</strong></td>
+      <td>94,6%<br>[92,3;96,4]</td>
+      <td>98,1%<br>[96,4;99,1]</td>
+      <td>98,9 %<br>[97,5;99,6]</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Quai bị</strong> (nồng độ ≥ 10 đơn vị ELISA Ab/mL)</td>
+      <td><strong>Sau liều thứ nhất</strong></td>
+      <td>96,4 %<br>[94,4; 97,8]</td>
+      <td>98,7%<br>[97,3;99,5]</td>
+      <td>98,5%<br>[96,9;99,4]</td>
+    </tr>
+    <tr>
+      <td><strong>Sau liều thứ 2</strong></td>
+      <td>99,2 %<br>[98,0; 99,8]</td>
+      <td>99,6%<br>[98,5;99,9]</td>
+      <td>99,3%<br>[98,1;99,9]</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Rubella</strong> (nồng độ ≥ 10 IU/mL)</td>
+      <td><strong>Sau liều thứ nhất</strong></td>
+      <td>97,3 %<br>[95,5; 98,5]</td>
+      <td>98,7%<br>[97,3;99,5]</td>
+      <td>97,8%<br>[96,0;98,9]</td>
+    </tr>
+    <tr>
+      <td><strong>Sau liều thứ 2</strong></td>
+      <td>99,4 %<br>[98,3; 99,9]</td>
+      <td>99,4%<br>[98,1;99,9]</td>
+      <td>99,6%<br>[98,4;99,9]</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Thủy đậu</strong> (nồng độ ≥ 5 đơn vị gp ELISA/mL)</td>
+      <td><strong>Sau liều thứ nhất</strong></td>
+      <td>93,1 %<br>[90,6; 95,1]</td>
+      <td>97,0%<br>[95,1;98,4]</td>
+      <td>96,5%<br>[94,4;98,0]</td>
+    </tr>
+    <tr>
+      <td><strong>Sau liều thứ 2</strong></td>
+      <td>100 %<br>[99,3; 100]</td>
+      <td>100%<br>[99,2;100]</td>
+      <td>100%<br>[99,2;100]</td>
+    </tr>
+  </tbody>
+</table>
 16/20
 
 TRANG 17 (Page 17 of 20)

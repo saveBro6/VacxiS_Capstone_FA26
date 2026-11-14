@@ -1,7 +1,7 @@
 """Main entry point: orchestrate indexing and chunking pipeline."""
 from pathlib import Path
 
-from .chunker import create_medical_chunks
+from .chunker import DEFAULT_CHUNK_OVERLAP_TOKENS, create_medical_chunks
 from .discovery import discover_documents
 from .parser import parse_markdown_to_sections
 from .schemas import make_chunk_id
@@ -14,8 +14,11 @@ def run_indexing_pipeline(
     mapping_path: Path | None = None,
     min_tokens: int = 80,
     max_tokens: int = 600,
+    chunk_overlap_tokens: int = DEFAULT_CHUNK_OVERLAP_TOKENS,
 ) -> Path:
     """Run full pipeline: discover, parse, chunk, and save Parquet."""
+    if chunk_overlap_tokens < 0:
+        raise ValueError("chunk_overlap_tokens must be nonnegative")
     if project_root is None:
         project_root = Path.cwd()
     if output_path is None:
@@ -40,15 +43,18 @@ def run_indexing_pipeline(
             print(f"[SKIP] No sections found for {doc.vaccine_name} ({doc.folder_id})")
             continue
 
-        chunks = create_medical_chunks(sections, min_tokens, max_tokens)
+        def embedding_prefix(header: str) -> str:
+            return f"[CHỦ ĐỀ: {doc.vaccine_name}] > [MỤC: {header}]"
+
+        chunks = create_medical_chunks(
+            sections, min_tokens, max_tokens, chunk_overlap_tokens,
+            embedding_prefix=embedding_prefix,
+        )
 
         for chunk_idx, chunk in enumerate(chunks):
             chunk_id = make_chunk_id(doc.doc_id, chunk_idx)
 
-            header_prefix = (
-                f"[CHỦ ĐỀ: {doc.vaccine_name}] > [MỤC: {chunk['header']}]"
-            )
-            text = f"{header_prefix}\n{chunk['content']}"
+            text = f"{embedding_prefix(chunk['header'])}\n{chunk['content']}"
 
             row = {
                 "chunk_id": chunk_id,

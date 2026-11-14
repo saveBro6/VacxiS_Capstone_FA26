@@ -127,22 +127,87 @@ Rất phổ biến: ≥ 1/10/ Phổ biến: ≥ 1/100 đến < 1/10/
 Không phổ biến: ≥ 1/1000 đến < 1/100/
 Hiếm: ≥ 1/1.0000 đến < 1/10.00/ Rất hiếm: < 1/10.000
 
-| Phân loại hệ thống cơ quan | Tần suất | Tác dụng không mong muốn |
-| :--- | :--- | :--- |
-| Nhiễm trùng và nhiễm ký sinh trùng | Không phổ biến | Nhiễm trùng đường hô hấp trên, viêm hầu họng |
-| Rối loạn hệ lympho và máu | Không phổ biến | Viêm hạch lympho |
-| Rối loạn tâm thần | Không phổ biến | Dễ cáu gắt |
-| Rối loạn hệ thống thần kinh | Không phổ biến | Đau đầu, ngủ gà |
-| Rối loạn nhãn khoa | Hiếm | Viêm màng kết mạc |
-| Rối loạn hô hấp, ngực và trung thất | Không phổ biến | Ho, viêm mũi |
-
-TRANG 6
-| Phân loại hệ thống cơ quan | Tần suất | Tác dụng không mong muốn |
-| :--- | :--- | :--- |
-| Rối loạn dạ dày ruột | Không phổ biến<br>Hiếm | Buồn nôn, nôn<br>Đau bụng, tiêu chảy |
-| Da và tổ chức dưới da | Phổ biến<br>Không phổ biến<br>Hiếm | Phát ban<br>Phát ban giống thủy đậu, ngứa<br>Mày đay |
-| Rối loạn cơ xương và mô liên kết | Không phổ biến | Đau khớp, viêm khớp |
-| Tình trạng toàn thân và tại chỗ tiêm | Rất phổ biến<br>Phổ biến<br><br><br>Không phổ biến | Đau, đỏ<br>Sưng tại chỗ tiêm*, sốt (nhiệt độ đo ở miệng nách ≥ 37,5°C hoặc ở trực tràng nhiệt độ ≥ 38,0°C)*<br>Sốt (nhiệt độ đo ở miệng/nách > 39,0°C hoặc ở trực tràng > 39,5°C), mệt mỏi, khó chịu |
+<table>
+  <thead>
+    <tr>
+      <th>Phân loại hệ thống cơ quan</th>
+      <th>Tần suất</th>
+      <th>Tác dụng không mong muốn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nhiễm trùng và nhiễm ký sinh trùng</td>
+      <td>Không phổ biến</td>
+      <td>Nhiễm trùng đường hô hấp trên, viêm hầu họng</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ lympho và máu</td>
+      <td>Không phổ biến</td>
+      <td>Viêm hạch lympho</td>
+    </tr>
+    <tr>
+      <td>Rối loạn tâm thần</td>
+      <td>Không phổ biến</td>
+      <td>Dễ cáu gắt</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ thống thần kinh</td>
+      <td>Không phổ biến</td>
+      <td>Đau đầu, ngủ gà</td>
+    </tr>
+    <tr>
+      <td>Rối loạn nhãn khoa</td>
+      <td>Hiếm</td>
+      <td>Viêm màng kết mạc</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hô hấp, ngực và trung thất</td>
+      <td>Không phổ biến</td>
+      <td>Ho, viêm mũi</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn dạ dày ruột</td>
+      <td>Không phổ biến</td>
+      <td>Buồn nôn, nôn</td>
+    </tr>
+    <tr>
+      <td>Hiếm</td>
+      <td>Đau bụng, tiêu chảy</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Da và tổ chức dưới da</td>
+      <td>Phổ biến</td>
+      <td>Phát ban</td>
+    </tr>
+    <tr>
+      <td>Không phổ biến</td>
+      <td>Phát ban giống thủy đậu, ngứa</td>
+    </tr>
+    <tr>
+      <td>Hiếm</td>
+      <td>Mày đay</td>
+    </tr>
+    <tr>
+      <td>Rối loạn cơ xương và mô liên kết</td>
+      <td>Không phổ biến</td>
+      <td>Đau khớp, viêm khớp</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Tình trạng toàn thân và tại chỗ tiêm</td>
+      <td>Rất phổ biến</td>
+      <td>Đau, đỏ</td>
+    </tr>
+    <tr>
+      <td>Phổ biến</td>
+      <td>Sưng tại chỗ tiêm*, sốt (nhiệt độ đo ở miệng/nách ≥ 37,5°C hoặc ở trực tràng nhiệt độ ≥ 38,0°C)*.</td>
+    </tr>
+    <tr>
+      <td>Không phổ biến</td>
+      <td>Sốt (nhiệt độ đo ở miệng/nách &gt; 39,0°C hoặc ở trực tràng &gt; 39,5°C), mệt mỏi, khó chịu</td>
+    </tr>
+  </tbody>
+</table>
 
 * Triệu chứng sưng tại chỗ tiêm và sốt nhẹ được báo cáo là rất phổ biến trong nghiên cứu được tiến hành ở thanh thiếu niên và người lớn. Triệu chứng sưng tại chỗ tiêm cũng được báo cáo là phổ biến sau tiêm liều thứ hai ở trẻ em dưới 13 tuổi.
 Tỉ lệ đau, đỏ và sưng có xu hướng cao hơn sau khi tiêm liều thứ hai so với sau khi tiêm liều thứ nhất.
@@ -153,19 +218,47 @@ Số liệu có sẵn từ thử nghiệm lâm sàng trên những bệnh nhân 
 
 Giám sát hậu mãi
 Trong quá trình giám sát hậu mãi, các phản ứng sau đã được báo cáo sau khi tiêm chủng thủy đậu:
-
-| Hệ thống cơ quan | Tần xuất | Tác dụng không mong muốn |
-| :--- | :--- | :--- |
-| Nhiễm trùng và nhiễm ký sinh trùng | Hiếm | herpes zoster |
-| Rối loạn máu và hệ bạch huyết | Hiếm | Giảm tiểu cầu |
-
-TRANG 7
-| Hệ thống cơ quan | Tần xuất | Tác dụng không mong muốn |
-| :--- | :--- | :--- |
-| Rối loạn hệ miễn dịch | Hiếm | Phản ứng quá mẫn, phản ứng phản vệ |
-| Rối loạn hệ thống thần kinh | Hiếm | Viêm não, tai biến mạch máu não, viêm tiểu não, hội chứng giống viêm tiểu não (bao gồm rối loạn dáng đi và mất điều hòa thoáng qua), co giật. |
-| Rối loạn mạch máu | Hiếm | Viêm mạch (bao gồm ban xuất huyết Henoch Schonlein và hội chứng Kawasaki) |
-| Rối loạn da và tổ chức dưới da. | Hiếm | Ban đỏ đa hình |
+<table>
+  <thead>
+    <tr>
+      <th>Hệ thống cơ quan</th>
+      <th>Tần suất</th>
+      <th>Tác dụng không mong muốn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nhiễm trùng và nhiễm ký sinh trùng</td>
+      <td>Hiếm</td>
+      <td>herpes zoster</td>
+    </tr>
+    <tr>
+      <td>Rối loạn máu và hệ bạch huyết</td>
+      <td>Hiếm</td>
+      <td>Giảm tiểu cầu</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ miễn dịch</td>
+      <td>Hiếm</td>
+      <td>Phản ứng quá mẫn, phản ứng phản vệ</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ thống thần kinh</td>
+      <td>Hiếm</td>
+      <td>Viêm não, tai biến mạch máu não, viêm tiểu não, hội chứng giống viêm tiểu não (bao gồm rối loạn dáng đi và mất điều hòa thoáng qua), co giật.</td>
+    </tr>
+    <tr>
+      <td>Rối loạn mạch máu</td>
+      <td>Hiếm</td>
+      <td>Viêm mạch (bao gồm ban xuất huyết Henoch Schonlein và hội chứng Kawasaki)</td>
+    </tr>
+    <tr>
+      <td>Rối loạn da và tổ chức dưới da</td>
+      <td>Hiếm</td>
+      <td>Ban đỏ đa hình</td>
+    </tr>
+  </tbody>
+</table>
 
 Thông báo cho bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc
 
@@ -180,16 +273,40 @@ Sự xuất hiện của kháng thể được chấp nhận như là dấu hi�
 Dược lực học
 Hiệu lực và hiệu quả bảo vệ
 Hiệu lực của các vắc-xin thủy đậu chủng Oka/RIT của GlaxoSmithKline trong phòng bệnh thủy đậu đã xác định (bằng Polymerase chuỗi phản ứng (PCR) hoặc phơi nhiễm với những trường hợp bị thủy đậu) đã được đánh giá qua một thử nghiệm lâm sàng có đối chứng chủ động quy mô lớn ở trẻ từ 12-22 tháng tuổi được tiêm một liều Varilrix hoặc hai liều vắc xin phối hợp sởi, quai bị, rubella và thủy đậu chủng (Oka/RIT). Hiệu quả của vắc xin chống lại thủy đậu xác định mức độ nghiêm trọng hoặc mức độ trung bình hoặc thủy đậu xác định quan sát được quan sát thấy sau quá trình theo dõi chủ yếu tiến hành trong 2 năm (thời gian trung bình 3,2 năm) và sau một quá trình theo dõi kéo dài 6 năm (thời gian trung bình 6,4 năm) được trình bày ở bảng dưới đây.
-
-| Nhóm | Thời gian | Hiệu lực chống lại thủy đậu xác định với bất cứ mức độ nghiêm trọng nào | Hiệu lực chống lại thủy đậu xác định trung bình hoặc nghiêm trọng |
-| :--- | :--- | :--- | :--- |
-| Varilrix™ (1 liều)<br>N=2.487 | Năm 2<br><br>Năm 6(1) | 65,4%<br>(97,5% CI: 57,2;72,1)<br>67,0%<br>(95% CI: 61,8;71,4) | 90,7%<br>(97,5% CI: 85,9;93,9)<br>90,3%<br>(95% CI: 86,9;92,8) |
-
-TRANG 8
-| Nhóm | Thời gian | Hiệu lực chống lại thủy đậu xác định với bất cứ mức độ nghiêm trọng nào | Hiệu lực chống lại thủy đậu xác định trung bình hoặc nghiêm trọng |
-| :--- | :--- | :--- | :--- |
-| Vắc xin phối hợp sởi, quai bị, rubella và thủy đậu (Oka/RIT) (2 liều)<br>N=2.489 | Năm 2<br><br>Năm 6(1) | 94,9%<br>(97,5% CI: 92,4;96,6)<br>95,0%<br>(95% CI: 93,6;96,2) | 99,5%<br>(97,5% CI: 97,5;99,9)<br>99,0%<br>(95% CI: 97,7;99,6) |
-
+<table>
+  <thead>
+    <tr>
+      <th>Nhóm</th>
+      <th>Thời gian</th>
+      <th>Hiệu lực chống lại thủy đậu xác định với bất cứ mức độ nghiêm trọng nào</th>
+      <th>Hiệu lực chống lại thủy đậu xác định trung bình hoặc nghiêm trọng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><strong><em>Varilrix<sup>TM</sup></em><br>(1 liều)<br>N = 2.487</strong></td>
+      <td>Năm 2</td>
+      <td>65,4 %<br>(97,5% CI: 57,2;72,1)</td>
+      <td>90,7%<br>(97,5% CI: 85,9;93,9)</td>
+    </tr>
+    <tr>
+      <td>Năm 6<sup>(1)</sup></td>
+      <td>67,0%<br>(95% CI: 61,8;71,4)</td>
+      <td>90,3%<br>(95% CI: 86,9;92,8)</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Vắc xin phối hợp sởi, quai bị, rubella và thủy đậu (Oka/RIT)<br>(2 liều)<br>N = 2.489</strong></td>
+      <td>Năm 2</td>
+      <td>94,9%<br>(97,5% CI: 92,4;96,6)</td>
+      <td>99,5%<br>(97,5% CI: 97,5;99,9)</td>
+    </tr>
+    <tr>
+      <td>Năm 6<sup>(1)</sup></td>
+      <td>95,0%<br>(95% CI: 93,6;96,2)</td>
+      <td>99,0%<br>(95% CI: 97,7;99,6)</td>
+    </tr>
+  </tbody>
+</table>
 N = số lượng bệnh nhân tham gia và đã tiêm chủng
 (1) nghiên cứu mô tả
 

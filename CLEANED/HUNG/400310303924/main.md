@@ -142,33 +142,91 @@ Thường gặp: ≥ 1/100 đến < 1/10
 Hiếm gặp: ≥ 1/10.000 đến < 1/1.000
 Rất hiếm gặp: < 1/10.000
 
-Bảng 1: Phản ứng bất lợi từ các nghiên cứu lâm sàng (từ 4-60 tuổi)
-
-| Nhóm hệ cơ quan theo MedDRA | Tần suất | Phản ứng bất lợi |
-| :--- | :--- | :--- |
-| **Nhiễm khuẩn và nhiễm ký sinh trùng** | Rất thường gặp | Nhiễm khuẩn đường hô hấp trênᵃ |
-| | Thường gặp | Viêm mũi họng<br>Viêm họng-amiđanᵇ |
-| | Ít gặp | Viêm phế quản<br>Viêm mũi |
-| **Rối loạn chuyển hóa và dinh dưỡng** | Rất thường gặp | Giảm sự ngon miệngᶜ |
-| **Rối loạn tâm thần** | Rất thường gặp | Dễ bị kích thíchᶜ |
-| **Rối loạn hệ thần kinh** | Rất thường gặp | Nhức đầu<br>Buồn ngủᶜ |
-| | Ít gặp | Chóng mặt |
-| **Rối loạn hệ tiêu hóa** | Ít gặp | Tiêu chảy<br>Buồn nôn<br>Đau bụng<br>Nôn |
-| **Rối loạn da và mô dưới da** | Ít gặp | Phát banᵈ<br>Ngứa<br>Nổi mề đay |
-| | Rất hiếm gặp | Phù mạch |
-| **Rối loạn hệ cơ xương và mô liên kết** | Rất thường gặp | Đau cơ |
-| | Thường gặp | Đau khớp |
-| **Rối loạn toàn thân và tình trạng tại chỗ tiêm** | Rất thường gặp | Đau tại chỗ tiêm<br>Ban đỏ tại chỗ tiêm<br>Khó chịu<br>Suy nhược<br>Sốt |
-| | Thường gặp | Sưng tại chỗ tiêm<br>Bầm tím tại chỗ tiêm<br>Ngứa tại chỗ tiêm<br>Bệnh giống cúm |
-| | Ít gặp | Xuất huyết tại chỗ tiêm<br>Mệt mỏiᵉ<br>Đổi màu tại chỗ tiêm |
-
-5 - 6
-
-ᵃ Bao gồm nhiễm khuẩn đường hô hấp trên và nhiễm khuẩn đường hô hấp trên do virus
-ᵇ Bao gồm viêm họng-amiđan và viêm amiđan
-ᶜ Thu thập ở trẻ em dưới 6 tuổi trong các nghiên cứu lâm sàng
-ᵈ Bao gồm ban, ban do virus, ban dát sần, ban ngứa
-ᵉ Được báo cáo ở người lớn trong các nghiên cứu lâm sàng
+<p><strong>Bảng 1: Phản ứng bất lợi từ các nghiên cứu lâm sàng (từ 4-60 tuổi)</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Nhóm hệ cơ quan theo MedDRA</th>
+      <th>Tần suất</th>
+      <th>Phản ứng bất lợi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Nhiễm khuẩn và nhiễm ký sinh trùng</td>
+      <td>Rất thường gặp</td>
+      <td>Nhiễm khuẩn đường hô hấp trên<sup>a</sup></td>
+    </tr>
+    <tr>
+      <td>Thường gặp</td>
+      <td>Viêm mũi họng<br>Viêm họng-amiđan<sup>b</sup></td>
+    </tr>
+    <tr>
+      <td>Ít gặp</td>
+      <td>Viêm phế quản<br>Viêm mũi</td>
+    </tr>
+    <tr>
+      <td>Rối loạn chuyển hóa và dinh dưỡng</td>
+      <td>Rất thường gặp</td>
+      <td>Giảm sự ngon miệng<sup>c</sup></td>
+    </tr>
+    <tr>
+      <td>Rối loạn tâm thần</td>
+      <td>Rất thường gặp</td>
+      <td>Dễ bị kích thích<sup>c</sup></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn hệ thần kinh</td>
+      <td>Rất thường gặp</td>
+      <td>Nhức đầu<br>Buồn ngủ<sup>c</sup></td>
+    </tr>
+    <tr>
+      <td>Ít gặp</td>
+      <td>Chóng mặt</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ tiêu hóa</td>
+      <td>Ít gặp</td>
+      <td>Tiêu chảy<br>Buồn nôn<br>Đau bụng<br>Nôn</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn da và mô dưới da</td>
+      <td>Ít gặp</td>
+      <td>Phát ban<sup>d</sup><br>Ngứa<sup>e</sup><br>Nổi mề đay</td>
+    </tr>
+    <tr>
+      <td>Rất hiếm gặp</td>
+      <td>Phù mạch</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn hệ cơ xương và mô liên kết</td>
+      <td>Rất thường gặp</td>
+      <td>Đau cơ</td>
+    </tr>
+    <tr>
+      <td>Thường gặp</td>
+      <td>Đau khớp</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Rối loạn toàn thân và tình trạng tại chỗ tiêm</td>
+      <td>Rất thường gặp</td>
+      <td>Đau tại chỗ tiêm<br>Ban đỏ tại chỗ tiêm<br>Khó chịu<br>Suy nhược<br>Sốt</td>
+    </tr>
+    <tr>
+      <td>Thường gặp</td>
+      <td>Sưng tại chỗ tiêm<br>Bầm tím tại chỗ tiêm<sup>e</sup><br>Ngứa tại chỗ tiêm<sup>e</sup><br>Bệnh giống cúm</td>
+    </tr>
+    <tr>
+      <td>Ít gặp</td>
+      <td>Xuất huyết tại chỗ tiêm<sup>e</sup><br>Mệt mỏi<sup>e</sup><br>Đổi màu tại chỗ tiêm<sup>e</sup></td>
+    </tr>
+  </tbody>
+</table>
+<p><sup>a</sup> Bao gồm nhiễm khuẩn đường hô hấp trên và nhiễm khuẩn đường hô hấp trên do virus<br>
+<sup>b</sup> Bao gồm viêm họng-amiđan và viêm amiđan<br>
+<sup>c</sup> Thu thập ở trẻ em dưới 6 tuổi trong các nghiên cứu lâm sàng<br>
+<sup>d</sup> Bao gồm ban, ban do virus, ban dát sần, ban ngứa<br>
+<sup>e</sup> Được báo cáo ở người lớn trong các nghiên cứu lâm sàng</p>
 
 Nhóm bệnh nhân trẻ em
 Dữ liệu trên trẻ em ở các đối tượng từ 4-17 tuổi
@@ -203,17 +261,34 @@ Hiệu quả đã được đánh giá bằng cách sử dụng theo dõi tích 
 Dữ liệu về hiệu quả lâm sàng đối với các đối tượng từ 4-16 tuổi
 Kết quả về hiệu quả của vắc-xin (VE), theo tiêu chí đánh giá chính (sốt xuất huyết đã được xác nhận về mặt virus học (VCD) xảy ra từ 30 ngày đến 12 tháng sau lần tiêm chủng thứ hai) được trình bày trong Bảng 2. Tuổi trung bình của nhóm đối tượng thử nghiệm theo đề cương nghiên cứu là 9,6 tuổi (độ lệch chuẩn là 3,5 tuổi) với 12,7% đối tượng ở nhóm tuổi từ 4-5 tuổi, 55,2% đối tượng ở nhóm tuổi từ 6-11 tuổi và 32,1% đối tượng ở nhóm tuổi từ 12-16 tuổi. Trong số này, 46,5% ở châu Á và 53,5% ở châu Mỹ Latinh, 49,5% là nữ và 50,5% là nam. Tình trạng huyết thanh của virus Dengue lúc ban đầu (trước lần tiêm đầu tiên) đã được đánh giá ở tất cả các đối tượng bằng xét nghiệm vi trung hòa (MNT50) để cho phép đánh giá hiệu quả của vắc-xin bằng tình trạng huyết thanh lúc ban đầu. Tỷ lệ huyết thanh âm tính đối với virus Dengue ban đầu về tổng thể đối với nhóm phân tích theo đề cương nghiên cứu là 27,7%.
 
-Bảng 2: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi bất kỳ tuýp huyết thanh nào từ 30 ngày đến 12 tháng sau khi tiêm chủng lần thứ hai trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu)ᵃ
-
-| | Qdenga® N = 12.700ᵇ | Giả dược N = 6316ᵇ | Hiệu quả của vắc-xin (khoảng tin cậy 95%) (%) |
-| :--- | :--- | :--- | :--- |
-| **Sốt xuất huyết đã được xác nhận về mặt virus học, n (%)** | 61 (0,5) | 149 (2,4) | 80,2 (73,3, 85,3) |
-| **Giá trị p** | <0,001 | | |
-
-CI: khoảng tin cậy (confidence interval); n: số đối tượng bị sốt; VCD: sốt xuất huyết đã được xác nhận về mặt virus học (virologically confirmed dengue)
-ᵃ Phân tích chính dữ liệu về hiệu quả dựa trên nhóm phân tích theo đề cương nghiên cứu, bao gồm tất cả các đối tượng được chọn ngẫu nhiên không có bất kỳ vi phạm lớn nào về đề cương nghiên cứu, bao gồm cả việc không nhận được cả hai liều chỉ định chính xác của Qdenga® hoặc giả dược
-ᵇ Số đối tượng được đánh giá
-
+<p><strong>Bảng 2: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi bất kỳ tuýp huyết thanh nào từ 30 ngày đến 12 tháng sau khi tiêm chủng lần thứ hai trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu)<sup>a</sup></strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Qdenga®<br>N = 12.700<sup>b</sup></th>
+      <th>Giả dược<br>N = 6316<sup>b</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sốt xuất huyết đã được xác nhận về mặt virus học, n (%)</td>
+      <td>61 (0,5)</td>
+      <td>149 (2,4)</td>
+    </tr>
+    <tr>
+      <td>Hiệu quả của vắc-xin (khoảng tin cậy 95%) (%)</td>
+      <td colspan="2">80,2 (73,3, 85,3)</td>
+    </tr>
+    <tr>
+      <td>Giá trị p</td>
+      <td colspan="2">&lt; 0,001</td>
+    </tr>
+  </tbody>
+</table>
+<p>CI: khoảng tin cậy (confidence interval); n: số đối tượng bị sốt; VCD: sốt xuất huyết đã được xác nhận về mặt virus học (virologically confirmed dengue)<br>
+<sup>a</sup> Phân tích chính dữ liệu về hiệu quả dựa trên nhóm phân tích theo đề cương nghiên cứu, bao gồm tất cả các đối tượng được chọn ngẫu nhiên không có bất kỳ vi phạm lớn nào về đề cương nghiên cứu, bao gồm cả việc không nhận được cả hai liều chỉ định chính xác của Qdenga® hoặc giả dược<br>
+<sup>b</sup> Số đối tượng được đánh giá</p>
 Kết quả về hiệu quả của vắc-xin theo các tiêu chí phụ là phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học, phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học theo tình trạng huyết thanh, theo tuýp huyết thanh và phòng ngừa sốt xuất huyết nặng
 
 8
@@ -221,32 +296,99 @@ Kết quả về hiệu quả của vắc-xin theo các tiêu chí phụ là ph�
 đã được xác nhận về mặt virus học được trình bày trong Bảng 3. Đối với sốt xuất huyết nặng đã được xác nhận về mặt virus học, 2 loại tiêu chí đã được xem xét: các trường hợp sốt xuất huyết nặng đã được xác nhận về mặt virus học trên lâm sàng và các trường hợp sốt xuất huyết đã được xác nhận về mặt virus học đáp ứng các tiêu chuẩn của Tổ chức y tế thế giới (WHO) 1997 về sốt xuất huyết Dengue (Dengue Haemorrhagic Fever - DHF). Các tiêu chuẩn được sử dụng trong thử nghiệm DEN-301 để đánh giá mức độ nặng của sốt xuất huyết đã được xác nhận về mặt virus học bởi một “Ủy ban xem xét mức độ nặng của trường hợp sốt xuất huyết” (DCAC) độc lập dựa trên hướng dẫn của WHO 2009. DCAC đã đánh giá tất cả các trường hợp nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học bằng cách sử dụng các tiêu chuẩn được xác định trước bao gồm đánh giá bất thường về chảy máu, rò huyết tương, chức năng gan, chức năng thận, chức năng tim, hệ thần kinh trung ương và sốc. Trong thử nghiệm DEN-301, các trường hợp sốt xuất huyết đã được xác nhận về mặt virus học đáp ứng các tiêu chuẩn của WHO 1997 về sốt xuất huyết Dengue đã được xác định bằng cách sử dụng thuật toán được lập trình, tức là không áp dụng đánh giá y khoa. Nói chung, các tiêu chuẩn bao gồm biểu hiện sốt kéo dài từ 2-7 ngày, xu hướng xuất huyết, giảm tiểu cầu và bằng chứng rò huyết tương.
 
 Bảng 3: Hiệu quả của vắc-xin trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học, sốt xuất huyết đã được xác nhận về mặt virus học theo tuýp huyết thanh của virus Dengue, sốt xuất huyết đã được xác nhận về mặt virus học theo tình trạng huyết thanh của virus Dengue ban đầu và các dạng sốt xuất huyết nặng từ 30 ngày đến 18 tháng sau khi tiêm chủng lần thứ hai trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu)
-
-| | Qdenga® N = 12.700ᵃ | Giả dược N = 6316ᵃ | Hiệu quả của vắc-xin (VE) (khoảng tin cậy (CI) 95%) |
-| :--- | :--- | :--- | :--- |
-| **Hiệu quả của vắc-xin trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học, n (%)** | | | |
-| Nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học | 13 (0,1) | 66 (1,0) | 90,4 (82,6, 94,7)ᵈ |
-| **Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học theo tuýp huyết thanh của virus Dengue, n (%)** | | | |
-| Sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi DENV-1 | 38 (0,3) | 62 (1,0) | 69,8 (54,8, 79,9) |
-| Sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi DENV-2 | 8 (<0,1) | 80 (1,3) | 95,1 (89,9, 97,6) |
-| Sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi DENV-3 | 63 (0,5) | 60 (0,9) | 47,9 (27,2, 64,1) |
-| Sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi DENV-4 | 5 (<0,1) | 5 (<0,1) | 51,0 (-69,4, 85,8) |
-| **Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học theo tình trạng huyết thanh của virus Dengue ban đầu, n (%)** | | | |
-| Sốt xuất huyết đã được xác nhận về mặt virus học ở tất cả đối tượng | 114 (0,9) | 206 (3,3) | 73,3 (66,5, 77,8) |
-| Sốt xuất huyết đã được xác nhận về mặt virus học ở các đối tượng huyết thanh dương tính ban đầu | 75 (0,8) | 150 (3,3) | 76,1 (67,5, 81,9) |
-| Sốt xuất huyết đã được xác nhận về mặt virus học ở các đối tượng huyết thanh âm tính ban đầu | 39 (1,1) | 56 (3,2) | 66,2 (49,1, 77,5) |
-| **Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết Dengue gây ra bởi bất kỳ tuýp huyết thanh nào của virus Dengue, n (%)** | | | |
-| Tổng thể | 2 (<0,1) | 7 (0,1) | 85,9 (31,9, 97,1) |
-| **Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết nặng gây ra bởi bất kỳ tuýp huyết thanh nào của virus Dengue, n (%)** | | | |
-| Tổng thể | 2 (<0,1) | 1 (<0,1) | 2,3 (-977,5, 91,1) |
-
-9 - 10
-
-VE: Hiệu quả của vắc-xin (vaccine efficacy); CI: khoảng tin cậy (confidence interval); n: số đối tượng; VCD: sốt xuất huyết đã được xác nhận về mặt virus học (virologically confirmed dengue); DENV: tuýp huyết thanh virus Dengue (dengue virus serotype)
-ᵃ Số đối tượng được đánh giá
-ᵇ tiêu chí phụ chủ yếu
-ᶜ Hầu hết các trường hợp được quan sát là do DENV-2 (0 trường hợp ở nhóm dùng Qdenga® và 46 trường hợp ở nhóm dùng giả dược)
-ᵈ giá trị p < 0,001
+<p><strong>Bảng 3: Hiệu quả của vắc-xin trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học, sốt xuất huyết đã được xác nhận về mặt virus học theo tuýp huyết thanh của virus Dengue, sốt xuất huyết đã được xác nhận về mặt virus học theo tình trạng huyết thanh của virus Dengue ban đầu và các dạng sốt xuất huyết nặng từ 30 ngày đến 18 tháng sau khi tiêm chủng lần thứ hai trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu)</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Qdenga®<br>N = 12.700<sup>a</sup></th>
+      <th>Giả dược<br>N = 6316<sup>a</sup></th>
+      <th>Hiệu quả của vắc-xin (VE) (khoảng tin cậy (CI) 95%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="4"><strong>Hiệu quả của vắc-xin trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học<sup>b</sup>, n (%)</strong></td>
+    </tr>
+    <tr>
+      <td>Nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học<sup>c</sup></td>
+      <td>13 (0,1)</td>
+      <td>66 (1,0)</td>
+      <td>90,4 (82,6, 94,7)<sup>d</sup></td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học theo tuýp huyết thanh của virus Dengue, n (%)</strong></td>
+    </tr>
+    <tr>
+      <td>Sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi DENV-1</td>
+      <td>38 (0,3)</td>
+      <td>62 (1,0)</td>
+      <td>69,8 (54,8, 79,9)</td>
+    </tr>
+    <tr>
+      <td>Sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi DENV-2</td>
+      <td>8 (&lt; 0,1)</td>
+      <td>80 (1,3)</td>
+      <td>95,1 (89,9, 97,6)</td>
+    </tr>
+    <tr>
+      <td>Sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi DENV-3</td>
+      <td>63 (0,5)</td>
+      <td>60 (0,9)</td>
+      <td>47,9 (27,2, 64,1)</td>
+    </tr>
+    <tr>
+      <td>Sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi DENV-4</td>
+      <td>5 (&lt; 0,1)</td>
+      <td>5 (&lt; 0,1)</td>
+      <td>51,0 (-69,4, 85,8)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học theo tình trạng huyết thanh của virus Dengue ban đầu, n (%)</strong></td>
+    </tr>
+    <tr>
+      <td>Sốt xuất huyết đã được xác nhận về mặt virus học ở tất cả đối tượng</td>
+      <td>114 (0,9)</td>
+      <td>206 (3,3)</td>
+      <td>73,3 (66,5, 77,8)</td>
+    </tr>
+    <tr>
+      <td>Sốt xuất huyết đã được xác nhận về mặt virus học ở các đối tượng huyết thanh dương tính ban đầu</td>
+      <td>75 (0,8)</td>
+      <td>150 (3,3)</td>
+      <td>76,1 (67,5, 81,9)</td>
+    </tr>
+    <tr>
+      <td>Sốt xuất huyết đã được xác nhận về mặt virus học ở các đối tượng huyết thanh âm tính ban đầu</td>
+      <td>39 (1,1)</td>
+      <td>56 (3,2)</td>
+      <td>66,2 (49,1, 77,5)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết Dengue gây ra bởi bất kỳ tuýp huyết thanh nào của virus Dengue, n (%)</strong></td>
+    </tr>
+    <tr>
+      <td>Tổng thể</td>
+      <td>2 (&lt; 0,1)</td>
+      <td>7 (0,1)</td>
+      <td>85,9 (31,9, 97,1)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết nặng gây ra bởi bất kỳ tuýp huyết thanh nào của virus Dengue, n (%)</strong></td>
+    </tr>
+    <tr>
+      <td>Tổng thể</td>
+      <td>2 (&lt; 0,1)</td>
+      <td>1 (&lt; 0,1)</td>
+      <td>2,3 (-977,5, 91,1)</td>
+    </tr>
+  </tbody>
+</table>
+<p>VE: Hiệu quả của vắc-xin (vaccine efficacy); CI: khoảng tin cậy (confidence interval); n: số đối tượng; VCD: sốt xuất huyết đã được xác nhận về mặt virus học (virologically confirmed dengue); DENV: tuýp huyết thanh virus Dengue (dengue virus serotype)<br>
+<sup>a</sup> Số đối tượng được đánh giá<br>
+<sup>b</sup> tiêu chí phụ chủ yếu<br>
+<sup>c</sup> Hầu hết các trường hợp được quan sát là do DENV-2 (0 trường hợp ở nhóm dùng Qdenga® và 46 trường hợp ở nhóm dùng giả dược)<br>
+<sup>d</sup> giá trị p &lt; 0,001</p>
 
 Khởi phát sớm tác dụng bảo vệ đã được quan sát thấy với hiệu quả vắc-xin thăm dò là 81,1% (khoảng tin cậy 95%: 64,1%, 90,0%) chống lại sốt xuất huyết đã được xác nhận về mặt virus học gây ra bởi tất cả các tuýp huyết thanh kết hợp từ lần tiêm chủng đầu tiên cho đến lần tiêm chủng thứ hai.
 
@@ -255,64 +397,151 @@ Trong nghiên cứu DEN-301, một số phân tích thăm dò đã được ti�
 
 10 - 11
 
-Bảng 4: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học và nhập viện về tổng thể, theo tình trạng huyết thanh của virus Dengue ban đầu và chống lại các tuýp huyết thanh riêng lẻ theo tình trạng huyết thanh ban đầu từ liều đầu tiên đến 54 tháng sau liều thứ 2 trong nghiên cứu DEN-301 (Nhóm phân tích về an toàn)ᵃ
-
-| | Qdenga® n/N | Giả dược n/N | Hiệu quả của vắc-xin (khoảng tin cậy 95%) trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus họcᵃ | Qdenga® n/N | Giả dược n/N | Hiệu quả của vắc-xin (khoảng tin cậy 95%) trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Tổng thể** | 442/13380 | 547/6687 | 61,2 (56,0, 65,8) | 46/13380 | 142/6687 | 84,1 (77,8, 87,6) |
-| **Huyết thanh âm tính ban đầu, N = 5.546** | | | | | | |
-| Bất kỳ tuýp huyết thanh nào | 147/3714 | 153/1832 | 53,5 (41,6, 62,9) | 17/3714 | 41/1832 | 79,3 (63,5, 87,2) |
-| DENV-1 | 89/3714 | 79/1832 | 45,4 (26,1, 59,7) | 6/3714 | 14/1832 | 77,4 (43,9, 91,7) |
-| DENV-2 | 14/3714 | 58/1832 | 87,1 (77,6, 93,3) | 0/3714 | 23/1832 | 100 (87,5, 100)ᵇ |
-| DENV-3 | 36/3714 | 16/1832 | -15,5 (-107,2, 35,9) | 11/3714 | 3/1832 | -87,9 (-573,4, 47,6) |
-| DENV-4 | 12/3714 | 3/1832 | -105,6 (-627,7, 42,0) | 0/3714 | 1/1832 | NPᶜ |
-| **Huyết thanh dương tính ban đầu, N = 14.517** | | | | | | |
-| Bất kỳ tuýp huyết thanh nào | 295/9663 | 394/4854 | 64,2 (57,4, 69,2) | 29/9663 | 101/4854 | 85,9 (77,7, 90,7) |
-| DENV-1 | 133/9663 | 151/4854 | 56,1 (44,6, 65,2) | 16/9663 | 24/4854 | 66,8 (37,4, 82,3) |
-| DENV-2 | 54/9663 | 135/4854 | 80,4 (73,1, 85,7) | 5/9663 | 59/4854 | 95,8 (89,6, 97,3) |
-| DENV-3 | 96/9663 | 97/4854 | 52,3 (36,7, 64,0) | 8/9663 | 15/4854 | 74,0 (37,6, 89,0) |
-| DENV-4 | 12/9663 | 20/4854 | 70,6 (39,9, 85,6) | 0/9663 | 3/4854 | NPᶜ |
-
-11 - 12
-
-VE: Hiệu quả của vắc-xin (vaccine efficacy), CI: khoảng tin cậy (confidence interval), VCD: sốt xuất huyết đã được xác nhận về mặt virus học (virologically confirmed dengue), n: số đối tượng, N: số đối tượng được đánh giá, NP: không được cung cấp (not provided)
-ᵃ Phân tích thăm dò; nghiên cứu không được hỗ trợ cũng như không được thiết kế để chứng minh sự khác biệt giữa nhóm dùng vắc-xin và nhóm dùng giả dược
-ᵇ Xấp xỉ bằng cách sử dụng khoảng tin cậy một phía 95%
-ᶜ Ước tính hiệu quả của vắc-xin không được cung cấp vì ít hơn 6 trường hợp, đối với cả vắc-xin sốt xuất huyết 4 giá trị (TDV) và giả dược, đã được quan sát.
-
+<p><strong>Bảng 4: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học và nhập viện về tổng thể, theo tình trạng huyết thanh của virus Dengue ban đầu và chống lại các tuýp huyết thanh riêng lẻ theo tình trạng huyết thanh ban đầu từ liều đầu tiên đến 54 tháng sau liều thứ 2 trong nghiên cứu DEN-301 (Nhóm phân tích về an toàn)</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Qdenga®<br>n/N</th>
+      <th>Giả dược<br>n/N</th>
+      <th>Hiệu quả của vắc-xin (khoảng tin cậy 95%) trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học<sup>a</sup></th>
+      <th>Qdenga®<br>n/N</th>
+      <th>Giả dược<br>n/N</th>
+      <th>Hiệu quả của vắc-xin (khoảng tin cậy 95%) trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học<sup>a</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Tổng thể</strong></td>
+      <td>442/13380</td>
+      <td>547/6687</td>
+      <td>61,2 (56,0, 65,8)</td>
+      <td>46/13380</td>
+      <td>142/6687</td>
+      <td>84,1 (77,8, 87,6)</td>
+    </tr>
+    <tr>
+      <td colspan="7"><strong>Huyết thanh âm tính ban đầu, N = 5.546</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Bất kỳ tuýp huyết thanh nào</strong></td>
+      <td>147/3714</td>
+      <td>153/1832</td>
+      <td>53,5 (41,6, 62,9)</td>
+      <td>17/3714</td>
+      <td>41/1832</td>
+      <td>79,3 (63,5, 87,2)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-1</strong></td>
+      <td>89/3714</td>
+      <td>79/1832</td>
+      <td>45,4 (26,1, 59,7)</td>
+      <td>6/3714</td>
+      <td>14/1832</td>
+      <td>77,4 (43,9, 91,7)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-2</strong></td>
+      <td>14/3714</td>
+      <td>58/1832</td>
+      <td>87,1 (77,6, 93,3)</td>
+      <td>0/3714</td>
+      <td>23/1832</td>
+      <td>100 (87,5, 100)<sup>b</sup></td>
+    </tr>
+    <tr>
+      <td><strong>DENV-3</strong></td>
+      <td>36/3714</td>
+      <td>16/1832</td>
+      <td>-15,5 (-107,2, 35,9)</td>
+      <td>11/3714</td>
+      <td>3/1832</td>
+      <td>-87,9 (-573,4, 47,6)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-4</strong></td>
+      <td>12/3714</td>
+      <td>3/1832</td>
+      <td>-105,6 (-627,7, 42,0)</td>
+      <td>0/3714</td>
+      <td>1/1832</td>
+      <td>NP<sup>c</sup></td>
+    </tr>
+    <tr>
+      <td colspan="7"><strong>Huyết thanh dương tính ban đầu, N = 14.517</strong></td>
+    </tr>
+  </tbody>
+</table>
+<p>VE: Hiệu quả của vắc-xin (vaccine efficacy), CI: khoảng tin cậy (confidence interval), VCD: sốt xuất huyết đã được xác nhận về mặt virus học (virologically confirmed dengue), n: số đối tượng, N: số đối tượng được đánh giá, NP: không được cung cấp (not provided)<br>
+<sup>a</sup> Phân tích thăm dò; nghiên cứu không được hỗ trợ cũng như không được thiết kế để chứng minh sự khác biệt giữa nhóm dùng vắc-xin và nhóm dùng giả dược<br>
+<sup>b</sup> Xấp xỉ bằng cách sử dụng khoảng tin cậy một phía 95%<br>
+<sup>c</sup> Ước tính hiệu quả của vắc-xin không được cung cấp vì ít hơn 6 trường hợp, đối với cả vắc-xin sốt</p>
 Ngoài ra, hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết Dengue gây ra bởi bất kỳ tuýp huyết thanh nào là 70,0% (khoảng tin cậy 95%: 31,5%, 86,9%) và trong phòng ngừa các trường hợp sốt xuất huyết nặng đã được xác nhận về mặt virus học trên lâm sàng gây ra bởi bất kỳ tuýp huyết thanh nào là 70,2% (khoảng tin cậy 95%: -24,7%, 92,9%).
 Trong phân tích theo từng năm cho đến 4,5 năm sau liều thứ 2, hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học đã được thể hiện đối với tất cả 4 tuýp huyết thanh ở các đối tượng huyết thanh dương tính với virus Dengue ban đầu. Ở các đối tượng huyết thanh âm tính ban đầu, hiệu quả của vắc-xin đã được thể hiện đối với DENV-1 và DENV-2, nhưng không được đề xuất đối với DENV-3 và không thể được thể hiện đối với DENV-4 do tỷ lệ mắc các trường hợp thấp hơn (Bảng 5).
 
-Bảng 5: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học và nhập viện về tổng thể và theo tình trạng huyết thanh của virus Dengue ban đầu trong khoảng thời gian hàng năm lúc 30 ngày sau liều thứ 2 trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu)
-
-12
-
-| | | Hiệu quả của vắc-xin (khoảng tin cậy 95%) trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học Nᵃ = 19.021 | Hiệu quả của vắc-xin (khoảng tin cậy 95%) trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học Nᵃ = 19.021 |
-| :--- | :--- | :--- | :--- |
-| **Năm thứ 1ᵇ** | Tổng thể | 80,2 (73,3, 85,3) | 95,4 (87,4, 97,2) |
-| | **Theo tình trạng huyết thanh của virus Dengue ban đầu:** | | |
-| | - Huyết thanh dương tính | 82,2 (74,5, 87,6) | 94,4 (84,4, 97,0) |
-| | - Huyết thanh âm tính | 74,9 (57,0, 85,4) | 97,2 (79,1, 99,6) |
-| **Năm thứ 2ᶜ** | Tổng thể | 56,2 (42,3, 66,8) | 76,2 (50,8, 87,4) |
-| | **Theo tình trạng huyết thanh của virus Dengue ban đầu:** | | |
-| | - Huyết thanh dương tính | 60,3 (44,7, 71,5) | 85,2 (59,6, 94,6) |
-| | - Huyết thanh âm tính | 45,3 (9,9, 66,8) | 51,4 (-50,7, 84,3) |
-| **Năm thứ 3ᵈ** | Tổng thể | 45,0 (32,9, 55,0) | 70,8 (49,6, 83,0) |
-| | **Theo tình trạng huyết thanh của virus Dengue ban đầu:** | | |
-| | - Huyết thanh dương tính | 47,7 (34,8, 59,6) | 77,4 (57,1, 89,1) |
-| | - Huyết thanh âm tính | 35,5 (7,4, 55,1) | 45,0 (-42,6, 77,8) |
-| **Năm thứ 4ᵉ** | Tổng thể | 62,8 (41,4, 76,4) | 96,4 (72,2, 99,5) |
-| | **Theo tình trạng huyết thanh của virus Dengue ban đầu:** | | |
-| | - Huyết thanh dương tính | 64,1 (37,4, 79,4) | 94,0 (52,2, 99,3) |
-| | - Huyết thanh âm tính | 60,2 (11,1, 82,1) | NPᶠ |
-
-VE: Hiệu quả của vắc-xin (vaccine efficacy), CI: khoảng tin cậy (confidence interval), VCD: sốt xuất huyết đã được xác nhận về mặt virus học (virologically confirmed dengue), NP: không được cung cấp (not provided), N: tổng số đối tượng trong mỗi nhóm phân tích, ᵃ số đối tượng được đánh giá trong mỗi năm là khác nhau.
-ᵇ Năm thứ 1 đề cập đến 11 tháng bắt đầu lúc 30 ngày sau liều thứ 2.
-ᶜ Năm thứ 2 đề cập đến 13-24 tháng sau liều thứ 2.
-ᵈ Năm thứ 3 đề cập đến 25-36 tháng sau liều thứ 2.
-ᵉ Năm thứ 4 đề cập đến 37-48 tháng sau liều thứ 2.
-ᶠ Ước tính hiệu quả của vắc-xin không được cung cấp vì ít hơn 6 trường hợp, đối với cả vắc-xin sốt xuất huyết tứ giá (TDV) và giả dược, đã được quan sát.
-
+<p><strong>Bảng 5: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học và nhập viện về tổng thể và theo tình trạng huyết thanh của virus Dengue ban đầu trong khoảng thời gian hàng năm lúc 30 ngày sau liều thứ 2 trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu)</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2"></th>
+      <th>Hiệu quả của vắc-xin (khoảng tin cậy 95%) trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học<br>N<sup>a</sup> = 19.021</th>
+      <th>Hiệu quả của vắc-xin (khoảng tin cậy 95%) trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học<br>N<sup>a</sup> = 19.021</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Năm thứ 1<sup>b</sup></td>
+      <td>Tổng thể</td>
+      <td>80,2 (73,3, 85,3)</td>
+      <td>95,4 (87,4, 97,2)</td>
+    </tr>
+    <tr>
+      <td>Theo tình trạng huyết thanh của virus Dengue ban đầu<br>&nbsp;&nbsp;&nbsp;Huyết thanh dương tính<br>&nbsp;&nbsp;&nbsp;Huyết thanh âm tính</td>
+      <td><br>82,2 (74,5, 87,6)<br>74,9 (57,0, 85,4)</td>
+      <td><br>94,4 (84,4, 97,0)<br>97,2 (79,1, 99,6)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Năm thứ 2<sup>c</sup></td>
+      <td>Tổng thể</td>
+      <td>56,2 (42,3, 66,8)</td>
+      <td>76,2 (50,8, 87,4)</td>
+    </tr>
+    <tr>
+      <td>Theo tình trạng huyết thanh của virus Dengue ban đầu<br>&nbsp;&nbsp;&nbsp;Huyết thanh dương tính<br>&nbsp;&nbsp;&nbsp;Huyết thanh âm tính</td>
+      <td><br>60,3 (44,7, 71,5)<br>45,3 (9,9, 66,8)</td>
+      <td><br>85,2 (59,6, 94,6)<br>51,4 (-50,7, 84,3)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Năm thứ 3<sup>d</sup></td>
+      <td>Tổng thể</td>
+      <td>45,0 (32,9, 55,0)</td>
+      <td>70,8 (49,6, 83,0)</td>
+    </tr>
+    <tr>
+      <td>Theo tình trạng huyết thanh của virus Dengue ban đầu<br>&nbsp;&nbsp;&nbsp;Huyết thanh dương tính<br>&nbsp;&nbsp;&nbsp;Huyết thanh âm tính</td>
+      <td><br>47,7 (34,8, 59,6)<br>35,5 (7,4, 55,1)</td>
+      <td><br>77,4 (57,1, 89,1)<br>45,0 (-42,6, 77,8)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Năm thứ 4<sup>e</sup></td>
+      <td>Tổng thể</td>
+      <td>62,8 (41,4, 76,4)</td>
+      <td>96,4 (72,2, 99,5)</td>
+    </tr>
+    <tr>
+      <td>Theo tình trạng huyết thanh của virus Dengue ban đầu<br>&nbsp;&nbsp;&nbsp;Huyết thanh dương tính<br>&nbsp;&nbsp;&nbsp;Huyết thanh âm tính</td>
+      <td><br>64,1 (37,4, 79,4)<br>60,2 (11,1, 82,1)</td>
+      <td><br>94,0 (52,2, 99,3)<br>NP<sup>f</sup></td>
+    </tr>
+  </tbody>
+</table>
+<p>VE: Hiệu quả của vắc-xin (vaccine efficacy), CI: khoảng tin cậy (confidence interval), VCD: sốt xuất huyết đã được xác nhận về mặt virus học (virologically confirmed dengue), NP: không được cung cấp (not provided), N: tổng số đối tượng trong mỗi nhóm phân tích, <sup>a</sup> số đối tượng được đánh giá trong mỗinăm là khác nhau.<br>
+<sup>b</sup> Năm thứ 1 đề cập đến 11 tháng bắt đầu lúc 30 ngày sau liều thứ 2.<br>
+<sup>c</sup> Năm thứ 2 đề cập đến 13-24 tháng sau liều thứ 2.<br>
+<sup>d</sup> Năm thứ 3 đề cập đến 25-36 tháng sau liều thứ 2.<br>
+<sup>e</sup> Năm thứ 4 đề cập đến 37-48 tháng sau liều thứ 2.<br>
+<sup>f</sup> Ước tính hiệu quả của vắc-xin không được cung cấp vì ít hơn 6 trường hợp, đối với cả vắc-xin sốt xuất huyết tứ giá (TDV) và giả dược, đã được quan sát.</p>
 13
 
 Hiệu quả lâm sàng đối với các đối tượng từ 17 tuổi trở lên
@@ -324,67 +553,140 @@ Khi không có mối tương quan về bảo vệ đối với bệnh sốt xu�
 Dữ liệu về tính sinh miễn dịch đối với các đối tượng từ 4-16 tuổi ở các vùng lưu hành dịch
 Hiệu giá trung bình hình học (GMT) theo tình trạng huyết thanh của virus Dengue ban đầu ở các đối tượng từ 4-16 tuổi trong nghiên cứu DEN-301 được trình bày trong Bảng 6.
 
-Bảng 6: Tính sinh miễn dịch theo tình trạng huyết thanh của virus Dengue ban đầu trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu về tính sinh miễn dịch)ᵃ
-
-| | Huyết thanh dương tính ban đầu Trước khi tiêm chủng N = 1816* | Huyết thanh dương tính ban đầu 1 tháng sau liều thứ 2 N = 1621 | Huyết thanh âm tính ban đầu Trước khi tiêm chủng N = 702 | Huyết thanh âm tính ban đầu 1 tháng sau liều thứ 2 N = 641 |
-| :--- | :--- | :--- | :--- | :--- |
-| **DENV-1** | | | | |
-| GMT | 411,3 | 2115,2 | 5,0 | 184,2 |
-| Khoảng tin cậy 95% | (366,0, 462,2) | (1957,0, 2286,3) | NE** | (167,6, 201,3) |
-| **DENV-2** | | | | |
-| GMT | 753,1 | 4897,4 | 5,0 | 1729,9 |
-| Khoảng tin cậy 95% | (681,0, 832,8) | (4645,8, 5162,5) | NE** | (1613,7, 1854,6) |
-| **DENV-3** | | | | |
-| GMT | 357,7 | 1761,0 | 5,0 | 227,0 |
-| Khoảng tin cậy 95% | (321,3, 397,3) | (1645,9, 1884,1) | NE** | (211,6, 245,7) |
-| **DENV-4** | | | | |
-| GMT | 217,4 | 1129,4 | 5,0 | 143,9 |
-| Khoảng tin cậy 95% | (197,1, 240,8) | (1066,3, 1196,2) | NE** | (133,6, 155,1) |
-
-14 - 15
-
-N: số đối tượng được đánh giá; DENV: virus Dengue (Dengue virus); GMT: hiệu giá trung bình hình học (Geometric Mean Titre); CI: khoảng tin cậy (confidence interval); NE: không ước tính được (not estimated)
-ᵃ Phân nhóm đánh giá tính sinh miễn dịch là một phân nhóm các đối tượng được chọn ngẫu nhiên và nhóm phân tích theo đề cương nghiên cứu về tính sinh miễn dịch là tập hợp các đối tượng từ phân nhóm đó mà cũng thuộc về nhóm phân tích theo đề cương nghiên cứu
-* Đối với DENV-2 và DENV-3: N = 1815
-** Tất cả các đối tượng đều có giá trị GMT dưới giới hạn dưới của sự phát hiện (LLOD) (10), do đó được báo cáo là 5 và không có giá trị khoảng tin cậy (CI)
-
+<p><strong>Bảng 6: Tính sinh miễn dịch theo tình trạng huyết thanh của virus Dengue ban đầu trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu về tính sinh miễn dịch)<sup>a</sup></strong></p>
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th colspan="2">Huyết thanh dương tính ban đầu</th>
+      <th colspan="2">Huyết thanh âm tính ban đầu</th>
+    </tr>
+    <tr>
+      <th>Trước khi tiêm chủng<br>N = 1816*</th>
+      <th>1 tháng sau liều thứ 2<br>N = 1621</th>
+      <th>Trước khi tiêm chủng<br>N = 702</th>
+      <th>1 tháng sau liều thứ 2<br>N = 641</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>DENV-1</strong><br>GMT<br>Khoảng tin cậy 95%</td>
+      <td>411,3<br>(366,0, 462,2)</td>
+      <td>2115,2<br>(1957,0, 2286,3)</td>
+      <td>5,0<br>NE**</td>
+      <td>184,2<br>(167,6, 201,3)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-2</strong><br>GMT<br>Khoảng tin cậy 95%</td>
+      <td>753,1<br>(681,0, 832,8)</td>
+      <td>4897,4<br>(4645,8, 5162,5)</td>
+      <td>5,0<br>NE**</td>
+      <td>1729,9<br>(1613,7, 1854,6)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-3</strong><br>GMT<br>Khoảng tin cậy 95%</td>
+      <td>357,7<br>(321,3, 397,3)</td>
+      <td>1761,0<br>(1645,9, 1884,1)</td>
+      <td>5,0<br>NE**</td>
+      <td>227,0<br>(211,6, 245,7)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-4</strong><br>GMT<br>Khoảng tin cậy 95%</td>
+      <td>217,4<br>(197,1, 240,8)</td>
+      <td>1129,4<br>(1066,3, 1196,2)</td>
+      <td>5,0<br>NE**</td>
+      <td>143,9<br>(133,6, 155,1)</td>
+    </tr>
+  </tbody>
+</table>
+<p>N: số đối tượng được đánh giá; DENV: virus Dengue (Dengue virus); GMT: hiệu giá trung bình hình học (Geometric Mean Titre); CI: khoảng tin cậy (confidence interval); NE: không ước tính được (not estimated)<br>
+<sup>a</sup> Phân nhóm đánh giá tính sinh miễn dịch là một phân nhóm các đối tượng được chọn ngẫu nhiên và nhóm phân tích theo đề cương nghiên cứu về tính sinh miễn dịch là tập hợp các đối tượng từ phân nhóm đó mà cũng thuộc về nhóm phân tích theo đề cương nghiên cứu<br>
+* Đối với DENV-2 và DENV-3: N = 1815<br>
+** Tất cả các đối tượng đều có giá trị GMT dưới giới hạn dưới của sự phát hiện (LLOD) (10), do đó được báo cáo là 5 và không có giá trị khoảng tin cậy (CI)</p>
 Dữ liệu về tính sinh miễn dịch đối với các đối tượng từ 18-60 tuổi ở các vùng không lưu hành dịch
 Tính sinh miễn dịch của Qdenga® ở người lớn từ 18-60 tuổi đã được đánh giá trong nghiên cứu DEN-304, một nghiên cứu pha 3 mù đôi, ngẫu nhiên, đối chứng với giả dược ở một nước không lưu hành dịch (Mỹ). GMT sau liều thứ 2 được trình bày trong Bảng 7.
 
-Bảng 7: Hiệu giá trung bình hình học (GMT) của các kháng thể trung hòa virus Dengue trong nghiên cứu DEN-304 (Nhóm phân tích theo đề cương nghiên cứu)
-
-| | Huyết thanh dương tính ban đầu* Trước khi tiêm chủng N = 68 | Huyết thanh dương tính ban đầu* 1 tháng sau liều thứ 2 N = 67 | Huyết thanh âm tính ban đầu* Trước khi tiêm chủng N = 379 | Huyết thanh âm tính ban đầu* 1 tháng sau liều thứ 2 N = 367 |
-| :--- | :--- | :--- | :--- | :--- |
-| **DENV-1** | | | | |
-| GMT | 13,9 | 365,1 | 5,0 | 267,1 |
-| Khoảng tin cậy 95% | (9,5, 20,4) | (233,0, 572,1) | NE** | (226,3, 317,8) |
-| **DENV-2** | | | | |
-| GMT | 31,8 | 3097,0 | 5,0 | 2956,9 |
-| Khoảng tin cậy 95% | (22,5, 44,8) | (2233,4, 4297,2) | NE** | (2635,9, 3316,9) |
-| **DENV-3** | | | | |
-| GMT | 7,4 | 185,7 | 5,0 | 127,9 |
-| Khoảng tin cậy 95% | (5,7, 9,6) | (129,0, 267,1) | NE** | (112,4, 147,8) |
-| **DENV-4** | | | | |
-| GMT | 7,4 | 229,6 | 5,0 | 137,4 |
-| Khoảng tin cậy 95% | (5,5, 9,9) | (150,0, 351,3) | NE** | (121,9, 155,0) |
-
-15 - 16
-
-N: số đối tượng được đánh giá; DENV: virus Dengue (Dengue virus); GMT: hiệu giá trung bình hình học (Geometric Mean Titre); CI: khoảng tin cậy (confidence interval); NE: không ước tính được (not estimated)
-* Dữ liệu gộp từ vắc-xin sốt xuất huyết 4 giá trị lô 1, 2 và 3
-** Tất cả các đối tượng đều có giá trị GMT dưới giới hạn dưới của sự phát hiện (LLOD) (10), do đó được báo cáo là 5 và không có giá trị khoảng tin cậy (CI)
+<p><strong>Bảng 7: Hiệu giá trung bình hình học (GMT) của các kháng thể trung hòa virus Dengue trong nghiên cứu DEN-304 (Nhóm phân tích theo đề cương nghiên cứu)</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th colspan="2">Huyết thanh dương tính ban đầu*</th>
+      <th colspan="2">Huyết thanh âm tính ban đầu*</th>
+    </tr>
+    <tr>
+      <th>Trước khi tiêm chủng<br>N = 68</th>
+      <th>1 tháng sau liều thứ 2<br>N = 67</th>
+      <th>Trước khi tiêm chủng<br>N = 379</th>
+      <th>1 tháng sau liều thứ 2<br>N = 367</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>DENV-1</strong><br>GMT<br>Khoảng tin cậy 95%</td>
+      <td>13,9<br>(9,5, 20,4)</td>
+      <td>365,1<br>(233,0, 572,1)</td>
+      <td>5,0<br>NE**</td>
+      <td>267,1<br>(226,3, 317,8)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-2</strong><br>GMT<br>Khoảng tin cậy 95%</td>
+      <td>31,8<br>(22,5, 44,8)</td>
+      <td>3097,0<br>(2233,4, 4297,2)</td>
+      <td>5,0<br>NE**</td>
+      <td>2956,9<br>(2635,9, 3316,9)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-3</strong><br>GMT<br>Khoảng tin cậy 95%</td>
+      <td>7,4<br>(5,7, 9,6)</td>
+      <td>185,7<br>(129,0, 267,1)</td>
+      <td>5,0<br>NE**</td>
+      <td>127,9<br>(112,4, 147,8)</td>
+    </tr>
+    <tr>
+      <td><strong>DENV-4</strong><br>GMT<br>Khoảng tin cậy 95%</td>
+      <td>7,4<br>(5,5, 9,9)</td>
+      <td>229,6<br>(150,0, 351,3)</td>
+      <td>5,0<br>NE**</td>
+      <td>137,4<br>(121,9, 155,0)</td>
+    </tr>
+  </tbody>
+</table>
+<p>N: số đối tượng được đánh giá; DENV: virus Dengue (Dengue virus); GMT: hiệu giá trung bình hình học (Geometric Mean Titre); CI: khoảng tin cậy (confidence interval); NE: không ước tính được (not estimated)<br>
+* Dữ liệu gộp từ vắc-xin sốt xuất huyết 4 giá trị lô 1, 2 và 3<br>
+** Tất cả các đối tượng đều có giá trị GMT dưới giới hạn dưới của sự phát hiện (LLOD) (10), do đó được báo cáo là 5 và không có giá trị khoảng tin cậy (CI)</p>
 
 Bắc cầu về hiệu quả dựa trên dữ liệu về tính sinh miễn dịch và kết quả từ phân tích về sự không thua kém, so sánh GMT sau khi tiêm chủng ở nhóm đối tượng huyết thanh âm tính đối với virus Dengue ban đầu là DEN-301 và DEN-304 (Bảng 8). Sự bảo vệ chống lại bệnh sốt xuất huyết được dự kiến ở người lớn mặc dù mức độ hiệu quả thực tế so với mức độ quan sát được ở trẻ em và thanh thiếu niên chưa được biết.
-
-Bảng 8: Tỷ lệ GMT giữa các đối tượng huyết thanh âm tính đối với virus Dengue ban đầu trong các nghiên cứu DEN-301 (từ 4-16 tuổi) và DEN-304 (từ 18-60 tuổi) (Nhóm phân tích theo đề cương nghiên cứu về tính sinh miễn dịch)
-
-| Tỷ lệ GMT* (khoảng tin cậy 95%) | DENV-1 | DENV-2 | DENV-3 | DENV-4 |
-| :--- | :--- | :--- | :--- | :--- |
-| **1 tháng sau liều thứ 2** | 0,69 (0,58, 0,82) | 0,59 (0,52, 0,66) | 1,77 (1,53, 2,04) | 1,05 (0,92, 1,20) |
-| **6 tháng sau liều thứ 2** | 0,62 (0,51, 0,76) | 0,66 (0,57, 0,76) | 0,98 (0,84, 1,14) | 1,01 (0,86, 1,18) |
-
-DENV: virus Dengue (Dengue virus); GMT: hiệu giá trung bình hình học (Geometric Mean Titre); CI: khoảng tin cậy (confidence interval); m: tháng (month)
-* Không thua kém: giới hạn trên của khoảng tin cậy 95% dưới 2,0.
+<p><strong>Bảng 8: Tỷ lệ GMT giữa các đối tượng huyết thanh âm tính đối với virus Dengue ban đầu trong các nghiên cứu DEN-301 (từ 4-16 tuổi) và DEN-304 (từ 18-60 tuổi) (Nhóm phân tích theo đề cương nghiên cứu về tính sinh miễn dịch)</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Tỷ lệ GMT*<br>(khoảng tin cậy 95%)</th>
+      <th>DENV-1</th>
+      <th>DENV-2</th>
+      <th>DENV-3</th>
+      <th>DENV-4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 tháng sau liều thứ 2</td>
+      <td>0,69 (0,58, 0,82)</td>
+      <td>0,59 (0,52, 0,66)</td>
+      <td>1,77 (1,53, 2,04)</td>
+      <td>1,05 (0,92, 1,20)</td>
+    </tr>
+    <tr>
+      <td>6 tháng sau liều thứ 2</td>
+      <td>0,62 (0,51, 0,76)</td>
+      <td>0,66 (0,57, 0,76)</td>
+      <td>0,98 (0,84, 1,14)</td>
+      <td>1,01 (0,86, 1,18)</td>
+    </tr>
+  </tbody>
+</table>
+<p>DENV: virus Dengue (Dengue virus); GMT: hiệu giá trung bình hình học (Geometric Mean Titre); CI: khoảng tin cậy (confidence interval); m: tháng (month)<br>
+* Không thua kém: giới hạn trên của khoảng tin cậy 95% dưới 2,0.</p>
 
 16
 

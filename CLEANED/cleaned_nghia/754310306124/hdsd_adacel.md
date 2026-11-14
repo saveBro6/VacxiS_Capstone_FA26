@@ -4,21 +4,32 @@ ADACEL®
 Vắc xin hấp phụ, giải độc tố uốn ván, giải độc tố bạch hầu - ho gà vô bào giảm hàm lượng
 Đọc kỹ tờ hướng dẫn sử dụng trước khi dùng. Nếu cần thêm thông tin, xin hỏi ý kiến bác sĩ.
 
-THÀNH PHẦN
-Mỗi liều (0,5 ml) chứa:
-Hoạt chất
-Giải độc tố uốn ván ................................................................................ 5 Lf
-Giải độc tố bạch hầu ............................................................................. 2 Lf
-Ho gà vô bào
-Giải độc tố ho gà (PT) .......................................................................... 2,5 mcg
-Ngưng kết tố hồng cầu dạng sợi (FHA) ................................................. 5 mcg
-Pertactin (PRN) ..................................................................................... 3 mcg
-Ngưng kết tố $2+3$ (FIM) ...................................................................... 5 mcg
-Các tá dược
-Aluminum phosphate (tá chất) ............................................................... 1,5 mg
-2-phenoxyethanol .................................................................................. 0,6% v/v
-Chất tồn lưu của quá trình sản xuất
-Formaldehyde và glutaraldehyde hiện diện trong sản phẩm với một lượng rất ít (vết).
+<h2>THÀNH PHẦN</h2>
+
+<p>Mỗi liều (0,5 ml) chứa:</p>
+
+<h3>Hoạt chất</h3>
+
+<p>
+Giải độc tố uốn ván ........................................................................5 Lf<br>
+Giải độc tố bạch hầu .......................................................................2 Lf<br>
+Ho gà vô bào<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Giải độc tố ho gà (PT).............................................................. 2,5 mcg<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ngưng kết tố hồng cầu dạng sợi (FHA)........................................ 5 mcg<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Pertactin (PRN) ...................................................................... 3 mcg<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ngưng kết tố 2 + 3 (FIM) .......................................................... 5 mcg
+</p>
+
+<h3>Các tá dược</h3>
+
+<p>
+Aluminum phosphate (tá chất) ...................................................... 1,5 mg<br>
+2-phenoxyethanol ........................................................................0,6% v/v
+</p>
+
+<p><em>Chất tồn lưu của quá trình sản xuất</em></p>
+
+<p>Formaldehyde và glutaraldehyde hiện diện trong sản phẩm với một lượng rất ít (vết).</p>
 
 DẠNG DƯỢC PHẨM
 ADACEL® [vắc-xin hấp phụ giải độc tố uốn ván, giải độc tố bạch hầu - ho gà vô bào giảm hàm lượng] là một hỗn dịch vô khuẩn, đồng chất, màu trắng đục gồm các giải độc tố uốn ván và giải độc tố bạch hầu được hấp phụ riêng biệt trên phosphat nhôm, phối hợp với vắc-xin ho gà vô bào và được pha với nước pha tiêm. Vắc-xin ho gà vô bào gồm có 5 kháng nguyên ho gà tinh chế (PT, FHA, PRN và FIM).
@@ -161,51 +172,191 @@ Hai phản ứng sau tiêm chủng nặng ghi nhận được trong thử nghi�
 Adacel, tờ hướng dẫn sử dụng - trang 6/9
 
 [Page 16]
-Bảng 1: Tần suất (%) các phản ứng dự kiến sẽ gặp khi tiêm vắc-xin ghi nhận được trong vòng 0 đến 14 ngày trong các thử nghiệm lâm sàng ở trẻ em, thiếu niên và người lớn, sau khi tiêm một liều ADACEL®
+<h2>Bảng 1: Tần suất (%) các phản ứng dự kiến sẽ gặp khi tiêm vắc-xin ghi nhận được trong vòng 0 đến 14 ngày trong các thử nghiệm lâm sàng ở trẻ em, thiếu niên và người lớn, sau khi tiêm một liều ADACEL®</h2>
 
-| Phản ứng dự kiến sẽ gặp khi tiêm vắc-xin | Trẻ em 4-6 tuổi $(N=298)$ | Thiếu niên 11-17 tuổi $(N=1.184)$ | Người lớn 18-64 tuổi $(N=1.752)$ |
-| :--- | :--- | :--- | :--- |
-| **Phản ứng tại nơi tiêm** | | | |
-| Đau | 39,6 | 77,8 | 65,7 |
-| Sưng | 24,2 | 20,9 | 21,0 |
-| Đỏ | 34,6 | 20,8 | 24,7 |
-| **Phản ứng toàn thân** | | | |
-| Sốt $(\ge 38,0^{\circ}C)$ | 8,7 | 5,0 | 1,4 |
-| Nhức đầu | 16,4 | 43,7 | 33,9 |
-| Buồn nôn | 9,4 | 13,3 | 9,2 |
-| Tiêu chảy | 14,4 | 10,3 | 10,3 |
-| Ói mửa | 8,1 | 4,6 | 3,0 |
-| Biếng ăn | 21,5 | $N.S^{*}$ | $N.S^{*}$ |
-| Phát ban | 8,4 | 2,7 | 2,0 |
-| Đau hoặc yếu cơ toàn thân $\S$ | 6,4 | 30,4 | 21,9 |
-| Đau hoặc sưng khớp | 4,0 | 11,3 | 9,1 |
-| Mệt mỏi $\S$ | 31,5 | 30,2 | 24,3 |
-| Ớn lạnh | 7,1 | 15,1 | 8,1 |
-| Sưng hạch nách | 5,4 | 6,6 | 6,5 |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Phản ứng dự kiến sẽ gặp khi tiêm vắc-xin</th>
+      <th>Trẻ em<br>4-6 tuổi<br>(N = 298)</th>
+      <th>Thiếu niên<br>11-17 tuổi<br>(N = 1.184)</th>
+      <th>Người lớn<br>18-64 tuổi<br>(N = 1.752)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="4" align="left">Phản ứng tại nơi tiêm</th>
+    </tr>
+    <tr>
+      <td>Đau</td>
+      <td>39,6</td>
+      <td>77,8</td>
+      <td>65,7</td>
+    </tr>
+    <tr>
+      <td>Sưng</td>
+      <td>24,2</td>
+      <td>20,9</td>
+      <td>21,0</td>
+    </tr>
+    <tr>
+      <td>Đỏ</td>
+      <td>34,6</td>
+      <td>20,8</td>
+      <td>24,7</td>
+    </tr>
+    <tr>
+      <th colspan="4" align="left">Phản ứng toàn thân</th>
+    </tr>
+    <tr>
+      <td>Sốt (≥ 38,0°C)</td>
+      <td>8,7</td>
+      <td>5,0</td>
+      <td>1,4</td>
+    </tr>
+    <tr>
+      <td>Nhức đầu</td>
+      <td>16,4</td>
+      <td>43,7</td>
+      <td>33,9</td>
+    </tr>
+    <tr>
+      <td>Buồn nôn</td>
+      <td>9,4</td>
+      <td>13,3</td>
+      <td>9,2</td>
+    </tr>
+    <tr>
+      <td>Tiêu chảy</td>
+      <td>14,4</td>
+      <td>10,3</td>
+      <td>10,3</td>
+    </tr>
+    <tr>
+      <td>Ói mửa</td>
+      <td>8,1</td>
+      <td>4,6</td>
+      <td>3,0</td>
+    </tr>
+    <tr>
+      <td>Biếng ăn</td>
+      <td>21,5</td>
+      <td>N.S*</td>
+      <td>N.S*</td>
+    </tr>
+    <tr>
+      <td>Phát ban</td>
+      <td>8,4</td>
+      <td>2,7</td>
+      <td>2,0</td>
+    </tr>
+    <tr>
+      <td>Đau hoặc yếu cơ toàn thân †</td>
+      <td>6,4</td>
+      <td>30,4</td>
+      <td>21,9</td>
+    </tr>
+    <tr>
+      <td>Đau hoặc sưng khớp</td>
+      <td>4,0</td>
+      <td>11,3</td>
+      <td>9,1</td>
+    </tr>
+    <tr>
+      <td>Mệt mỏi §</td>
+      <td>31,5</td>
+      <td>30,2</td>
+      <td>24,3</td>
+    </tr>
+    <tr>
+      <td>Ớn lạnh</td>
+      <td>7,1</td>
+      <td>15,1</td>
+      <td>8,1</td>
+    </tr>
+    <tr>
+      <td>Sưng hạch nách</td>
+      <td>5,4</td>
+      <td>6,6</td>
+      <td>6,5</td>
+    </tr>
+  </tbody>
+</table>
 
-$^{*}$ N.S: không dự kiến gặp phản ứng này sau khi tiêm vắc-xin
-$\S$ Đau hay yếu cơ là phản ứng dự kiến sẽ gặp trong thử nghiệm lâm sàng ở trẻ em, thiếu niên và người lớn 18-64 tuổi. Mệt mỏi là phản ứng dự kiến sẽ gặp trong thử nghiệm lâm sàng ở trẻ em, thiếu niên và người lớn 18-64 tuổi.
+<p>* N.S: không dự kiến gặp phản ứng này sau khi tiêm vắc-xin</p>
+
+<p>† Đau hay yếu cơ là phản ứng dự kiến sẽ gặp trong thử nghiệm lâm sàng ở trẻ em, thiếu niên và người lớn 18 – 64 tuổi.</p>
+
+<p>§ Mệt mỏi là phản ứng dự kiến sẽ gặp trong thử nghiệm lâm sàng ở trẻ em, thiếu niên và người lớn 18 – 64 tuổi</p>
 
 Adacel, tờ hướng dẫn sử dụng - trang 7/9
 
 [Page 17]
-Bảng 2: Tần suất gặp (%) của các phản ứng dự kiến sẽ gặp ghi nhận được ở thiếu niên và người lớn khi tiêm ADACEL® liều lặp lại lúc 5 năm và lúc 10 năm sau khi tiêm ADACEL® liều đầu tiên
+<h2>Bảng 2: Tần suất gặp (%) của các phản ứng dự kiến sẽ gặp ghi nhận được ở thiếu niên và người lớn khi tiêm ADACEL® liều lặp lại lúc 5 năm và lúc 10 năm sau khi tiêm ADACEL® liều đầu tiên</h2>
 
-| Phản ứng dự kiến gặp | Tiêm liều lặp lại | Tiêm lúc 5 năm sau khi tiêm ADACEL® liều đầu tiên* | Tiêm lúc 10 năm sau khi tiêm ADACEL® liều đầu tiên + |
-| :--- | :--- | :--- | :--- |
-| | | Thiếu niên và người lớn $(N=544)$ | Người lớn $(N=361)$ |
-| **Phản ứng tại nơi tiêm** | | | |
-| Đau | | 87,6 | 87,8 |
-| Phát ban / đỏ | | 28,6 | 23,1 |
-| Sưng | | 25,6 | 20,5 |
-| **Phản ứng toàn thân** | | | |
-| Sốt | | 6,5 | 4,2 |
-| Đau đầu | | 53,2 | 40,6 |
-| Đau cơ | | 61,0 | 60,1 |
-| Khó chịu trong người | | 38,2 | 29,4 |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="3">Phản ứng dự kiến gặp</th>
+      <th colspan="2">Tiêm liều lặp lại</th>
+    </tr>
+    <tr>
+      <th>Tiêm lúc 5 năm sau khi tiêm ADACEL® liều đầu tiên*</th>
+      <th>Tiêm lúc 10 năm sau khi tiêm ADACEL® liều đầu tiên †</th>
+    </tr>
+    <tr>
+      <th>Thiếu niên và người lớn<br>(N= 544)</th>
+      <th>Người lớn<br>(N= 361)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="3" align="left">Phản ứng tại nơi tiêm</th>
+    </tr>
+    <tr>
+      <td>Đau</td>
+      <td>87,6</td>
+      <td>87,8</td>
+    </tr>
+    <tr>
+      <td>Phát ban / đỏ</td>
+      <td>28,6</td>
+      <td>23,1</td>
+    </tr>
+    <tr>
+      <td>Sưng</td>
+      <td>25,6</td>
+      <td>20,5</td>
+    </tr>
+    <tr>
+      <th colspan="3" align="left">Phản ứng toàn thân</th>
+    </tr>
+    <tr>
+      <td>Sốt</td>
+      <td>6,5</td>
+      <td>4,2</td>
+    </tr>
+    <tr>
+      <td>Đau đầu</td>
+      <td>53,2</td>
+      <td>40,6</td>
+    </tr>
+    <tr>
+      <td>Đau cơ</td>
+      <td>61,0</td>
+      <td>60,1</td>
+    </tr>
+    <tr>
+      <td>Khó chịu trong người</td>
+      <td>38,2</td>
+      <td>29,4</td>
+    </tr>
+  </tbody>
+</table>
 
-$^{*}$ Các phản ứng không mong muốn ghi nhận được từ sau khi tiêm đến 14 ngày sau khi tiêm.
-$+$ Các phản ứng không mong muốn ghi nhận được từ sau khi tiêm đến 7 ngày sau khi tiêm.
+<p>* Các phản ứng không mong muốn ghi nhận được từ sau khi tiêm đến 14 ngày sau khi tiêm</p>
+
+<p>† Các phản ứng không mong muốn ghi nhận được từ sau khi tiêm đến 7 ngày sau khi tiêm.</p>
 
 Số liệu trong thời gian lưu hành sản phẩm
 Các phản ứng không mong muốn sau đây được báo cáo tự phát trong thời gian lưu hành ADACEL®. Vì những phản ứng này là số liệu tự báo cáo từ một quần thể không rõ số lượng, nên không thể ước lượng một cách đáng tin cậy tần suất của chúng hoặc chứng minh một mối quan hệ nhân quả với vắc-xin đã dùng. Quyết định đưa những phản ứng này vào nội dung ghi nhãn được dựa trên một hoặc nhiều yếu tố sau đây: 1) độ nghiêm trọng của phản ứng, 2) tần suất được báo cáo, hoặc 3) độ rõ ràng của mối liên hệ nhân quả với ADACEL®.

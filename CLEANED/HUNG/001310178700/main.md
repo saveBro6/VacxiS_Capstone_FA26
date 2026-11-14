@@ -175,15 +175,42 @@ Page 6 of 23
 TRANG 7 (Page 7 of 23)
 
 
-Bảng 1: Các phản ứng bất lợi sau khi tiêm Gardasil 9 xảy ra với tần suất ít nhất 1,0% từ các thử nghiệm lâm sàng
-
-| Nhóm hệ cơ quan | Tần suất | Các phản ứng bất lợi |
-| :--- | :--- | :--- |
-| Rối loạn hệ thần kinh | Rất thường gặp | Nhức đầu |
-| | Thường gặp | Chóng mặt |
-| Rối loạn tiêu hóa | Thường gặp | Buồn nôn |
-| Rối loạn toàn thân và tình trạng tại chỗ tiêm | Rất thường gặp | Tại chỗ tiêm: đau, sưng, ban đỏ |
-| | Thường gặp | Sốt, mệt mỏi,<br>Tại chỗ tiêm: ngứa, bầm tím |
+<p><strong>Bảng 1: Các phản ứng bất lợi sau khi tiêm Gardasil 9 xảy ra với tần suất ít nhất 1,0% từ các thử nghiệm lâm sàng</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Nhóm hệ cơ quan</th>
+      <th>Tần suất</th>
+      <th>Các phản ứng bất lợi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Rối loạn hệ thần kinh</td>
+      <td>Rất thường gặp</td>
+      <td>Nhức đầu</td>
+    </tr>
+    <tr>
+      <td>Thường gặp</td>
+      <td>Chóng mặt</td>
+    </tr>
+    <tr>
+      <td>Rối loạn tiêu hóa</td>
+      <td>Thường gặp</td>
+      <td>Buồn nôn</td>
+    </tr>
+    <tr>
+      <td>Rối loạn toàn thân và tình trạng tại chỗ tiêm</td>
+      <td>Rất thường gặp</td>
+      <td>Tại chỗ tiêm: đau, sưng, ban đỏ</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Thường gặp</td>
+      <td>Sốt, mệt mỏi,<br>Tại chỗ tiêm: ngứa, bầm tím</td>
+    </tr>
+  </tbody>
+</table>
 
 Trong một thử nghiệm lâm sàng với 1.053 thiếu niên khỏe mạnh từ 11-15 tuổi, tiêm liều Gardasil 9 đầu tiên đồng thời với một liều vắc xin tăng cường kết hợp gồm vắc xin bạch hầu (d), uốn ván (T), ho gà [thành phần vô bào] và vắc xin bại liệt [bất hoạt] đã cho thấy nhiều hơn các phản ứng tại chỗ tiêm (sưng, ban đỏ), nhức đầu và sốt đã được báo cáo. Sự khác biệt quan sát được là < 10% và ở đa số các đối tượng, các phản ứng bất lợi đã được báo cáo có cường độ từ nhẹ đến trung bình (xem phần Tương tác với các thuốc khác và các dạng tương tác khác).
 
@@ -241,30 +268,103 @@ Hiệu lực ở phụ nữ từ 16-26 tuổi và nam giới
 Hiệu lực đã được đánh giá trong 6 nghiên cứu lâm sàng Pha II và III, đối chứng với giả dược, mù đôi, ngẫu nhiên đánh giá trên 28.413 người (20.541 bé gái và phụ nữ từ 16-26 tuổi, 4.055 bé trai và nam giới từ 16-26 tuổi, 3.817 phụ nữ từ 24-45 tuổi). Hiệu lực và hiệu quả dài hạn của vắc-xin qHPV dựa trên các tiêu chí đánh giá bệnh liên quan đến HPV 6, 11, 16 và 18 đã được chứng minh trong các nghiên cứu lâm sàng ở nhóm PPE (quần thể đối tượng được phân tích hiệu lực theo đề cương - Per Protocol Efficacy). Quần thể PPE bao gồm những người nhận được tất cả 3 lần tiêm chủng vắc-xin qHPV trong nghiên cứu cơ bản trong vòng 1 năm được đưa vào nghiên cứu, không có sai lệch lớn so với đề cương nghiên cứu, huyết thanh âm tính với các týp HPV liên quan (týp 6, 11, 16 và 18) trước khi tiêm liều thứ 1, và ở các đối tượng từ 16 tuổi trở lên được đưa vào nghiên cứu cơ bản, PCR âm tính với các týp HPV liên quan trước khi tiêm liều thứ 1 cho đến 1 tháng sau khi tiêm liều thứ 3 (tháng thứ 7). Vắc xin qHPV có hiệu quả trong việc làm giảm tỷ lệ tân sinh trong biểu mô cổ tử cung (CIN) (bất kỳ cấp độ bao gồm CIN 2/3); ung thư biểu mô tuyến tại chỗ (AIS); mụn cóc sinh dục; tân sinh trong biểu mô âm hộ cấp độ cao (VIN 2/3); và tân sinh trong biểu mô âm đạo cấp độ cao (VaIN 2/3) liên quan đến các týp HPV 6, 11, 16 hoặc 18 trong vắc xin ở bé gái và phụ nữ trong nhóm PPE (Bảng 2). Vắc-xin qHPV có hiệu quả trong việc làm giảm tỷ lệ mắc mụn cóc sinh dục liên quan đến các týp HPV 6 và 11 trong vắc xin ở bé trai và nam giới trong nhóm PPE. Hiệu quả chống lại tân sinh trong biểu mô dương vật/đáy chậu/quanh hậu môn (PIN) cấp độ 1/2/3 hoặc ung thư dương vật/đáy chậu/quanh hậu môn không được chứng minh vì số trường hợp quá hạn chế không thể đạt được ý nghĩa thống kê (Bảng 2). Vắc xin qHPV có hiệu quả trong việc làm giảm tỷ lệ tân sinh trong biểu mô hậu môn (AIN) cấp độ 2 và 3 liên quan đến các týp HPV 6, 11, 16, và 18 ở bé trai và nam giới trong nhóm PPE (Bảng 2).
 
 Bảng 2: Phân tích hiệu lực của vắc xin qHPV ở quần thể PPE* (quần thể các đối tượng được phân tích hiệu lực theo đề cương - Per Protocol Efficacy) đối với các týp HPV có trong vắc xin
-
-| Tiêu chí về bệnh | qHPV | | Đối chứng giả dược | | % Hiệu lực (Khoảng tin cậy (CI) 95%) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| | N | Số trường hợp | N | Số trường hợp | |
-
-Page 9 of 23
-
-TRANG 10 (Page 10 of 23)
-
-
-| Tiêu chí về bệnh | qHPV | | Đối chứng giả dược | | % Hiệu lực (Khoảng tin cậy (CI) 95%) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| | N | Số trường hợp | N | Số trường hợp | |
-| **Bé gái và phụ nữ từ 16-26 tuổi** | | | | | |
-| CIN 2/3 hoặc AIS liên quan đến HPV 16 hoặc 18 | 8.493 | 2 | 8.464 | 112 | 98,2 (93,5; 99,8) |
-| CIN (CIN 1, CIN 2/3) hoặc AIS liên quan đến HPV 6, 11, 16 hoặc 18 | 7.864 | 9 | 7.865 | 225 | 96,0 (92,3; 98,2) |
-| VIN 2/3 liên quan đến HPV 6, 11, 16 hoặc 18 | 7.772 | 0 | 7.744 | 10 | 100,0 (67,2; 100,0) |
-| VaIN 2/3 liên quan đến HPV 6, 11, 16 hoặc 18 | 7.772 | 0 | 7.744 | 9 | 100,0 (55,4; 100,0) |
-| Mụn cóc sinh dục liên quan đến HPV 6, 11, 16 hoặc 18 | 7.900 | 2 | 7.902 | 193 | 99,0 (96,2; 99,9) |
-| **Bé trai và nam giới từ 16-26 tuổi** | | | | | |
-| Các tổn thương bộ phận sinh dục ngoài liên quan đến HPV 6, 11, 16 hoặc 18** | 1.394 | 3 | 1.404 | 32 | 90,6 (70,1; 98,2) |
-| Mụn cóc sinh dục liên quan đến HPV 6, 11, 16 hoặc 18** | 1.394 | 3 | 1.404 | 28 | 89,3 (65,3; 97,9) |
-| PIN 1/2/3 liên quan đến HPV 6, 11, 16 hoặc 18*** | 1.394 | 0 | 1.404 | 4 | 100,0 (-52,1; 100,0) |
-| AIN 2/3 liên quan đến HPV 6, 11, 16, hoặc 18**** | 194 | 3 | 208 | 13 | 74,9 (8,8; 95,4) |
+<p><strong>Bảng 2: Phân tích hiệu lực của vắc xin qHPV ở quần thể PPE (quần thể các đối tượng được phân tích hiệu lực theo đề cương - Per Protocol Efficacy)<sup>*</sup> đối với các týp HPV có trong vắc xin</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Tiêu chí về bệnh</th>
+      <th colspan="2">qHPV</th>
+      <th colspan="2">Đối chứng giả dược</th>
+      <th rowspan="2">% Hiệu lực<br>(Khoảng tin cậy (CI) 95%)</th>
+    </tr>
+    <tr>
+      <th>N</th>
+      <th>Số trường hợp</th>
+      <th>N</th>
+      <th>Số trường hợp</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="6"><strong>Bé gái và phụ nữ từ 16-26 tuổi<sup>†</sup></strong></td>
+    </tr>
+    <tr>
+      <td><strong>CIN 2/3 hoặc AIS liên quan đến HPV 16 hoặc 18<sup>**</sup></strong></td>
+      <td>8.493</td>
+      <td>2</td>
+      <td>8.464</td>
+      <td>112</td>
+      <td>98,2 (93,5; 99,8)</td>
+    </tr>
+    <tr>
+      <td><strong>CIN (CIN 1, CIN 2/3) hoặc AIS liên quan đến HPV 6, 11, 16 hoặc 18</strong></td>
+      <td>7.864</td>
+      <td>9</td>
+      <td>7.865</td>
+      <td>225</td>
+      <td>96,0 (92,3; 98,2)</td>
+    </tr>
+    <tr>
+      <td><strong>VIN 2/3 liên quan đến HPV 6, 11, 16 hoặc 18</strong></td>
+      <td>7.772</td>
+      <td>0</td>
+      <td>7.744</td>
+      <td>10</td>
+      <td>100,0 (67,2; 100,0)</td>
+    </tr>
+    <tr>
+      <td><strong>VaIN 2/3 liên quan đến HPV 6, 11, 16 hoặc 18</strong></td>
+      <td>7.772</td>
+      <td>0</td>
+      <td>7.744</td>
+      <td>9</td>
+      <td>100,0 (55,4; 100,0)</td>
+    </tr>
+    <tr>
+      <td><strong>Mụn cóc sinh dục liên quan đến HPV 6, 11, 16 hoặc 18</strong></td>
+      <td>7.900</td>
+      <td>2</td>
+      <td>7.902</td>
+      <td>193</td>
+      <td>99,0 (96,2; 99,9)</td>
+    </tr>
+    <tr>
+      <td colspan="6"><strong>Bé trai và nam giới từ 16-26 tuổi</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Các tổn thương bộ phận sinh dục ngoài liên quan đến HPV 6, 11, 16 hoặc 18<sup>***</sup></strong></td>
+      <td>1.394</td>
+      <td>3</td>
+      <td>.1404</td>
+      <td>32</td>
+      <td>90,6 (70,1; 98,2)</td>
+    </tr>
+    <tr>
+      <td><strong>Mụn cóc sinh dục liên quan đến HPV 6, 11, 16 hoặc 18 <sup>***</sup></strong></td>
+      <td>1.394</td>
+      <td>3</td>
+      <td>1.404</td>
+      <td>28</td>
+      <td>89,3 (65,3; 97,9)</td>
+    </tr>
+    <tr>
+      <td><strong>PIN 1/2/3 liên quan đến HPV 6, 11, 16 hoặc 18<sup>***</sup></strong></td>
+      <td>1.394</td>
+      <td>0</td>
+      <td>1.404</td>
+      <td>4</td>
+      <td>100,0 (-52,1; 100,0)</td>
+    </tr>
+    <tr>
+      <td><strong>AIN 2/3 liên quan đến HPV 6, 11, 16, hoặc 18 <sup>****</sup></strong></td>
+      <td>194</td>
+      <td>3</td>
+      <td>208</td>
+      <td>13</td>
+      <td>74,9 (8,8; 95,4)</td>
+    </tr>
+  </tbody>
+</table>
 
 * Quần thể PPE bao gồm những người nhận được tất cả 3 lần tiêm chủng trong vòng 1 năm đưa vào nghiên cứu, không có sai lệch lớn so với đề cương nghiên cứu và chưa từng tiếp xúc với các týp HPV liên quan (Týp 6, 11, 16 và 18) (PCR âm tính và huyết thanh âm tính) trước khi tiêm liều thứ 1 và đến 1 tháng sau khi tiêm liều thứ 3 (tháng thứ 7).
 Phân tích của các thử nghiệm kết hợp đã được lên kế hoạch dự kiến và bao gồm việc sử dụng các tiêu chuẩn thu nhận vào nghiên cứu tương tự.
@@ -327,38 +427,147 @@ Các nghiên cứu hỗ trợ hiệu lực của Gardasil 9 chống lại các t
 Nghiên cứu so sánh Gardasil 9 với vắc xin qHPV về các týp HPV 6, 11, 16 và 18 đã được tiến hành ở một số phụ nữ từ 16-26 tuổi từ Đề cương 001, bé gái từ 9-15 tuổi từ GDS01C/Đề cương 009 và nam giới từ 16-26 tuổi từ GDS07C/Đề cương 020.
 Một phân tích thống kê về tính không kém hơn đã được thực hiện ở tháng thứ 7 so sánh hiệu giá trung bình nhân (GMT) của kháng thể kháng HPV 6 (anti-HPV 6), kháng thể kháng HPV 11 (anti-HPV 11), kháng thể kháng HPV 16 (anti-HPV 16) và kháng thể kháng HPV 18 (anti-HPV 18) bằng xét nghiệm miễn dịch cạnh tranh Luminex (cLIA) giữa những người được tiêm Gardasil 9 và những người được tiêm Gardasil. Đáp ứng miễn dịch, được đo bằng GMT, Gardasil 9 không thua kém đáp ứng miễn dịch so với Gardasil (Bảng 3). Trong các nghiên cứu lâm sàng, 98,2% đến 100% những người được tiêm Gardasil 9 đã có huyết thanh dương tính đối với các kháng thể kháng tất cả 9 týp trong vắc xin vào tháng thứ 7 trên tất cả các nhóm được thử nghiệm.
 
-Bảng 3: So sánh các đáp ứng miễn dịch (dựa trên cLIA) giữa Gardasil 9 và vắc xin qHPV đối với các týp HPV 6, 11, 16 và 18 ở quần thể PPI* gồm các bé gái từ 9-15 tuổi, phụ nữ và nam giới từ 16-26 tuổi
-
-| QUẦN THỂ | Gardasil 9 | | Vắc xin qHPV | | Gardasil 9 / vắc xin qHPV | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | N (n) | GMT (Khoảng tin cậy 95%) mMU/ml | N (n) | GMT (Khoảng tin cậy 95%) mMU/ml | Tỷ số GMT | (Khoảng tin cậy 95%)# |
-| **Kháng thể kháng HPV 6** | | | | | | |
-
-Page 13 of 23
-
-TRANG 14 (Page 14 of 23)
-
-
-| QUẦN THỂ | Gardasil 9 | | Vắc xin qHPV | | Gardasil 9 / vắc xin qHPV | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | N (n) | GMT (Khoảng tin cậy 95%) mMU/ml | N (n) | GMT (Khoảng tin cậy 95%) mMU/ml | Tỷ số GMT | (Khoảng tin cậy 95%)# |
-| **Kháng thể kháng HPV 6** | | | | | | |
-| Bé gái từ 9-15 tuổi | 300 (273) | 1679,4 (1518,9; 1856,9) | 300 (261) | 1565,9 (1412,2; 1736,3) | 1,07 | (0,93; 1,23) |
-| Phụ nữ từ 16-26 tuổi | 6792 (3993) | 893,1 (871,7; 915,1) | 6795 (3975) | 875,2 (854,2; 896,8) | 1,02 | (0,99; 1,06) |
-| Nam giới từ 16-26 tuổi | 249 (228) | 758,3 (665,9; 863,4) | 251 (226) | 618,4 (554,0; 690,3) | 1,23 | (1,04; 1,45) |
-| **Kháng thể kháng HPV 11** | | | | | | |
-| Bé gái từ 9-15 tuổi | 300 (273) | 1315,6 (1183,8; 1462,0) | 300 (261) | 1417,3 (1274,2; 1576,5) | 0,93 | (0,80; 1,08) |
-| Phụ nữ từ 16-26 tuổi | 6792 (3995) | 666,3 (649,6; 683,4) | 6795 (3982) | 830,0 (809,2; 851,4) | 0,80 | (0,77; 0,83) |
-| Nam giới từ 16-26 tuổi | 249 (228) | 681,7 (608,9; 763,4) | 251 (226) | 769,1 (683,5; 865,3) | 0,89 | (0,76; 1,04) |
-| **Kháng thể kháng HPV 16** | | | | | | |
-| Bé gái từ 9-15 tuổi | 300 (276) | 6739,5 (6134,5; 7404,1) | 300 (270) | 6887,4 (6220,8; 7625,5) | 0,97 | (0,85; 1,11) |
-| Phụ nữ từ 16-26 tuổi | 6792 (4032) | 3131,1 (3057,1; 3206,9) | 6795 (4062) | 3156,6 (3082,3; 3232,7) | 0,99 | (0,96; 1,03) |
-| Nam giới từ 16-26 tuổi | 249 (234) | 3924,1 (3513,8; 4382,3) | 251 (237) | 3787,9 (3378,4; 4247,0) | 1,04 | (0,89; 1,21) |
-| **Kháng thể kháng HPV 18** | | | | | | |
-| Bé gái từ 9-15 tuổi | 300 (276) | 1956,6 (1737,3; 2203,7) | 300 (269) | 1795,6 (1567,2; 2057,3) | 1,08 | (0,91; 1,29) |
-| Phụ nữ từ 16-26 tuổi | 6792 (4539) | 804,6 (782,7; 827,1) | 6795 (4541) | 678,7 (660,2; 697,7) | 1,19 | (1,14; 1,23) |
-| Nam giới từ 16-26 tuổi | 249 (234) | 884,3 (766,4; 1020,4) | 251 (236) | 790,9 (683,0; 915,7) | 1,12 | (0,91; 1,37) |
-
+<p><strong>Bảng 3: So sánh các đáp ứng miễn dịch (dựa trên cLIA) giữa Gardasil 9 và vắc xin qHPV đối với các týp HPV 6, 11, 16 và 18 ở quần thể PPI<sup>*</sup> gồm các bé gái từ 9-15 tuổi, phụ nữ và nam giới từ 16-26 tuổi</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">QUẦN THỂ</th>
+      <th colspan="2">Gardasil 9</th>
+      <th colspan="2">Vắc xin qHPV</th>
+      <th colspan="2">Gardasil 9/<br>vắc xin qHPV</th>
+    </tr>
+    <tr>
+      <th>N<br>(n)</th>
+      <th>GMT<br>(Khoảng tin cậy 95%)<br>mMU<sup>§</sup>/ml</th>
+      <th>N<br>(n)</th>
+      <th>GMT<br>(Khoảng tin cậy 95%)<br>mMU<sup>§</sup>/ml</th>
+      <th>Tỷ số GMT</th>
+      <th>(Khoảng tin cậy 95%)<sup>#</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="7"><strong>Kháng thể kháng HPV 6</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>300<br>(273)</td>
+      <td>1679,4<br>(1518,9; 1856,9)</td>
+      <td>300<br>(261)</td>
+      <td>1565,9<br>(1412,2; 1736,3)</td>
+      <td>1,07</td>
+      <td>(0,93; 1,23)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>6792<br>(3993)</td>
+      <td>893,1<br>(871,7; 915,1)</td>
+      <td>6795<br>(3975)</td>
+      <td>875,2 (854,2; 896,8)</td>
+      <td>1,02</td>
+      <td>(0,99;1,06)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td>Nam giới từ 16-26 tuổi</td>
+      <td>249<br>(228)</td>
+      <td>758,3<br>(665,9; 863,4)</td>
+      <td>251<br>(226)</td>
+      <td>618,4<br>(554,0; 690,3)</td>
+      <td>1,23</td>
+      <td>(1,04;1,45)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td colspan="7"><strong>Kháng thể kháng HPV 11</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>300<br>(273)</td>
+      <td>1315,6<br>(1183,8; 1462,0)</td>
+      <td>300<br>(261)</td>
+      <td>1417,3<br>(1274,2; 1576,5)</td>
+      <td>0,93</td>
+      <td>(0,80; 1,08)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>6792<br>(3995)</td>
+      <td>666,3<br>(649,6; 683,4)</td>
+      <td>6795<br>(3982)</td>
+      <td>830,0<br>(809,2; 851,4)</td>
+      <td>0,80</td>
+      <td>(0,77; 0,83)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td>Nam giới từ 16-26 tuổi</td>
+      <td>249<br>(228)</td>
+      <td>681,7<br>(608,9; 763,4)</td>
+      <td>251<br>(226)</td>
+      <td>769,1<br>(683,5; 865,3)</td>
+      <td>0,89</td>
+      <td>(0,76; 1,04)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td colspan="7"><strong>Kháng thể kháng HPV 16</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>300<br>(276)</td>
+      <td>6739,5<br>(6134,5; 7404,1)</td>
+      <td>300<br>(270)</td>
+      <td>6887,4<br>(6220,8; 7625,5)</td>
+      <td>0,97</td>
+      <td>(0,85; 1,11)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>6792<br>(4032)</td>
+      <td>3131,1<br>(3057,1; 3206,9)</td>
+      <td>6795<br>(4062)</td>
+      <td>3156,6<br>(3082,3; 3232,7)</td>
+      <td>0,99</td>
+      <td>(0,96; 1,03)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td>Nam giới từ 16-26 tuổi</td>
+      <td>249<br>(234)</td>
+      <td>3924,1<br>(3513,8; 4382,3)</td>
+      <td>251<br>(237)</td>
+      <td>3787,9<br>(3378,4; 4247,0)</td>
+      <td>1,04</td>
+      <td>(0,89; 1,21)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td colspan="7"><strong>Kháng thể kháng HPV 18</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>300<br>(276)</td>
+      <td>1956,6<br>(1737,3; 2203,7)</td>
+      <td>300<br>(269)</td>
+      <td>1795,6<br>(1567,2; 2057,3)</td>
+      <td>1,08</td>
+      <td>(0,91; 1,29)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>6792<br>(4539)</td>
+      <td>804,6<br>(782,7; 827,1)</td>
+      <td>6795<br>(4541)</td>
+      <td>678,7<br>(660,2; 697,7)</td>
+      <td>1,19</td>
+      <td>(1,14; 1,23)<sup>¶</sup></td>
+    </tr>
+    <tr>
+      <td>Nam giới từ 16-26 tuổi</td>
+      <td>249<br>(234)</td>
+      <td>884,3<br>(766,4; 1020,4)</td>
+      <td>251<br>(236)</td>
+      <td>790,9<br>(683,0; 915,7)</td>
+      <td>1,12</td>
+      <td>(0,91; 1,37)<sup>¶</sup></td>
+    </tr>
+  </tbody>
+</table>
 * Quần thể PPI bao gồm những người nhận được tất cả 3 lần tiêm chủng trong phạm vi các ngày đã xác định trước, không có sai lệch lớn so với đề cương nghiên cứu, đáp ứng được các tiêu chuẩn đã xác định trước trong khoảng thời gian khám giữa tháng thứ 6 và tháng thứ 7, huyết thanh âm tính với các týp HPV liên quan (Týp 6,
 
 Page 14 of 23
@@ -379,31 +588,97 @@ n = Số người góp phần vào phân tích.
 Các nghiên cứu hỗ trợ hiệu lực của Gardasil 9 chống lại các týp HPV 31, 33, 45, 52 và 58
 Hiệu quả của Gardasil 9 ở phụ nữ từ 16-26 tuổi đã được đánh giá trong một nghiên cứu lâm sàng đối chứng với chất so sánh có hoạt tính, ngẫu nhiên, mù đôi (Đề cương 001), bao gồm tổng cộng 14.204 phụ nữ (Gardasil 9 = 7.099; vắc xin qHPV = 7.105). Các đối tượng được theo dõi đến 67 tháng sau khi tiêm liều thứ 3 với thời gian trung vị là 43 tháng sau khi tiêm liều thứ 3.
 Gardasil 9 có hiệu quả trong việc phòng ngừa nhiễm virus dai dẳng và bệnh liên quan đến HPV 31, 33, 45, 52, và 58 (Bảng 4). Gardasil 9 cũng làm giảm tỷ lệ các bất thường về xét nghiệm Pap liên quan đến HPV 31, 33, 45, 52 và 58, các thủ thuật ở cổ tử cung và bộ phận sinh dục ngoài (ví dụ: sinh thiết), và các thủ thuật điều trị dứt điểm cổ tử cung (Bảng 4).
-
-Bảng 4: Phân tích hiệu lực của Gardasil 9 chống lại các týp HPV 31, 33, 45, 52 và 58 ở quần thể PPE* gồm các phụ nữ từ 16-26 tuổi
-
-| Tiêu chí về bệnh | Gardasil 9 N = 7099 | | Vắc xin qHPV N = 7105 | | % Hiệu quả# (Khoảng tin cậy 95%) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| | n* | Số trường hợp | n* | Số trường hợp | |
-| CIN 2/3, AIS, ung thư cổ tử cung, VIN 2/3, VaIN 2/3, ung thư âm hộ và ung thư âm đạo liên quan đến HPV 31, 33, 45, 52, 58¶ | 6.016 | 1 | 6.017 | 38 | 97,4 (85,0; 99,9) |
-| CIN 2/3 hoặc AIS liên quan đến HPV 31, 33, 45, 52, 58¶ | 5.949 | 1 | 5.943 | 35 | 97,1 (83,5; 99,9) |
-| CIN2 liên quan đến HPV 31, 33, 45, 52, 58 | 5.949 | 1 | 5.943 | 32 | 96,9 (81,5; 99,8) |
-
-Page 15 of 23
-
-TRANG 16 (Page 16 of 23)
-
-
-| Tiêu chí về bệnh | Gardasil 9 N = 7099 | | Vắc xin qHPV N = 7105 | | % Hiệu quả# (Khoảng tin cậy 95%) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| | n* | Số trường hợp | n* | Số trường hợp | |
-| CIN3 liên quan đến HPV 31, 33, 45, 52, 58 | 5.949 | 0 | 5.943 | 7 | 100 (39,4; 100) |
-| VIN 2/3, VaIN 2/3 liên quan đến HPV 31, 33, 45, 52, 58 | 6.009 | 0 | 6.012 | 3 | 100,0 (-71,5; 100,0) |
-| Nhiễm virus dai dẳng liên quan đến HPV 31, 33, 45, 52, 58 ≥ 6 tháng§ | 5.941 | 41 | 5.955 | 946 | 96,0 (94,6; 97,1) |
-| Nhiễm virus dai dẳng liên quan đến HPV 31, 33, 45, 52, 58 ≥ 12 tháng‡ | 5.941 | 23 | 5.955 | 657 | 96,7 (95,1; 97,9) |
-| Thay đổi tế bào biểu mô gai không điển hình không rõ ý nghĩa (ASC-US) HPV dương tính có nguy cơ cao (HR) hoặc bất thường về Pap xấu đi liên quan đến HPV 31, 33, 45, 52, 58† | 5.883 | 37 | 5.882 | 506 | 92,9 (90,2; 95,1) |
-| Thủ thuật điều trị dứt điểm cổ tử cung liên quan đến HPV 31, 33, 45, 52, 58§§ | 6.013 | 4 | 6.014 | 41 | 90,2 (75,0; 96,8) |
-
+<p><strong>Bảng 4: Phân tích hiệu lực của Gardasil 9 chống lại các týp HPV 31, 33, 45, 52 và 58 ở quần thể PPE<sup>‡</sup> gồm các phụ nữ từ 16-26 tuổi</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Tiêu chí về bệnh</th>
+      <th colspan="2">Gardasil 9<br>N=7099</th>
+      <th colspan="2">Vắc xin qHPV<br>N=7105</th>
+      <th rowspan="2">% Hiệu quả<sup>**</sup><br>(Khoảng tin cậy 95%)</th>
+    </tr>
+    <tr>
+      <th>n</th>
+      <th>Số trường hợp<sup>*</sup></th>
+      <th>n</th>
+      <th>Số trường hợp<sup>*</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>CIN 2/3, AIS, ung thư cổ tử cung, VIN 2/3, VaIN 2/3, ung thư âm hộ và ung thư âm đạo liên quan đến HPV 31, 33, 45, 52, 58<sup>*</sup></strong></td>
+      <td>6.016</td>
+      <td>1</td>
+      <td>6.017</td>
+      <td>38</td>
+      <td>97,4<br>(85,0; 99,9)</td>
+    </tr>
+    <tr>
+      <td><strong>CIN 2/3 hoặc AIS liên quan đến HPV 31, 33, 45, 52, 58<sup>*</sup></strong></td>
+      <td>5.949</td>
+      <td>1</td>
+      <td>5.943</td>
+      <td>35</td>
+      <td>97,1<br>(83,5; 99,9)</td>
+    </tr>
+    <tr>
+      <td><strong>CIN2 liên quan đến HPV 31, 33, 45, 52, 58</strong></td>
+      <td>5.949</td>
+      <td>1</td>
+      <td>.5943</td>
+      <td>32</td>
+      <td>96,9<br>(81,5; 99,8)</td>
+    </tr>
+    <tr>
+      <td><strong>CIN3 liên quan đến HPV 31, 33, 45, 52, 58</strong></td>
+      <td>5.949</td>
+      <td>0</td>
+      <td>5.943</td>
+      <td>7</td>
+      <td>100<br>(39,4; 100)</td>
+    </tr>
+    <tr>
+      <td><strong>VIN 2/3, VaIN 2/3 liên quan đến HPV 31, 33, 45, 52, 58</strong></td>
+      <td>6.009</td>
+      <td>0</td>
+      <td>6.012</td>
+      <td>3</td>
+      <td>100,0<br>(-71,5; 100,0)</td>
+    </tr>
+    <tr>
+      <td><strong>Nhiễm virus dai dẳng liên quan đến HPV 31, 33, 45, 52, 58 ≥ 6 tháng<sup>§</sup></strong></td>
+      <td>5.941</td>
+      <td>41</td>
+      <td>5.955</td>
+      <td>946</td>
+      <td>96,0<br>(94,6; 97,1)</td>
+    </tr>
+    <tr>
+      <td><strong>Nhiễm virus dai dẳng liên quan đến HPV 31, 33, 45, 52, 58 ≥ 12 tháng<sup>¶</sup></strong></td>
+      <td>5.941</td>
+      <td>23</td>
+      <td>5.955</td>
+      <td>657</td>
+      <td>96,7<br>(95,1; 97,9)</td>
+    </tr>
+    <tr>
+      <td><strong>Thay đổi tế bào biểu mô gai không điển hình không rõ ý nghĩa (ASC-US) HPV dương tính có nguy cơ cao (HR) hoặc bất thường về Pap xấu đi liên quan đến HPV 31, 33, 45, 52, 58<sup>#</sup></strong></td>
+      <td>5.883</td>
+      <td>37</td>
+      <td>5.882</td>
+      <td>506</td>
+      <td>92,9<br>(90,2; 95,1)</td>
+    </tr>
+    <tr>
+      <td><strong>Thủ thuật điều trị dứt điểm cổ tử cung liên quan đến HPV 31, 33, 45, 52, 58<sup>†</sup></strong></td>
+      <td>6.013</td>
+      <td>4</td>
+      <td>6.014</td>
+      <td>41</td>
+      <td>90,2<br>(75,0; 96,8)</td>
+    </tr>
+  </tbody>
+</table>
 * Quần thể PPE bao gồm những người nhận được tất cả 3 lần tiêm chủng trong vòng 1 năm đưa vào nghiên cứu, không có sai lệch lớn so với đề cương nghiên cứu và chưa từng tiếp xúc với các týp HPV liên quan (Týp 31, 33, 45, 52 và 58) (PCR âm tính và huyết thanh âm tính) trước khi tiêm liều thứ 1 và những người vẫn còn PCR âm tính đối với các týp HPV liên quan đến 1 tháng sau khi tiêm liều thứ 3 (tháng thứ 7).
 N = Số người được chọn ngẫu nhiên vào nhóm tiêm chủng tương ứng đã được nhận được ít nhất một mũi tiêm.
 n = Số người góp phần vào phân tích.
@@ -447,55 +722,208 @@ TRANG 18 (Page 18 of 23)
 Tính sinh miễn dịch đã được đo bằng (1) tỷ lệ phần trăm những người có huyết thanh dương tính với các kháng thể kháng các týp HPV liên quan có trong vắc xin và (2) hiệu giá trung bình nhân (GMT).
 Gardasil 9 gây ra đáp ứng kháng thể kháng HPV 6, kháng thể kháng HPV 11, kháng thể kháng HPV 16, kháng thể kháng HPV 18, kháng thể kháng HPV 31, kháng thể kháng HPV 33, kháng thể kháng HPV 45, kháng thể kháng HPV 52 và kháng thể kháng HPV 58 mạnh đo được ở tháng thứ 7, trong Đề cương 001, 002, 005, 007, và GDS01C/Đề cương 009 (Bảng 5).
 Trong các nghiên cứu lâm sàng, 99,6% đến 100% người đã được tiêm Gardasil 9 trở nên có huyết thanh dương tính đối với các kháng thể kháng tất cả 9 týp trong vắc xin vào tháng thứ 7 ở tất cả các nhóm được thử nghiệm. Hiệu giá trung bình nhân (GMT) cao hơn ở bé gái và bé trai so với phụ nữ từ 16-26 tuổi, và cao hơn ở bé trai so với bé gái và phụ nữ.
-
-Bảng 5: Tóm tắt hiệu giá trung bình nhân (GMT) của kháng thể kháng HPV bằng xét nghiệm miễn dịch cạnh tranh Luminex (cLIA) vào tháng thứ 7 ở quần thể PPI*
-
-| Quần thể | N | n | GMT (Khoảng tin cậy 95%) mMU/ml |
-| :--- | :--- | :--- | :--- |
-| **Kháng thể kháng HPV 6** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.349 | 1744,6 (1684,7; 1806,7) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.055 | 2085,3 (1984,2; 2191,6) |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 4.321 | 893,7 (873,5; 914,3) |
-| **Kháng thể kháng HPV 11** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.350 | 1289,7 (1244,3; 1336,8) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.055 | 1469,2 (1397,7; 1544,4) |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 4.327 | 669,3 (653,6; 685,4) |
-| **Kháng thể kháng HPV 16** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.405 | 7159,9 (6919,7; 7408,5) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.076 | 8444,9 (8054,2; 8854,5) |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 4.361 | 3159,0 (3088,6; 3231,1) |
-| **Kháng thể kháng HPV 18** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.420 | 2085,5 (2002,2; 2172,3) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.074 | 2620,4 (2474,3; 2775,2) |
-
-Page 18 of 23
-
-TRANG 19 (Page 19 of 23)
-
-
-| Quần thể | N | n | GMT (Khoảng tin cậy 95%) mMU/ml |
-| :--- | :--- | :--- | :--- |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 4.884 | 809,9 (789,2; 831,1) |
-| **Kháng thể kháng HPV 31** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.397 | 1883,3 (1811,3; 1958,1) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.069 | 2173,5 (2057,0; 2296,6) |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 4.806 | 664,8 (647,4; 682,6) |
-| **Kháng thể kháng HPV 33** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.418 | 960,6 (927,5; 994,9) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.076 | 1178,6 (1120,9; 1239,4) |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 5.056 | 419,2 (409,6; 429,1) |
-| **Kháng thể kháng HPV 45** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.430 | 728,7 (697,6; 761,2) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.079 | 841,7 (790,0; 896,7) |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 5.160 | 254,1 (247,0; 261,5) |
-| **Kháng thể kháng HPV 52** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.426 | 978,2 (942,8; 1015,0) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.077 | 1062,2 (1007,2; 1120,2) |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 4.792 | 382,4 (373,0; 392,0) |
-| **Kháng thể kháng HPV 58** | | | |
-| Bé gái từ 9-15 tuổi | 2.805 | 2.397 | 1306,0 (1259,8; 1354,0) |
-| Bé trai từ 9-15 tuổi | 1.239 | 1.072 | 1545,8 (1470,6; 1624,8) |
-| Phụ nữ từ 16-26 tuổi | 7.260 | 4.818 | 489,2 (477,5; 501,2) |
+<p><strong>Bảng 5: Tóm tắt hiệu giá trung bình nhân (GMT) của kháng thể kháng HPV bằng xét nghiệm miễn dịch cạnh tranh Luminex (cLIA) vào tháng thứ 7 ở quần thể PPI<sup>*</sup></strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Quần thể</th>
+      <th>N</th>
+      <th>n</th>
+      <th>GMT<br>(Khoảng tin cậy 95%)<br>mMU<sup>§</sup>/ml</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 6</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.349</td>
+      <td>1744,6 (1684,7; 1806,7)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.055</td>
+      <td>2085,3 (1984,2; 2191,6)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>4.321</td>
+      <td>893,7 (873,5; 914,3)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 11</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.350</td>
+      <td>1289,7 (1244,3; 1336,8)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.055</td>
+      <td>1469,2 (1397,7; 1544,4)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>4.327</td>
+      <td>669,3 (653,6; 685,4)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 16</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.405</td>
+      <td>7159,9 (6919,7; 7408,5)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.076</td>
+      <td>8444,9 (8054,2; 8854,5)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>4.361</td>
+      <td>3159,0 (3088,6; 3231,1)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 18</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.420</td>
+      <td>2085,5 (2002,2; 2172,3)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.074</td>
+      <td>2620,4 (2474,3; 2775,2)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>4.884</td>
+      <td>809,9 (789,2; 831,1)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 31</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.397</td>
+      <td>1883,3 (1811,3; 1958,1)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.069</td>
+      <td>2173,5 (2057,0; 2296,6)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>4.806</td>
+      <td>664,8 (647,4; 682,6)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 33</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.418</td>
+      <td>960,6 (927,5; 994,9)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.076</td>
+      <td>1178,6 (1120,9; 1239,4)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>5.056</td>
+      <td>419,2 (409,6; 429,1)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 45</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.430</td>
+      <td>728,7 (697,6; 761,2)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.079</td>
+      <td>841,7 (790,0; 896,7)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>5.160</td>
+      <td>254,1 (247,0; 261,5)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 52</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.426</td>
+      <td>978,2 (942,8; 1015,0)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.077</td>
+      <td>1062,2 (1007,2; 1120,2)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>4.792</td>
+      <td>382,4 (373,0; 392,0)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Kháng thể kháng HPV 58</strong></td>
+    </tr>
+    <tr>
+      <td>Bé gái từ 9-15 tuổi</td>
+      <td>2.805</td>
+      <td>2.397</td>
+      <td>1306,0 (1259,8; 1354,0)</td>
+    </tr>
+    <tr>
+      <td>Bé trai từ 9-15 tuổi</td>
+      <td>1.239</td>
+      <td>1.072</td>
+      <td>1545,8 (1470,6; 1624,8)</td>
+    </tr>
+    <tr>
+      <td>Phụ nữ từ 16-26 tuổi</td>
+      <td>7.260</td>
+      <td>4.818</td>
+      <td>489,2 (477,5; 501,2)</td>
+    </tr>
+  </tbody>
+</table>
 
 * Quần thể PPI bao gồm những người nhận được tất cả 3 lần tiêm chủng trong phạm vi các ngày đã xác định trước, không có sai lệch lớn so với đề cương nghiên cứu, đáp ứng được các tiêu chuẩn đã xác định trước trong khoảng thời gian khám giữa tháng thứ 6 và tháng thứ 7, huyết thanh âm tính với các týp HPV liên quan (Týp 6, 11, 16 và 18) trước khi tiêm liều thứ 1, và ở những phụ nữ từ 16-26 tuổi, có PCR âm tính với các týp HPV liên quan trước khi tiêm liều thứ 1 đến một tháng sau khi tiêm liều thứ 3 (tháng thứ 7).
 mMU = đơn vị milli-Merck.

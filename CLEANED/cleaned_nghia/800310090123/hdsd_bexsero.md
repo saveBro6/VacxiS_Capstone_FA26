@@ -34,22 +34,59 @@ Việc sử dụng Bexsero phải phù hợp với các khuyến nghị chính t
 LIỀU LƯỢNG VÀ CÁCH DÙNG
 
 [Page 4]
-Liều dùng
-| Độ tuổi nhận liều đầu tiên | Tiêm chủng cơ bản | Khoảng thời gian giữa các liều cơ bản | Tiêm nhắc |
-|---|---|---|---|
-| Nhũ nhi, 2 đến 5 tháng tuổi | Ba liều, mỗi liều 0,5 ml | Không dưới 1 tháng | Có, một liều trong năm thứ hai cuộc đời với thời gian giãn cách ít nhất 6 tháng giữa các liều cơ bản và liều nhắc lại |
-| | Hai liều, mỗi liều 0,5 ml | Không dưới 2 tháng | Có, một liều trong năm thứ hai cuộc đời với thời gian giãn cách ít nhất 2 tháng giữa các liều cơ bản và liều nhắc lại b |
-| Nhũ nhi, 6 đến 11 tháng tuổi | Hai liều, mỗi liều 0,5 ml | Không dưới 2 tháng | Có, một liều trong năm thứ hai cuộc đời với thời gian giãn cách ít nhất 2 tháng giữa các liều cơ bản và liều nhắc lại b |
-| Trẻ nhỏ, từ 12 đến 23 tháng tuổi | Hai liều, mỗi liều 0,5 ml | Không dưới 2 tháng | Có, một liều với thời gian giãn cách từ 12 đến 23 tháng giữa các liều cơ bản và liều nhắc lại b |
-| Trẻ nhỏ, từ 2 đến 10 tuổi | Hai liều, mỗi liều 0,5 ml | Không dưới 1 tháng | Khuyến cáo liều nhắc lại cho những đối tượng vẫn có nguy cơ mắc bệnh não mô cầu, dựa trên các khuyến nghị chính thức b |
-| Thanh thiếu niên (từ 11 tuổi) và người trưởng thành* | Hai liều, mỗi liều 0,5 ml | Không dưới 1 tháng | Khuyến cáo liều nhắc lại cho những đối tượng vẫn có nguy cơ mắc bệnh não mô cầu, dựa trên các khuyến nghị chính thức b |
+<h2>Liều dùng</h2>
 
-a Vẫn chưa xác định được tính an toàn và hiệu lực của Bexsero ở nhũ nhi dưới 8 tuần tuổi.
-b Không có sẵn dữ liệu.
-Xem “Tác dụng dược lực”.
-* Chưa xác định được tính an toàn và hiệu lực của Bexsero ở những người trên 50 tuổi.
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Độ tuổi nhận liều đầu tiên</th>
+      <th>Tiêm chủng cơ bản</th>
+      <th>Khoảng thời gian giữa các liều cơ bản</th>
+      <th>Tiêm nhắc</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Nhũ nhi, 2 đến 5 tháng tuổi <sup>a</sup></td>
+      <td>Ba liều, mỗi liều 0,5 ml</td>
+      <td>Không dưới 1 tháng</td>
+      <td rowspan="2">Có, một liều trong năm thứ hai cuộc đời với thời gian giãn cách ít nhất 6 tháng giữa các liều cơ bản và liều nhắc lại <sup>b</sup></td>
+    </tr>
+    <tr>
+      <td>Hai liều, mỗi liều 0,5 ml</td>
+      <td>Không dưới 2 tháng</td>
+    </tr>
+    <tr>
+      <td>Nhũ nhi, 6 đến 11 tháng tuổi</td>
+      <td>Hai liều, mỗi liều 0,5 ml</td>
+      <td>Không dưới 2 tháng</td>
+      <td>Có, một liều trong năm thứ hai cuộc đời với thời gian giãn cách ít nhất 2 tháng giữa các liều cơ bản và liều nhắc lại <sup>b</sup></td>
+    </tr>
+    <tr>
+      <td>Trẻ nhỏ, từ 12 đến 23 tháng tuổi</td>
+      <td>Hai liều, mỗi liều 0,5 ml</td>
+      <td>Không dưới 2 tháng</td>
+      <td>Có, một liều với thời gian giãn cách từ 12 đến 23 tháng giữa các liều cơ bản và liều nhắc lại <sup>b</sup></td>
+    </tr>
+    <tr>
+      <td>Trẻ nhỏ, từ 2 đến 10 tuổi</td>
+      <td rowspan="2">Hai liều, mỗi liều 0,5 ml</td>
+      <td rowspan="2">Không dưới 1 tháng</td>
+      <td rowspan="2">Khuyến cáo liều nhắc lại cho những đối tượng vẫn có nguy cơ mắc bệnh não mô cầu, dựa trên các khuyến nghị chính thức <sup>b</sup></td>
+    </tr>
+    <tr>
+      <td>Thanh thiếu niên (từ 11 tuổi) và người trưởng thành*</td>
+    </tr>
+  </tbody>
+</table>
 
-Không có đủ dữ liệu về tính an toàn và hiệu quả của việc chuyển đổi qua lại giữa Bexsero và các vắc xin não mô cầu nhóm B khác để hoàn thành các liệu trình chủng ngừa. Do đó, khuyến cáo những đối tượng đã tiêm Bexsero liều đầu tiên nên đảm bảo hoàn thành đầy đủ các liều chủng ngừa Bexsero tiếp theo.
+<p><sup>a</sup> Vẫn chưa xác định được tính an toàn và hiệu lực của Bexsero ở nhũ nhi dưới 8 tuần tuổi. Không có sẵn dữ liệu.</p>
+
+<p><sup>b</sup> Xem “Tác dụng dược lực”.</p>
+
+<p>* Chưa xác định được tính an toàn và hiệu lực của Bexsero ở những người trên 50 tuổi.</p>
+
+<p>Không có đủ dữ liệu về tính an toàn và hiệu quả của việc chuyển đổi qua lại giữa Bexsero và các vắc xin não mô cầu nhóm B khác để hoàn thành các liệu trình chủng ngừa. Do đó, khuyến cáo những đối tượng đã tiêm Bexsero liều đầu tiên nên đảm bảo hoàn thành đầy đủ các liều chủng ngừa Bexsero tiếp theo.</p>
 
 Cách sử dụng
 
@@ -216,60 +253,163 @@ Kết quả về tính sinh miễn dịch ở thời điểm một tháng sau kh
 [Page 13]
 tháng. Vẫn chưa xác định được hệ quả lâm sàng của việc giảm tính sinh miễn dịch của kháng nguyên NHBA trong liệu trình tiêm này.
 
-Bảng 1. Đáp ứng kháng thể diệt khuẩn trong huyết thanh tại thời điểm 1 tháng sau liều thứ ba Bexsero được tiêm theo liệu trình 2, 3, 4 hoặc 2, 4, 6 tháng tuổi
-| Kháng nguyên | | Nghiên cứu V72P13 | Nghiên cứu V72P12 | Nghiên cứu V72P16 |
-|---|---|---|---|---|
-| | | 2, 4, 6 tháng tuổi | 2, 3, 4 tháng tuổi | 2, 3, 4 tháng tuổi |
-| fHbp | % huyết thanh dương tính * (95% CI) | N=1149 <br> 100% (99-100) | N=273 <br> 99% (97-100) | N=170 <br> 100% (98-100) |
-| | GMT của hSBA** (95% CI) | 91 (87-95) | 82 (75-91) | 101 (90-113) |
-| NadA | % huyết thanh dương tính (95% CI) | N=1152 <br> 100% (99-100) | N=275 <br> 100% (99-100) | N=165 <br> 99% (97-100) |
-| | GMT của hSBA (95% CI) | 635 (606-665) | 325 (292-362) | 396 (348-450) |
-| PorA P1.4 | % huyết thanh dương tính (95% CI) | N=1152 <br> 84% (82-86) | N=274 <br> 81% (76-86) | N=171 <br> 78% (71-84) |
-| | GMT của hSBA (95% CI) | 14 (13-15) | 11 (9,14-12) | 10 (8,59-12) |
-| NHBA | % huyết thanh dương tính (95% CI) | N=100 <br> 84% (75-91) | N=112 <br> 37% (28-46) | N=35 <br> 43% (26-61) |
-| | GMT của hSBA (95% CI) | 16 (13-21) | 3,24 (2,49-4,21) | 3,29 (1,85-5,83) |
-* % huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA $\ge 1:5$.
+<h2>Bảng 1. Đáp ứng kháng thể diệt khuẩn trong huyết thanh tại thời điểm 1 tháng sau liều thứ ba Bexsero được tiêm theo liệu trình 2, 3, 4 hoặc 2, 4, 6 tháng tuổi</h2>
 
-[Page 14]
-** GMT = hiệu giá kháng thể trung bình nhân.
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Kháng nguyên</th>
+      <th></th>
+      <th>Nghiên cứu<br>V72P13<br>2, 4, 6 tháng tuổi</th>
+      <th>Nghiên cứu<br>V72P12<br>2, 3, 4 tháng tuổi</th>
+      <th>Nghiên cứu<br>V72P16<br>2, 3, 4 tháng tuổi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><b>fHbp</b></td>
+      <td>% huyết thanh dương tính *<br>(95% CI)</td>
+      <td>N=1149<br>100% (99-100)</td>
+      <td>N=273<br>99% (97-100)</td>
+      <td>N=170<br>100% (98-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA**<br>(95% CI)</td>
+      <td>91<br>(87-95)</td>
+      <td>82<br>(75-91)</td>
+      <td>101<br>(90-113)</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>NadA</b></td>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>N=1152<br>100% (99-100)</td>
+      <td>N=275<br>100% (99-100)</td>
+      <td>N=165<br>99% (97-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>635<br>(606-665)</td>
+      <td>325<br>(292-362)</td>
+      <td>396<br>(348-450)</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>PorA P1.4</b></td>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>N=1152<br>84% (82-86)</td>
+      <td>N=274<br>81% (76-86)</td>
+      <td>N=171<br>78% (71-84)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>14<br>(13-15)</td>
+      <td>11<br>(9,14-12)</td>
+      <td>10<br>(8,59-12)</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>NHBA</b></td>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>N=100<br>84% (75-91)</td>
+      <td>N=112<br>37% (28-46)</td>
+      <td>N=35<br>43% (26-61)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>16<br>(13-21)</td>
+      <td>3,24<br>(2,49-4,21)</td>
+      <td>3,29<br>(1,85-5,83)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>*% huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA ≥ 1 : 5.</p>
+
+<p>** GMT = hiệu giá kháng thể trung bình nhân.</p>
 Dữ liệu về sự tồn tại của kháng thể diệt vi khuẩn ở thời điểm 8 tháng sau tiêm Bexsero theo liệu trình 2, 3 và 4 tháng tuổi và lúc 6 tháng sau tiêm Bexsero theo liệu trình 2, 4 và 6 tháng tuổi (thời điểm trước liều tiêm nhắc) và dữ liệu tiêm nhắc sau liều Bexsero thứ tư lúc trẻ được 12 tháng tuổi được tóm tắt trong Bảng 2. Sự tồn tại của đáp ứng miễn dịch một năm sau liều nhắc cũng được trình bày trong Bảng 2.
 
-Bảng 2. Đáp ứng kháng thể diệt khuẩn trong huyết thanh sau liều nhắc lúc 12 tháng tuổi sau khi tiêm loạt cơ bản theo liệu trình 2, 3 và 4 tháng tuổi hoặc 2, 4 và 6 tháng tuổi, và sự tồn tại của kháng thể diệt khuẩn một năm sau khi tiêm liều nhắc lại
-| Kháng nguyên | | 2, 3, 4, 12 tháng tuổi | 2, 4, 6, 12 tháng tuổi |
-|---|---|---|---|
-| | Trước liều nhắc* | N=81 | N=426 |
-| fHbp | % huyết thanh dương tính** (95% CI) <br> GMT của hSBA*** (95% CI) | 58% (47-69) <br> 5,79 (4,54-7,39) | 82% (78-85) <br> 10 (9,55-12) |
-| | 1 tháng sau liều nhắc | N=83 | N=422 |
-| | % huyết thanh dương tính (95% CI) <br> GMT của hSBA (95% CI) | 100% (96-100) <br> 135 (108-170) | 100% (99-100) <br> 128 (118-139) |
-| | 12 tháng sau liều nhắc | | N=299 |
-| | % huyết thanh dương tính (95% CI) <br> GMT của hSBA (95% CI) | | 62% (56-67) <br> 6,5 (5,63-7,5) |
-| | Trước liều nhắc | N=79 | N=423 |
-| NadA | % huyết thanh dương tính (95% CI) <br> GMT của hSBA (95% CI) | 97% (91-100) <br> 63 (49-83) | 99% (97-100) <br> 81 (74-89) |
-| | 1 tháng sau liều nhắc | N=84 | N=421 |
-| | % huyết thanh dương tính (95% CI) <br> GMT của hSBA (95% CI) | 100% (96-100) <br> 1558 (1262-1923) | 100% (99-100) <br> 1465 (1350-1590) |
-| | 12 tháng sau liều nhắc | | N=298 |
-| | % huyết thanh dương tính (95% CI) <br> GMT của hSBA (95% CI) | | 97% (95-99) <br> 81 (71-94) |
-| | Trước liều nhắc | N=83 | N=426 |
-| PorA P1.4 | % huyết thanh dương tính (95% CI) <br> GMT của hSBA (95% CI) | 19% (11-29) <br> 1,61 (1,32-1,96) | 22% (18-26) <br> 2,14 (1,94-2,36) |
-| | 1 tháng sau liều nhắc | N=86 | N=424 |
+<h2>Bảng 2. Đáp ứng kháng thể diệt khuẩn trong huyết thanh sau liều nhắc lúc 12 tháng tuổi sau khi tiêm loạt cơ bản theo liệu trình 2, 3 và 4 tháng tuổi hoặc 2, 4 và 6 tháng tuổi, và sự tồn tại của kháng thể diệt khuẩn một năm sau khi tiêm liều nhắc lại</h2>
 
-[Page 15]
-| | % huyết thanh dương tính (95% CI) | 97% (90-99) | 95% (93-97) |
-| | GMT của hSBA (95% CI) | 47 (36-62) | 35 (31-39) |
-| | 12 tháng sau liều nhắc | | N=300 |
-| | % huyết thanh dương tính (95% CI) | | 17% (13-22) |
-| | GMT của hSBA (95% CI) | | 1,91 (1,7-2,15) |
-| | Trước liều nhắc | N=69 | N=100 |
-| NHBA | % huyết thanh dương tính (95% CI) <br> GMT của hSBA (95% CI) | 25% (15-36) <br> 2,36 (1,75-3,18) | 61% (51-71) <br> 8,4 (6,4-11) |
-| | 1 tháng sau liều nhắc | N=67 | N=100 |
-| | % huyết thanh dương tính (95% CI) | 76% (64-86) | 98% (93-100) |
-| | GMT của hSBA (95% CI) | 12 (8,52-17) | 42 (36-50) |
-| | 12 tháng sau liều nhắc | | N=291 |
-| | % huyết thanh dương tính (95% CI) | | 36% (31-42) |
-| | GMT của hSBA (95% CI) | | 3,35 (2,88-3,9) |
-* thời điểm trước khi tiêm nhắc biểu hiện sự tồn tại của kháng thể diệt khuẩn lúc 8 tháng sau khi tiêm Bexsero theo liệu trình 2, 3 và 4 tháng tuổi và 6 tháng sau khi tiêm vắc xin Bexsero theo liệu trình 2, 4 và 6 tháng tuổi.
-** % huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA $\ge 1:5$.
-*** GMT = hiệu giá kháng thể trung bình nhân.
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Kháng nguyên</th>
+      <th></th>
+      <th>2, 3, 4, 12<br>tháng tuổi</th>
+      <th>2, 4, 6, 12<br>tháng tuổi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><b>fHbp</b></td>
+      <td>Trước liều nhắc*<br>% huyết thanh dương tính** (95% CI)<br>GMT của hSBA*** (95% CI)</td>
+      <td>N=81<br>58% (47-69)<br>5,79 (4,54-7,39)</td>
+      <td>N=426<br>82% (78-85)<br>10 (9,55-12)</td>
+    </tr>
+    <tr>
+      <td>1 tháng sau liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>N=83<br>100% (96-100)<br>135 (108-170)</td>
+      <td>N=422<br>100% (99-100)<br>128 (118-139)</td>
+    </tr>
+    <tr>
+      <td>12 tháng sau liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>-</td>
+      <td>N=299<br>62% (56-67)<br>6,5 (5,63-7,5)</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>NadA</b></td>
+      <td>Trước liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>N=79<br>97% (91-100)<br>63 (49-83)</td>
+      <td>N=423<br>99% (97-100)<br>81 (74-89)</td>
+    </tr>
+    <tr>
+      <td>1 tháng sau liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>N=84<br>100% (96-100)<br>1558 (1262-1923)</td>
+      <td>N=421<br>100% (99-100)<br>1465 (1350-1590)</td>
+    </tr>
+    <tr>
+      <td>12 tháng sau liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>-</td>
+      <td>N=298<br>97% (95-99)<br>81 (71-94)</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>PorA P1.4</b></td>
+      <td>Trước liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>N=83<br>19% (11-29)<br>1,61 (1,32-1,96)</td>
+      <td>N=426<br>22% (18-26)<br>2,14 (1,94-2,36)</td>
+    </tr>
+    <tr>
+      <td>1 tháng sau liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>N=86<br>97% (90-99)<br>47 (36-62)</td>
+      <td>N=424<br>95% (93-97)<br>35 (31-39)</td>
+    </tr>
+    <tr>
+      <td>12 tháng sau liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>-</td>
+      <td>N=300<br>17% (13-22)<br>1,91 (1,7-2,15)</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>NHBA</b></td>
+      <td>Trước liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>N=69<br>25% (15-36)<br>2,36 (1,75-3,18)</td>
+      <td>N=100<br>61% (51-71)<br>8,4 (6,4-11)</td>
+    </tr>
+    <tr>
+      <td>1 tháng sau liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>N=67<br>76% (64-86)<br>12 (8,52-17)</td>
+      <td>N=100<br>98% (93-100)<br>42 (36-50)</td>
+    </tr>
+    <tr>
+      <td>12 tháng sau liều nhắc<br>% huyết thanh dương tính (95% CI)<br>GMT của hSBA (95% CI)</td>
+      <td>-</td>
+      <td>N=291<br>36% (31-42)<br>3,35 (2,88-3,9)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>* thời điểm trước khi tiêm nhắc biểu hiện sự tồn tại của kháng thể diệt khuẩn lúc 8 tháng sau khi tiêm Bexsero theo liệu trình 2, 3 và 4 tháng tuổi và 6 tháng sau khi tiêm vắc xin Bexsero theo liệu trình 2, 4 và 6 tháng tuổi.</p>
+
+<p>**% huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA ≥ 1:5.</p>
+
+<p>*** GMT = hiệu giá kháng thể trung bình nhân.</p>
 
 Loạt tiêm cơ bản 2 liều và một liều nhắc sau đó
 Trong một nghiên cứu lâm sàng pha 3 bổ sung đã tiến hành đánh giá tính sinh miễn dịch sau hai liều Bexsero (lúc trẻ 3 tháng rưỡi và 5 tháng tuổi) hoặc ba liều (lúc trẻ 2 tháng rưỡi, 3 tháng rưỡi và 5 tháng tuổi) tiếp theo là một liều nhắc. Tỷ lệ phần trăm của các đối tượng có huyết thanh dương tính (tức là đạt được hSBA ít nhất là 1:4) dao động từ 44% đến 100% tại thời điểm một tháng sau liều thứ hai và từ 55% đến 100% tại thời điểm một tháng sau liều thứ ba. Một tháng sau liều nhắc được tiêm vào lúc 6 tháng sau liều cơ bản cuối cùng, tỷ lệ phần trăm đối tượng có huyết thanh dương tính dao động từ 87% đến 100% với liệu trình tiêm hai liều và từ 83% đến 100% đối với liệu trình tiêm ba liều.
@@ -281,38 +421,156 @@ liều nhắc là dấu hiệu của trí nhớ miễn dịch thể hiện qua �
 Tính sinh miễn dịch ở nhũ nhi 6 đến 11 tháng và trẻ nhỏ từ 12 đến 23 tháng tuổi
 Tính sinh miễn dịch sau hai liều tiêm cách nhau hai tháng ở trẻ nhỏ từ 6 tháng đến 23 tháng tuổi đã được ghi nhận trong hai nghiên cứu được tóm tắt kết quả trong Bảng 3. Đối với mỗi kháng nguyên vắc xin, tỷ lệ đáp ứng huyết thanh và GMT của hSBA cao và tương tự nhau sau loạt tiêm hai liều cho nhũ nhi 6-8 tháng tuổi và trẻ nhỏ 13-15 tháng tuổi. Dữ liệu về sự tồn tại của kháng thể một năm sau khi tiêm hai liều ở trẻ 13 và 15 tháng tuổi cũng được tóm tắt trong Bảng 3.
 
-Bảng 3. Đáp ứng kháng thể diệt khuẩn trong huyết thanh sau khi tiêm vắc xin Bexsero ở trẻ 6 và 8 tháng tuổi hoặc 13 và 15 tháng tuổi và sự tồn tại của kháng thể diệt khuẩn một năm sau khi tiêm hai liều ở trẻ 13 và 15 tháng tuổi
-| Kháng nguyên | | 6 đến 11 tháng tuổi (Tuổi tiêm chủng: 6, 8 tháng) | 12 đến 23 tháng tuổi (Tuổi tiêm chủng: 13, 15 tháng) |
-|---|---|---|---|
-| fHbp | 1 tháng sau liều thứ 2 | N=23 | N=163 |
-| | % huyết thanh dương tính * (95% CI) | 100% (85-100) | 100% (98-100) |
-| | GMT của hSBA** (95% CI) | 250 (173-361) | 271 (237-310) |
-| | 12 tháng sau liều thứ 2 | | N=68 |
-| | % huyết thanh dương tính (95% CI) | | 74% (61-83) |
-| | GMT của hSBA (95% CI) | | 14 (9,4-20) |
-| NadA | 1 tháng sau liều thứ 2 | N=23 | N=164 |
-| | % huyết thanh dương tính (95% CI) | 100% (85-100) | 100% (98-100) |
-| | GMT của hSBA (95% CI) | 534 (395-721) | 599 (520-690) |
-| | 12 tháng sau liều thứ 2 | | N=68 |
+<h2>Bảng 3. Đáp ứng kháng thể diệt khuẩn trong huyết thanh sau khi tiêm vắc xin Bexsero ở trẻ 6 và 8 tháng tuổi hoặc 13 và 15 tháng tuổi và sự tồn tại của kháng thể diệt khuẩn một năm sau khi tiêm hai liều ở trẻ 13 và 15 tháng tuổi</h2>
 
-[Page 17]
-| | % huyết thanh dương tính (95% CI) | | 97% (90-100) |
-| | GMT của hSBA (95% CI) | | 70 (47-104) |
-| PorA P1.4 | 1 tháng sau liều thứ 2 | N=22 | N=164 |
-| | % huyết thanh dương tính (95% CI) | 95% (77-100) | 100% (98-100) |
-| | GMT của hSBA (95% CI) | 27 (21-36) | 43 (38-49) |
-| | 12 tháng sau liều thứ 2 | | N=68 |
-| | % huyết thanh dương tính (95% CI) | | 18% (9-29) |
-| | GMT của hSBA (95% CI) | | 1,65 (1,2-2,28) |
-| NHBA | 1 tháng sau liều thứ 2 | | N=46 |
-| | % huyết thanh dương tính (95% CI) | | 63% (48-77) |
-| | GMT của hSBA (95% CI) | | 11 (7,07-16) |
-| | 12 tháng sau liều thứ 2 | | N=65 |
-| | % huyết thanh dương tính (95% CI) | | 38% (27-51) |
-| | GMT của hSBA (95% CI) | | 3,7 (2,15-6,35) |
-* % huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA $\ge 1:4$ (6 đến 11 tháng tuổi) và hSBA $\ge 1:5$ (12 đến 23 tháng tuổi).
-** GMT = hiệu giá kháng thể trung bình nhân.
-Tỷ lệ đáp ứng huyết thanh là 98% đến 100% đối với tất cả các chủng sau khi tiêm nhắc vào khoảng một năm sau hai liều ở thời điểm 13 và 15 tháng tuổi.
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="4">Kháng nguyên</th>
+      <th rowspan="4"></th>
+      <th colspan="2">Độ tuổi</th>
+    </tr>
+    <tr>
+      <th>6 đến 11 tháng tuổi</th>
+      <th>12 đến 23 tháng tuổi</th>
+    </tr>
+    <tr>
+      <th colspan="2">Tuổi tiêm chủng</th>
+    </tr>
+    <tr>
+      <th>6, 8 tháng</th>
+      <th>13, 15 tháng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><b>fHbp</b></td>
+      <td>
+        <u>1 tháng sau liều thứ 2</u><br>
+        % huyết thanh dương tính * (95% CI)<br>
+        GMT của hSBA** (95% CI)
+      </td>
+      <td>
+        N=23<br>
+        100% (85-100)<br>
+        250 (173-361)
+      </td>
+      <td>
+        N=163<br>
+        100% (98-100)<br>
+        271 (237-310)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <u>12 tháng sau liều thứ 2</u><br>
+        % huyết thanh dương tính (95% CI)<br>
+        GMT của hSBA (95% CI)
+      </td>
+      <td>-</td>
+      <td>
+        N=68<br>
+        74% (61-83)<br>
+        14 (9,4-20)
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>NadA</b></td>
+      <td>
+        <u>1 tháng sau liều thứ 2</u><br>
+        % huyết thanh dương tính (95% CI)<br>
+        GMT của hSBA (95% CI)
+      </td>
+      <td>
+        N=23<br>
+        100% (85-100)<br>
+        534 (395-721)
+      </td>
+      <td>
+        N=164<br>
+        100% (98-100)<br>
+        599 (520-690)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <u>12 tháng sau liều thứ 2</u><br>
+        % huyết thanh dương tính (95% CI)<br>
+        GMT của hSBA (95% CI)
+      </td>
+      <td>-</td>
+      <td>
+        N=68<br>
+        97% (90-100)<br>
+        70 (47-104)
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>PorA P1.4</b></td>
+      <td>
+        <u>1 tháng sau liều thứ 2</u><br>
+        % huyết thanh dương tính (95% CI)<br>
+        GMT của hSBA (95% CI)
+      </td>
+      <td>
+        N=22<br>
+        95% (77-100)<br>
+        27 (21-36)
+      </td>
+      <td>
+        N=164<br>
+        100% (98-100)<br>
+        43 (38-49)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <u>12 tháng sau liều thứ 2</u><br>
+        % huyết thanh dương tính (95% CI)<br>
+        GMT của hSBA (95% CI)
+      </td>
+      <td>-</td>
+      <td>
+        N=68<br>
+        18% (9-29)<br>
+        1,65 (1,2-2,28)
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>NHBA</b></td>
+      <td>
+        <u>1 tháng sau liều thứ 2</u><br>
+        % huyết thanh dương tính (95% CI)<br>
+        GMT của hSBA (95% CI)
+      </td>
+      <td>-</td>
+      <td>
+        N=46<br>
+        63% (48-77)<br>
+        11 (7,07-16)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <u>12 tháng sau liều thứ 2</u><br>
+        % huyết thanh dương tính (95% CI)<br>
+        GMT của hSBA (95% CI)
+      </td>
+      <td>-</td>
+      <td>
+        N=65<br>
+        38% (27-51)<br>
+        3,7 (2,15-6,35)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>*% huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA ≥ 1:4 (6 đến 11 tháng tuổi) và hSBA ≥ 1:5 (12 đến 23 tháng tuổi).</p>
+
+<p>** GMT = hiệu giá kháng thể trung bình nhân.</p>
+
+<p>Tỷ lệ đáp ứng huyết thanh là 98% đến 100% đối với tất cả các chủng sau khi tiêm nhắc vào khoảng một năm sau hai liều ở thời điểm 13 và 15 tháng tuổi.</p>
 
 Tính sinh miễn dịch ở trẻ em từ 2 đến 10 tuổi
 Tính sinh miễn dịch sau hai liều Bexsero được tiêm cách nhau một hoặc hai tháng ở trẻ em từ 2 đến 10 tuổi đã được đánh giá trong một nghiên cứu lâm sàng pha 3 ban đầu và nghiên cứu mở rộng của nó. Trong nghiên cứu ban đầu, kết quả được tóm tắt trong Bảng 4, những trẻ tham gia được tiêm hai liều Bexsero cách nhau hai tháng. Tỷ lệ đáp ứng huyết thanh và
@@ -320,19 +578,68 @@ Tính sinh miễn dịch sau hai liều Bexsero được tiêm cách nhau một 
 [Page 18]
 GMT của hSBA cao hơn sau liệu trình tiêm hai liều ở trẻ em so với từng kháng nguyên vắc xin (Bảng 4).
 
-Bảng 4. Đáp ứng kháng thể kháng khuẩn trong huyết thanh tại thời điểm 1 tháng sau khi tiêm liều Bexsero thứ hai cho trẻ em từ 2-10 tuổi theo liệu trình tiêm 0, 2 tháng
-| Kháng nguyên | | Từ 2 đến 5 tuổi | Từ 6 đến 10 tuổi |
-|---|---|---|---|
-| fHbp | % huyết thanh dương tính * (95% CI) | N=99 <br> 100% (96-100) | N=287 <br> 99% (96-100) |
-| | GMT của hSBA** (95% CI) | 140 (112-175) | 112 (96-130) |
-| NadA | % huyết thanh dương tính (95% CI) | N=99 <br> 99% (95-100) | N=291 <br> 100% (98-100) |
-| | GMT của hSBA (95% CI) | 584 (466-733) | 457 (392-531) |
-| PorA P1.4 | % huyết thanh dương tính (95% CI) | N=100 <br> 98% (93-100) | N=289 <br> 99% (98-100) |
-| | GMT của hSBA (95% CI) | 42 (33-55) | 40 (34-48) |
-| NHBA | % huyết thanh dương tính (95% CI) | N=95 <br> 91% (83-96) | N=275 <br> 95% (92-97) |
-| | GMT của hSBA (95% CI) | 23 (18-30) | 35 (29-41) |
-* % huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA $\ge 1:4$ (đối với chủng tham chiếu cho các kháng nguyên fHbp, NadA, PorA P1.4) và hSBA $\ge 1:5$ (đối với chủng tham chiếu cho kháng nguyên NHBA).
-** GMT = hiệu giá kháng thể trung bình nhân.
+<h2>Bảng 4. Đáp ứng kháng thể kháng khuẩn trong huyết thanh tại thời điểm 1 tháng sau khi tiêm liều Bexsero thứ hai cho trẻ em từ 2-10 tuổi theo liệu trình tiêm 0, 2 tháng</h2>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Kháng nguyên</th>
+      <th></th>
+      <th>Từ 2 đến 5 tuổi</th>
+      <th>Từ 6 đến 10 tuổi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><b>fHbp</b></td>
+      <td>% huyết thanh dương tính *<br>(95% CI)</td>
+      <td>N=99<br>100% (96-100)</td>
+      <td>N=287<br>99% (96-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA**<br>(95% CI)</td>
+      <td>140<br>(112-175)</td>
+      <td>112<br>(96-130)</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>NadA</b></td>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>N=99<br>99% (95-100)</td>
+      <td>N=291<br>100% (98-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>584<br>(466-733)</td>
+      <td>457<br>(392-531)</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>PorA P1.4</b></td>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>N=100<br>98% (93-100)</td>
+      <td>N=289<br>99% (98-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>42<br>(33-55)</td>
+      <td>40<br>(34-48)</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>NHBA</b></td>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>N=95<br>91% (83-96)</td>
+      <td>N=275<br>95% (92-97)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>23<br>(18-30)</td>
+      <td>35<br>(29-41)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>*% huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA ≥ 1:4 (đối với chủng tham chiếu cho các kháng nguyên fHbp, NadA, PorA P1.4) và hSBA ≥ 1:5 (đối với chủng tham chiếu cho kháng nguyên NHBA).</p>
+
+<p>** GMT = hiệu giá kháng thể trung bình nhân.</p>
 
 Trong nghiên cứu mở rộng, với hai liều Bexsero được tiêm cách nhau một tháng ở trẻ chưa được tiêm chủng, ghi nhận tỷ lệ phần trăm cao về số trẻ có huyết thanh dương tính tại thời điểm một tháng sau liều thứ hai. Đáp ứng miễn dịch diễn ra sớm sau liều đầu tiên cũng được đánh giá. Tỷ lệ phần trăm trẻ có huyết thanh dương tính (tức là đạt hSBA ít nhất là 1:4) giữa các chủng dao động từ 46% đến 95% tại thời điểm một tháng sau liều đầu tiên và từ 69% đến 100% tại thời điểm một tháng sau liều thứ hai. Nghiên cứu này cũng đánh giá sự tồn tại của kháng thể và đáp ứng với liều nhắc lại ở trẻ em được tiêm hai liều cơ bản lúc 2-5 hoặc 6-10
 
@@ -344,108 +651,485 @@ Thanh thiếu niên được tiêm hai liều Bexsero với khoảng cách giữ
 Trong các nghiên cứu với người trưởng thành, dữ liệu thu được sau hai liều Bexsero với khoảng cách giữa các liều là một tháng hoặc hai tháng (Bảng 7).
 Liệu trình tiêm hai liều cách nhau một hoặc hai tháng cho thấy các đáp ứng miễn dịch tương tự nhau ở người trưởng thành và thanh thiếu niên. Các đáp ứng tương tự cũng được ghi nhận đối với thanh thiếu niên được tiêm hai liều Bexsero với cách khoảng là sáu tháng.
 
-Bảng 5. Đáp ứng kháng thể diệt khuẩn trong huyết thanh ở thanh thiếu niên tại thời điểm một tháng sau khi tiêm một và hai liều Bexsero theo các liệu trình hai liều khác nhau và sự tồn tại của kháng thể diệt khuẩn từ 18 đến 23 tháng sau liều thứ hai
-| Kháng nguyên | | 0, 1 tháng | 0, 2 tháng | 0, 6 tháng |
-|---|---|---|---|---|
-| fHbp | 1 tháng sau liều đầu tiên | N=677 | N=342 | N=112 |
-| | % huyết thanh dương tính* (95% CI) | 94% (92-96) | 92% (88-94) | 92% (85-96) |
-| | GMT của hSBA** (95% CI) | 60 (53-69) | 52 (43-63) | 46 (33-63) |
-| | 1 tháng sau liều thứ 2 | N=638 | N=319 | N=86 |
-| | % huyết thanh dương tính (95% CI) | 100% (99-100) | 100% (99-100) | 100% (99-100) |
-| | GMT của hSBA (95% CI) | 210 (193-229) | 234 (209-263) | 218 (157-302) |
-| | 18-23 tháng sau liều thứ 2 | N=102 | N=106 | N=49 |
+<h2>Bảng 5. Đáp ứng kháng thể diệt khuẩn trong huyết thanh ở thanh thiếu niên tại thời điểm một tháng sau khi tiêm một và hai liều Bexsero theo các liệu trình hai liều khác nhau và sự tồn tại của kháng thể diệt khuẩn từ 18 đến 23 tháng sau liều thứ hai</h2>
 
-[Page 20]
-| | % huyết thanh dương tính (95% CI) | 82% (74-89) | 81% (72-88) | 84% (70-93) |
-| | GMT của hSBA (95% CI) | 29 (20-42) | 34 (24-49) | 27 (16-45) |
-| NadA | 1 tháng sau liều đầu tiên | N=677 | N=342 | N=111 |
-| | % huyết thanh dương tính (95% CI) | 97% (95-98) | 96% (94-98) | 97% (92-99) |
-| | GMT của hSBA (95% CI) | 73 (64-82) | 69 (58-82) | 81 (61-109) |
-| | 1 tháng sau liều thứ 2 | N=639 | N=320 | N=86 |
-| | % huyết thanh dương tính (95% CI) | 100% (99-100) | 99% (98-100) | 99% (94-100) |
-| | GMT của hSBA (95% CI) | 490 (455-528) | 734 (653-825) | 880 (675-1147) |
-| | 18-23 tháng sau liều thứ 2 | N=102 | N=106 | N=49 |
-| | % huyết thanh dương tính (95% CI) | 93% (86-97) | 95% (89-98) | 94% (83-99) |
-| | GMT của hSBA (95% CI) | 40 (30-54) | 43 (33-58) | 65 (43-98) |
-| PorA P1.4 | 1 tháng sau liều đầu tiên | N=677 | N=342 | N=111 |
-| | % huyết thanh dương tính (95% CI) | 94% (92-96) | 92% (88-94) | 90% (83-95) |
-| | GMT của hSBA (95% CI) | 49 (43-55) | 40 (33-47) | 42 (31-56) |
-| | 1 tháng sau liều thứ 2 | N=639 | N=319 | N=86 |
-| | % huyết thanh dương tính (95% CI) | 100% (99-100) | 100% (99-100) | 100% (96-100) |
-| | GMT của hSBA (95% CI) | 92 (84-102) | 123 (107-142) | 140 (101-195) |
-| | 18-23 tháng sau liều thứ 2 | N=102 | N=106 | N=49 |
-| | % huyết thanh dương tính (95% CI) | 75% (65-83) | 75% (66-83) | 86% (73-94) |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Kháng nguyên</th>
+      <th></th>
+      <th>0, 1 tháng</th>
+      <th>0, 2 tháng</th>
+      <th>0, 6 tháng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="9"><b>fHbp</b></td>
+      <td>1 tháng sau liều đầu tiên</td>
+      <td>N=677</td>
+      <td>N=342</td>
+      <td>N=112</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính*<br>(95% CI)</td>
+      <td>94%<br>(92-96)</td>
+      <td>92%<br>(88-94)</td>
+      <td>92%<br>(85-96)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA**<br>(95% CI)</td>
+      <td>60<br>(53-69)</td>
+      <td>52<br>(43-63)</td>
+      <td>46<br>(33-63)</td>
+    </tr>
+    <tr>
+      <td>1 tháng sau liều thứ 2</td>
+      <td>N=638</td>
+      <td>N=319</td>
+      <td>N=86</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>100%<br>(99-100)</td>
+      <td>100%<br>(99-100)</td>
+      <td>100%<br>(99-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>210<br>(193-229)</td>
+      <td>234<br>(209-263)</td>
+      <td>218<br>(157-302)</td>
+    </tr>
+    <tr>
+      <td>18-23 tháng sau liều thứ 2</td>
+      <td>N=102</td>
+      <td>N=106</td>
+      <td>N=49</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>82%<br>(74-89)</td>
+      <td>81%<br>(72-88)</td>
+      <td>84%<br>(70-93)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>29<br>(20-42)</td>
+      <td>34<br>(24-49)</td>
+      <td>27<br>(16-45)</td>
+    </tr>
+    <tr>
+      <td rowspan="9"><b>NadA</b></td>
+      <td>1 tháng sau liều đầu tiên</td>
+      <td>N=677</td>
+      <td>N=342</td>
+      <td>N=111</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>97%<br>(95-98)</td>
+      <td>96%<br>(94-98)</td>
+      <td>97%<br>(92-99)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>73<br>(64-82)</td>
+      <td>69<br>(58-82)</td>
+      <td>81<br>(61-109)</td>
+    </tr>
+    <tr>
+      <td>1 tháng sau liều thứ 2</td>
+      <td>N=639</td>
+      <td>N=320</td>
+      <td>N=86</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>100%<br>(99-100)</td>
+      <td>99%<br>(98-100)</td>
+      <td>99%<br>(94-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>490<br>(455-528)</td>
+      <td>734<br>(653-825)</td>
+      <td>880<br>(675-1147)</td>
+    </tr>
+    <tr>
+      <td>18-23 tháng sau liều thứ 2</td>
+      <td>N=102</td>
+      <td>N=106</td>
+      <td>N=49</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>93%<br>(86-97)</td>
+      <td>95%<br>(89-98)</td>
+      <td>94%<br>(83-99)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>40<br>(30-54)</td>
+      <td>43<br>(33-58)</td>
+      <td>65<br>(43-98)</td>
+    </tr>
+    <tr>
+      <td rowspan="9"><b>PorA P1.4</b></td>
+      <td>1 tháng sau liều đầu tiên</td>
+      <td>N=677</td>
+      <td>N=342</td>
+      <td>N=111</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>94%<br>(92-96)</td>
+      <td>92%<br>(88-94)</td>
+      <td>90%<br>(83-95)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>49<br>(43-55)</td>
+      <td>40<br>(33-47)</td>
+      <td>42<br>(31-56)</td>
+    </tr>
+    <tr>
+      <td>1 tháng sau liều thứ 2</td>
+      <td>N=639</td>
+      <td>N=319</td>
+      <td>N=86</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>100%<br>(99-100)</td>
+      <td>100%<br>(99-100)</td>
+      <td>100%<br>(96-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>92<br>(84-102)</td>
+      <td>123<br>(107-142)</td>
+      <td>140<br>(101-195)</td>
+    </tr>
+    <tr>
+      <td>18-23 tháng sau liều thứ 2</td>
+      <td>N=102</td>
+      <td>N=106</td>
+      <td>N=49</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>75%<br>(65-83)</td>
+      <td>75%<br>(66-83)</td>
+      <td>86%<br>(73-94)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>17<br>(12-24)</td>
+      <td>19<br>(14-27)</td>
+      <td>27<br>(17-43)</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>NHBA</b></td>
+      <td>1 tháng sau liều thứ 2</td>
+      <td>N=46</td>
+      <td>N=46</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>100%<br>(92-100)</td>
+      <td>100%<br>(92-100)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>99<br>(76-129)</td>
+      <td>107<br>(82-140)</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
-[Page 21]
-| | GMT của hSBA (95% CI) | 17 (12-24) | 19 (14-27) | 27 (17-43) |
-| NHBA | 1 tháng sau liều thứ 2 | N=46 | N=46 | |
-| | % huyết thanh dương tính (95% CI) | 100% (92-100) | 100% (92-100) | |
-| | GMT của hSBA (95% CI) | 99 (76-129) | 107 (82-140) | |
-* % huyết thanh dương tính = phần trăm đối tượng có hSBA $\ge 1:4$.
-** GMT = hiệu giá kháng thể trung bình nhân.
+<p>* % huyết thanh dương tính = phần trăm đối tượng có hSBA ≥ 1:4.</p>
+
+<p>** GMT = hiệu giá kháng thể trung bình nhân.</p>
 
 Trong nghiên cứu ở thanh thiếu niên, các đáp ứng diệt khuẩn xuất hiện sau hai liều Bexsero được phân tầng theo hSBA ban đầu nhỏ hơn 1:4 hoặc bằng hoặc lớn hơn 1:4. Tỷ lệ đáp ứng huyết thanh và tỷ lệ phần trăm đối tượng có hiệu giá hSBA tăng ít nhất 4 lần tại thời điểm một tháng sau liều Bexsero thứ hai so với ban đầu được tóm tắt trong Bảng 6. Sau khi tiêm Bexsero, tỷ lệ đối tượng có huyết thanh dương tính cao và đạt được hiệu giá hSBA tăng gấp 4 lần không phụ thuộc vào tình trạng trước khi tiêm chủng.
 
-Bảng 6. Tỷ lệ phần trăm thanh thiếu niên có đáp ứng huyết thanh và hiệu giá diệt khuẩn tăng ít nhất 4 lần tại thời điểm một tháng sau khi tiêm một và hai liều Bexsero theo các liệu trình tiêm hai liều khác nhau - được phân tầng theo hiệu giá trước khi tiêm chủng
+<h2>Bảng 6. Tỷ lệ phần trăm thanh thiếu niên có đáp ứng huyết thanh và hiệu giá diệt khuẩn tăng ít nhất 4 lần tại thời điểm một tháng sau khi tiêm một và hai liều Bexsero theo các liệu trình tiêm hai liều khác nhau - được phân tầng theo hiệu giá trước khi tiêm chủng</h2>
 
-| Kháng nguyên | | hiệu giá | 0, 1 tháng | 0, 2 tháng | 0, 6 tháng |
-|---|---|---|---|---|---|
-| fHbp | % huyết thanh dương tính* sau liều đầu tiên (95% CI) | trước khi tiêm chủng <1:4 | N=388 <br> 90% (87-93) | N=193 <br> 86% (80-91) | N=65 <br> 86% (75-93) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=289 <br> 100% (98-100) | N=149 <br> 99% (95-100) | N=47 <br> 100% (92-100) |
-| | % tăng 4 lần sau liều đầu tiên (95% CI) | trước khi tiêm chủng <1:4 | N=388 <br> 87% (84-91) | N=193 <br> 84% (78-89) | N=65 <br> 86% (75-93) |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Kháng nguyên</th>
+      <th></th>
+      <th></th>
+      <th>0, 1 tháng</th>
+      <th>0, 2 tháng</th>
+      <th>0, 6 tháng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="8"><b>fHbp</b></td>
+      <td rowspan="2">% huyết thanh dương tính* sau liều đầu tiên (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=388<br>90% (87-93)</td>
+      <td>N=193<br>86% (80-91)</td>
+      <td>N=65<br>86% (75-93)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=289<br>100% (98-100)</td>
+      <td>N=149<br>99% (95-100)</td>
+      <td>N=47<br>100% (92-100)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% tăng 4 lần sau liều đầu tiên (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=388<br>87% (84-91)</td>
+      <td>N=193<br>84% (78-89)</td>
+      <td>N=65<br>86% (75-93)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=289<br>71% (65-76)</td>
+      <td>N=149<br>68% (60-75)</td>
+      <td>N=47<br>62% (46-75)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% huyết thanh dương tính sau liều thứ 2 (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=369<br>100% (98-100)</td>
+      <td>N=179<br>100% (98-100)</td>
+      <td>N=55<br>100% (94-100)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=269<br>100% (99-100)</td>
+      <td>N=140<br>100% (97-100)</td>
+      <td>N=31<br>100% (89-100)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% tăng 4 lần sau liều thứ 2 (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=369<br>100% (98-100)</td>
+      <td>N=179<br>100% (98-100)</td>
+      <td>N=55<br>100% (94-100)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=268<br>90% (86-93)</td>
+      <td>N=140<br>86% (80-92)</td>
+      <td>N=31<br>90% (74-98)</td>
+    </tr>
+    <tr>
+      <td rowspan="8"><b>NadA</b></td>
+      <td rowspan="2">% huyết thanh dương tính sau liều đầu tiên (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=454<br>95% (93-97)</td>
+      <td>N=223<br>96% (92-98)</td>
+      <td>N=79<br>96% (89-99)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=223<br>100% (98-100)</td>
+      <td>N=119<br>98% (94-100)</td>
+      <td>N=32<br>100% (89-100)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% tăng 4 lần sau liều đầu tiên (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=454<br>94% (92-96)</td>
+      <td>N=223<br>95% (91-98)</td>
+      <td>N=79<br>96% (89-99)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=223<br>74% (67-79)</td>
+      <td>N=119<br>72% (63-80)</td>
+      <td>N=32<br>69% (50-84)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% huyết thanh dương tính sau liều thứ 2 (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=427<br>100% (99-100)</td>
+      <td>N=211<br>99% (97-100)</td>
+      <td>N=64<br>98% (92-100)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=212<br>100% (98-100)</td>
+      <td>N=109<br>100% (97-100)</td>
+      <td>N=22<br>100% (85-100)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% tăng 4 lần sau liều thứ 2 (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=426<br>99% (98-100)</td>
+      <td>N=211<br>99% (97-100)</td>
+      <td>N=64<br>98% (92-100)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=212<br>96% (93-98)</td>
+      <td>N=109<br>95% (90-98)</td>
+      <td>N=22<br>95% (77-100)</td>
+    </tr>
+    <tr>
+      <td rowspan="8"><b>PorA P1.4</b></td>
+      <td rowspan="2">% huyết thanh dương tính sau liều đầu tiên (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=450<br>91% (88-94)</td>
+      <td>N=219<br>87% (82-91)</td>
+      <td>N=75<br>85% (75-92)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=226<br>100% (98-100)</td>
+      <td>N=123<br>100% (97-100)</td>
+      <td>N=36<br>100% (90-100)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% tăng 4 lần sau liều đầu tiên (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=450<br>91% (88-94)</td>
+      <td>N=219<br>85% (80-90)</td>
+      <td>N=75<br>85% (75-92)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=226<br>64% (57-70)</td>
+      <td>N=123<br>55% (46-64)</td>
+      <td>N=36<br>64% (46-79)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% huyết thanh dương tính sau liều thứ 2 (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=427<br>100% (98-100)</td>
+      <td>N=208<br>100% (98-100)</td>
+      <td>N=64<br>100% (94-100)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=212<br>100% (98-100)</td>
+      <td>N=111<br>100% (97-100)</td>
+      <td>N=22<br>100% (85-100)</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% tăng 4 lần sau liều thứ 2 (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=426<br>99% (98-100)</td>
+      <td>N=208<br>100% (98-100)</td>
+      <td>N=64<br>100% (94-100)</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=211<br>81% (75-86)</td>
+      <td>N=111<br>77% (68-84)</td>
+      <td>N=22<br>82% (60-95)</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><b>NHBA</b></td>
+      <td rowspan="2">% huyết thanh dương tính sau liều thứ 2 (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=2<br>100% (16-100)</td>
+      <td>N=9<br>100% (66-100)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=44<br>100% (92-100)</td>
+      <td>N=37<br>100% (91-100)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td rowspan="2">% tăng 4 lần sau liều thứ 2 (95% CI)</td>
+      <td>hiệu giá trước khi tiêm chủng &lt; 1:4</td>
+      <td>N=2<br>100% (16-100)</td>
+      <td>N=9<br>89% (52-100)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>hiệu giá trước khi tiêm chủng ≥ 1:4</td>
+      <td>N=44<br>30% (17-45)</td>
+      <td>N=37<br>19% (8-35)</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
-[Page 22]
-| | | trước khi tiêm chủng $\ge 1:4$ | N=289 <br> 71% (65-76) | N=149 <br> 68% (60-75) | N=47 <br> 62% (46-75) |
-| | % huyết thanh dương tính sau liều thứ 2 (95% CI) | trước khi tiêm chủng < 1:4 | N=369 <br> 100% (98-100) | N=179 <br> 100% (98-100) | N=55 <br> 100% (94-100) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=269 <br> 100% (99-100) | N=140 <br> 100% (97-100) | N=31 <br> 100% (89-100) |
-| | % tăng 4 lần sau liều thứ 2 (95% CI) | trước khi tiêm chủng <1:4 | N=369 <br> 100% (98-100) | N=179 <br> 100% (98-100) | N=55 <br> 100% (94-100) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=268 <br> 90% (86-93) | N=140 <br> 86% (80-92) | N=31 <br> 90% (74-98) |
-| NadA | % huyết thanh dương tính sau liều đầu tiên (95% CI) | trước khi tiêm chủng <1:4 | N=454 <br> 95% (93-97) | N=223 <br> 96% (92-98) | N=79 <br> 96% (89-99) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=223 <br> 100% (98-100) | N=119 <br> 98% (94-100) | N=32 <br> 100% (89-100) |
-| | % tăng 4 lần sau liều đầu tiên (95% CI) | trước khi tiêm chủng < 1:4 | N=454 <br> 94% (92-96) | N=223 <br> 95% (91-98) | N=79 <br> 96% (89-99) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=223 <br> 74% (67-79) | N=119 <br> 72% (63-80) | N=32 <br> 69% (50-84) |
-| | % huyết thanh dương tính sau liều thứ 2 (95% CI) | trước khi tiêm chủng <1:4 | N=427 <br> 100% (99-100) | N=211 <br> 99% (97-100) | N=64 <br> 98% (92-100) |
-
-[Page 23]
-| | | trước khi tiêm chủng $\ge 1:4$ | N=212 <br> 100% (98-100) | N=109 <br> 100% (97-100) | N=22 <br> 100% (85-100) |
-| | % tăng 4 lần sau liều thứ 2 (95% CI) | trước khi tiêm chủng <1:4 | N=426 <br> 99% (98-100) | N=211 <br> 99% (97-100) | N=64 <br> 98% (92-100) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=212 <br> 96% (93-98) | N=109 <br> 95% (90-98) | N=22 <br> 95% (77-100) |
-| PorA P1.4 | % huyết thanh dương tính sau liều đầu tiên (95% CI) | trước khi tiêm chủng $<1:4$ | N=450 <br> 91% (88-94) | N=219 <br> 87% (82-91) | N=75 <br> 85% (75-92) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=226 <br> 100% (98-100) | N=123 <br> 100% (97-100) | N=36 <br> 100% (90-100) |
-| | % tăng 4 lần sau liều đầu tiên (95% CI) | trước khi tiêm chủng $<1:4$ | N=450 <br> 91% (88-94) | N=219 <br> 85% (80-90) | N=75 <br> 85% (75-92) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=226 <br> 64% (57-70) | N=123 <br> 55% (46-64) | N=36 <br> 64% (46-79) |
-| | % huyết thanh dương tính sau liều thứ 2 (95% CI) | trước khi tiêm chủng <1:4 | N=427 <br> 100% (98-100) | N=208 <br> 100% (98-100) | N=64 <br> 100% (94-100) |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=212 <br> 100% (98-100) | N=111 <br> 100% (97-100) | N=22 <br> 100% (85-100) |
-| | % tăng 4 lần sau liều thứ 2 (95% CI) | trước khi tiêm chủng <1:4 | N=426 <br> 99% (98-100) | N=208 <br> 100% (98-100) | N=64 <br> 100% (94-100) |
-
-[Page 24]
-| | | trước khi tiêm chủng $\ge 1:4$ | N=211 <br> 81% (75-86) | N=111 <br> 77% (68-84) | N=22 <br> 82% (60-95) |
-| NHBA | % huyết thanh dương tính sau liều thứ 2 (95% CI) | trước khi tiêm chủng <1:4 | N=2 <br> 100% (16-100) | N=9 <br> 100% (66-100) | |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=44 <br> 100% (92-100) | N=37 <br> 100% (91-100) | |
-| | % tăng 4 lần sau liều thứ 2 (95% CI) | trước khi tiêm chủng <1:4 | N=2 <br> 100% (16-100) | N=9 <br> 89% (52-100) | |
-| | | trước khi tiêm chủng $\ge 1:4$ | N=44 <br> 30% (17-45) | N=37 <br> 19% (8-35) | |
-* % huyết thanh dương tính = tỷ lệ phần trăm đối tượng có $hSBA \ge 1:4$.
+<p>* % huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA ≥ 1:4.</p>
 
 Dữ liệu về sự tồn tại của kháng thể cho nghiên cứu ở thanh thiếu niên được thu thập trong một nghiên cứu mở rộng pha 3. Vào khoảng 7,5 năm sau khi tiêm hai liều cơ bản, tỷ lệ phần trăm đối tượng có $hSBA \ge 1:4$ đã giảm, dao động giữa các chủng từ 29% đến 84%. Đáp ứng với liều nhắc được tiêm 7,5 năm sau các liều cơ bản là dấu hiệu của trí nhớ miễn dịch vì tỷ lệ đối tượng đạt hSBA $\ge 1:4$ trên các chủng dao động từ 93% đến 100%. Nghiên cứu tương tự cũng đánh giá dữ liệu về sự tồn tại của kháng thể từ một nghiên cứu ban đầu bổ sung pha 3 ở thanh thiếu niên. Vào khoảng 4 năm sau các loạt tiêm cơ bản hai liều, tỷ lệ phần trăm đối tượng có $hSBA \ge 1:5$ nhìn chung giảm từ 68% - 100% còn 9% đến 84% sau liều thứ hai. Đáp ứng với liều nhắc được tiêm 4 năm sau các loạt tiêm cơ bản là dấu hiệu của trí nhớ miễn dịch vì tỷ lệ phần trăm đối tượng có hSBA $\ge 1:5$ dao động trong các chủng từ 92% đến 100%.
 
-Bảng 7. Đáp ứng kháng thể diệt khuẩn trong huyết thanh ở người trưởng thành sau khi tiêm hai liều Bexsero theo các liệu trình chủng ngừa hai liều khác nhau
-| Kháng nguyên | | 0, 1 tháng | 0, 2 tháng |
-|---|---|---|---|
-| fHbp | 1 tháng sau liều thứ 2 | N=28 | N=46 |
+<h2>Bảng 7. Đáp ứng kháng thể diệt khuẩn trong huyết thanh ở người trưởng thành sau khi tiêm hai liều Bexsero theo các liệu trình chủng ngừa hai liều khác nhau</h2>
 
-[Page 25]
-| Kháng nguyên | | 0, 1 tháng | 0, 2 tháng |
-|---|---|---|---|
-| | % huyết thanh dương tính* (95% CI) | 100% (88-100) | 100% (92-100) |
-| | GMT của hSBA** (95% CI) | 100 (75-133) | 93 (71-121) |
-| NadA | 1 tháng sau liều thứ 2 | N=28 | N=46 |
-| | % huyết thanh dương tính (95% CI) | 100% (88-100) | 100% (92-100) |
-| | GMT của hSBA (95% CI) | 566 (338-948) | 144 (108-193) |
-| PorA P1.4 | 1 tháng sau liều thứ 2 | N=28 | N=46 |
-| | % huyết thanh dương tính (95% CI) | 96% (82-100) | 91% (79-98) |
-| | GMT của hSBA (95% CI) | 47 (30-75) | 32 (21-48) |
-* % huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA $\ge 1:4$.
-** GMT = hiệu giá kháng thể trung bình nhân.
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Kháng nguyên</th>
+      <th></th>
+      <th>0, 1 tháng</th>
+      <th>0, 2 tháng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><b>fHbp</b></td>
+      <td>1 tháng sau liều thứ 2</td>
+      <td>N=28</td>
+      <td>N=46</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính*<br>(95% CI)</td>
+      <td>100%<br>(88-100)</td>
+      <td>100%<br>(92-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA**<br>(95% CI)</td>
+      <td>100<br>(75-133)</td>
+      <td>93<br>(71-121)</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>NadA</b></td>
+      <td>1 tháng sau liều thứ 2</td>
+      <td>N=28</td>
+      <td>N=46</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>100%<br>(88-100)</td>
+      <td>100%<br>(92-100)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>566<br>(338-948)</td>
+      <td>144<br>(108-193)</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>PorA P1.4</b></td>
+      <td>1 tháng sau liều thứ 2</td>
+      <td>N=28</td>
+      <td>N=46</td>
+    </tr>
+    <tr>
+      <td>% huyết thanh dương tính<br>(95% CI)</td>
+      <td>96%<br>(82-100)</td>
+      <td>91%<br>(79-98)</td>
+    </tr>
+    <tr>
+      <td>GMT của hSBA<br>(95% CI)</td>
+      <td>47<br>(30-75)</td>
+      <td>32<br>(21-48)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>* % huyết thanh dương tính = tỷ lệ phần trăm đối tượng có hSBA ≥ 1:4.</p>
+
+<p>** GMT = hiệu giá kháng thể trung bình nhân.</p>
 Đáp ứng diệt khuẩn trong huyết thanh đối với kháng nguyên NHBA chưa được đánh giá.
 
 Tính sinh miễn dịch trong các nhóm dân số đặc biệt

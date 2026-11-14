@@ -9,13 +9,25 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "flagembedding>=1.4.2",
+    "gradio>=6.31.0",
+    "huggingface-hub>=1.33.0",
+    "json-repair>=0.64.9",
+    "nano-vectordb>=0.0.4.3",
+    "neo4j>=6.4.1",
+    "networkx>=3.7",
     "openai>=2.54.0",
+    "pipmaster>=1.2.2",
     "pyarrow>=26.0.0",
+    "pypinyin>=0.55.0",
+    "python-dotenv>=1.2.4",
     "qdrant-client>=1.19.1",
+    "tenacity>=9.2.1",
+    "tiktoken>=0.14.0",
 ]
 
 [project.scripts]
 vacxis-pipeline = "vacxis_capstone_fa26.cli:main"
+vacxis-web = "vacxis_capstone_fa26.web:main"
 vacxis-capstone-fa26 = "vacxis_capstone_fa26:main"
 generate-test-dataset = "vacxis_capstone_fa26.testdata.cli:main"
 vacxis-retrieval = "vacxis_capstone_fa26.retrieval.cli:main"
@@ -26,6 +38,13 @@ vacxis-evaluation = "vacxis_capstone_fa26.evaluation.cli:main"
 [build-system]
 requires = ["uv_build>=0.12.15,<0.13.0"]
 build-backend = "uv_build"
+
+[project.optional-dependencies]
+# GPU-only extra for the query-driven dataset path (Colab/Kaggle).
+# Not in the core deps so CPU/offline environments stay lightweight and the
+# module remains importable without vLLM installed.
+vllm = ["vllm>=0.6.0"]
+websearch = ["playwright>=1.40"]
 
 [dependency-groups]
 dev = [

@@ -117,24 +117,76 @@ Biến cố ngoại ý phổ biến nhất được quan sát thấy trong các 
 TRANG 6 (Page 6 of 14)
 Bảng danh sách các biến cố ngoại ý
 Tần suất các biến cố ngoại ý được phân nhóm theo hệ thống các cơ quan MedDRA (SOC). Trong mỗi SOC, các phản ứng bất lợi được liệt kê theo thứ tự giảm dần về tần suất xuất hiện và mức độ nghiêm trọng. Các phản ứng bất lợi được phân nhóm theo tần suất sau: rất thường gặp (≥ 1/10), thường gặp (≥ 1/100 đến < 1/10), ít gặp (≥ 1/1.000 đến < 1/100), hiếm gặp (≥ 1/10.000 đến < 1/1.000), rất hiếm gặp (< 1/10.000) và chưa biết (chưa thể ước tính từ dữ liệu hiện có).
+<p><strong>Bảng 1 Biến cố ngoại ý</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Phân loại theo hệ cơ quan MEDRA</th>
+      <th>Phản ứng bất lợi</th>
+      <th>Tần suất</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Rối loạn hệ miễn dịch</td>
+      <td>Phản ứng quá mẫn (bao gồm phù mặt, nổi mày đay)</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Phản ứng phản vệ</td>
+      <td>Rất hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Rối loạn chuyển hóa và dinh dưỡng</td>
+      <td>Giảm cảm giác thèm ăn</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn hệ thần kinh</td>
+      <td>Đau đầu</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Hội chứng Guillain-Barré</td>
+      <td>Chưa biết<sup>a</sup></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn hô hấp, lồng ngực và trung thất</td>
+      <td>Nghẹt mũi/ chảy nước mũi</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Chảy máu cam</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Rối loạn da và mô dưới da</td>
+      <td>Phát ban</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Rối loạn cơ xương và mô liên kết</td>
+      <td>Đau cơ</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn toàn thân và tình trạng tại nơi dùng thuốc</td>
+      <td>Khó chịu</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Sốt</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Rối loạn bẩm sinh, di truyền gia đình và rối loạn gen</td>
+      <td>Đợt kịch phát triệu chứng của hội chứng Leigh (mitochondrial encephalomyopathy)</td>
+      <td>Chưa biết<sup>a</sup></td>
+    </tr>
+  </tbody>
+</table>
+<p><sup>a</sup> Kinh nghiệm sau khi lưu hành</p>
 
-Bảng 1: Biến cố ngoại ý
-| Phân loại theo hệ cơ quan MEDRA | Phản ứng bất lợi | Tần suất |
-| :--- | :--- | :--- |
-| Rối loạn hệ miễn dịch | Phản ứng quá mẫn (bao gồm phù mặt, nổi mày đay) | Ít gặp |
-| | Phản ứng phản vệ | Rất hiếm gặp |
-| Rối loạn chuyển hóa và dinh dưỡng | Giảm cảm giác thèm ăn | Rất thường gặp |
-| Rối loạn hệ thần kinh | Đau đầu | Thường gặp |
-| | Hội chứng Guillain-Barré | Chưa biếta |
-| Rối loạn hô hấp, lồng ngực và trung thất | Nghẹt mũi/ chảy nước mũi | Rất thường gặp |
-| | Chảy máu cam | Ít gặp |
-| Rối loạn da và mô dưới da | Phát ban | Ít gặp |
-| Rối loạn cơ xương và mô liên kết | Đau cơ | Thường gặp |
-| Rối loạn toàn thân và tình trạng tại nơi dùng thuốc | Khó chịu | Rất thường gặp |
-| | Sốt | Thường gặp |
-| Rối loạn bẩm sinh, di truyền gia đình và rối loạn gen | Đợt kịch phát triệu chứng của hội chứng Leigh (mitochondrial encephalomyopathy) | Chưa biếta |
-
-a Kinh nghiệm sau khi lưu hành
 
 Trẻ em
 Trong một nghiên cứu lâm sàng đối chứng (MI-CP111), cho thấy tỷ lệ nhập viện tăng (vì bất kỳ nguyên nhân nào) trong vòng 180 ngày sau lần chủng ngừa cuối ở trẻ sơ sinh và trẻ tập đi từ 6 – 11 tháng tuổi (6,1% ở nhóm FluMist so với 2,6% ở nhóm vắc-xin cúm đường tiêm). Hầu hết các trường hợp nhập viện là do nhiễm trùng đường tiêu hóa và hô hấp xảy ra hơn 6 tuần sau chủng ngừa. Tỷ lệ nhập viện không tăng ở những trẻ dùng FluMist từ 12 tháng tuổi trở lên. Trong cùng nghiên cứu, quan sát cho thấy
@@ -177,21 +229,79 @@ Dữ liệu hiệu lực của FluMist trên trẻ em bao gồm 9 nghiên cứu 
 
 8/14
 
-TRANG 9 (Page 9 of 14)
-Bảng 2: Hiệu lực của FluMist sau 2 liều đối với bệnh cúm được xác định bằng nuôi cấy virus trong các nghiên cứu trên trẻ em có đối chứng so với giả dược.
-
-| Số nghiên cứuᵃ | Vùng/ lãnh thổ | Nhóm tuổiᵇ | Số lượng đối tượng tham gia nghiên cứu | Mùa cúm | Hiệu lực (95% CI) chủng tương đương | Hiệu lực (95% CI) tất cả các chủng bất kể phù hợp |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| D153-P502 | Châu Âu | 6 - 35 tháng | 1.616 | 2000-2001 | 85,4% (74,3; 92,2) | 85,9% (76,3; 92,0) |
-| D153-P504 | Châu Phi, Mỹ la tinh | 6 - 35 tháng | 1.886 | 2001 | 73,5% (63,6; 81,0) | 72,0% (61,9; 79,8) |
-| D153-P513 | Châu Á/ Châu Đại Dương | 6 - 35 tháng | 1.041 | 2002 | 62,2% (43,6; 75,2) | 48,6% (28,8; 63,3) |
-| D153-P522 | Châu Âu, Châu Á/ Châu Đại Dương, Mỹ la tinh | 11 - 23 tháng | 1.150 | 2002-2003 | 78,4% (50,9; 91,3) | 63,8% (36,2; 79,8) |
-| D153-P501 | Châu Á/ Châu Đại Dương | 12 - 35 tháng | 2.764 | 2000-2001 | 72,9% (62,8; 80,5) | 70,1% (60,9; 77,3) |
-| AV006 | Hoa Kỳ | 15 - 71 tháng | 1.259ᶜ | 1996-1997 | 93,4% (87,5; 96,5) | Không áp dụng |
-
-ᵃ Dân số theo đề cương, trừ khi có ghi chú khác; không có người tham gia từng được chủng ngừa vắc-xin phòng cúm trước đó.
-ᵇ Nhóm tuổi mô tả trong đề cương nghiên cứu.
-ᶜ Dữ liệu được trình bày cho những người tham gia nghiên cứu đã nhận hai liều (nhóm ITT).
+<p><strong>Bảng 2: Hiệu lực của FluMist sau 2 liều đối với bệnh cúm được xác định bằng nuôi cấy virus trong các nghiên cứu trên trẻ em có đối chứng so với giả dược.</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Số nghiên cứu<sup>a</sup></th>
+      <th>Vùng/ lãnh thổ</th>
+      <th>Số lượng đối tượng nghiên cứu</th>
+      <th>Nhóm tuổi<sup>b</sup></th>
+      <th>Mùa cúm</th>
+      <th>Hiệu lực (95% CI) chủng tương đương</th>
+      <th>Hiệu lực (95% CI) tất cả các chủng bất kể phù hợp</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>D153-P502</td>
+      <td>Châu Âu</td>
+      <td>1.616</td>
+      <td>6 - 35 tháng</td>
+      <td>2000-2001</td>
+      <td>85,4% (74,3; 92,2)</td>
+      <td>85,9% (76,3; 92,0)</td>
+    </tr>
+    <tr>
+      <td>D153-P504</td>
+      <td>Châu Phi, Mỹ la tinh</td>
+      <td>1.886</td>
+      <td>6 - 35 tháng</td>
+      <td>2001</td>
+      <td>73,5% (63,6; 81,0)</td>
+      <td>72,0% (61,9; 79,8)</td>
+    </tr>
+    <tr>
+      <td>D153-P513</td>
+      <td>Châu Á/ Châu Đại Dương</td>
+      <td>1.041</td>
+      <td>6 - 35 tháng</td>
+      <td>2002</td>
+      <td>62,2% (43,6; 75,2)</td>
+      <td>48,6% (28,8; 63,3)</td>
+    </tr>
+    <tr>
+      <td>D153-P522</td>
+      <td>Châu Âu, Châu Á/ Châu Đại Dương, Mỹ la tinh</td>
+      <td>1.150</td>
+      <td>11 - 23 tháng</td>
+      <td>2002-2003</td>
+      <td>78,4% (50,9; 91,3)</td>
+      <td>63,8% (36,2; 79,8)</td>
+    </tr>
+    <tr>
+      <td>D153-P501</td>
+      <td>Châu Á/ Châu Đại Dương</td>
+      <td>2.764</td>
+      <td>12 - 35 tháng</td>
+      <td>2000-2001</td>
+      <td>72,9% (62,8; 80,5)</td>
+      <td>70,1% (60,9; 77,3)</td>
+    </tr>
+    <tr>
+      <td>AV006</td>
+      <td>Hoa Kỳ</td>
+      <td>1.259<sup>c</sup></td>
+      <td>15 - 71 tháng</td>
+      <td>1996-1997</td>
+      <td>93,4% (87,5; 96,5)</td>
+      <td>Không áp dụng</td>
+    </tr>
+  </tbody>
+</table>
+<p><sup>a</sup> Dân số theo đề cương, trừ khi có ghi chú khác; không có người tham gia từng được chủng ngừa vắc-xin phòng cúm trước đó.</p>
+<p><sup>b</sup> Nhóm tuổi mô tả trong đề cương nghiên cứu.</p>
+<p><sup>c</sup> Dữ liệu được trình bày cho những người tham gia nghiên cứu đã nhận hai liều (nhóm ITT).</p>
 
 9/14
 
@@ -200,19 +310,48 @@ Trong nghiên cứu lâm sàng AV006 và D153-P504, hiệu lực liều đơn Fl
 Ước tính hiệu lực của FluMist ở các chủng tương đương trên nhóm trẻ em nhận 2 liều vào năm thứ nhất và tiêm nhắc vào năm thứ hai là 100% (CI 95%: 38,2; 100; n=1110) trong nghiên cứu AV006, 84,3% (CI 95%: 70,1; 92,4; n=1265) trong nghiên cứu D153-P501, 88,7% (CI 95%: 82,0; 93,2; n=1090) trong nghiên cứu D153-P502 và 73,6% (CI 95%: 33,3; 91,2; n=680) trong nghiên cứu D153-P504.
 Ước tính hiệu lực của FluMist ở các chủng tương đương trên nhóm trẻ em nhận 2 liều trong năm đầu và sử dụng giả dược ở năm thứ hai thấp hơn là 56,2% (CI 95%: 30,5; 72,7; n=1253) trong nghiên cứu D153-P501 và 57,0% (CI 95%: 6,1; 81,7; n=718) trong nghiên cứu D153-P504.
 
-Bảng 3: Hiệu lực tương đối của FluMist được xác định bằng nuôi cấy virus trong các nghiên cứu trên trẻ em có đối chứng với vắc-xin cúm dạng tiêm
-
-| Số nghiên cứuᵃ | Vùng/ lãnh thổ | Nhóm tuổiᵇ | Số lượng người tham gia nghiên cứu | Mùa cúm | Hiệu lực được cải thiện (95% CI) chủng tương đương | Hiệu lực được cải thiện (95% CI) tất cả các chủng bất kể phù hợp |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| MI-CP111 | Hoa Kỳ, Châu Âu, Châu Á/ Châu Đại Dương | 6 - 59 tháng | 7.852ᶜ | 2004-2005 | 44,5% (22,4; 60,6) | 54,9% (45,4; 62,9)ᵈ |
-| D153-P514 | Châu Âu | 6 - 71 tháng | 2.085ᵉ | 2002-2003 | 52,7% (21,6; 72,2) | 52,4% (24,6; 70,5)ᶠ |
-
-10/14
-
-TRANG 11 (Page 11 of 14)
-| Số nghiên cứuᵃ | Vùng/ lãnh thổ | Nhóm tuổiᵇ | Số lượng người tham gia nghiên cứu | Mùa cúm | Hiệu lực được cải thiện (95% CI) chủng tương đương | Hiệu lực được cải thiện (95% CI) tất cả các chủng bất kể phù hợp |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| D153-P515 | Châu Âu | 6 – 17 tuổi | 2.211ᵍ | 2002-2003 | 34,7% (3,9; 56,0) | 31,9% (1,1; 53,5) |
+<table>
+  <thead>
+    <tr>
+      <th>Số nghiên cứu<sup>a</sup></th>
+      <th>Vùng/ lãnh thổ</th>
+      <th>Nhóm tuổi<sup>b</sup></th>
+      <th>Số lượng người tham gia nghiên cứu</th>
+      <th>Mùa cúm</th>
+      <th>Hiệu lực được cải thiện (95% CI) chủng tương đương</th>
+      <th>Hiệu lực được cải thiện (95% CI) tất cả các chủng bất kể phù hợp</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MI-CP111</td>
+      <td>Hoa Kỳ, Châu Âu, Châu Á/ Châu Đại Dương</td>
+      <td>6-59 tháng</td>
+      <td>7.852<sup>c</sup></td>
+      <td>2004-2005</td>
+      <td>44,5% (22,4; 60,6)</td>
+      <td>54,9% (45,4; 62,9)<sup>d</sup></td>
+    </tr>
+    <tr>
+      <td>D153-P514</td>
+      <td>Châu Âu</td>
+      <td>6-71 tháng</td>
+      <td>2.085<sup>e</sup></td>
+      <td>2002-2003</td>
+      <td>52,7% (21,6; 72,2)</td>
+      <td>52,4% (24,6; 70,5)<sup>f</sup></td>
+    </tr>
+    <tr>
+      <td>D153-P515</td>
+      <td>Châu Âu</td>
+      <td>6 - 17 tuổi</td>
+      <td>2.211<sup>g</sup></td>
+      <td>2002-2003</td>
+      <td>34,7% (3,9; 56,0)</td>
+      <td>31,9% (1,1; 53,5)</td>
+    </tr>
+  </tbody>
+</table>
 
 ᵃ Dân số theo đề cương nghiên cứu.
 ᵇ Nhóm tuổi được mô tả trong đề cương nghiên cứu. M=tháng. Y=năm.

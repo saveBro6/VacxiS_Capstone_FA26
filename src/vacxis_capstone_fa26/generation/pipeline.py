@@ -1,6 +1,7 @@
 """End-to-End VacxiS RAG Pipeline coupling Retrieval with Medical Generation."""
 from __future__ import annotations
 
+from collections.abc import Callable
 from itertools import zip_longest
 from types import TracebackType
 from typing import Any, Sequence
@@ -58,6 +59,7 @@ class VacxisRAGPipeline:
         clarifications: Sequence[Clarification] = (),
         top_k: int | None = None,
         skip_rerank: bool | None = None,
+        on_progress: Callable[[str, int | None], None] | None = None,
     ) -> GeneratedAnswer | ClarifyPlan:
         """Plan and execute one turn, or return a question for the caller to ask."""
         if self.query_planner is None:
@@ -65,18 +67,25 @@ class VacxisRAGPipeline:
         if top_k is not None and (type(top_k) is not int or top_k < 1):
             raise ValueError("top_k must be a positive integer.")
 
+        if on_progress is not None:
+            on_progress("planning", None)
         plan = self.query_planner.plan(original_query, clarifications)
         if isinstance(plan, ClarifyPlan):
             return plan
 
+        retrieval_options = {}
+        if on_progress is not None:
+            on_progress("searching", None)
+            retrieval_options["on_rerank"] = lambda: on_progress("reranking", None)
+
         if len(plan.search_queries) == 1:
             chunks = self.retriever.retrieve(
-                query=plan.original_query, top_k=top_k, skip_rerank=skip_rerank,
+                query=plan.original_query, top_k=top_k, skip_rerank=skip_rerank, **retrieval_options,
             )
         else:
             limit = top_k if top_k is not None else self.retriever.config.top_k
             groups = self.retriever.batch_retrieve(
-                queries=plan.search_queries, top_k=limit, skip_rerank=skip_rerank,
+                queries=plan.search_queries, top_k=limit, skip_rerank=skip_rerank, **retrieval_options,
             )
             if len(groups) != len(plan.search_queries):
                 raise ValueError("Expected one retrieval group per search query.")
@@ -89,6 +98,8 @@ class VacxisRAGPipeline:
                 for turn in clarifications
             )
             generation_query = f"{generation_query}\n\n{clarification_text}"
+        if on_progress is not None:
+            on_progress("generating", len(chunks))
         return self.generator.generate(query=generation_query, chunks=chunks)
 
     @staticmethod

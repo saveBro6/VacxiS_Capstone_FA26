@@ -1,5 +1,4 @@
 Verorab
-Tờ hướng dẫn sử dụng dùng cho hộp 5 lọ, lọ 1 liều vắc-xin đông khô + 5 ống, ống chứa 0,5 ml dung môi
 Thuốc này chỉ dùng theo đơn của bác sĩ
 
 VERORAB
@@ -12,7 +11,7 @@ Phải bảo đảm tiêm đầy đủ các liều theo lịch tiêm chủng. N�
 Vắc-xin này được chỉ định riêng cho từng người. Không nên đưa vắc-xin này cho người khác dùng.
 
 THÀNH PHẦN: trong 1 liều (0,5 ml)
-- Hoạt chất là virus Dại*, chủng Wistar Rabies PM/WI38-1503-3M (bất hoạt)............................................................................≥ 2,5 IU**
+- Hoạt chất là virus Dại*, chủng Wistar Rabies PM/WI38-1503-3M (bất hoạt) ≥ 2,5 IU**
 * Điều chế trên tế bào VERO
 ** Hàm lượng được đo theo chuẩn quốc tế và thử nghiệm NIH
 - Các thành phần khác:
@@ -39,7 +38,6 @@ Tiêm phòng trước phơi nhiễm được khuyến cáo ở các đối tư�
 1/8
 
 Verorab
-Tờ hướng dẫn sử dụng dùng cho hộp 5 lọ, lọ 1 liều vắc-xin đông khô + 5 ống, ống chứa 0,5 ml dung môi
 
 Những đối tượng sau cũng nên tiêm ngừa Dại vì thường xuyên có nguy cơ nhiễm bệnh Dại:
 - Bác sĩ thú y và phụ tá, người chăm sóc động vật.
@@ -53,33 +51,84 @@ Sau khi xác định hay nghi ngờ phơi nhiễm, dù là nguy cơ thấp nhấ
 Ở một số nước, tiêm vắc-xin Dại phải được thực hiện ở một Trung tâm chuyên khoa điều trị bệnh Dại.
 Việc điều trị sau phơi nhiễm gồm điều trị không đặc hiệu tại vết thương, tạo miễn dịch thụ động bằng cách tiêm huyết thanh kháng Dại (RIGs) phối hợp với vắc-xin phòng Dại, tùy theo phân loại vết thương và tình trạng con vật (xem bảng 1 và 2).
 
-Bảng 1: Hướng xử trí tùy theo tình trạng con vật
+<p><b>Bảng 1: Hướng xử trí tùy theo tình trạng con vật</b></p>
 
-| Trường hợp | Hướng xử trí: Đối với Súc vật | Hướng xử trí: Đối với Bệnh nhân | Lưu ý |
-| :--- | :--- | :--- | :--- |
-| **Con vật không thể theo dõi** | Tình huống nghi ngờ hay không nghi ngờ | Phải đưa đi điều trị tại Trung tâm điều trị Dại | Điều trị phải được hoàn tất đầy đủ |
-| **Con vật bị chết** | Gởi não con vật đến phòng xét nghiệm chuyên môn để phân tích.<br>Tình huống nghi ngờ hay không nghi ngờ | Phải đưa đi điều trị tại Trung tâm điều trị Dại | Ngưng điều trị nếu kết quả xét nghiệm mô não âm tính, nếu không thì phải tiếp tục điều trị |
-| **Con vật còn sống** | Tình huống không nghi ngờ<br>Con vật phải được bác sĩ thú y theo dõi (a) | Quyết định hoãn điều trị Dại | Tiếp tục điều trị (b) tùy theo tình trạng con vật được bác sĩ thú y theo dõi.<br>Ngưng điều trị (b) nếu bác sĩ theo dõi con vật và nhận thấy nghi ngờ ban đầu không có giá trị, nếu không thì phải tiếp tục điều trị |
-| **Con vật còn sống** | Tình huống nghi ngờ<br>Con vật phải được bác sĩ thú y theo dõi (a) | Phải đưa đi điều trị tại Trung tâm điều trị Dại | |
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Trường hợp</th>
+      <th colspan="2">Hướng xử trí</th>
+      <th rowspan="2">Lưu ý</th>
+    </tr>
+    <tr>
+      <th>Đối với Súc vật</th>
+      <th>Đối với Bệnh nhân</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Con vật không thể theo dõi</b><br><b>Tình huống nghi ngờ hay không nghi ngờ</b></td>
+      <td></td>
+      <td>Phải đưa đi điều trị tại Trung tâm điều trị Dại</td>
+      <td>Điều trị<sup>(b)</sup> phải được hoàn tất đầy đủ</td>
+    </tr>
+    <tr>
+      <td><b>Con vật bị chết</b><br><b>Tình huống nghi ngờ hay không nghi ngờ</b></td>
+      <td>Gởi não con vật đến phòng xét nghiệm chuyên môn để phân tích</td>
+      <td>Phải đưa đi điều trị tại Trung tâm điều trị Dại</td>
+      <td>Ngưng điều trị<sup>(b)</sup> nếu kết quả xét nghiệm mô não âm tính, nếu không thì phải tiếp tục điều trị</td>
+    </tr>
+    <tr>
+      <td><b>Con vật còn sống</b><br><b>Tình huống không nghi ngờ</b></td>
+      <td>Con vật phải được bác sĩ thú y theo dõi<sup>(a)</sup></td>
+      <td>Quyết định hoãn điều trị Dại</td>
+      <td>Tiếp tục điều trị<sup>(b)</sup> tùy theo tình trạng con vật được bác sĩ thú y theo dõi.</td>
+    </tr>
+    <tr>
+      <td><b>Con vật còn sống</b><br><b>Tình huống nghi ngờ</b></td>
+      <td>Con vật phải được bác sĩ thú y theo dõi<sup>(a)</sup></td>
+      <td>Phải đưa đi điều trị tại Trung tâm điều trị Dại</td>
+      <td>Ngưng điều trị<sup>(b)</sup> nếu bác sĩ theo dõi con vật và nhận thấy nghi ngờ ban đầu không có giá trị, nếu không thì phải tiếp tục điều trị</td>
+    </tr>
+  </tbody>
+</table>
 
-(a) Tại Pháp, sự theo dõi của bác sĩ thú y bao gồm theo dõi và cấp 3 giấy chứng nhận vào Ngày 0, Ngày 7 và Ngày 14 xác nhận con vật không có dấu hiệu bệnh Dại. Theo khuyến cáo của Tổ Chức Y Tế Thế Giới, chó hay mèo phải được bác sĩ thú y theo dõi tối thiểu 10 ngày.
-(b) Việc điều trị phải tùy theo độ nặng nhẹ của vết thương: xem bảng 2.
-
+<p><sup>(a)</sup> Tại Pháp, sự theo dõi của bác sĩ thú y bao gồm theo dõi và cấp 3 giấy chứng nhận vào Ngày 0, Ngày 7 và Ngày 14 xác nhận con vật không có dấu hiệu bệnh Dại. Theo khuyến cáo của Tổ Chức Y Tế Thế Giới, chó hay mèo phải được bác sĩ thú y theo dõi tối thiểu 10 ngày.<br>
+<sup>(b)</sup> Việc điều trị phải tùy theo độ nặng nhẹ của vết thương: xem bảng 2.</p>
 2/8
 
 Verorab
-Tờ hướng dẫn sử dụng dùng cho hộp 5 lọ, lọ 1 liều vắc-xin đông khô + 5 ống, ống chứa 0,5 ml dung môi
+<p><b>Bảng 2: Hướng dẫn của Tổ Chức Y Tế Thế Giới về điều trị sau phơi nhiễm tùy theo độ nặng của vết thương</b></p>
 
-Bảng 2: Hướng dẫn của Tổ Chức Y Tế Thế Giới về điều trị sau phơi nhiễm tùy theo độ nặng của vết thương
+<table>
+  <thead>
+    <tr>
+      <th>Phân loại độ nặng</th>
+      <th>Kiểu tiếp xúc với thú hoang<sup>(a)</sup> hay thú nuôi nghi ngờ hay chắc chắn Dại hay không thể theo dõi con vật</th>
+      <th>Khuyến cáo Điều trị</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>I</td>
+      <td>Sờ hay cho súc vật ăn<br>Liếm trên da lành</td>
+      <td>Không điều trị, nếu có bệnh sử đáng tin cậy</td>
+    </tr>
+    <tr>
+      <td>II</td>
+      <td>Gặm vùng da trần<br>Những vết cào, sướt nhẹ không chảy máu<br>Liếm trên da có trầy</td>
+      <td>Tiêm vắc-xin ngay<sup>(b)</sup>.</td>
+    </tr>
+    <tr>
+      <td>III</td>
+      <td>Một hay nhiều vết cắn hay cào xuyên thấu da<br>Niêm mạc bị nhiễm nước dãi (liếm)</td>
+      <td>Tiêm huyết thanh kháng Dại và vắc-xin Dại ngay lập tức<sup>(b)</sup></td>
+    </tr>
+  </tbody>
+</table>
 
-| Phân loại độ nặng | Kiểu tiếp xúc với thú hoang hay thú nuôi nghi ngờ hay chắc chắn Dại hay không thể theo dõi con vật | Khuyến cáo Điều trị |
-| :--- | :--- | :--- |
-| **I** | Sờ hay cho súc vật ăn<br>Liếm trên da lành | Không điều trị, nếu có bệnh sử đáng tin cậy |
-| **II** | Gặm vùng da trần<br>Những vết cào, sướt nhẹ không chảy máu | Tiêm vắc-xin ngay (b). |
-| **III** | Liếm trên da có trầy<br>Một hay nhiều vết cắn hay cào xuyên thấu da<br>Niêm mạc bị nhiễm nước dãi (liếm) | Tiêm huyết thanh kháng Dại và vắc-xin Dại ngay lập tức (b) |
-
-(a) Tiếp xúc với động vật gặm nhấm, thỏ, hay thỏ rừng thường không cần thiết phải điều trị Dại đặc hiệu.
-(b) Ngưng điều trị nếu sau 10 ngày theo dõi con vật vẫn khỏe mạnh (đối với chó hay mèo) hay nếu con vật bị giết và kết quả xét nghiệm tìm bệnh Dại bằng các kỹ thuật xét nghiệm thích hợp âm tính.
+<p>(a) Tiếp xúc với động vật gặm nhấm, thỏ, hay thỏ rừng thường không cần thiết phải điều trị Dại đặc hiệu.<br>
+(b) Ngưng điều trị nếu sau 10 ngày theo dõi con vật vẫn khỏe mạnh (đối với chó hay mèo) hay nếu con vật bị giết và kết quả xét nghiệm tìm bệnh Dại bằng các kỹ thuật xét nghiệm thích hợp âm tính.</p>
 
 CÁCH DÙNG
 Trước khi hoàn nguyên, vắc-xin đông khô có màu trắng thuần nhất.
@@ -106,24 +155,35 @@ Tùy theo đường tiêm (tiêm bắp hay tiêm trong da), tình huống tiêm 
 3/8
 
 Verorab
-Tờ hướng dẫn sử dụng dùng cho hộp 5 lọ, lọ 1 liều vắc-xin đông khô + 5 ống, ống chứa 0,5 ml dung môi
 
 1. Liều tiêm và lịch tiêm đối với đường TIÊM BẮP
 TIÊM PHÒNG TRƯỚC PHƠI NHIỄM
 Tiêm bắp 3 liều (0,5 ml/liều) VERORAB vào Ngày 0, Ngày 7, Ngày 28 hoặc ngày 21.
 Tiêm nhắc sau khi đã tiêm phòng trước phơi nhiễm:
 Tiêm VERORAB nhắc lại (tiêm bắp, 0,5 ml/liều) lúc một năm sau khi chủng ngừa cơ bản, sau đó tiêm nhắc lại mỗi 5 năm:
+<p><b>Bảng 3: Lịch tiêm khuyến cáo đối với liều cơ bản và tiêm nhắc (áp dụng khi dùng đường tiêm bắp)</b></p>
 
-Bảng 3: Lịch tiêm khuyến cáo đối với liều cơ bản và tiêm nhắc (áp dụng khi dùng đường tiêm bắp)
+<table>
+  <tbody>
+    <tr>
+      <td><b>Chủng ngừa cơ bản</b></td>
+      <td>3 liều</td>
+      <td>Ngày 0, ngày 7 và ngày 28*</td>
+    </tr>
+    <tr>
+      <td><b>Tiêm nhắc liều thứ nhất</b></td>
+      <td>1 năm sau</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Các liều tiêm nhắc tiếp theo</b></td>
+      <td>Mỗi 5 năm</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-| Chủng ngừa cơ bản | 3 liều | Ngày 0, ngày 7 và ngày 28* |
-| :--- | :--- | :--- |
-| **Tiêm nhắc liều thứ nhất** | 1 năm sau | |
-| **Các liều tiêm nhắc tiếp theo** | Mỗi 5 năm | |
-
-* Liều tiêm vào ngày 28 có thể tiêm vào ngày 21.
-VERORAB có thể dùng để tiêm nhắc đối với những người đã tiêm liều cơ bản với vắc-xin Dại điều chế từ tế bào lưỡng bội hay tế bào Vero.
-
+<p>* Liều tiêm vào ngày 28 có thể tiêm vào ngày 21.</p>
 TIÊM NGỪA SAU PHƠI NHIỄM:
 Điều trị sơ cứu: xử lý tại vết thương
 Xối rửa tất cả các vết cắn hay vết cào với thật nhiều nước và xà phòng hay thuốc làm sạch vết thương. Làm như vậy có thể giúp loại bỏ có hiệu quả virus Dại tại vết cắn hay vết cào.
@@ -141,10 +201,20 @@ Trường hợp nghi ngờ, nếu mũi tiêm nhắc đã quá 5 năm, hay tiêm 
 
 Bảng 4: Lịch tiêm khuyến cáo tùy theo tình hình tiêm ngừa trước đây của bệnh nhân đối với trường hợp tiêm phòng sau phơi nhiễm Dại (áp dụng khi dùng đường tiêm bắp).
 
-| Tình trạng tiêm ngừa trước đây | Lịch tiêm khuyến cáo |
-| :--- | :--- |
-| **Đã tiêm ngừa trong vòng 5 năm trở lại đây (với vắc-xin Dại nuôi cấy trên tế bào)** | Tiêm bắp 2 liều: Ngày 0 và Ngày 3. |
-| **Đã tiêm ngừa cách nay quá 5 năm hay đã tiêm ngừa nhưng không đầy đủ** | Tiêm bắp 5 liều: Ngày 0, Ngày 3, Ngày 7, Ngày 14 và Ngày 28, kèm với tiêm huyết thanh kháng Dại nếu cần thiết. |
+<p><b>Bảng 4: Lịch tiêm khuyến cáo tùy theo tình hình tiêm ngừa trước đây của bệnh nhân đối với trường hợp tiêm phòng sau phơi nhiễm Dại (áp dụng khi dùng đường tiêm bắp).</b></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Đã tiêm ngừa trong vòng 5 năm trở lại đây (với vắc-xin Dại nuôi cấy trên tế bào)</b></td>
+      <td>Tiêm bắp 2 liều: Ngày 0 và Ngày 3.</td>
+    </tr>
+    <tr>
+      <td><b>Đã tiêm ngừa cách nay quá 5 năm hay đã tiêm ngừa nhưng không đầy đủ</b></td>
+      <td>Tiêm bắp 5 liều: Ngày 0, Ngày 3, Ngày 7, Ngày 14 và Ngày 28, kèm với tiêm huyết thanh kháng Dại nếu cần thiết.</td>
+    </tr>
+  </tbody>
+</table>
 
 Người chưa tiêm dự phòng:
 Tiêm bắp 5 liều VERORAB (0,5 ml/liều) vào Ngày 0, Ngày 3, Ngày 7, Ngày 14, Ngày 28.
@@ -152,7 +222,6 @@ Tiêm bắp 5 liều VERORAB (0,5 ml/liều) vào Ngày 0, Ngày 3, Ngày 7, Ng�
 4/8
 
 Verorab
-Tờ hướng dẫn sử dụng dùng cho hộp 5 lọ, lọ 1 liều vắc-xin đông khô + 5 ống, ống chứa 0,5 ml dung môi
 
 Trong vùng có dịch bệnh ở súc vật, có thể cân nhắc tiêm 2 mũi vào Ngày 0, ví dụ như khi vết thương cực kỳ nặng hoặc vị trí vết thương gần hệ thần kinh trung ương, hay đối tượng bị suy giảm miễn dịch hay không đi khám ngay sau khi phơi nhiễm.
 
@@ -187,7 +256,6 @@ Trước phơi nhiễm
 5/8
 
 Verorab
-Tờ hướng dẫn sử dụng dùng cho hộp 5 lọ, lọ 1 liều vắc-xin đông khô + 5 ống, ống chứa 0,5 ml dung môi
 
 Sau khi phơi nhiễm
 Vì bệnh Dại luôn dẫn đến tử vong, nên không có chống chỉ định tiêm phòng sau phơi nhiễm.
@@ -220,7 +288,6 @@ Nên làm xét nghiệm huyết thanh học một cách đều đặn. Xét nghi
 6/8
 
 Verorab
-Tờ hướng dẫn sử dụng dùng cho hộp 5 lọ, lọ 1 liều vắc-xin đông khô + 5 ống, ống chứa 0,5 ml dung môi
 
 Khi tiêm vắc-xin cho những người bị suy giảm miễn dịch do các bệnh lý gây ức chế miễn dịch hay đang dùng các thuốc làm ức chế miễn dịch (như corticosteroid), thì sau khi tiêm vắc-xin 2 đến 4 tuần nên làm xét nghiệm đo nồng độ kháng thể. Nếu nồng độ kháng thể ở dưới ngưỡng bảo vệ, nghĩa là dưới 0,5 IU/ml (RFFIT), thì nên tiêm bổ sung.
 
@@ -261,7 +328,6 @@ Vắc-xin sản xuất bởi SANOFI PASTEUR S.A. tại Campus Mérieux, 1541 ave
 7/8
 
 Verorab
-Tờ hướng dẫn sử dụng dùng cho hộp 5 lọ, lọ 1 liều vắc-xin đông khô + 5 ống, ống chứa 0,5 ml dung môi
 
 Dung môi sản xuất bởi Haupt Pharma Livron tại 1 rue Comte de Sinard - 26250 Livron sur Drôme - Pháp.
 

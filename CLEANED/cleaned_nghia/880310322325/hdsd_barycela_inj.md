@@ -5,16 +5,60 @@ BARYCELA inj.
 “Thuốc này chỉ dùng theo đơn thuốc"
 Thành phần:
 Trong 0,5ml vắc xin sau khi hoàn nguyên có chứa:
-| Thành phần hoạt chất: | Virus thủy đậu sống giảm độc lực (Chủng: MAV/06, dòng tế bào: MRC-5) | > 3.800 PFU |
-| Thành phần tá dược: | Potassium dihydrogen phosphate | 0,06 mg |
-| | Dibasic sodium phosphate hydrate | 1,14 mg |
-| | Sodium L-glutamate hydrate | 0,40 mg |
-| | Sucrose | 18,21 mg |
-| | L-cysteine | 0,18 mg |
-| | Glycine | 1,82 mg |
-| | Disodium edetate hydrate | 0,18 mg |
-| | Urea | 0,87 mg |
-| | Gelatin | 8,74 mg |
+<table>
+  <tr>
+    <td>Thành phần hoạt chất:</td>
+    <td>Virus thủy đậu sống giảm độc lực<br>(Chủng: MAV/06, dòng tế bào: MRC-5)</td>
+    <td>-------------</td>
+    <td>&ge; 3.800 PFU</td>
+  </tr>
+  <tr>
+    <td rowspan="9">Thành phần tá dược:</td>
+    <td>Potassium dihydrogen phosphate</td>
+    <td>-------------</td>
+    <td>0,06 mg</td>
+  </tr>
+  <tr>
+    <td>Dibasic sodium phosphate hydrate</td>
+    <td>-------------</td>
+    <td>1,14 mg</td>
+  </tr>
+  <tr>
+    <td>Sodium L-glutamate hydrate</td>
+    <td>-------------</td>
+    <td>0,40 mg</td>
+  </tr>
+  <tr>
+    <td>Sucrose</td>
+    <td>-------------</td>
+    <td>18,21 mg</td>
+  </tr>
+  <tr>
+    <td>L-cysteine</td>
+    <td>-------------</td>
+    <td>0,18 mg</td>
+  </tr>
+  <tr>
+    <td>Glycine</td>
+    <td>-------------</td>
+    <td>1,82 mg</td>
+  </tr>
+  <tr>
+    <td>Disodium edetate hydrate</td>
+    <td>-------------</td>
+    <td>0,18 mg</td>
+  </tr>
+  <tr>
+    <td>Urea</td>
+    <td>-------------</td>
+    <td>0,87 mg</td>
+  </tr>
+  <tr>
+    <td>Gelatin</td>
+    <td>-------------</td>
+    <td>8,74 mg</td>
+  </tr>
+</table>
 Dung môi kèm theo: Nước cất pha tiêm    0,7 ml
 Dạng bào chế: Bột đông khô pha tiêm và dung môi pha tiêm.
 Mô tả: Thuốc có màu trắng, đựng trong lọ trong suốt, và tạo thành một dung dịch trong suốt, không màu
@@ -95,27 +139,99 @@ Các biến cố bất lợi được ghi nhận với 275 đối tượng (56,8
 - Phản ứng toàn thân như: ho, sốt, chán ăn/mất cảm giác thèm ăn có thể xuất hiện sau khi tiêm.
 (1) Các tác dụng phụ tại chỗ/toàn thân trong danh sách phỏng vấn đã quan sát được trong
 7 ngày sau khi tiêm vắc xin này như sau:
-| | | Pha $2/3$ $(N=484)$ |
-| Phản ứng tại chỗ | Dau | 21.7% |
-| | Nhạy cảm đau | 21,1% |
-| | Ban đỏ/mẩn đỏ | 23,1% |
-| | Chai cứng | 9,5% |
-| | Ngứa | 3,9% |
-| | Mề đay | 1.4% |
-| | Sưng tây | 3,1% |
-| Phản ứng toàn thân | Ho | 13,6% |
-| | Sốt | 9,9% |
-| | Chán ăn ăn mất ngon \| | 8,5% |
-| | Nôn/buồn nôn | 5,2% |
-| | Phát ban | 4.8% |
-| | Táo bón | 3,9% |
-| | Đau đầu | 3,9% |
-| | Đau bụng | 2,9% |
-| | Khó thở | 2,5% |
-| | Mệt mỏi | 2,1% |
-| | Dị ứng | 1,9% |
-| | Quá mẫn | 1,0% |
-| | Viêm niêm mac | 0,2% |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Pha 2/3 (N = 484)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">Phản ứng tại chỗ</td>
+      <td>Đau</td>
+      <td>21,7%</td>
+    </tr>
+    <tr>
+      <td>Nhạy cảm đau</td>
+      <td>21,1%</td>
+    </tr>
+    <tr>
+      <td>Ban đỏ/mẩn đỏ</td>
+      <td>23,1%</td>
+    </tr>
+    <tr>
+      <td>Chai cứng</td>
+      <td>9,5%</td>
+    </tr>
+    <tr>
+      <td>Ngứa</td>
+      <td>3,9%</td>
+    </tr>
+    <tr>
+      <td>Mề đay</td>
+      <td>1,4%</td>
+    </tr>
+    <tr>
+      <td>Sưng tấy</td>
+      <td>3,1%</td>
+    </tr>
+    <tr>
+      <td rowspan="13">Phản ứng toàn thân</td>
+      <td>Ho</td>
+      <td>13,6%</td>
+    </tr>
+    <tr>
+      <td>Sốt</td>
+      <td>9,9%</td>
+    </tr>
+    <tr>
+      <td>Chán ăn/ăn mất ngon</td>
+      <td>8,5%</td>
+    </tr>
+    <tr>
+      <td>Nôn/buồn nôn</td>
+      <td>5,2%</td>
+    </tr>
+    <tr>
+      <td>Phát ban</td>
+      <td>4,8%</td>
+    </tr>
+    <tr>
+      <td>Táo bón</td>
+      <td>3,9%</td>
+    </tr>
+    <tr>
+      <td>Đau đầu</td>
+      <td>3,9%</td>
+    </tr>
+    <tr>
+      <td>Đau bụng</td>
+      <td>2,9%</td>
+    </tr>
+    <tr>
+      <td>Khó thở</td>
+      <td>2,5%</td>
+    </tr>
+    <tr>
+      <td>Mệt mỏi</td>
+      <td>2,1%</td>
+    </tr>
+    <tr>
+      <td>Dị ứng</td>
+      <td>1,9%</td>
+    </tr>
+    <tr>
+      <td>Quá mẫn</td>
+      <td>1,0%</td>
+    </tr>
+    <tr>
+      <td>Viêm niêm mạc</td>
+      <td>0,2%</td>
+    </tr>
+  </tbody>
+</table>
 (2) Các tác dụng phụ của thuốc ngoài dự kiến quan sát được trong 42 ngày sau khi tiêm
 vắc xin này đã được báo cáo trên 70 đối tượng (14,5%). Tác dụng phụ của thuốc liên quan đến
 nhiễm trùng và nhiễm ký sinh trùng là phổ biến nhất với 48 trường hợp trên 46 đối tượng (9,5%).
@@ -183,12 +299,40 @@ bằng xét nghiệm kháng thể huỳnh quang - kháng nguyên màng (FAMA) đ
 kháng thể thỏa mãn tiêu chí không thua kém.
 Bảng sau đây cho thấy phân tích thống kê về tỷ lệ chuyển đổi huyết thanh không thua kém
 ở 42 ngày sau tiêm chủng trong thử nghiệm lâm sàng giai đoạn 3.
-| | Barycela | Vắc xin đối chứng (Vắc xin Varicella sống) |
-| $\%(n/N)$ | 97.91 (234/239) | 99.16 (237/239) |
-| 95% CI của SR | [95.19,99.32] | [97.01,99.90] |
-| Tỷ lệ chuyên đổi huyết | Sự khác biệt giữa hai loại vắc xin (D2V) -1.3 |
-| thanh (SR) | [-4.03,1.22] 95% CI của D2V |
-| | Định nghĩa về tỉ lệ chuyên đôi huyết thanh: xuất hiện hiệu giá kháng thể 1:4 trở lên từ trạng thái huyết thanh âm tính bằng xét nghiệm FAMA được coi là chuyển đổi huyết thanh sau 42 ngày kể từ ngày tiêm |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Barycela</th>
+      <th>Vắc xin đối chứng<br>(Vắc xin Varicella sống)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">Tỷ lệ chuyển đổi huyết thanh (SR)</td>
+      <td>% (n/N)</td>
+      <td>97.91 (234/239)</td>
+      <td>99.16 (237/239)</td>
+    </tr>
+    <tr>
+      <td>95% CI của SR</td>
+      <td>[95.19,99.32]</td>
+      <td>[97.01,99.90]</td>
+    </tr>
+    <tr>
+      <td>Sự khác biệt giữa hai loại vắc xin (D2V)</td>
+      <td colspan="2" align="center">-1.3</td>
+    </tr>
+    <tr>
+      <td>95% CI của D2V</td>
+      <td colspan="2" align="center">[-4.03,1.22]</td>
+    </tr>
+    <tr>
+      <td colspan="4">Định nghĩa về tỉ lệ chuyển đổi huyết thanh: xuất hiện hiệu giá kháng thể 1:4 trở lên từ trạng thái huyết thanh âm tính bằng xét nghiệm FAMA được coi là chuyển đổi huyết thanh sau 42 ngày kể từ ngày tiêm</td>
+    </tr>
+  </tbody>
+</table>
 Lưu ý khi sử dụng:
 Vắc xin cần được bảo quản trong tủ lạnh, sau khi pha phải sử dụng ngay trong vòng 30
 phút, vắc xin đã pha không được để đông lạnh.

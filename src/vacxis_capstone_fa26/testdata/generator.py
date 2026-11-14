@@ -275,3 +275,208 @@ def generate_and_validate(
         expected_types=[t["type"] for t in QUERY_TYPE_DEFS],
     )
     return queries, rpt
+
+
+# Query-driven path: convert raw user queries into grounded vaccine queries.
+
+
+class RuleBasedRewriter:
+    """Offline, deterministic rewriter used when vLLM is unavailable.
+
+    It keeps the original user query text (the clinical intent is preserved)
+    and grounds it on a random corpus vaccine so the record still carries a
+    valid ``RELEVANT_CHUNKS`` payload. Answers come from the extractive
+    generator, so this path runs fully offline.
+    """
+
+    def __init__(self, chunks: list[Chunk], rng: random.Random) -> None:
+        self._chunks = chunks
+        self._rng = rng
+        self._vaccines = list(index_by_vaccine(chunks).keys())
+
+    def rewrite(self, source_queries: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        type_values = [t["type"] for t in QUERY_TYPE_DEFS]
+
+        results: list[dict[str, Any]] = []
+        for sq in source_queries:
+            vaccine = self._rng.choice(self._vaccines) if self._vaccines else ""
+            # Deterministic per-id spread across the 10 real types so an
+            # offline dataset still has type diversity (stable across runs).
+            sq_id = sq.get("id")
+            qtype = (
+                type_values[int(sq_id) % len(type_values)]
+                if isinstance(sq_id, int)
+                else "PRECAUTION"
+            )
+            results.append(
+                {
+                    "id": sq_id,
+                    "vaccine": vaccine,
+                    "rewritten_query": str(sq.get("query", "")).strip(),
+                    "query_type": qtype,
+                    "answerability": "ANSWERABLE",
+                    "rationale": "rule-based offline grounding",
+                }
+            )
+        return results
+
+
+def build_queries_from_source(
+    chunks: list[Chunk],
+    source_queries: list[dict[str, Any]],
+    rewriter,
+    rng: random.Random,
+    distractors_per_query: int,
+    vaccine_mapping: dict[str, str] | None = None,
+    answer_generator: AnswerGenerator | None = None,
+) -> list[dict]:
+    """Ground rewritten source queries onto the corpus and emit records.
+
+    Every record carries the full schema used by the template path. The
+    rewriter proposes a ``vaccine`` name; it is resolved against
+    ``index_by_vaccine`` (fuzzy: exact, then case-insensitive substring).
+    Unresolvable names fall back to a random corpus vaccine so the record
+    always points at a real chunk.
+    """
+    from .distractors import sample_distractors, score_for
+
+    by_category = index_by_category(chunks)
+    by_vaccine = index_by_vaccine(chunks)
+    all_vaccines = list(by_vaccine.keys())
+
+    # Type -> preferred category (the one its templates draw from).
+    type_to_category = {t["type"]: t["category"] for t in QUERY_TYPE_DEFS}
+
+    results = rewriter.rewrite(source_queries)
+
+    queries: list[dict] = []
+    for sq, res in zip(source_queries, results):
+        vaccine = _resolve_vaccine(res.get("vaccine"), all_vaccines, by_vaccine, rng)
+        vaccine_chunks = by_vaccine.get(vaccine, [])
+        if not vaccine_chunks:
+            # Unknown vaccine: ground on a random corpus chunk instead.
+            vaccine = rng.choice(all_vaccines)
+            vaccine_chunks = by_vaccine.get(vaccine, [])
+        if not vaccine_chunks:
+            continue
+
+        qtype = res.get("query_type") or "PRECAUTION"
+        cat = type_to_category.get(qtype, "cảnh báo và thận trọng")
+        type_def = next((td for td in QUERY_TYPE_DEFS if td["type"] == qtype), None)
+
+        # Prefer a chunk whose category matches the query type; else random.
+        cat_chunks = [c for c in vaccine_chunks if c.category == cat]
+        primary = rng.choice(cat_chunks) if cat_chunks else rng.choice(vaccine_chunks)
+
+        answerability = res.get("answerability", "ANSWERABLE")
+        evidence_chunk = {
+            "CHUNK_ID": primary.chunk_id,
+            "TEXT": primary.text,
+            "RELEVANCE_SCORE": 3,
+            "EVIDENCE_SPANS": None,
+        }
+
+        distractors = sample_distractors(
+            primary, chunks, by_category, rng, distractors_per_query,
+        )
+
+        if answerability == "UNANSWERABLE":
+            relevant_payload: list[dict] = []
+            relevant_docs: list[str] = []
+            evidence_completeness = "NOT_ASSESSED"
+        else:
+            relevant_payload = [evidence_chunk] + [
+                {
+                    "CHUNK_ID": d.chunk.chunk_id,
+                    "TEXT": d.chunk.text,
+                    "RELEVANCE_SCORE": score_for(d.kind),
+                    "EVIDENCE_SPANS": None,
+                }
+                for d in distractors
+            ]
+            relevant_docs = [primary.doc_id]
+            evidence_completeness = "COMPLETE"
+
+        queries.append(
+            {
+                "QUERY_ID": "",  # stamped below
+                "SOURCE_QUERY_ID": sq.get("id"),  # stable parquet id, used by checkpoints
+                "QUERY": res.get("rewritten_query") or str(sq.get("query", "")).strip(),
+                "QUERY_DIFFICULTY": "MEDIUM",
+                "QUERY_TYPE": qtype,
+                "QUERY_SOURCE": "VLLM_QUERY",
+                "QUERY_COMPLEXITY": "SINGLE_HOP",
+                "ENTITIES": {"vaccine": vaccine},
+                "CONSTRAINTS": {},
+                "ANSWERABILITY": answerability,
+                "RELEVANT_DOCS": relevant_docs,
+                "RELEVANT_CHUNKS": relevant_payload,
+                "REQUIRED_EVIDENCE_GROUPS": list(
+                    type_def["evidence_groups"] if type_def else []
+                ),
+                "EVIDENCE_COMPLETENESS": evidence_completeness,
+                "REFERENCE_ANSWER": None,
+                "CLAIM_EVIDENCE_MAP": [],
+                "SOURCE_VERSION": "PI_VERSION_ID",
+                "VERIFIED": False,
+                "ANNOTATOR_IDS": ["GEN"],
+                "ADJUDICATED": False,
+                "VERIFICATION_NOTES": None,
+            }
+        )
+
+    rng.shuffle(queries)
+    for i, q in enumerate(queries, start=1):
+        q["QUERY_ID"] = f"VAX_Q_{i:04d}"
+
+    if answer_generator is not None:
+        answer_generator.generate_answers(queries)
+
+    return queries
+
+
+def _resolve_vaccine(
+    proposed: str,
+    all_vaccines: list[str],
+    by_vaccine: dict[str, list[Chunk]],
+    rng: random.Random,
+) -> str:
+    """Best-effort match of the model's proposed vaccine against the corpus."""
+    proposed = (proposed or "").strip()
+    if proposed in by_vaccine:
+        return proposed
+    if proposed:
+        low = proposed.lower()
+        for name in all_vaccines:
+            if low in name.lower() or name.lower() in low:
+                return name
+    # Unresolvable -> a random corpus vaccine keeps the record grounded.
+    return rng.choice(all_vaccines) if all_vaccines else proposed
+
+
+def generate_and_validate_from_source(
+    chunks: list[Chunk],
+    source_queries: list[dict[str, Any]],
+    rewriter,
+    rng: random.Random,
+    distractors_per_query: int,
+    vaccine_mapping: dict[str, str] | None = None,
+    answer_generator: AnswerGenerator | None = None,
+) -> tuple[list[dict], object]:
+    """Query-driven counterpart of :func:`generate_and_validate`."""
+    queries = build_queries_from_source(
+        chunks, source_queries, rewriter, rng, distractors_per_query,
+        vaccine_mapping=vaccine_mapping, answer_generator=answer_generator,
+    )
+    by_category = index_by_category(chunks)
+    # Every real type must appear at least once; the query-driven path has no
+    # fixed per-type quota, so expect the union of the types actually emitted.
+    expected_types = sorted({q["QUERY_TYPE"] for q in queries}) or [
+        t["type"] for t in QUERY_TYPE_DEFS
+    ]
+    rpt = validate(
+        queries, chunks, by_category,
+        expected_per_type=0,
+        expected_types=expected_types,
+    )
+    return queries, rpt

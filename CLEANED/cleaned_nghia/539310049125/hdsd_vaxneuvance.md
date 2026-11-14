@@ -48,25 +48,51 @@ Việc sử dụng VAXNEUVANCE phải phù hợp với các khuyến cáo chính
 ## LIỀU DÙNG, CÁCH DÙNG
 ### Liều dùng
 
-**Lịch tiêm chủng thường quy đối với trẻ sơ sinh và trẻ từ 6 tuần tuổi đến dưới 2 tuổi**
-| Đối tượng/Lịch tiêm | Liều dùng khuyến cáo |
-| :--- | :--- |
-| **Lịch tiêm cơ bản 2 liều, tiếp theo là một liều nhắc lại** | Phác đồ tiêm chủng khuyến cáo gồm 3 liều VAXNEUVANCE, mỗi liều 0,5 ml. Liều đầu tiên được tiêm sớm nhất khi trẻ từ 6-12 tuần tuổi, và liều thứ hai được tiêm sau đó 8 tuần. Liều thứ ba (liều nhắc lại) nên được tiêm khi trẻ khoảng 11-15 tháng tuổi. |
-| **Lịch tiêm 3 liều cơ bản, tiếp theo là một liều nhắc lại** | Phác đồ tiêm chủng gồm 4 liều VAXNEUVANCE, mỗi liều 0,5ml. Lịch tiêm 3 liều cơ bản này, liều đầu tiên được tiêm sớm nhất khi trẻ từ 6-12 tuần tuổi, với khoảng cách giữa các liều từ 4-8 tuần trong lịch tiêm cơ bản. Liều thứ tư (liều nhắc lại) nên được tiêm khi trẻ khoảng 11-15 tháng tuổi và cách ít nhất 2 tháng sau liều thứ ba. |
-| **Trẻ sơ sinh thiếu tháng** (<37 tuần tuổi thai lúc sinh) | Phác đồ tiêm chủng khuyến cáo gồm lịch tiêm 3 liều cơ bản VAXNEUVANCE, tiếp theo là liều thứ tư (liều nhắc lại), mỗi liều 0,5 ml, tương tự như liều dùng của Lịch tiêm 3 liều cơ bản, tiếp theo là một liều nhắc lại (xem phần Cảnh báo và thận trọng khi dùng thuốc và Đặc tính dược lực học). |
-| **Tiêm chủng trước đó bằng một loại vắc-xin cộng hợp phế cầu khuẩn khác** | Trẻ sơ sinh và trẻ em đã bắt đầu tiêm chủng với vắc-xin cộng hợp phế cầu khuẩn khác có thể chuyển sang dùng VAXNEUVANCE bất cứ thời điểm nào trong lịch trình (xem phần Đặc tính dược lực học). |
-
-**Lịch tiêm bổ sung cho trẻ em từ 7 tháng tuổi đến dưới 18 tuổi**
-| Đối tượng/Lịch tiêm | Liều dùng khuyến cáo |
-| :--- | :--- |
-| **Trẻ sơ sinh từ 7 đến dưới 12 tháng tuổi chưa tiêm vắc-xin** | 3 liều, mỗi liều 0,5 ml, với hai liều đầu tiên được tiêm cách nhau ít nhất 4 tuần. Liều thứ ba (liều nhắc lại) nên được tiêm sau 12 tháng tuổi, cách liều thứ hai ít nhất 2 tháng. |
-| **Trẻ em từ 12 tháng tuổi đến dưới 2 tuổi chưa tiêm vắc-xin** | 2 liều, mỗi liều 0,5 ml, với khoảng cách giữa các liều là 2 tháng. |
-| **Trẻ em và thanh thiếu niên từ 2 đến dưới 18 tuổi chưa tiêm hoặc tiêm chưa đầy đủ vắc-xin** | 1 liều (0,5 ml). Nếu đã tiêm vắc-xin cộng hợp phế cầu khuẩn trước đó, nên chờ ít nhất 2 tháng trước khi tiêm VAXNEUVANCE. |
-
-**Lịch tiêm cho người lớn từ 18 tuổi trở lên**
-| Đối tượng/Lịch tiêm | Liều dùng khuyến cáo |
-| :--- | :--- |
-| **Người lớn từ 18 tuổi trở lên** | 1 liều (0,5 mL). Nhu cầu tiêm nhắc lại bằng một liều VAXNEUVANCE vẫn chưa được thiết lập. |
+<table border="1">
+  <tbody>
+    <tr>
+      <th colspan="2" align="left">Lịch tiêm chủng thường quy đối với trẻ sơ sinh và trẻ từ 6 tuần tuổi đến dưới 2 tuổi</th>
+    </tr>
+    <tr>
+      <td><em>Lịch tiêm cơ bản 2 liều, tiếp theo là một liều nhắc lại</em></td>
+      <td>Phác đồ tiêm chủng khuyến cáo gồm 3 liều VAXNEUVANCE, mỗi liều 0,5 ml. Liều đầu tiên được tiêm sớm nhất khi trẻ từ 6-12 tuần tuổi, và liều thứ hai được tiêm sau đó 8 tuần. Liều thứ ba (liều nhắc lại) nên được tiêm khi trẻ khoảng 11-15 tháng tuổi.</td>
+    </tr>
+    <tr>
+      <td><em>Lịch tiêm 3 liều cơ bản, tiếp theo là một liều nhắc lại</em></td>
+      <td>Phác đồ tiêm chủng gồm 4 liều VAXNEUVANCE, mỗi liều 0,5ml. Lịch tiêm 3 liều cơ bản này, liều đầu tiên được tiêm sớm nhất khi trẻ từ 6-12 tuần tuổi, với khoảng cách giữa các liều từ 4-8 tuần trong lịch tiêm cơ bản. Liều thứ tư (liều nhắc lại) nên được tiêm khi trẻ khoảng 11-15 tháng tuổi và cách ít nhất 2 tháng sau liều thứ ba.</td>
+    </tr>
+    <tr>
+      <td><em>Trẻ sơ sinh thiếu tháng (&lt;37 tuần tuổi thai lúc sinh)</em></td>
+      <td>Phác đồ tiêm chủng khuyến cáo gồm lịch tiêm 3 liều cơ bản VAXNEUVANCE, tiếp theo là liều thứ tư (liều nhắc lại), mỗi liều 0,5 ml, tương tự như liều dùng của Lịch tiêm 3 liều cơ bản, tiếp theo là một liều nhắc lại (xem phần Cảnh báo và thận trọng khi dùng thuốc và Đặc tính dược lực học).</td>
+    </tr>
+    <tr>
+      <td><em>Tiêm chủng trước đó bằng một loại vắc-xin cộng hợp phế cầu khuẩn khác</em></td>
+      <td>Trẻ sơ sinh và trẻ em đã bắt đầu tiêm chủng với vắc-xin cộng hợp phế cầu khuẩn khác có thể chuyển sang dùng VAXNEUVANCE bất cứ thời điểm nào trong lịch trình (xem phần Đặc tính dược lực học).</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Lịch tiêm bổ sung cho trẻ em từ 7 tháng tuổi đến dưới 18 tuổi</th>
+    </tr>
+    <tr>
+      <td><em>Trẻ sơ sinh từ 7 đến dưới 12 tháng tuổi chưa tiêm vắc-xin</em></td>
+      <td>3 liều, mỗi liều 0,5 ml, với hai liều đầu tiên được tiêm cách nhau ít nhất 4 tuần. Liều thứ ba (liều nhắc lại) nên được tiêm sau 12 tháng tuổi, cách liều thứ hai ít nhất 2 tháng.</td>
+    </tr>
+    <tr>
+      <td><em>Trẻ em từ 12 tháng tuổi đến dưới 2 tuổi chưa tiêm vắc-xin</em></td>
+      <td>2 liều, mỗi liều 0,5 ml, với khoảng cách giữa các liều là 2 tháng.</td>
+    </tr>
+    <tr>
+      <td><em>Trẻ em và thanh thiếu niên từ 2 đến dưới 18 tuổi chưa tiêm hoặc tiêm chưa đầy đủ vắc-xin</em></td>
+      <td>1 liều (0,5 ml).<br>Nếu đã tiêm vắc-xin cộng hợp phế cầu khuẩn trước đó, nên chờ ít nhất 2 tháng trước khi tiêm VAXNEUVANCE.</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Lịch tiêm cho người lớn từ 18 tuổi trở lên</th>
+    </tr>
+    <tr>
+      <td><em>Người lớn từ 18 tuổi trở lên</em></td>
+      <td>1 liều (0,5 mL).<br>Nhu cầu tiêm nhắc lại bằng một liều VAXNEUVANCE vẫn chưa được thiết lập.</td>
+    </tr>
+  </tbody>
+</table>
 
 Việc sử dụng VAXNEUVANCE nên được dựa trên các khuyến cáo chính thức.
 
@@ -178,39 +204,196 @@ Các phản ứng có hại được báo cáo cho tất cả các nhóm tuổi 
 - Rất hiếm gặp ($<1/10.000$)
 - Không rõ (không thể ước tính từ các dữ liệu hiện có).
 
-**Bảng 1: Bảng liệt kê các phản ứng có hại**
 
-| Nhóm hệ cơ quan | Phản ứng có hại | Tần suất (Trẻ sơ sinh/Trẻ em từ 6 tuần đến <2 tuổi) | Tần suất (Trẻ em/Thanh thiếu niên từ 2 đến <18 tuổi*) | Tần suất (Người lớn) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Rối loạn chuyển hóa và dinh dưỡng** | Giảm cảm giác thèm ăn | Rất thường gặp | Thường gặp | |
-| **Rối loạn tâm thần** | Dễ bị kích thích | Rất thường gặp | Thường gặp | |
-| **Rối loạn hệ miễn dịch** | Phản ứng quá mẫn bao gồm phù lưỡi, đỏ bừng mặt và nghẹn | | Hiếm gặp | |
-| **Rối loạn hệ thần kinh** | Buồn ngủ | Rất thường gặp | Thường gặp | |
-| | Nhức đầu | | Rất thường gặp | Rất thường gặp |
-| | Chóng mặt | | | Ít gặp |
-| **Rối loạn da và mô dưới da** | Mày đay | Rất thường gặp | Thường gặp | Hiếm gặp |
-| | Phát ban | Thường gặp | Thường gặp | Ít gặp |
-| **Rối loạn tiêu hóa** | Buồn nôn | | Không rõ | Ít gặp |
-| | Nôn | Thường gặp | Thường gặp | Ít gặp |
-| **Rối loạn hệ cơ xương và mô liên kết** | Đau cơ | | Rất thường gặp | Rất thường gặp |
-| | Đau khớp | | Thường gặp | Thường gặp |
-| **Rối loạn toàn thân và tình trạng tại chỗ tiêm** | Sốt $\ge38^{\circ}C$$^\dagger$ | Rất thường gặp | Thường gặp | Ít gặp$^\ddagger$ |
-| | Sốt $\ge39^{\circ}C$ | Thường gặp | Thường gặp | |
-| | Sốt $\ge40^{\circ}C$ | Ít gặp | | |
-| | Đau tại chỗ tiêm | Rất thường gặp | Rất thường gặp | Rất thường gặp |
-| | Ban đỏ tại chỗ tiêm | Rất thường gặp | Rất thường gặp | Rất thường gặp |
-| | Sưng tại chỗ tiêm | Rất thường gặp | Rất thường gặp | Rất thường gặp |
-| | Cứng tại chỗ tiêm | Rất thường gặp | Thường gặp | |
-| | Mày đay tại chỗ tiêm | Ít gặp | | |
-| | Mệt mỏi | | Rất thường gặp | Rất thường gặp |
-| | Ngứa tại chỗ tiêm | | Thường gặp | |
-| | Nóng tại chỗ tiêm | | Ít gặp | |
-| | Bầm tím/khối tụ máu tại chỗ tiêm | Thường gặp | Thường gặp | Ít gặp |
-| | Ớn lạnh | | | Ít gặp$^\ddagger$ |
+<h3>Bảng 1: Bảng liệt kê các phản ứng có hại</h3>
 
-*\* Các tác dụng có hại toàn thân khác nhau đã được ghi nhận từ những người tham gia từ 2 đến <3 tuổi, so với những người tham gia $\ge3$ đến dưới 18 tuổi. Đối với những người tham gia <3 tuổi (VAXNEUVANCE N=32, vắc-xin PCV 13 giá N=28), giảm cảm giác thèm ăn, dễ bị kích thích, buồn ngủ và nổi mày đay từ ngày 1 đến ngày 14 sau khi tiêm chủng. Đối với những người tham gia $\ge3$ đến dưới 18 tuổi, mệt mỏi, nhức đầu, đau cơ và nổi mày đay được nghiên cứu từ ngày 1 đến ngày 14 sau khi tiêm chủng.*
-*$\dagger$ được định nghĩa khi nhiệt độ $\ge38^{\circ}C$*
-*$\ddagger$ thường gặp ở người lớn từ 18-49 tuổi*
+<table>
+  <thead>
+    <tr>
+      <th rowspan="4">Nhóm hệ cơ quan</th>
+      <th rowspan="4">Phản ứng có hại</th>
+      <th colspan="3">Tần suất</th>
+    </tr>
+    <tr>
+      <th colspan="2">Trẻ sơ sinh/Trẻ em/Thanh thiếu niên</th>
+      <th rowspan="3">Người lớn</th>
+    </tr>
+    <tr>
+      <th rowspan="2">6 tuần tuổi đến &lt; 2 tuổi</th>
+      <th rowspan="2">2 đến &lt; 18 tuổi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn chuyển hóa và dinh dưỡng</td>
+      <td>Giảm cảm giác thèm ăn</td>
+      <td>Rất thường gặp</td>
+      <td>Thường gặp</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Rối loạn tâm thần</td>
+      <td>Dễ bị kích thích</td>
+      <td>Rất thường gặp</td>
+      <td>Thường gặp</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ miễn dịch</td>
+      <td>Phản ứng quá mẫn bao gồm phù lưỡi, đỏ bừng mặt và nghẹn</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Rối loạn hệ thần kinh</td>
+      <td>Buồn ngủ</td>
+      <td>Rất thường gặp</td>
+      <td>Thường gặp</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Nhức đầu</td>
+      <td>-</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Chóng mặt</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Ít gặp<sup>†</sup></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn da và mô dưới da</td>
+      <td>Mày đay</td>
+      <td>Thường gặp</td>
+      <td>Thường gặp</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Phát ban</td>
+      <td>Thường gặp</td>
+      <td>Không rõ*</td>
+      <td>Ít gặp<sup>†</sup></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn tiêu hóa</td>
+      <td>Buồn nôn</td>
+      <td>-</td>
+      <td>Thường gặp</td>
+      <td>Ít gặp<sup>†</sup></td>
+    </tr>
+    <tr>
+      <td>Nôn</td>
+      <td>Thường gặp</td>
+      <td>Ít gặp</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rối loạn hệ cơ xương và mô liên kết</td>
+      <td>Đau cơ</td>
+      <td>-</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Đau khớp</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Thường gặp*</td>
+    </tr>
+    <tr>
+      <td rowspan="13">Rối loạn toàn thân và tình trạng tại chỗ tiêm</td>
+      <td>Sốt<sup>□</sup></td>
+      <td>Rất thường gặp</td>
+      <td>Thường gặp</td>
+      <td>Ít gặp<sup>†</sup></td>
+    </tr>
+    <tr>
+      <td>≥39°C</td>
+      <td>Rất thường gặp</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>≥40°C</td>
+      <td>Thường gặp</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Đau tại chỗ tiêm</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Ban đỏ tại chỗ tiêm</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Sưng tại chỗ tiêm</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Cứng tại chỗ tiêm</td>
+      <td>Rất thường gặp</td>
+      <td>Thường gặp</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Mày đay tại chỗ tiêm</td>
+      <td>Ít gặp</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Mệt mỏi</td>
+      <td>-</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Ngứa tại chỗ tiêm</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Nóng tại chỗ tiêm</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Bầm tím/khối tụ máu tại chỗ tiêm</td>
+      <td>Thường gặp</td>
+      <td>Thường gặp</td>
+      <td>Ít gặp</td>
+    </tr>
+    <tr>
+      <td>Ớn lạnh</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Ít gặp*</td>
+    </tr>
+  </tbody>
+</table>
+
+§ Các tác dụng có hại toàn thân khác nhau đã được ghi nhận từ những người tham gia từ 2 đến <3 tuổi, so với những người tham gia ≥3 đến dưới 18 tuổi. Đối với những người tham gia <3 tuổi (VAXNEUVANCE N = 32, vắc-xin PCV 13 giá N = 28), giảm cảm giác thèm ăn, dễ bị kích thích, buồn ngủ và nổi mày đay từ ngày 1 đến ngày 14 sau khi tiêm chủng. Đối với những người tham gia ≥3 đến dưới 18 tuổi, mệt mỏi, nhức đầu, đau cơ và nổi mày đay được nghiên cứu từ ngày 1 đến ngày 14 sau khi tiêm chủng.
+
+† thường gặp ở người lớn từ 18-49 tuổi
+
+‡ Trong các thử nghiệm lâm sàng, không có biến cố nào được quan sát thấy sau khi dùng VAXNEUVANCE ở trẻ em và thanh thiếu niên khỏe mạnh và hai biến cố được quan sát thấy ở những đối tượng đặc biệt (người mắc bệnh hồng cầu hình liềm và HIV).
+
+* rất thường gặp ở người lớn từ 18-49 tuổi
+
+□ được định nghĩa khi nhiệt độ ≥38 °C
 
 *Trong các thử nghiệm lâm sàng, không có biến cố nào được quan sát thấy sau khi dùng VAXNEUVANCE ở trẻ em và thanh thiếu niên khỏe mạnh và hai biến cố được quan sát thấy ở những đối tượng đặc biệt (người mắc bệnh hồng cầu hình liềm và HIV).*
 
@@ -256,28 +439,174 @@ Trong nghiên cứu mù đôi, đối chứng so sánh với hoạt chất (Đ�
 
 VAXNEUVANCE tạo ra các đáp ứng miễn dịch, được đánh giá bằng tỷ suất đáp ứng IgG đặc hiệu theo týp huyết thanh, GMC IgG và GMT OPA, cho tất cả 15 týp huyết thanh có trong vắc-xin. Tại thời điểm 30 ngày sau lịch tiêm cơ bản hai liều, tỷ suất đáp ứng IgG đặc hiệu theo týp huyết thanh và GMC nói chung là tương đương đối với 13 týp huyết thanh mà cả 2 vắc xin đều có và cao hơn đối với 2 týp huyết thanh bổ sung (22F và 33F) ở người dùng VAXNEUVANCE so với người dùng PCV 13 giá. Vào thời điểm 30 ngày sau khi dùng liều nhắc lại, VAXNEUVANCE không kém hơn PCV 13 giá đối với 13 týp huyết thanh có chung của 2 vắc xin và cao hơn đối với 2 týp huyết thanh bổ sung, được đánh giá bằng tỷ suất đáp ứng IgG và GMC IgG (Bảng 2).
 
-**Bảng 2: Tỷ lệ đáp ứng lgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau lịch tiêm cơ bản 2 liều (phác đồ 3 liều, Đề cương 025)**
+<h2>Bảng 2: Tỷ lệ đáp ứng IgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau lịch tiêm cơ bản 2 liều (phác đồ 3 liều, Đề cương 025)</h2>
 
-| Týp huyết thanh phế cầu | Tỷ lệ đáp ứng $IgG\ge0,35~\mu g/mL$ | | | GMC IgG | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | **VAXNEUVANCE (n=497)**<br>Tỷ lệ phần trăm đáp ứng được quan sát | **PCV 13 giá (n=468-469)**<br>Tỷ lệ phần trăm đáp ứng được quan sát | **Sự khác biệt điểm phần trăm***<br>(VAXNEUVANCE - PCV 13 giá)<br>(Khoảng tin cậy 95%)* | **VAXNEUVANCE (n=497)**<br>GMC | **PCV 13 giá (n=468-469)**<br>GMC | **Tỷ số GMC \*\***<br>(VAXNEUVANCE / PCV 13 giá)<br>(Khoảng tin cậy 95%)\*\* |
-| **13 Týp huyết thanh có chung** | | | | | | |
-| 1 | 95,6 | 97,4 | -1,9 (-4,3, 0,5) | 1,30 | 1,60 | 0,81 (0,74, 0,89) |
-| 3 | 93,2 | 66,1 | 27,1 (22,3, 31,9) | 0,87 | 0,45 | 1,91 (1,75, 2,08) |
-| 4 | 93,8 | 96,8 | -3,0 (-5,9, -0,4) | 1,40 | 1,25 | 1,12 (1,01, 1,24) |
-| 5 | 84,1 | 88,1 | -4,0 (-8,3, 0,4) | 0,88 | 1,03 | 0,86 (0,76, 0,97) |
-| 6A | 72,6 | 92,3 | -19,7 (-24,3, -15,1) | 0,64 | 1,39 | 0,46 (0,40, 0,53) |
-| 6B | 57,7 | 50,2 | 7,5 (1,2, 13,8) | 0,43 | 0,33 | 1,31 (1,11, 1,56) |
-| 7F | 97,8 | 98,9 | -1,1 (-3,0, 0,5) | 2,03 | 2,42 | 0,84 (0,76, 0,92) |
-| 9V | 88,3 | 95,3 | -7,0 (-10,5, -3,6) | 1,23 | 1,39 | 0,88 (0,78, 0,99) |
-| 14 | 96,8 | 97,2 | -0,4 (-2,7, 1,8) | 3,81 | 4,88 | 0,78 (0,68, 0,90) |
-| 18C | 92,2 | 92,5 | -0,4 (-3,8, 3,0) | 1,16 | 1,30 | 0,89 (0,80, 0,99) |
-| 19A | 96,2 | 97,2 | -1,1 (-3,4, 1,3) | 1,68 | 2,09 | 0,81 (0,72, 0,90) |
-| 19F | 98,8 | 99,4 | -0,6 (-2,0, 0,8) | 2,63 | 3,35 | 0,79 (0,71, 0,87) |
-| 23F | 77,9 | 70,1 | 7,8 (2,3, 13,3) | 0,75 | 0,58 | 1,30 (1,14, 1,50) |
-| **2 Týp huyết thanh bổ sung trong VAXNEUVANCE** | | | | | | |
-| 22F | 95,6 | 5,3 | 90,2 (87,1, 92,6) | 2,74 | 0,05 | 57,67 (50,95, 65,28) |
-| 33F | 48,1 | 3,0 | 45,1 (40,4, 49,7) | 0,30 | 0,05 | 6,11 (5,32, 7,02) |
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="3">Týp huyết thanh phế cầu</th>
+      <th colspan="3">Tỷ lệ đáp ứng IgG ≥ 0,35 µg/mL</th>
+      <th colspan="3">GMC IgG</th>
+    </tr>
+    <tr>
+      <th>VAXNEUVANCE (n=497)</th>
+      <th>PCV 13 giá (n=468-469)</th>
+      <th rowspan="2">Sự khác biệt điểm phần trăm* (VAXNEUVANCE – PCV 13 giá) (Khoảng tin cậy 95%)*</th>
+      <th>VAXNEUVANCE (n=497)</th>
+      <th>PCV 13 giá (n=468-469)</th>
+      <th rowspan="2">Tỷ số GMC ** (VAXNEUVANCE/PCV 13 giá) (Khoảng tin cậy 95%)**</th>
+    </tr>
+    <tr>
+      <th>Tỷ lệ phần trăm đáp ứng được quan sát</th>
+      <th>Tỷ lệ phần trăm đáp ứng được quan sát</th>
+      <th>GMC</th>
+      <th>GMC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="7">13 Týp huyết thanh có chung†</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>95,6</td>
+      <td>97,4</td>
+      <td>-1,9 (-4,3, 0,5)</td>
+      <td>1,30</td>
+      <td>1,60</td>
+      <td>0,81 (0,74, 0,89)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>93,2</td>
+      <td>66,1</td>
+      <td>27,1 (22,3, 31,9)</td>
+      <td>0,87</td>
+      <td>0,45</td>
+      <td>1,91 (1,75, 2,08)</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>93,8</td>
+      <td>96,8</td>
+      <td>-3,0 (-5,9, -0,4)</td>
+      <td>1,40</td>
+      <td>1,25</td>
+      <td>1,12 (1,01, 1,24)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>84,1</td>
+      <td>88,1</td>
+      <td>-4,0 (-8,3, 0,4)</td>
+      <td>0,88</td>
+      <td>1,03</td>
+      <td>0,86 (0,76, 0,97)</td>
+    </tr>
+    <tr>
+      <td>6A</td>
+      <td>72,6</td>
+      <td>92,3</td>
+      <td>-19,7 (-24,3, -15,1)</td>
+      <td>0,64</td>
+      <td>1,39</td>
+      <td>0,46 (0,40, 0,53)</td>
+    </tr>
+    <tr>
+      <td>6B</td>
+      <td>57,7</td>
+      <td>50,2</td>
+      <td>7,5 (1,2, 13,8)</td>
+      <td>0,43</td>
+      <td>0,33</td>
+      <td>1,31 (1,11, 1,56)</td>
+    </tr>
+    <tr>
+      <td>7F</td>
+      <td>97,8</td>
+      <td>98,9</td>
+      <td>-1,1 (-3,0, 0,5)</td>
+      <td>2,03</td>
+      <td>2,42</td>
+      <td>0,84 (0,76, 0,92)</td>
+    </tr>
+    <tr>
+      <td>9V</td>
+      <td>88,3</td>
+      <td>95,3</td>
+      <td>-7,0 (-10,5, -3,6)</td>
+      <td>1,23</td>
+      <td>1,39</td>
+      <td>0,88 (0,78, 0,99)</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>96,8</td>
+      <td>97,2</td>
+      <td>-0,4 (-2,7, 1,8)</td>
+      <td>3,81</td>
+      <td>4,88</td>
+      <td>0,78 (0,68, 0,90)</td>
+    </tr>
+    <tr>
+      <td>18C</td>
+      <td>92,2</td>
+      <td>92,5</td>
+      <td>-0,4 (-3,8, 3,0)</td>
+      <td>1,16</td>
+      <td>1,30</td>
+      <td>0,89 (0,80, 0,99)</td>
+    </tr>
+    <tr>
+      <td>19A</td>
+      <td>96,2</td>
+      <td>97,2</td>
+      <td>-1,1 (-3,4, 1,3)</td>
+      <td>1,68</td>
+      <td>2,09</td>
+      <td>0,81 (0,72, 0,90)</td>
+    </tr>
+    <tr>
+      <td>19F</td>
+      <td>98,8</td>
+      <td>99,4</td>
+      <td>-0,6 (-2,0, 0,8)</td>
+      <td>2,63</td>
+      <td>3,35</td>
+      <td>0,79 (0,71, 0,87)</td>
+    </tr>
+    <tr>
+      <td>23F</td>
+      <td>77,9</td>
+      <td>70,1</td>
+      <td>7,8 (2,3, 13,3)</td>
+      <td>0,75</td>
+      <td>0,58</td>
+      <td>1,30 (1,14, 1,50)</td>
+    </tr>
+    <tr>
+      <td colspan="7">2 Týp huyết thanh bổ sung trong VAXNEUVANCE‡</td>
+    </tr>
+    <tr>
+      <td>22F</td>
+      <td>95,6</td>
+      <td>5,3</td>
+      <td>90,2 (87,1, 92,6)</td>
+      <td>2,74</td>
+      <td>0,05</td>
+      <td>57,67 (50,95, 65,28)</td>
+    </tr>
+    <tr>
+      <td>33F</td>
+      <td>48,1</td>
+      <td>3,0</td>
+      <td>45,1 (40,4, 49,7)</td>
+      <td>0,30</td>
+      <td>0,05</td>
+      <td>6,11 (5,32, 7,02)</td>
+    </tr>
+  </tbody>
+</table>
 
 * *Sự khác biệt ước tính và khoảng tin cậy đối với khác biệt điểm phần trăm dựa trên phương pháp Miettinen & Nurminen.*
 * ** Tỷ số GMC và khoảng tin cậy được tính toán bằng cách sử dụng phân phối t với ước tính phương sai từ mô hình tuyến tính đặc hiệu týp huyết thanh sử dụng nồng độ kháng thể được biến đổi log tự nhiên làm đáp ứng và một thời hạn duy nhất cho nhóm tiêm chủng.*
@@ -285,34 +614,188 @@ VAXNEUVANCE tạo ra các đáp ứng miễn dịch, được đánh giá bằng
 * *Kết luận về sự vượt trội hơn đối với 2 týp huyết thanh bổ sung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE - PCV 13 giá) là >10 điểm phần trăm hoặc >2,0 đối với tỷ số IgG GMC (VAXNEUVANCE/ PCV 13 giá).*
 * *$n=$ Số người tham gia được chọn ngẫu nhiên, được tiêm chủng và có đóng góp vào phân tích. CI = khoảng tin cậy (confidence interval); GMC = nồng độ trung bình hình học $(\mu g/mL)$; IgG = globulin miễn dịch G (immunoglobulin G).*
 
-**Bảng 3: Tỷ lệ đáp ứng IgG đặc hiệu với týp huyết thanh và IgG GMC ở 30 ngày sau liều tiêm nhắc lại (phác đồ 3 liều, Đề cương 025)**
+<h2>Bảng 3: Tỷ lệ đáp ứng IgG đặc hiệu với týp huyết thanh và IgG GMC ở 30 ngày sau liều tiêm nhắc lại (phác đồ 3 liều, Đề cương 025)</h2>
 
-| Týp huyết thanh phế cầu | Tỷ lệ đáp ứng $lgG\ge0,35~\mu g/mL$ | | | GMC IgG | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | **VAXNEUVANCE (n=510-511)**<br>Tỷ lệ phần trăm đáp ứng được quan sát | **PCV 13 giá (n=504-510)**<br>Tỷ lệ phần trăm đáp ứng được quan sát | **Sự khác biệt điểm phần trăm***<br>(VAXNEUVANCE - PCV 13 giá)<br>(Khoảng tin cậy 95%)* | **VAXNEUVANCE (n=510-511)**<br>GMC | **PCV 13 giá (n=504-510)**<br>GMC | **Tỷ số GMC \*\***<br>(VAXNEUVANCE / PCV 13 giá)<br>(Khoảng tin cậy 95%)\*\* |
-| **13 Týp huyết thanh có chung** | | | | | | |
-| 1 | 96,5 | 99,4 | -2,9 (-5,0, -1,3) | 1,28 | 2,05 | 0,62 (0,57, 0,68) |
-| 3 | 91,8 | 83,7 | 8,1 (4,1, 12,1) | 0,84 | 0,66 | 1,29 (1,18, 1,41) |
-| 4 | 95,7 | 97,8 | -2,1 (-4,5, 0,0) | 1,29 | 1,74 | 0,74 (0,67, 0,82) |
-| 5 | 99,0 | 100,0 | -1,0 (-2,3, -0,2) | 1,98 | 3,01 | 0,66 (0,60, 0,72) |
-| 6A | 98,4 | 98,8 | -0,4 (-2,0, 1,2) | 3,09 | 4,53 | 0,68 (0,61, 0,76) |
-| 6B | 97,3 | 99,0 | -1,8 (-3,7, -0,1) | 4,15 | 4,33 | 0,96 (0,85, 1,08) |
-| 7F | 99,8 | 99,8 | 0,0 (-0,9, 0,9) | 3,08 | 3,89 | 0,79 (0,73, 0,86) |
-| 9V | 98,8 | 100,0 | -1,2 (-2,5, -0,4) | 2,14 | 2,97 | 0,72 (0,66, 0,78) |
-| 14 | 99,8 | 100,0 | -0,2 (-1,1, 0,6) | 5,22 | 6,90 | 0,76 (0,68, 0,84) |
-| 18C | 98,8 | 99,2 | -0,4 (-1,8, 1,0) | 1,93 | 2,18 | 0,89 (0,81, 0,97) |
-| 19A | 99,0 | 100,0 | -1,0 (-2,3, -0,2) | 4,65 | 5,61 | 0,83 (0,75, 0,92) |
-| 19F | 99,6 | 100,0 | -0,4 (-1,4, 0,4) | 4,06 | 4,59 | 0,89 (0,81, 0,97) |
-| 23F | 96,9 | 97,2 | -0,4 (-2,6, 1,8) | 1,52 | 1,69 | 0,90 (0,81, 1,00) |
-| **2 Týp huyết thanh bổ sung trong VAXNEUVANCE** | | | | | | |
-| 22F | 99,6 | 5,9 | 93,7 (91,2, 95,5) | 5,97 | 0,08 | 71,76 (64,88, 79,38) |
-| 33F | 99,0 | 4,4 | 94,7 (92,3, 96,3) | 3,38 | 0,07 | 46,38 (41,85, 51,40) |
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="3">Týp huyết thanh phế cầu</th>
+      <th colspan="3">Tỷ lệ đáp ứng IgG ≥ 0,35 µg/mL</th>
+      <th colspan="3">GMC IgG</th>
+    </tr>
+    <tr>
+      <th>VAXNEUVANCE (n=510-511)</th>
+      <th>PCV 13 giá (n=504-510)</th>
+      <th rowspan="2">Sự khác biệt điểm phần trăm* (VAXNEUVANCE – PCV 13 giá) (Khoảng tin cậy 95%)*</th>
+      <th>VAXNEUVANCE (n=510-511)</th>
+      <th>PCV 13 giá (n=504-510)</th>
+      <th rowspan="2">Tỷ số GMC ** (VAXNEUVANCE / PCV 13 giá) (Khoảng tin cậy 95%)**</th>
+    </tr>
+    <tr>
+      <th>Tỷ lệ phần trăm đáp ứng được quan sát</th>
+      <th>Tỷ lệ phần trăm đáp ứng được quan sát</th>
+      <th>GMC</th>
+      <th>GMC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="7">13 Týp huyết thanh có chung†</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>96,5</td>
+      <td>99,4</td>
+      <td>-2,9 (-5,0, -1,3)</td>
+      <td>1,28</td>
+      <td>2,05</td>
+      <td>0,62 (0,57, 0,68)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>91,8</td>
+      <td>83,7</td>
+      <td>8,1 (4,1, 12,1)</td>
+      <td>0,84</td>
+      <td>0,66</td>
+      <td>1,29 (1,18, 1,41)</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>95,7</td>
+      <td>97,8</td>
+      <td>-2,1 (-4,5, 0,0)</td>
+      <td>1,29</td>
+      <td>1,74</td>
+      <td>0,74 (0,67, 0,82)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>99,0</td>
+      <td>100,0</td>
+      <td>-1,0 (-2,3, -0,2)</td>
+      <td>1,98</td>
+      <td>3,01</td>
+      <td>0,66 (0,60, 0,72)</td>
+    </tr>
+    <tr>
+      <td>6A</td>
+      <td>98,4</td>
+      <td>98,8</td>
+      <td>-0,4 (-2,0, 1,2)</td>
+      <td>3,09</td>
+      <td>4,53</td>
+      <td>0,68 (0,61, 0,76)</td>
+    </tr>
+    <tr>
+      <td>6B</td>
+      <td>97,3</td>
+      <td>99,0</td>
+      <td>-1,8 (-3,7, -0,1)</td>
+      <td>4,15</td>
+      <td>4,33</td>
+      <td>0,96 (0,85, 1,08)</td>
+    </tr>
+    <tr>
+      <td>7F</td>
+      <td>99,8</td>
+      <td>99,8</td>
+      <td>0,0 (-0,9, 0,9)</td>
+      <td>3,08</td>
+      <td>3,89</td>
+      <td>0,79 (0,73, 0,86)</td>
+    </tr>
+    <tr>
+      <td>9V</td>
+      <td>98,8</td>
+      <td>100,0</td>
+      <td>-1,2 (-2,5, -0,4)</td>
+      <td>2,14</td>
+      <td>2,97</td>
+      <td>0,72 (0,66, 0,78)</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>99,8</td>
+      <td>100,0</td>
+      <td>-0,2 (-1,1, 0,6)</td>
+      <td>5,22</td>
+      <td>6,90</td>
+      <td>0,76 (0,68, 0,84)</td>
+    </tr>
+    <tr>
+      <td>18C</td>
+      <td>98,8</td>
+      <td>99,2</td>
+      <td>-0,4 (-1,8, 1,0)</td>
+      <td>1,93</td>
+      <td>2,18</td>
+      <td>0,89 (0,81, 0,97)</td>
+    </tr>
+    <tr>
+      <td>19A</td>
+      <td>99,0</td>
+      <td>100,0</td>
+      <td>-1,0 (-2,3, -0,2)</td>
+      <td>4,65</td>
+      <td>5,61</td>
+      <td>0,83 (0,75, 0,92)</td>
+    </tr>
+    <tr>
+      <td>19F</td>
+      <td>99,6</td>
+      <td>100,0</td>
+      <td>-0,4 (-1,4, 0,4)</td>
+      <td>4,06</td>
+      <td>4,59</td>
+      <td>0,89 (0,81, 0,97)</td>
+    </tr>
+    <tr>
+      <td>23F</td>
+      <td>96,9</td>
+      <td>97,2</td>
+      <td>-0,4 (-2,6, 1,8)</td>
+      <td>1,52</td>
+      <td>1,69</td>
+      <td>0,90 (0,81, 1,00)</td>
+    </tr>
+    <tr>
+      <td colspan="7">2 Týp huyết thanh bổ sung trong VAXNEUVANCE‡</td>
+    </tr>
+    <tr>
+      <td>22F</td>
+      <td>99,6</td>
+      <td>5,9</td>
+      <td>93,7 (91,2, 95,5)</td>
+      <td>5,97</td>
+      <td>0,08</td>
+      <td>71,76 (64,88, 79,38)</td>
+    </tr>
+    <tr>
+      <td>33F</td>
+      <td>99,0</td>
+      <td>4,4</td>
+      <td>94,7 (92,3, 96,3)</td>
+      <td>3,38</td>
+      <td>0,07</td>
+      <td>46,38 (41,85, 51,40)</td>
+    </tr>
+  </tbody>
+</table>
 
-* *Sự khác biệt ước tính và khoảng tin cậy đối với khác biệt điểm phần trăm dựa trên phương pháp Miettinen & Nurminen.*
-* ** Tỷ số GMC và khoảng tin cậy được tính toán bằng cách sử dụng phân phối t với ước tính phương sai từ mô hình tuyến tính đặc hiệu týp huyết thanh sử dụng nồng độ kháng thể được biến đổi log tự nhiên làm đáp ứng và một thời hạn duy nhất cho nhóm tiêm chủng.*
-* *Kết luận về sự không thua kém đối với 13 týp huyết thanh chung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE - PCV 13 giá) là >-10 điểm phần trăm hoặc >0,5 đối với tỷ số IgG GMC (VAXNEUVANCE/ PCV 13 giá)*
-* *Kết luận về sự vượt trội hơn đối với 2 týp huyết thanh bổ sung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE - PCV 13 giá) là >10 điểm phần trăm hoặc >2,0 đối với tỷ số IgG GMC (VAXNEUVANCE/ PCV 13 giá).*
-* *$n=$ Số người tham gia được chọn ngẫu nhiên, được tiêm chủng và có đóng góp vào phân tích. CI = khoảng tin cậy (confidence interval); GMC = nồng độ trung bình hình học $(\mu g/mL)$; IgG = globulin miễn dịch G (immunoglobulin G).*
+<div>
+  <p>* Sự khác biệt ước tính và khoảng tin cậy đối với khác biệt điểm phần trăm dựa trên phương pháp Miettinen & Nurminen.</p>
+
+  <p>** Tỷ số GMC và khoảng tin cậy được tính toán bằng cách sử dụng phân phối t với ước tính phương sai từ mô hình tuyến tính đặc hiệu týp huyết thanh sử dụng nồng độ kháng thể được biến đổi log tự nhiên làm đáp ứng và một thời hạn duy nhất cho nhóm tiêm chủng.</p>
+
+  <p>† Kết luận về sự không thua kém đối với 13 týp huyết thanh chung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE – PCV 13 giá) là &gt;-10 điểm phần trăm hoặc &gt;0,5 đối với tỷ số IgG GMC (VAXNEUVANCE/ PCV 13 giá)</p>
+
+  <p>‡ Kết luận về sự vượt trội hơn đối với 2 týp huyết thanh bổ sung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE – PCV 13 giá) là &gt;10 điểm phần trăm hoặc &gt;2,0 đối với tỷ số IgG GMC (VAXNEUVANCE/ PCV 13 giá).</p>
+
+  <p>n = Số người tham gia được chọn ngẫu nhiên, được tiêm chủng và có đóng góp vào phân tích.</p>
+
+  <p>CI = khoảng tin cậy (confidence interval); GMC = nồng độ trung bình hình học (µg / mL); IgG = globulin miễn dịch G (immunoglobulin G).</p>
+</div>
 
 Ngoài ra, VAXNEUVANCE còn tạo ra các kháng thể chức năng, như được đánh giá bằng GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau liều nhắc lại, nói chung là tương đương nhưng thấp hơn một chút đối với 13 týp huyết thanh có chung với PCV 13 giá. Sự liên quan về mặt lâm sàng của đáp ứng thấp hơn một chút này vẫn chưa được biết rõ. GMT OPA đối với cả 22F và 33F cao hơn ở những trẻ được sử dụng VAXNEUVANCE so với những trẻ được sử dụng PCV 13 giá.
 
@@ -323,63 +806,365 @@ VAXNEUVANCE tạo ra đáp ứng miễn dịch, như được đánh giá bằng
 Lúc 30 ngày sau lịch tiêm cơ bản, GMC IgG đặc hiệu týp huyết thanh không kém hơn so với PCV 13 giá đối với 12 trong số 13 týp huyết thanh có chung. Đáp ứng của IgG đối với týp huyết thanh 6A thiếu suýt soát các tiêu chuẩn đã xác định trước về sự không thua kém với một biên độ nhỏ (0,48 so với > 0,5) (Bảng 4). VAXNEUVANCE không kém hơn so với PCV 13 giá cho 2 týp huyết thanh bổ sung, như được đánh giá bằng các GMC IgG đặc hiệu týp huyết thanh đối với týp huyết thanh 22F và 33F ở những người sử dụng VAXNEUVANCE so với GMC IgG cho týp huyết thanh 4 ở những người sử dụng PCV 13 giá (GMC IgG thấp nhất đối với bất kỳ týp huyết thanh chung nào, ngoại trừ týp huyết thanh 3) với tỷ số GMC tương ứng là 3,64 và 1,24.
 Ngoài ra, VAXNEUVANCE tạo ra các đáp ứng miễn dịch đối với týp huyết thanh chung 3 và 2 týp huyết thanh bổ sung, cao hơn đáng kể so với đáp ứng miễn dịch do PCV 13 giá tạo ra, như được đánh giá bằng tỷ suất đáp ứng IgG và GMC IgG lúc 30 ngày sau lịch tiêm cơ bản (Bảng 4).
 
-**Bảng 4: Tỷ suất đáp ứng IgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau lịch tiêm 3 liều cơ bản (phác đồ 4 liều, Đề cương 029)**
+<h2>Bảng 4: Tỷ suất đáp ứng IgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau lịch tiêm 3 liều cơ bản (phác đồ 4 liều, Đề cương 029)</h2>
 
-| Týp huyết thanh phế cầu | Tỷ suất đáp ứng IgG $\ge0,35~\mu g/mL$ | | | GMC IgG | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | **VAXNEUVANCE (n=698-702)**<br>Tỷ lệ phần trăm đáp ứng được quan sát | **PCV 13 giá (n=660-665)**<br>Tỷ lệ phần trăm đáp ứng được quan sát | **Sự khác biệt điểm phần trăm***<br>(VAXNEUVANCE - PCV 13 giá)<br>(Khoảng tin cậy 95%)* | **VAXNEUVANCE (n=698-702)**<br>GMC | **PCV 13 giá (n=660-665)**<br>GMC | **Tỷ số GMC \*\***<br>(VAXNEUVANCE / PCV 13 giá)<br>(Khoảng tin cậy 95%)\*\* |
-| **13 Týp huyết thanh có chung** | | | | | | |
-| 1 | 95,7 | 99,1 | -3,4 (-5,2, -1,8) | 1,21 | 1,89 | 0,64 (0,59, 0,69) |
-| 3 | 94,7 | 79,2 | 15,6 (12,1, 19,2) | 1,08 | 0,62 | 1,73 (1,61, 1,87) |
-| 4 | 96,4 | 98,6 | -2,2 (-4,0, -0,6) | 1,29 | 1,35 | 0,95 (0,88, 1,03) |
-| 5 | 95,3 | 97,4 | -2,1 (-4,2, -0,2) | 1,63 | 2,25 | 0,72 (0,66, 0,80) |
-| 6A | 93,7 | 98,6 | -4,9 (-7,1, -3,0) | 1,55 | 2,95 | 0,52 (0,48, 0,58) |
-| 6B | 88,6 | 92,0 | -3,4 (-6,6, -0,3) | 1,60 | 1,97 | 0,81 (0,71, 0,93) |
-| 7F | 99,0 | 99,8 | -0,8 (-1,9, -0,1) | 2,48 | 3,23 | 0,77 (0,71, 0,83) |
-| 9V | 97,1 | 98,2 | -1,0 (-2,8, 0,6) | 1,73 | 1,89 | 0,91 (0,84, 1,00) |
-| 14 | 97,9 | 97,9 | 0,0 (-1,6, 1,6) | 4,78 | 6,80 | 0,70 (0,63, 0,78) |
-| 18C | 97,4 | 98,3 | -0,9 (-2,6, 0,7) | 1,53 | 2,00 | 0,76 (0,70, 0,83) |
-| 19A | 97,9 | 99,7 | -1,8 (-3,2, -0,8) | 1,63 | 2,29 | 0,71 (0,65, 0,77) |
-| 19F | 99,0 | 100,0 | -1,0 (-2,1, -0,4) | 2,01 | 2,72 | 0,74 (0,69, 0,79) |
-| 23F | 91,5 | 91,8 | -0,3 (-3,2, 2,7) | 1,31 | 1,47 | 0,89 (0,80, 0,99) |
-| **2 Týp huyết thanh bổ sung trong VAXNEUVANCE** | | | | | | |
-| 22F | 98,6 | 3,5 | 95,1 (93,1, 96,5) | 4,91 | 0,05 | 92,03 (83,47, 101,47) |
-| 33F | 87,3 | 2,1 | 85,2 (82,3, 87,7) | 1,67 | 0,06 | 29,50 (26,16, 33,26) |
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="3">Týp huyết thanh phế cầu</th>
+      <th colspan="3">Tỷ suất đáp ứng IgG ≥ 0,35 µg/mL</th>
+      <th colspan="3">GMC IgG</th>
+    </tr>
+    <tr>
+      <th>VAXNEUVANCE (n=698-702)</th>
+      <th>PCV 13 giá (n=660-665)</th>
+      <th rowspan="2">Sự khác biệt điểm phần trăm* (VAXNEUVANCE – PCV 13 giá) (Khoảng tin cậy 95%)*</th>
+      <th>VAXNEUVANCE (n=698-702)</th>
+      <th>PCV 13 giá (n=660-665)</th>
+      <th rowspan="2">Tỷ số GMC ** (VAXNEUVANCE/ PCV 13 giá) (Khoảng tin cậy 95%)**</th>
+    </tr>
+    <tr>
+      <th>Tỷ lệ phần trăm đáp ứng được quan sát</th>
+      <th>Tỷ lệ phần trăm đáp ứng được quan sát</th>
+      <th>GMC</th>
+      <th>GMC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="7">13 Týp huyết thanh có chung†</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>95,7</td>
+      <td>99,1</td>
+      <td>-3,4 (-5,2, -1,8)</td>
+      <td>1,21</td>
+      <td>1,89</td>
+      <td>0,64 (0,59, 0,69)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>94,7</td>
+      <td>79,2</td>
+      <td>15,6 (12,1, 19,2)</td>
+      <td>1,08</td>
+      <td>0,62</td>
+      <td>1,73 (1,61, 1,87)</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>96,4</td>
+      <td>98,6</td>
+      <td>-2,2 (-4,0, -0,6)</td>
+      <td>1,29</td>
+      <td>1,35</td>
+      <td>0,95 (0,88, 1,03)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>95,3</td>
+      <td>97,4</td>
+      <td>-2,1 (-4,2, -0,2)</td>
+      <td>1,63</td>
+      <td>2,25</td>
+      <td>0,72 (0,66, 0,80)</td>
+    </tr>
+    <tr>
+      <td>6A</td>
+      <td>93,7</td>
+      <td>98,6</td>
+      <td>-4,9 (-7,1, -3,0)</td>
+      <td>1,55</td>
+      <td>2,95</td>
+      <td>0,52 (0,48, 0,58)</td>
+    </tr>
+    <tr>
+      <td>6B</td>
+      <td>88,6</td>
+      <td>92,0</td>
+      <td>-3,4 (-6,6, -0,3)</td>
+      <td>1,60</td>
+      <td>1,97</td>
+      <td>0,81 (0,71, 0,93)</td>
+    </tr>
+    <tr>
+      <td>7F</td>
+      <td>99,0</td>
+      <td>99,8</td>
+      <td>-0,8 (-1,9, -0,1)</td>
+      <td>2,48</td>
+      <td>3,23</td>
+      <td>0,77 (0,71, 0,83)</td>
+    </tr>
+    <tr>
+      <td>9V</td>
+      <td>97,1</td>
+      <td>98,2</td>
+      <td>-1,0 (-2,8, 0,6)</td>
+      <td>1,73</td>
+      <td>1,89</td>
+      <td>0,91 (0,84, 1,00)</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>97,9</td>
+      <td>97,9</td>
+      <td>-0,0 (-1,6, 1,6)</td>
+      <td>4,78</td>
+      <td>6,80</td>
+      <td>0,70 (0,63, 0,78)</td>
+    </tr>
+    <tr>
+      <td>18C</td>
+      <td>97,4</td>
+      <td>98,3</td>
+      <td>-0,9 (-2,6, 0,7)</td>
+      <td>1,53</td>
+      <td>2,00</td>
+      <td>0,76 (0,70, 0,83)</td>
+    </tr>
+    <tr>
+      <td>19A</td>
+      <td>97,9</td>
+      <td>99,7</td>
+      <td>-1,8 (-3,2, -0,8)</td>
+      <td>1,63</td>
+      <td>2,29</td>
+      <td>0,71 (0,65, 0,77)</td>
+    </tr>
+    <tr>
+      <td>19F</td>
+      <td>99,0</td>
+      <td>100,0</td>
+      <td>-1,0 (-2,1, -0,4)</td>
+      <td>2,01</td>
+      <td>2,72</td>
+      <td>0,74 (0,69, 0,79)</td>
+    </tr>
+    <tr>
+      <td>23F</td>
+      <td>91,5</td>
+      <td>91,8</td>
+      <td>-0,3 (-3,2, 2,7)</td>
+      <td>1,31</td>
+      <td>1,47</td>
+      <td>0,89 (0,80, 0,99)</td>
+    </tr>
+    <tr>
+      <td colspan="7">2 Týp huyết thanh bổ sung trong VAXNEUVANCE</td>
+    </tr>
+    <tr>
+      <td>22F</td>
+      <td>98,6</td>
+      <td>3,5</td>
+      <td>95,1 (93,1, 96,5)</td>
+      <td>4,91</td>
+      <td>0,05</td>
+      <td>92,03 (83,47, 101,47)</td>
+    </tr>
+    <tr>
+      <td>33F</td>
+      <td>87,3</td>
+      <td>2,1</td>
+      <td>85,2 (82,3, 87,7)</td>
+      <td>1,67</td>
+      <td>0,06</td>
+      <td>29,50 (26,16, 33,26)</td>
+    </tr>
+  </tbody>
+</table>
 
-* *Sự khác biệt ước tính và khoảng tin cậy đối với khác biệt điểm phần trăm dựa trên phương pháp Miettinen & Nurminen.*
-* ** Tỷ suất GMC và khoảng tin cậy được tính toán bằng cách sử dụng phân phối t với ước tính phương sai từ mô hình tuyến tính đặc hiệu týp huyết thanh sử dụng nồng độ kháng thể được biến đổi log tự nhiên làm đáp ứng và một thời hạn duy nhất cho nhóm tiêm chủng.*
-* *Kết luận về sự không thua kém đối với 13 týp huyết thanh chung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE - PCV 13 giá) là >-10 điểm phần trăm hoặc >0,5 đối với tỷ suất GMC IgG (VAXNEUVANCE/ PCV 13 giá)*
-* *$n=$ Số người tham gia được chọn ngẫu nhiên, được tiêm chủng và có đóng góp vào phân tích. CI = khoảng tin cậy (confidence interval); GMC = nồng độ trung bình hình học $(\mu g/mL)$; IgG = globulin miễn dịch G (immunoglobulin G).*
+<p>* Sự khác biệt ước tính và khoảng tin cậy đối với khác biệt điểm phần trăm dựa trên phương pháp Miettinen &amp; Nurminen.</p>
+
+<p>** Tỷ suất GMC và khoảng tin cậy được tính toán bằng cách sử dụng phân phối t với ước tính phương sai từ mô hình tuyến tính đặc hiệu týp huyết thanh sử dụng nồng độ kháng thể được biến đổi log tự nhiên làm đáp ứng và một thời hạn duy nhất cho nhóm tiêm chủng.</p>
+
+<p>† Kết luận về sự không thua kém đối với 13 týp huyết thanh chung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE – PCV 13 giá) là &gt;-10 điểm phần trăm hoặc &gt;0,5 đối với tỷ suất GMC IgG (VAXNEUVANCE/ PCV 13 giá)</p>
+
+<p>n = Số người tham gia được chọn ngẫu nhiên,được tiêm chủng và có đóng góp vào phân tích.</p>
+
+<p>CI = khoảng tin cậy (confidence interval); GMC = nồng độ trung bình hình học (µg / mL); IgG = globulin miễn dịch G (immunoglobulin G).</p>
 
 Lúc 30 ngày sau liều nhắc lại, GMC IgG đặc hiệu týp huyết thanh đối với VAXNEUVANCE không thua kém so với PCV 13 giá đối với tất cả 13 týp huyết thanh có chung và đối với 2 týp huyết thanh bổ sung như được đánh giá bằng GMC IgG đối với týp huyết thanh 22F và 33F ở những người được sử dụng VAXNEUVANCE so với GMC IgG đối với týp huyết thanh 4 ở những người được sử dụng PCV 13 giá (GMC IgG thấp nhất đối với bất kỳ týp huyết thanh có chung nào, ngoại trừ týp huyết thanh 3) với tỷ số GMC theo thứ tự là 4,69 và 2,59 (Bảng 5). VAXNEUVANCE tạo ra các đáp ứng miễn dịch đối với týp huyết thanh chung 3 và 2 týp huyết thanh bổ sung, cao hơn đáng kể so với đáp ứng miễn dịch do PCV 13 giá tạo ra, như được đánh giá bằng tỷ suất đáp ứng IgG và GMC IgG lúc 30 ngày sau liều nhắc lại (Bảng 5).
 
-**Bảng 5: Tỷ suất đáp ứng IgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau liều nhắc lại (phác đồ 4 liều, Đề cương 029)**
+<h2>Bảng 5: Tỷ suất đáp ứng IgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau liều nhắc lại (phác đồ 4 liều, Đề cương 029)</h2>
 
-| Týp huyết thanh phế cầu | Tỷ suất đáp ứng $lgG\ge0,35~\mu g/mL$ | | | GMC IgG | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | **VAXNEUVANCE (n=712-716)**<br>Tỷ lệ phần trăm đáp ứng được quan sát | **PCV 13 giá (n=677-686)**<br>Tỷ lệ phần trăm đáp ứng được quan sát | **Sự khác biệt điểm phần trăm***<br>(VAXNEUVANCE - PCV 13 giá)<br>(Khoảng tin cậy 95%)* | **VAXNEUVANCE (n=712-716)**<br>GMC | **PCV 13 giá (n=677-686)**<br>GMC | **Tỷ số GMC \*\***<br>(VAXNEUVANCE / PCV 13 giá)<br>(Khoảng tin cậy 95%)\*\* |
-| **13 Týp huyết thanh có chung** | | | | | | |
-| 1 | 96,6 | 99,4 | -2,8 (-4,4, -1,4) | 1,35 | 2,03 | 0,66 (0,62, 0,72) |
-| 3 | 94,0 | 86,9 | 7,1 (4,0, 10,2) | 0,96 | 0,71 | 1,35 (1,25, 1,46) |
-| 4 | 95,1 | 97,5 | -2,4 (-4,5, -0,4) | 1,23 | 1,60 | 0,77 (0,71, 0,84) |
-| 5 | 99,2 | 99,9 | -0,7 (-1,7, 0,1) | 2,49 | 3,95 | 0,63 (0,58, 0,69) |
-| 6A | 98,7 | 99,3 | -0,5 (-1,7, 0,6) | 3,70 | 6,21 | 0,60 (0,54, 0,65) |
-| 6B | 98,7 | 99,3 | -0,5 (-1,7, 0,6) | 4,76 | 6,43 | 0,74 (0,67, 0,81) |
-| 7F | 99,6 | 99,9 | -0,3 (-1,1, 0,4) | 3,42 | 4,85 | 0,70 (0,65, 0,77) |
-| 9V | 99,4 | 99,7 | -0,3 (-1,2, 0,6) | 2,40 | 3,29 | 0,73 (0,67, 0,80) |
-| 14 | 99,3 | 99,6 | -0,3 (-1,2, 0,7) | 5,61 | 6,95 | 0,81 (0,73, 0,89) |
-| 18C | 99,7 | 99,6 | 0,2 (-0,6, 1,0) | 2,62 | 3,08 | 0,85 (0,78, 0,93) |
-| 19A | 99,9 | 99,9 | 0,0 (-0,7, 0,7) | 4,10 | 5,53 | 0,74 (0,68, 0,80) |
-| 19F | 99,7 | 99,7 | 0,0 (-0,8, 0,8) | 3,55 | 4,47 | 0,79 (0,74, 0,86) |
-| 23F | 98,6 | 99,0 | -0,4 (-1,7, 0,9) | 2,04 | 3,32 | 0,61 (0,56, 0,68) |
-| **2 Týp huyết thanh bổ sung trong VAXNEUVANCE** | | | | | | |
-| 22F | 99,6 | 7,2 | 92,4 (90,1, 94,2) | 7,52 | 0,11 | 68,80 (63,10, 75,02) |
-| 33F | 98,9 | 6,2 | 92,7 (90,4, 94,4) | 4,15 | 0,09 | 44,91 (41,04, 49,14) |
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="3">Týp huyết thanh phế cầu</th>
+      <th colspan="3">Tỷ suất đáp ứng IgG ≥ 0,35 µg/mL</th>
+      <th colspan="3">GMC IgG</th>
+    </tr>
+    <tr>
+      <th>VAXNEUVANCE (n=712-716)</th>
+      <th>PCV 13 giá (n=677-686)</th>
+      <th rowspan="2">Sự khác biệt điểm phần trăm* (VAXNEUVANCE – PCV 13 giá) (Khoảng tin cậy 95%)*</th>
+      <th>VAXNEUVANCE (n=712-716)</th>
+      <th>PCV 13 giá (n=677-686)</th>
+      <th rowspan="2">Tỷ số GMC ** (VAXNEUVANCE/ PCV 13 giá) (Khoảng tin cậy 95%)**</th>
+    </tr>
+    <tr>
+      <th>Tỷ lệ phần trăm đáp ứng được quan sát</th>
+      <th>Tỷ lệ phần trăm đáp ứng được quan sát</th>
+      <th>GMC</th>
+      <th>GMC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="7">13 Týp huyết thanh có chung†</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>96,6</td>
+      <td>99,4</td>
+      <td>-2,8 (-4,4, -1,4)</td>
+      <td>1,35</td>
+      <td>2,03</td>
+      <td>0,66 (0,62, 0,72)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>94,0</td>
+      <td>86,9</td>
+      <td>7,1 (4,0, 10,2)</td>
+      <td>0,96</td>
+      <td>0,71</td>
+      <td>1,35 (1,25, 1,46)</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>95,1</td>
+      <td>97,5</td>
+      <td>-2,4 (-4,5, -0,4)</td>
+      <td>1,23</td>
+      <td>1,60</td>
+      <td>0,77 (0,71, 0,84)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>99,2</td>
+      <td>99,9</td>
+      <td>-0,7 (-1,7, 0,1)</td>
+      <td>2,49</td>
+      <td>3,95</td>
+      <td>0,63 (0,58, 0,69)</td>
+    </tr>
+    <tr>
+      <td>6A</td>
+      <td>98,7</td>
+      <td>99,3</td>
+      <td>-0,5 (-1,7, 0,6)</td>
+      <td>3,70</td>
+      <td>6,21</td>
+      <td>0,60 (0,54, 0,65)</td>
+    </tr>
+    <tr>
+      <td>6B</td>
+      <td>98,7</td>
+      <td>99,3</td>
+      <td>-0,5 (-1,7, 0,6)</td>
+      <td>4,76</td>
+      <td>6,43</td>
+      <td>0,74 (0,67, 0,81)</td>
+    </tr>
+    <tr>
+      <td>7F</td>
+      <td>99,6</td>
+      <td>99,9</td>
+      <td>-0,3 (-1,1, 0,4)</td>
+      <td>3,42</td>
+      <td>4,85</td>
+      <td>0,70 (0,65, 0,77)</td>
+    </tr>
+    <tr>
+      <td>9V</td>
+      <td>99,4</td>
+      <td>99,7</td>
+      <td>-0,3 (-1,2, 0,6)</td>
+      <td>2,40</td>
+      <td>3,29</td>
+      <td>0,73 (0,67, 0,80)</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>99,3</td>
+      <td>99,6</td>
+      <td>-0,3 (-1,2, 0,7)</td>
+      <td>5,61</td>
+      <td>6,95</td>
+      <td>0,81 (0,73, 0,89)</td>
+    </tr>
+    <tr>
+      <td>18C</td>
+      <td>99,7</td>
+      <td>99,6</td>
+      <td>0,2 (-0,6, 1,0)</td>
+      <td>2,62</td>
+      <td>3,08</td>
+      <td>0,85 (0,78, 0,93)</td>
+    </tr>
+    <tr>
+      <td>19A</td>
+      <td>99,9</td>
+      <td>99,9</td>
+      <td>0,0 (-0,7, 0,7)</td>
+      <td>4,10</td>
+      <td>5,53</td>
+      <td>0,74 (0,68, 0,80)</td>
+    </tr>
+    <tr>
+      <td>19F</td>
+      <td>99,7</td>
+      <td>99,7</td>
+      <td>0,0 (-0,8, 0,8)</td>
+      <td>3,55</td>
+      <td>4,47</td>
+      <td>0,79 (0,74, 0,86)</td>
+    </tr>
+    <tr>
+      <td>23F</td>
+      <td>98,6</td>
+      <td>99,0</td>
+      <td>-0,4 (-1,7, 0,9)</td>
+      <td>2,04</td>
+      <td>3,32</td>
+      <td>0,61 (0,56, 0,68)</td>
+    </tr>
+    <tr>
+      <td colspan="7">2 Týp huyết thanh bổ sung trong VAXNEUVANCE</td>
+    </tr>
+    <tr>
+      <td>22F</td>
+      <td>99,6</td>
+      <td>7,2</td>
+      <td>92,4 (90,1, 94,2)</td>
+      <td>7,52</td>
+      <td>0,11</td>
+      <td>68,80 (63,10, 75,02)</td>
+    </tr>
+    <tr>
+      <td>33F</td>
+      <td>98,9</td>
+      <td>6,2</td>
+      <td>92,7 (90,4, 94,4)</td>
+      <td>4,15</td>
+      <td>0,09</td>
+      <td>44,91 (41,04, 49,14)</td>
+    </tr>
+  </tbody>
+</table>
 
-* *Sự khác biệt ước tính và khoảng tin cậy đối với khác biệt điểm phần trăm dựa trên phương pháp Miettinen & Nurminen.*
-* ** Tỷ số GMC và khoảng tin cậy được tính toán bằng cách sử dụng phân phối t với ước tính phương sai từ mô hình tuyến tính đặc hiệu týp huyết thanh sử dụng nồng độ kháng thể được biến đổi log tự nhiên làm đáp ứng và một thời hạn duy nhất cho nhóm tiêm chủng.*
-* *Kết luận về sự không thua kém đối với 13 týp huyết thanh chung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE-PCV 13 giá) là >-10 điểm phần trăm hoặc >0,5 đối với tỷ số IgG GMC (VAXNEUVANCE/ PCV 13 giá)*
-* *$n=$ Số người tham gia được chọn ngẫu nhiên, được tiêm chủng và đóng góp vào phân tích. CI = khoảng tin cậy (confidence interval); GMC = nồng độ trung bình hình học $(\mu g/mL)$; IgG = globulin miễn dịch G (immunoglobulin G).*
+<p>* Sự khác biệt ước tính và khoảng tin cậy đối với khác biệt điểm phần trăm dựa trên phương pháp Miettinen &amp; Nurminen.</p>
+
+<p>** Tỷ số GMC và khoảng tin cậy được tính toán bằng cách sử dụng phân phối t với ước tính phương sai từ mô hình tuyến tính đặc hiệu týp huyết thanh sử dụng nồng độ kháng thể được biến đổi log tự nhiên làm đáp ứng và một thời hạn duy nhất cho nhóm tiêm chủng.</p>
+
+<p>† Kết luận về sự không thua kém đối với 13 týp huyết thanh chung dựa trên giới hạn dưới của khoảng tin cậy 95% cho sự khác biệt điểm phần trăm (VAXNEUVANCE – PCV 13 giá) là &gt;-10 điểm phần trăm hoặc &gt;0,5 đối với tỷ số IgG GMC (VAXNEUVANCE/ PCV 13 giá)</p>
+
+<p>n = Số người tham gia được chọn ngẫu nhiên, được tiêm chủng và có đóng góp vào phân tích.</p>
+
+<p>CI = khoảng tin cậy (confidence interval); GMC = nồng độ trung bình hình học (µg / mL); IgG = globulin miễn dịch G (immunoglobulin G).</p>
 
 VAXNEUVANCE tạo ra các kháng thể chức năng, như được đánh giá bằng GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau lịch tiêm cơ bản và sau liều nhắc lại, nói chung là tương đương nhưng thấp hơn một chút đối với 13 týp huyết thanh có chung với PCV 13 giá. Sự liên quan lâm sàng của đáp ứng thấp hơn một chút này vẫn chưa được biết rõ. GMT OPA đối với cả 22F và 33F cao hơn ở những người được sử dụng VAXNEUVANCE so với những người được sử dụng PCV 13 giá.
 
@@ -402,65 +1187,340 @@ Trong mỗi nghiên cứu, tính sinh miễn dịch đã được đánh giá b�
 Trong nghiên cứu then chốt, mù đôi, đối chứng so sánh với hoạt chất (Đề cương 019), 1.205 đối tượng ≥ 50 tuổi chưa từng được tiêm chủng vắc-xin phế cầu đã được chọn ngẫu nhiên để sử dụng VAXNEUVANCE hoặc vắc-xin cộng hợp polysaccharide phế cầu khuẩn 13 giá. Tuổi trung bình của những người tham gia là 66 tuổi (trong khoảng từ 50-92 tuổi), với khoảng 69% trên 65 tuổi và khoảng 12% trên 75 tuổi. 57,3% là nữ và 87% cho biết tiền sử có ít nhất một tình trạng bệnh lý mắc từ trước.
 Nghiên cứu đã chứng minh rằng VAXNEUVANCE không thua kém vắc-xin cộng hợp polysaccharide phế cầu 13 giá về 13 týp huyết thanh có chung và vượt trội hơn đối với 2 týp huyết thanh bổ sung và týp huyết thanh 3 có chung. Bảng 6 tóm tắt GMT OPA lúc 30 ngày sau khi tiêm chủng. GMC IgG nói chung là phù hợp với kết quả được quan sát thấy về GMT OPA.
 
-**Bảng 6: GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau khi tiêm chủng ở người lớn ≥ 50 tuổi chưa từng được tiêm chủng vắc-xin phế cầu (Đề cương 019)**
+<h2>Bảng 6: GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau khi tiêm chủng ở người lớn ≥ 50 tuổi chưa từng được tiêm chủng vắc-xin phế cầu (Đề cương 019)</h2>
 
-| Týp huyết thanh phế cầu | VAXNEUVANCE (N=602) | | PCV 13 giá (N=600) | | Tỷ số GMT* (VAXNEUVANCE/ PCV 13 giá)<br>(Khoảng tin cậy (CI) 95%)* |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| | **n** | **GMT\*** | **n** | **GMT\*** | |
-| **13 týp huyết thanh có chung\*** | | | | | |
-| 1 | 598 | 256,3 | 598 | 322,6 | 0,79 (0,66, 0,96) |
-| 3† | 598 | 216,2 | 598 | 135,1 | 1,60 (1,38, 1,85) |
-| 4 | 598 | 1125,6 | 598 | 1661,6 | 0,68 (0,57, 0,80) |
-| 5 | 598 | 447,3 | 598 | 563,5 | 0,79 (0,64, 0,98) |
-| 6A | 596 | 5407,2 | 598 | 5424,5 | 1,00 (0,84, 1,19) |
-| 6B | 598 | 4011,7 | 598 | 3258,2 | 1,23 (1,02, 1,48) |
-| 7F | 597 | 4617,3 | 598 | 5880,6 | 0,79 (0,68, 0,90) |
-| 9V | 598 | 1817,3 | 597 | 2232,9 | 0,81 (0,70, 0,94) |
-| 14 | 598 | 1999,3 | 598 | 2656,7 | 0,75 (0,64, 0,89) |
-| 18C | 598 | 2757,7 | 598 | 2583,7 | 1,07 (0,91, 1,26) |
-| 19A | 598 | 3194,3 | 598 | 3979,8 | 0,80 (0,70, 0,93) |
-| 19F | 598 | 1695,1 | 598 | 1917,8 | 0,88 (0,76, 1,02) |
-| 23F | 598 | 2045,4 | 598 | 1740,4 | 1,18 (0,96, 1,44) |
-| **2 týp huyết thanh bổ sung có trong VAXNEUVANCE§** | | | | | |
-| 22F | 594 | 2375,2 | 586 | 74,6 | 31,83 (25,35, 39,97) |
-| 33F | 598 | 7994,7 | 597 | 1124,9 | 7,11 (6,07, 8,32) |
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="2">Týp huyết thanh phế cầu</th>
+      <th colspan="2">VAXNEUVANCE<br>(N = 602)</th>
+      <th colspan="2">PCV 13 giá<br>(N = 600)</th>
+      <th rowspan="2">Tỷ số GMT*<br>(VAXNEUVANCE/ PCV 13 giá)<br>(Khoảng tin cậy (CI) 95%)*</th>
+    </tr>
+    <tr>
+      <th>n</th>
+      <th>GMT*</th>
+      <th>n</th>
+      <th>GMT*</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="6">13 týp huyết thanh có chung†</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>598</td>
+      <td>256,3</td>
+      <td>598</td>
+      <td>322,6</td>
+      <td>0,79 (0,66, 0,96)</td>
+    </tr>
+    <tr>
+      <td>3‡</td>
+      <td>598</td>
+      <td>216,2</td>
+      <td>598</td>
+      <td>135,1</td>
+      <td>1,60 (1,38, 1,85)</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>598</td>
+      <td>1125,6</td>
+      <td>598</td>
+      <td>1661,6</td>
+      <td>0,68 (0,57, 0,80)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>598</td>
+      <td>447,3</td>
+      <td>598</td>
+      <td>563,5</td>
+      <td>0,79 (0,64, 0,98)</td>
+    </tr>
+    <tr>
+      <td>6A</td>
+      <td>596</td>
+      <td>5407,2</td>
+      <td>598</td>
+      <td>5424,5</td>
+      <td>1,00 (0,84, 1,19)</td>
+    </tr>
+    <tr>
+      <td>6B</td>
+      <td>598</td>
+      <td>4011,7</td>
+      <td>598</td>
+      <td>3258,2</td>
+      <td>1,23 (1,02, 1,48)</td>
+    </tr>
+    <tr>
+      <td>7F</td>
+      <td>597</td>
+      <td>4617,3</td>
+      <td>598</td>
+      <td>5880,6</td>
+      <td>0,79 (0,68, 0,90)</td>
+    </tr>
+    <tr>
+      <td>9V</td>
+      <td>598</td>
+      <td>1817,3</td>
+      <td>597</td>
+      <td>2232,9</td>
+      <td>0,81 (0,70, 0,94)</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>598</td>
+      <td>1999,3</td>
+      <td>598</td>
+      <td>2656,7</td>
+      <td>0,75 (0,64, 0,89)</td>
+    </tr>
+    <tr>
+      <td>18C</td>
+      <td>598</td>
+      <td>2757,7</td>
+      <td>598</td>
+      <td>2583,7</td>
+      <td>1,07 (0,91, 1,26)</td>
+    </tr>
+    <tr>
+      <td>19A</td>
+      <td>598</td>
+      <td>3194,3</td>
+      <td>598</td>
+      <td>3979,8</td>
+      <td>0,80 (0,70, 0,93)</td>
+    </tr>
+    <tr>
+      <td>19F</td>
+      <td>598</td>
+      <td>1695,1</td>
+      <td>598</td>
+      <td>1917,8</td>
+      <td>0,88 (0,76, 1,02)</td>
+    </tr>
+    <tr>
+      <td>23F</td>
+      <td>598</td>
+      <td>2045,4</td>
+      <td>598</td>
+      <td>1740,4</td>
+      <td>1,18 (0,96, 1,44)</td>
+    </tr>
+    <tr>
+      <td colspan="6">2 týp huyết thanh bổ sung có trong VAXNEUVANCE<sup>§</sup></td>
+    </tr>
+    <tr>
+      <td>22F</td>
+      <td>594</td>
+      <td>2375,2</td>
+      <td>586</td>
+      <td>74,6</td>
+      <td>31,83 (25,35, 39,97)</td>
+    </tr>
+    <tr>
+      <td>33F</td>
+      <td>598</td>
+      <td>7994,7</td>
+      <td>597</td>
+      <td>1124,9</td>
+      <td>7,11 (6,07, 8,32)</td>
+    </tr>
+  </tbody>
+</table>
 
-* *GMT, tỷ số GMT và khoảng tin cậy 95% được ước tính từ mô hình cLDA.*
-* ** Kết luận về sự không thua kém đối với 13 týp huyết thanh có chung dựa trên giới hạn dưới của khoảng tin cậy 95% về tỷ số GMT ước tính (VAXNEUVANCE/ PCV 13 giá) là >0.5.*
-* *† Kết luận về sự vượt trội hơn đối với týp huyết thanh 3 dựa trên giới hạn dưới của khoảng tin cậy 95% về tỷ số GMT ước tính (VAXNEUVANCE/PCV 13 giá) là >1,2.*
-* *§ Kết luận về sự vượt trội hơn đối với 2 týp huyết thanh bổ sung dựa trên giới hạn dưới của khoảng tin cậy 95% về tỷ số GMT ước tính (VAXNEUVANCE/ PCV 13 giá) là >2,0.*
-* *$N=$ Số người tham gia được chọn ngẫu nhiên và được tiêm chủng; $n=$ Số người tham gia đóng góp vào phân tích. CI = khoảng tin cậy (confidence interval); cLDA = phân tích dữ liệu theo chiều dọc bị ràng buộc (constrained longitudinal data analysis); GMT = Hiệu giá trung bình hình học (geometric mean titre) (1/dil); OPA = hoạt tính thực bào opsonin (opsonophagocytic activity); PCV = vắc-xin cộng hợp phế cầu khuẩn (pneumococcal conjugate vaccine).*
+<p>*GMT, tỷ số GMT và khoảng tin cậy 95% được ước tính từ mô hình cLDA.</p>
+
+<p>† Kết luận về sự không thua kém đối với 13 týp huyết thanh có chung dựa trên giới hạn dưới của khoảng tin cậy 95% về tỷ số GMT ước tính (VAXNEUVANCE/ PCV 13 giá) là &gt; 0,5.</p>
+
+<p>‡ Kết luận về sự vượt trội hơn đối với týp huyết thanh 3 dựa trên giới hạn dưới của khoảng tin cậy 95% về tỷ số GMT ước tính (VAXNEUVANCE/PCV 13 giá) là &gt; 1,2.</p>
+
+<p>§ Kết luận về sự vượt trội hơn đối với 2 týp huyết thanh bổ sung dựa trên giới hạn dưới của khoảng tin cậy 95% về tỷ số GMT ước tính (VAXNEUVANCE/ PCV 13 giá) là &gt; 2,0.</p>
+
+<p>N = Số người tham gia được chọn ngẫu nhiên và được tiêm chủng; n = Số người tham gia đóng góp vào phân tích.</p>
+
+<p>CI = khoảng tin cậy (confidence interval); cLDA = phân tích dữ liệu theo chiều dọc bị ràng buộc (constrained longitudinal data analysis); GMT = Hiệu giá trung bình hình học (geometric mean titre) (1/dil); OPA = hoạt tính thực bào opsonin (opsonophagocytic activity); PCV = vắc-xin cộng hợp phế cầu khuẩn (pneumococcal conjugate vaccine).</p>
 
 Trong một nghiên cứu mô tả, mù đôi (Đề cương 017), 1.515 đối tượng từ 18-49 tuổi có khả năng miễn dịch có hoặc không có các yếu tố nguy cơ về bệnh phế cầu đã được chọn ngẫu nhiên theo tỷ lệ 3:1 và sử dụng VAXNEUVANCE hoặc vắc-xin cộng hợp polysaccharide phế cầu 13 giá, tiếp theo PPSV23 lúc 6 tháng sau đó. Các yếu tố nguy cơ về bệnh phế cầu bao gồm: bệnh đái tháo đường, bệnh tim mạn tính bao gồm suy tim, bệnh gan mạn tính có xơ gan còn bù, bệnh phổi mạn tính bao gồm hen dai dẳng và bệnh phổi tắc nghẽn mạn tính (COPD), hiện đang sử dụng thuốc lá và sử dụng rượu nhiều. Nhìn chung, trong số những người sử dụng VAXNEUVANCE, 285 người (25,2%) không có yếu tố nguy cơ, 620 người (54,7%) có 1 yếu tố nguy cơ và 228 người (20,1%) có 2 yếu tố nguy cơ trở lên.
 VAXNEUVANCE đã tạo ra đáp ứng miễn dịch đối với tất cả 15 týp huyết thanh có trong vắc-xin như được đánh giá bằng GMT OPA (Bảng 7) và GMC IgG. GMT OPA và GMC IgG nói chung là tương đương giữa hai nhóm tiêm chủng đối với 13 týp huyết thanh có chung và cao hơn ở nhóm dùng VAXNEUVANCE đối với 2 týp huyết thanh bổ sung. Sau khi tiêm chủng bằng PPV23, GMT OPA và GMC IgG nói chung là tương đương giữa hai nhóm tiêm chủng đối với tất cả 15 týp huyết thanh.
 Trong một phân tích phân nhóm dựa trên số lượng các yếu tố nguy cơ được báo cáo, VAXNEUVANCE đã tạo ra đáp ứng miễn dịch đối với tất cả 15 týp huyết thanh có trong vắc-xin như được đánh giá bằng GMT OPA và GMC IgG lúc 30 ngày sau khi tiêm chủng ở những người lớn không có yếu tố nguy cơ, có 1 hoặc 2 hoặc nhiều yếu tố nguy cơ. Các kết quả ở mỗi phân nhóm nhìn chung nhất quán với kết quả được quan sát thấy ở nhóm đối tượng nghiên cứu tổng thể. Việc sử dụng tuần tự VAXNEUVANCE, tiếp theo là PPV23 giá lúc 6 tháng sau đó cũng có tính sinh miễn dịch đối với tất cả 15 týp huyết thanh có trong VAXNEUVANCE.
 
-**Bảng 7: GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau khi tiêm chủng ở người lớn từ 18-49 tuổi chưa từng được tiêm chủng vắc-xin phế cầu có hoặc không có các yếu tố nguy cơ về bệnh phế cầu (Đề cương 017)**
+<h2>Bảng 7: GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau khi tiêm chủng ở người lớn từ 18-49 tuổi chưa từng được tiêm chủng vắc-xin phế cầu có hoặc không có các yếu tố nguy cơ về bệnh phế cầu (Đề cương 017)</h2>
 
-| Týp huyết thanh phế cầu | VAXNEUVANCE (N=1.133) | | | PCV 13 giá (N=379) | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | **n** | **GMT được quan sát** | **Khoảng tin cậy 95%\*** | **n** | **GMT được quan sát** | **Khoảng tin cậy 95%\*** |
-| **13 týp huyết thanh có chung** | | | | | | |
-| 1 | 1019 | 268,6 | (243,7, 296,0) | 341 | 267,2 | (220,4, 323,9) |
-| 3 | 1004 | 199,3 | (184,6, 215,2) | 340 | 150,6 | (130,6, 173,8) |
-| 4 | 1016 | 1416,0 | (1308,9, 1531,8) | 342 | 2576,1 | (2278,0, 2913,2) |
-| 5 | 1018 | 564,8 | (512,7, 622,2) | 343 | 731,1 | (613,6, 871,0) |
-| 6A | 1006 | 12928,8 | (11923,4, 14019,0) | 335 | 11282,4 | (9718,8, 13097,5) |
-| 6B | 1014 | 10336,9 | (9649,4, 11073,4) | 342 | 6995,7 | (6024,7, 8123,2) |
-| 7F | 1019 | 5756,4 | (5410,4, 6124,6) | 342 | 7588,9 | (6775,3, 8500,2) |
-| 9V | 1015 | 3355,1 | (3135,4, 3590,1) | 343 | 3983,7 | (3557,8, 4460,7) |
-| 14 | 1016 | 5228,9 | (4847,6, 5640,2) | 343 | 5889,8 | (5218,2, 6647,8) |
-| 18C | 1014 | 5709,0 | (5331,1, 6113,6) | 343 | 3063,2 | (2699,8, 3475,5) |
-| 19A | 1015 | 5369,9 | (5017,7, 5746,8) | 343 | 5888,0 | (5228,2, 6631,0) |
-| 19F | 1018 | 3266,3 | (3064,4, 3481,4) | 343 | 3272,7 | (2948,2, 3632,9) |
-| 23F | 1016 | 4853,5 | (4469,8, 5270,2) | 340 | 3887,3 | (3335,8, 4530,0) |
-| **2 týp huyết thanh bổ sung có trong VAXNEUVANCE** | | | | | | |
-| 22F | 1005 | 3926,5 | (3645,9, 4228,7) | 320 | 291,6 | (221,8, 383,6) |
-| 33F | 1014 | 11627,8 | (10824,6, 12490,7) | 338 | 2180,6 | (1828,7, 2600,2) |
+<table border="1">
+  <thead>
+    <tr>
+      <th>Týp huyết thanh phế cầu</th>
+      <th colspan="3">VAXNEUVANCE (N = 1.133)</th>
+      <th colspan="3">PCV 13 giá (N = 379)</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>n</th>
+      <th>GMT được quan sát</th>
+      <th>Khoảng tin cậy 95%*</th>
+      <th>n</th>
+      <th>GMT được quan sát</th>
+      <th>Khoảng tin cậy 95%*</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="7">13 týp huyết thanh có chung</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1019</td>
+      <td>268,6</td>
+      <td>(243,7, 296,0)</td>
+      <td>341</td>
+      <td>267,2</td>
+      <td>(220,4, 323,9)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>1004</td>
+      <td>199,3</td>
+      <td>(184,6, 215,2)</td>
+      <td>340</td>
+      <td>150,6</td>
+      <td>(130,6, 173,8)</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>1016</td>
+      <td>1416,0</td>
+      <td>(1308,9, 1531,8)</td>
+      <td>342</td>
+      <td>2576,1</td>
+      <td>(2278,0, 2913,2)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>1018</td>
+      <td>564,8</td>
+      <td>(512,7, 622,2)</td>
+      <td>343</td>
+      <td>731,1</td>
+      <td>(613,6, 871,0)</td>
+    </tr>
+    <tr>
+      <td>6A</td>
+      <td>1006</td>
+      <td>12928,8</td>
+      <td>(11923,4, 14019,0)</td>
+      <td>335</td>
+      <td>11282,4</td>
+      <td>(9718,8, 13097,5)</td>
+    </tr>
+    <tr>
+      <td>6B</td>
+      <td>1014</td>
+      <td>10336,9</td>
+      <td>(9649,4, 11073,4)</td>
+      <td>342</td>
+      <td>6995,7</td>
+      <td>(6024,7, 8123,2)</td>
+    </tr>
+    <tr>
+      <td>7F</td>
+      <td>1019</td>
+      <td>5756,4</td>
+      <td>(5410,4, 6124,6)</td>
+      <td>342</td>
+      <td>7588,9</td>
+      <td>(6775,3, 8500,2)</td>
+    </tr>
+    <tr>
+      <td>9V</td>
+      <td>1015</td>
+      <td>3355,1</td>
+      <td>(3135,4, 3590,1)</td>
+      <td>343</td>
+      <td>3983,7</td>
+      <td>(3557,8, 4460,7)</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>1016</td>
+      <td>5228,9</td>
+      <td>(4847,6, 5640,2)</td>
+      <td>343</td>
+      <td>5889,8</td>
+      <td>(5218,2, 6647,8)</td>
+    </tr>
+    <tr>
+      <td>18C</td>
+      <td>1014</td>
+      <td>5709,0</td>
+      <td>(5331,1, 6113,6)</td>
+      <td>343</td>
+      <td>3063,2</td>
+      <td>(2699,8, 3475,5)</td>
+    </tr>
+    <tr>
+      <td>19A</td>
+      <td>1015</td>
+      <td>5369,9</td>
+      <td>(5017,7, 5746,8)</td>
+      <td>343</td>
+      <td>5888,0</td>
+      <td>(5228,2, 6631,0)</td>
+    </tr>
+    <tr>
+      <td>19F</td>
+      <td>1018</td>
+      <td>3266,3</td>
+      <td>(3064,4, 3481,4)</td>
+      <td>343</td>
+      <td>3272,7</td>
+      <td>(2948,2, 3632,9)</td>
+    </tr>
+    <tr>
+      <td>23F</td>
+      <td>1016</td>
+      <td>4853,5</td>
+      <td>(4469,8, 5270,2)</td>
+      <td>340</td>
+      <td>3887,3</td>
+      <td>(3335,8, 4530,0)</td>
+    </tr>
+    <tr>
+      <td colspan="7">2 týp huyết thanh bổ sung có trong VAXNEUVANCE</td>
+    </tr>
+    <tr>
+      <td>22F</td>
+      <td>1005</td>
+      <td>3926,5</td>
+      <td>(3645,9, 4228,7)</td>
+      <td>320</td>
+      <td>291,6</td>
+      <td>(221,8, 383,6)</td>
+    </tr>
+    <tr>
+      <td>33F</td>
+      <td>1014</td>
+      <td>11627,8</td>
+      <td>(10824,6, 12490,7)</td>
+      <td>338</td>
+      <td>2180,6</td>
+      <td>(1828,7, 2600,2)</td>
+    </tr>
+  </tbody>
+</table>
 
-* * Khoảng tin cậy 95% trong nhóm có được bằng cách mũ hóa các khoảng tin cậy của giá trị trung bình của các giá trị log tự nhiên dựa trên phân phối t.*
-* *$N=$ Số người tham gia được chọn ngẫu nhiên và được tiêm chủng, $n=$ Số người tham gia đóng góp vào phân tích.*
-* *CI = khoảng tin cậy (confidence interval); GMT = Hiệu giá trung bình hình học (geometric mean titre) (1/dil); OPA = hoạt tính thực bào opsonin (opsonophagocytic activity); PCV = vắc-xin cộng hợp phế cầu khuẩn (pneumococcal conjugate vaccine).*
+<div>
+  <p>* Khoảng tin cậy 95% trong nhóm có được bằng cách mũ hóa các khoảng tin cậy của giá trị trung bình của các giá trị log tự nhiên dựa trên phân phối t.</p>
+
+  <p>N = Số người tham gia được chọn ngẫu nhiên và được tiêm chủng; n = Số người tham gia đóng góp vào phân tích.</p>
+
+  <p>CI = khoảng tin cậy (confidence interval); GMT = Hiệu giá trung bình hình học (geometric mean titre) (1/dil); OPA = hoạt tính thực bào opsonin (opsonophagocytic activity); PCV = vắc-xin cộng hợp phế cầu khuẩn (pneumococcal conjugate vaccine).</p>
+</div>
 
 **Sử dụng tuần tự liều vắc-xin phế cầu ở người lớn**
 Việc sử dụng tuần tự VAXNEUVANCE, tiếp theo là PPSV23 đã được đánh giá trong Đề cương 016, Đề cương 017 (xem phần Đặc tính dược lực học, Người lớn chưa từng được tiêm chủng vắc-xin phế cầu), và Đề cương 018 (xem phần Đặc tính dược lực học, Người lớn nhiễm HIV).

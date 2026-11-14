@@ -122,27 +122,68 @@ Rất phổ biến
 ≥1/10
 Page 3 of 10
 
-Phổ biến
-$\ge1/100~d\hat{e}n<1/10$
-Không phổ biến
-$\ge1/1.000~d\hat{e}n<1/100$
-Hiếm
-$\ge1/10.000~d\hat{e}n<1/1.000$
-Rất hiếm
-$<1/10.000$
+<p>Phổ biến &nbsp;&nbsp;&nbsp; ≥1/100 đến &lt; 1/10</p>
+<p>Không phổ biến &nbsp;&nbsp;&nbsp; ≥1/1.000 đến &lt; 1/100</p>
+<p>Hiếm &nbsp;&nbsp;&nbsp; ≥1/10.000 đến &lt; 1/1.000</p>
+<p>Rất hiếm &nbsp;&nbsp;&nbsp; &lt; 1/10.000</p>
 
-| Phân loại theo hệ cơ quan   | Tần suất   | Các tác dụng không mong  muốn   |
-| :--- | :--- | :--- |
-| Rối loạn máu và hệ bạch huyết   | Không phổ biến   | Sưng hạch bạch huyết   |
-| Rối loạn hệ miễn dịch   | Không phổ biến   | Phản ứng quá mẫn (phát ban)   |
-| Rối loạn hệ thần kinh   | Rất phổ biến   | Đau đầu   |
-| Rối loạn hệ hô hấp, lồng ngực và  trung thất   | Phổ biến   | Chảy mũi   |
-| Rối loạn tiêu hóa   | Không phổ biến   | Buồn nôn, đau bụng   |
-| Rối loạn cơ xương và mô liên kết     | Rất phổ biến   | Đau cơ, đau khớp   |
-|  | Rất phổ biến   | Đau tại vị trí tiêm, mệt mỏi   |
-| Rối loạn toàn thân và tình trạng  tại vị trí tiêm   | Phổ biến   | Phản ứng tại vị trí tiêm (ban  đỏ, sưng), sốt, ớn lạnh   |
-|  | Không phổ biến   | Ngứa tại vị trí tiêm  Đau, khó chịu   |
-
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Phân loại theo hệ cơ quan</th>
+      <th>Tần suất</th>
+      <th>Các tác dụng không mong muốn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rối loạn máu và hệ bạch huyết</td>
+      <td>Không phổ biến</td>
+      <td>Sưng hạch bạch huyết</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ miễn dịch</td>
+      <td>Không phổ biến</td>
+      <td>Phản ứng quá mẫn (phát ban)</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ thần kinh</td>
+      <td>Rất phổ biến</td>
+      <td>Đau đầu</td>
+    </tr>
+    <tr>
+      <td>Rối loạn hệ hô hấp, lồng ngực và trung thất</td>
+      <td>Phổ biến</td>
+      <td>Chảy mũi</td>
+    </tr>
+    <tr>
+      <td>Rối loạn tiêu hóa</td>
+      <td>Không phổ biến</td>
+      <td>Buồn nôn, đau bụng</td>
+    </tr>
+    <tr>
+      <td>Rối loạn cơ xương và mô liên kết</td>
+      <td>Rất phổ biến</td>
+      <td>Đau cơ, đau khớp</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Rối loạn toàn thân và tình trạng tại vị trí tiêm</td>
+      <td>Rất phổ biến</td>
+      <td>Đau tại vị trí tiêm, mệt mỏi</td>
+    </tr>
+    <tr>
+      <td>Phổ biến</td>
+      <td>Phản ứng tại vị trí tiêm (ban đỏ, sưng), sốt, ớn lạnh</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Không phổ biến</td>
+      <td>Ngứa tại vị trí tiêm</td>
+    </tr>
+    <tr>
+      <td>Đau, khó chịu</td>
+    </tr>
+  </tbody>
+</table>
 Thông báo ngay cho bác sĩ hoặc dược sĩ nếu có các phản ứng bất lợi xảy ra trong quá trình
 sử dụng.
 
@@ -217,27 +258,76 @@ hiệu lực cao chống lại bệnh đường hô hấp dưới do RSV gây ra
 Hiệu lực của vắc xin phòng chống các ca bệnh đường hô hấp dưới do RSV A và RSV B gây ra lần
 lượt là 84,62% (CI 95% [32,08; 98,32]) và 80,88% (CI 95% [49,40; 94,27]).
 
-Bảng 1. Phân tích hiệu lực: Dân số chung mắc bệnh đường hô hấp dưới do RSV gây ra trong
-đợt đầu tiên, phân nhóm theo độ tuổi và theo bệnh đồng mắc trong nghiên cứu RSV
-OA=ADJ-006 (nhóm phơi nhiễm đã được hiệu chỉnh)
+<h2>Bảng 1. Phân tích hiệu lực: Dân số chung mắc bệnh đường hô hấp dưới do RSV gây ra trong đợt đầu tiên, phân nhóm theo độ tuổi và theo bệnh đồng mắc trong nghiên cứu RSV OA=ADJ-006 (nhóm phơi nhiễm đã được hiệu chỉnh)</h2>
 
-| Phân nhóm | N | n | Tỉ lệ mắc trên 1.000 Năm-Người (AREXVY) | N | Π | Tỉ lệ mắc trên 1.000 Năm-Người (Giả dược) | % Hiệu lực $(CI)^{a}$ |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Dân số chung $(\ge60~tu\hat{\hat{o}i)^{b}$ | 12466 | 7 | 1,0 | 12494 | 40 | 5,8 | 82,58 (57,89; 94,08) |
-| 60-69 tuổi | 6963 | 4 | 1,0 | 6979 | 21 | 5,5 | 80,96 (43,56; 95,25) |
-| 70-79 tuổi | 4487 | 1 | 0,4 | 4487 | 16 | 6,5 | 93,81 (60,15; 99,85) |
-| Số đối tượng tham gia có ít nhất 1 bệnh đồng mắc cần quan tâm | 4937 | 1 | 0,4 | 4861 | 18 | 6,6 | 94,61 (65,88; 99,87) |
-Page 6 of 10
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="2">Phân nhóm</th>
+      <th colspan="3">AREXVY</th>
+      <th colspan="3">Giả dược</th>
+      <th rowspan="2">% Hiệu lực (CI)<sup>a</sup></th>
+    </tr>
+    <tr>
+      <th>N</th>
+      <th>n</th>
+      <th>Tỉ lệ mắc trên 1.000 Năm-Người</th>
+      <th>N</th>
+      <th>n</th>
+      <th>Tỉ lệ mắc trên 1.000 Năm-Người</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Dân số chung (≥60 tuổi)<sup>b</sup></b></td>
+      <td>12466</td>
+      <td>7</td>
+      <td>1,0</td>
+      <td>12494</td>
+      <td>40</td>
+      <td>5,8</td>
+      <td>82,58 (57,89; 94,08)</td>
+    </tr>
+    <tr>
+      <td><b>60-69 tuổi</b></td>
+      <td>6963</td>
+      <td>4</td>
+      <td>1,0</td>
+      <td>6979</td>
+      <td>21</td>
+      <td>5,5</td>
+      <td>80,96 (43,56; 95,25)</td>
+    </tr>
+    <tr>
+      <td><b>70-79 tuổi</b></td>
+      <td>4487</td>
+      <td>1</td>
+      <td>0,4</td>
+      <td>4487</td>
+      <td>16</td>
+      <td>6,5</td>
+      <td>93,81 (60,15; 99,85)</td>
+    </tr>
+    <tr>
+      <td><b>Số đối tượng tham gia có ít nhất 1 bệnh đồng mắc cần quan tâm</b></td>
+      <td>4937</td>
+      <td>1</td>
+      <td>0,4</td>
+      <td>4861</td>
+      <td>18</td>
+      <td>6,6</td>
+      <td>94,61 (65,88; 99,87)</td>
+    </tr>
+  </tbody>
+</table>
 
-"CI = Khoảng tin cậy (CI 96,95% áp dụng cho dân số chung (≥60 tuổi) và CI 95% áp dụng cho
-các phân nhóm còn lại). Độ chính xác của CI 2 phía đối với hiệu lực của vắc xin được lấy dựa trên
-mô hình Poisson đã hiệu chỉnh theo nhóm tuổi và khu vực.
-b
-Xác nhận đạt tiêu chí chính theo các tiêu chuẩn đã được định nghĩa trước, với ngưỡng giới hạn
-dưới của CI 2 phía đối với hiệu lực vắc xin >20%
-$N=S\hat{o}$ đối tượng tham gia nghiên cứu được tuyển vào trong mỗi nhóm
-$n=S\hat{o}$ đối tượng tham gia nghiên cứu được xác nhận lần đầu tiên mắc bệnh đường hô hấp dưới do
-RSV từ Ngày 15 sau khi tiêm chủng
+<p><sup>a</sup> CI = Khoảng tin cậy (CI 96,95% áp dụng cho dân số chung (≥60 tuổi) và CI 95% áp dụng cho các phân nhóm còn lại). Độ chính xác của CI 2 phía đối với hiệu lực của vắc xin được lấy dựa trên mô hình Poisson đã hiệu chỉnh theo nhóm tuổi và khu vực.</p>
+
+<p><sup>b</sup> Xác nhận đạt tiêu chí chính theo các tiêu chuẩn đã được định nghĩa trước, với ngưỡng giới hạn dưới của CI 2 phía đối với hiệu lực vắc xin &gt;20%</p>
+
+<p>N = Số đối tượng tham gia nghiên cứu được tuyển vào trong mỗi nhóm</p>
+
+<p>n = Số đối tượng tham gia nghiên cứu được xác nhận lần đầu tiên mắc bệnh đường hô hấp dưới do RSV từ Ngày 15 sau khi tiêm chủng</p>
 So với giả dược, Arexvy làm giảm có ý nghĩa nguy cơ phát triển bệnh đường hô hấp dưới do RSV
 gây ra, với hiệu lực 84,37% (CI 95%: [46,91; 97,04]) ở các đối tượng người lớn $\ge70$ tuổi. Không
 thể kết luận hiệu lực của vắc xin trong phân nhóm $\ge80$ tuổi (1016 đối tượng ở nhóm Arexvy so

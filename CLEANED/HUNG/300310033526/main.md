@@ -140,45 +140,123 @@ Hồ sơ an toàn trình bày sau đây được dựa trên dữ liệu sau:
 Dữ liệu lâm sàng trên hơn 8.000 người lớn (5,064 người dùng VAXIGRIP, 3,040 người dùng VAXIGRIP TETRA) và hơn 5.800 người cao tuổi trên 60 tuổi (4.468 người dùng VAXIGRIP, 1.392 người dùng VAXIGRIP TETRA).
 Dữ liệu trong quá trình lưu hành sản phẩm trên toàn cầu (*).
 
-| Tác dụng không mong muốn | Tần suất |
-| :--- | :--- |
-| **Rối loạn máu và hệ bạch huyết** | |
-| Sưng hạch (1) | Không thường gặp |
-| Giảm tiểu cầu thoáng qua | Không rõ |
-| **Rối loạn hệ miễn dịch** | |
-| Các phản ứng dị ứng: quá mẫn với thuốc (2), viêm da dị ứng (2), mày đay (2, 3), đau vùng hầu họng, hen suyễn (1), viêm mũi dị ứng (2), chảy mũi (1), viêm kết mạc dị ứng (2), ngứa (4), nóng bừng (5) | Không thường gặp |
-| Các phản ứng dị ứng: ngứa (2, 3), sưng mặt, ban đỏ, phát ban, đỏ bừng (5), kích thích niêm mạc miệng (5), dị cảm vùng miệng (5), kích thích cổ họng, khó thở (2, 3), hắt hơi, tắc mũi (2), tắc nghẽn đường hô hấp trên (2), xung huyết mắt (2), viêm da dị ứng (2), ngứa toàn thân (2) | Hiếm gặp |
-| Phản ứng dị ứng như nổi ban đỏ, phù mạch, sốc | Không rõ |
-| **Rối loạn chuyển hóa và dinh dưỡng** | |
-| Giảm sự ngon miệng | Hiếm gặp |
-| **Rối loạn hệ thần kinh** | |
-| Đau đầu | Rất thường gặp |
-| Chóng mặt (7), buồn ngủ (7) | Không thường gặp |
-| Giảm cảm nhận xúc giác (2), dị cảm | Hiếm gặp |
-| Đau dọc theo dây thần kinh, co giật, viêm não-tủy, viêm thần kinh, hội chứng Guillain-Barré | Không rõ |
-| **Rối loạn mạch máu** | |
-| Viêm mạch máu như ban xuất huyết Schonlein-Henoch, một vài trường hợp bị viêm mạch máu thận thoáng qua | Không rõ |
-| **Rối loạn dạ dày-ruột** | |
-| Tiêu chảy, buồn nôn | Không thường gặp |
-| Đau vùng bụng (2), nôn | Hiếm gặp |
-| **Rối loạn da và mô dưới da** | |
-| Tăng tiết mồ hôi (1) | Không thường gặp |
-| **Rối loạn cơ xương và mô liên kết** | |
-| Đau cơ | Rất thường gặp |
-| Đau khớp (1) | Không thường gặp |
-| **Các rối loạn toàn thân và tình trạng tại nơi tiêm** | |
-| Đau chỗ tiêm, khó chịu (6) | Rất thường gặp |
-| Sốt (7), run rẩy/rét run, đỏ chỗ tiêm, cứng chỗ tiêm, sưng phù nề chỗ tiêm | Thường gặp |
-| Suy nhược (1), mệt mỏi, bầm tại chỗ tiêm, ngứa tại chỗ tiêm, nóng tại chỗ tiêm, khó chịu tại chỗ tiêm | Không thường gặp |
-| Hội chứng giống cúm (2), tróc da tại chỗ tiêm (5), tăng nhạy cảm tại chỗ tiêm (2) | Hiếm gặp |
-
-(1) Hiếm gặp ở người cao tuổi
-(2) Được báo cáo trong các thử nghiệm lâm sàng ở người lớn
-(3) Không rõ ở nhóm người cao tuổi
-(4) Hiếm gặp ở người lớn
-(5) Được báo cáo trong các thử nghiệm lâm sàng ở người cao tuổi
-(6) Thường gặp ở người cao tuổi
-(7) Không thường gặp ở nhóm người cao tuổi
+<p><strong>Bảng 1: Các phản ứng bất lợi đã được báo cáo ở người lớn và người cao tuổi</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Phân loại hệ cơ quan/Tác dụng không mong muốn</th>
+      <th>Tần suất</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong><em>Rối loạn máu và hệ bạch huyết</em></strong></td>
+    </tr>
+    <tr>
+      <td>Sưng hạch <sup>(1)</sup></td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Giảm tiểu cầu thoáng qua</td>
+      <td>Không rõ<sup>*</sup></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong><em>Rối loạn hệ miễn dịch</em></strong></td>
+    </tr>
+    <tr>
+      <td>Các phản ứng dị ứng: quá mẫn với thuốc <sup>(2)</sup>, viêm da dị ứng<sup>(2)</sup>, mày đay <sup>(2, 3)</sup>, đau vùng hầu họng, hen suyễn <sup>(1)</sup>, viêm mũi dị ứng <sup>(2)</sup>, chảy nước mũi <sup>(1)</sup>, viêm kết mạc dị ứng <sup>(2)</sup>, ngứa <sup>(4)</sup>, nóng bừng <sup>(5)</sup></td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Các phản ứng dị ứng: phù mạch<sup>(2, 3)</sup>, sưng mặt, hồng ban, phát ban, đỏ bừng <sup>(5)</sup>, Phát ban niêm mạc miệng <sup>(5)</sup>, dị cảm vùng miệng <sup>(5)</sup>, kích thích cổ họng, khó thở <sup>(2, 3)</sup>, hắt hơi, tắc mũi <sup>(2)</sup>, tắc nghẽn đường hô hấp trên <sup>(2)</sup>, xung huyết mắt <sup>(2)</sup>, viêm da dị ứng <sup>(2)</sup>, ngứa toàn thân <sup>(2)</sup></td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong><em>Rối loạn hệ thần kinh</em></strong></td>
+    </tr>
+    <tr>
+      <td>Đau đầu</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Chóng mặt <sup>(4)</sup>, buồn ngủ <sup>(4)</sup></td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Giảm cảm nhận xúc giác <sup>(2)</sup>, dị cảm</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td>Đau dọc theo dây thần kinh, co giật, viêm não-tủy, viêm thần kinh, hội chứng Guillain-Barré</td>
+      <td>Không rõ<sup>*</sup></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong><em>Rối loạn mạch máu</em></strong></td>
+    </tr>
+    <tr>
+      <td>Viêm mạch máu như ban xuất huyết Schonlein-Henoch, một vài trường hợp bị viêm mạch máu thận thoáng qua</td>
+      <td>Không rõ<sup>*</sup></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong><em>Rối loạn dạ dày-ruột</em></strong></td>
+    </tr>
+    <tr>
+      <td>Tiêu chảy, buồn nôn</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Đau vùng bụng <sup>(2)</sup>, nôn</td>
+      <td>Hiếm gặp</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong><em>Rối loạn da và mô dưới da</em></strong></td>
+    </tr>
+    <tr>
+      <td>Tăng tiết mồ hôi <sup>(1)</sup></td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong><em>Rối loạn cơ xương và mô liên kết</em></strong></td>
+    </tr>
+    <tr>
+      <td>Đau cơ</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Đau khớp<sup>(1)</sup></td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong><em>Các rối loạn toàn thân và tình trạng tại nơi tiêm</em></strong></td>
+    </tr>
+    <tr>
+      <td>Đau chỗ tiêm, khó chịu <sup>(6)</sup></td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>Sốt <sup>(7)</sup>, run rẩy/rét run, đỏ chỗ tiêm, cứng chỗ tiêm, sưng/phù nề chỗ tiêm</td>
+      <td>Thường gặp</td>
+    </tr>
+    <tr>
+      <td>Suy nhược <sup>(1)</sup>, mệt mỏi, bầm tại chỗ tiêm, ngứa tại chỗ tiêm, nóng tại chỗ tiêm, khó chịu tại chỗ tiêm</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>Hội chứng giống cúm, tróc da tại chỗ tiêm <sup>(5)</sup>, tăng nhạy cảm tại chỗ tiêm <sup>(2)</sup></td>
+      <td>Hiếm gặp</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <sup>(1)</sup> <em>Hiếm gặp ở người cao tuổi</em><br>
+  <sup>(2)</sup> <em>Được báo cáo trong các thử nghiệm lâm sàng ở người lớn</em><br>
+  <sup>(3)</sup> <em>Không rõ ở nhóm người cao tuổi</em><br>
+  <sup>(4)</sup> <em>Hiếm gặp ở người lớn</em><br>
+  <sup>(5)</sup> <em>Được báo cáo trong các thử nghiệm lâm sàng ở người cao tuổi</em><br>
+  <sup>(6)</sup> <em>Thường gặp ở người cao tuổi</em><br>
+  <sup>(7)</sup> <em>Không thường gặp ở nhóm người cao tuổi</em><br>
+  <sup>(*)</sup> <em>Các phản ứng bất lợi được báo cáo hậu mãi sau khi sử dụng Vaxigrip hoặc Vaxigrip Tetra.</em>
+</p>
 
 Trang 6/20 - Trang 7/20
 
@@ -190,77 +268,208 @@ Trẻ em và thanh thiếu niên từ 3 tuổi đến 17 tuổi:
 Hồ sơ an toàn trình bày dưới đây dựa trên dữ liệu sau:
 Dữ liệu nghiên cứu lâm sàng trên 1247 trẻ từ 3 đến 8 tuổi (363 đối tượng dùng VAXIGRIP, 884 đối tượng dùng VAXIGRIP TETRA) và 725 trẻ em/ thanh thiếu niên từ 9 đến 17 tuổi (296 đối tượng dùng VAXIGRIP, 429 đối tượng dùng VAXIGRIP TETRA),
 Dữ liệu trong quá trình lưu hành sản phẩm trên toàn cầu (*).
-
-| Tác dụng không mong muốn | Tần suất |
-| :--- | :--- |
-| **Rối loạn máu và hệ bạch huyết** | |
-| Phì đại hạch bạch huyết (1) | Không thường gặp |
-| Giảm tiểu cầu (1) | Không thường gặp |
-| **Rối loạn hệ miễn dịch** | |
-| Các phản ứng dị ứng: nổi mề đay, phát ban, ngứa (1), đau vùng hầu họng (2) | Không thường gặp |
-| Các phản ứng dị ứng: nổi ban đỏ, khó thở, phản ứng phản vệ, phù mạch, sốc | Không rõ |
-| **Rối loạn tâm thần** | |
-| Bồn chồn (2), Rên rỉ (2) | Không thường gặp |
-| **Rối loạn hệ thần kinh** | |
-| Đau đầu | Rất thường gặp |
-| Chóng mặt | Không thường gặp |
-| Đau dọc theo dây thần kinh, dị cảm, co giật, viêm não-tủy, viêm dây thần kinh và hội chứng Guillain Barré | Không rõ |
-| **Rối loạn mạch máu** | |
-| Viêm mạch máu như ban xuất huyết Schonlein-Henoch, một vài trường hợp ảnh hưởng đến thận thoáng qua | Không rõ |
-| **Rối loạn dạ dày-ruột** | |
-| Tiêu chảy, đau vùng bụng (2), nôn (2) | Không thường gặp |
-| **Rối loạn cơ xương và mô liên kết** | |
-| Đau cơ | Rất thường gặp |
-| Đau khớp (2) | Không thường gặp |
-| **Các rối loạn toàn thân và tình trạng tại nơi tiêm** | |
-| Đau tại chỗ tiêm, đỏ chỗ tiêm, sưng phù nề chỗ tiêm, cứng chỗ tiêm (3), khó chịu, run rẩy/ rét run | Rất thường gặp |
-| Sốt, bầm tại chỗ tiêm | Thường gặp |
-| Ngứa chỗ tiêm, nóng tại vị trí tiêm, khó chịu tại chỗ tiêm (4), khóc (2), suy nhược (4), mệt mỏi | Không thường gặp |
-
-(1) Không rõ ở trẻ em/ thanh thiếu niên từ 9 đến 17 tuổi
-(2) Được báo cáo trong các thử nghiệm lâm sàng ở trẻ em từ 3 đến 8 tuổi
-(3) Thường gặp ở trẻ em/ thanh thiếu niên từ 9 đến 17 tuổi
-(4) Được báo cáo trong các thử nghiệm lâm sàng ở trẻ em/ thanh thiếu niên từ 9 đến 17 tuổi
-
-Trang 7/20 - Trang 8/20
-
-Trẻ em từ 06 tháng đến dưới 36 tháng tuổi
-Hồ sơ an toàn trình bày dưới đây dựa trên dữ liệu sau:
-Dữ liệu nghiên cứu lâm sàng trên 1981 trẻ từ 06 tháng đến 35 tháng tuổi (367 đối tượng dùng VAXIGRIP, 1614 đối tượng dùng VAXIGRIP TETRA).
-Dữ liệu trong quá trình lưu hành sản phẩm trên toàn cầu (*).
-
-| Tác dụng không mong muốn | Tần số |
-| :--- | :--- |
-| **Rối loạn máu và hệ bạch huyết** | |
-| Giảm tiểu cầu, phì đại hạch bạch huyết | Không rõ |
-| **Rối loạn hệ miễn dịch** | |
-| Quá mẫn | Không thường gặp |
-| Các phản ứng dị ứng: ngứa toàn thân, nổi mẩn | Hiếm gặp |
-| Các phản ứng dị ứng: ngứa, phát ban đỏ, mày đay, khó thở, phản ứng phản vệ, phù mạch, sốc | Không rõ |
-| **Rối loạn chuyển hóa và dinh dưỡng** | |
-| Giảm sự thèm ăn (1) | Rất thường gặp |
-| **Rối loạn tâm thần** | |
-| Quấy khóc bất thường (2), cáu kỉnh (1) | Rất thường gặp |
-| **Rối loạn hệ thần kinh** | |
-| Đau đầu (2), ngủ gà/ buồn ngủ (2) | Rất thường gặp |
-| Dị cảm, co giật, viêm não-tủy | Không rõ |
-| **Rối loạn mạch máu** | |
-| Viêm mạch máu như ban xuất huyết Schonlein-Henoch, một vài trường hợp ảnh hưởng đến thận thoáng qua | Không rõ |
-| **Rối loạn dạ dày – ruột** | |
-| Nôn (4) | Rất thường gặp |
-| Tiêu chảy | Thường gặp |
-| **Rối loạn cơ xương và mô liên kết** | |
-| Đau cơ (5) | Rất thường gặp |
-| **Rối loạn toàn thân và tình trạng tại nơi tiêm** | |
-| Đau/nhạy chỗ tiêm, đỏ chỗ tiêm, sốt, khó chịu (5) | Rất thường gặp |
-| Run rẩy/ rét run (3), sưng phù nề chỗ tiêm, cứng chỗ tiêm, thâm tím chỗ tiêm | Thường gặp |
-| Các triệu chứng giống cúm, ngứa tại chỗ tiêm, phát ban tại chỗ tiêm | Hiếm gặp |
-
-(1) Hiếm gặp ở trẻ từ 24 đến 35 tháng tuổi
-(2) Đã báo cáo trên trẻ em từ 06 đến 23 tháng tuổi.
-(3) Đã báo cáo trên trẻ em từ 24 đến 35 tháng tuổi.
-(4) Không thường gặp ở trẻ từ 24 đến 35 tháng tuổi
-(5) Hiếm gặp ở trẻ từ 6 đến 23 tháng tuổi
+<p><strong>Bảng 2: Các phản ứng bất lợi đã được báo cáo ở trẻ em và thanh thiếu niên từ 6 tháng đến 17 tuổi</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th rowspan="3">Phân loại hệ cơ quan/Tác dụng không mong muốn</th>
+      <th colspan="4">Tần suất</th>
+    </tr>
+    <tr>
+      <th colspan="2"><em>Trẻ em từ 6-35 tháng tuổi</em></th>
+      <th rowspan="2"><em>Trẻ em từ 3-8 tuổi</em></th>
+      <th rowspan="2"><em>Trẻ em và thanh thiếu niên từ 9-17 tuổi</em></th>
+    </tr>
+    <tr>
+      <th><em>6-23 tháng tuổi</em></th>
+      <th><em>24-35 tháng tuổi</em></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><em>Rối loạn máu và hệ bạch huyết</em></strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>- Phì đại hạch bạch huyết</td>
+      <td colspan="2">Không rõ*</td>
+      <td>Không thường gặp</td>
+      <td>Không rõ*</td>
+    </tr>
+    <tr>
+      <td>- Giảm tiểu cầu</td>
+      <td colspan="2">Không rõ*</td>
+      <td>Không thường gặp</td>
+      <td>Không rõ*</td>
+    </tr>
+    <tr>
+      <td><strong><em>Rối loạn hệ miễn dịch</em></strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        - Các phản ứng dị ứng như:<br>
+        • Đau vùng hầu họng<br>
+        • Quá mẫn<br>
+        • Phát ban<br>
+        • Nổi mề đay<br>
+        • Ngứa<br>
+        • Ngứa toàn thân, phát ban dạng sẩn<br>
+        • Nổi ban đỏ, khó thở, phản ứng phản vệ, phù mạch, sốc
+      </td>
+      <td colspan="2">
+        <br>
+        -<br>
+        Không thường gặp<br>
+        -<br>
+        Không rõ<sup>*</sup><br>
+        Không rõ<sup>*</sup><br>
+        Hiếm gặp<br>
+        Không rõ<sup>*</sup>
+      </td>
+      <td>
+        <br>
+        Không thường gặp<br>
+        -<br>
+        Không thường gặp<br>
+        Không thường gặp<br>
+        Không thường gặp<br>
+        -<br>
+        Không rõ<sup>*</sup>
+      </td>
+      <td>
+        <br>
+        -<br>
+        -<br>
+        Không thường gặp<br>
+        Không thường gặp<br>
+        Không rõ<sup>*</sup><br>
+        -<br>
+        Không rõ<sup>*</sup>
+      </td>
+    </tr>
+    <tr>
+      <td><strong><em>Rối loạn chuyển hóa và dinh dưỡng</em></strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>- Giảm cảm giác thèm ăn</td>
+      <td>Rất thường gặp</td>
+      <td>Hiếm gặp</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong><em>Rối loạn tâm thần</em></strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>- Khóc bất thường</td>
+      <td>Rất thường gặp</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>- Cáu kỉnh</td>
+      <td>Rất thường gặp</td>
+      <td>Hiếm gặp</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>- Bồn chồn</td>
+      <td colspan="2">-</td>
+      <td>Không thường gặp</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>- Rên rỉ</td>
+      <td colspan="2">-</td>
+      <td>Không thường gặp</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong><em>Rối loạn hệ thần kinh</em></strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>- Đau đầu</td>
+      <td>-</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+      <td>Rất thường gặp</td>
+    </tr>
+    <tr>
+      <td>- Buồn ngủ</td>
+      <td>Rất thường gặp</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>- Chóng mặt</td>
+      <td colspan="2">-</td>
+      <td>Không thường gặp</td>
+      <td>Không thường gặp</td>
+    </tr>
+    <tr>
+      <td>- Đau dọc theo dây thần kinh, viêm dây thần kinh và hội chứng Guillain Barré</td>
+      <td colspan="2">-</td>
+      <td>Không rõ<sup>*</sup></td>
+      <td>Không rõ<sup>*</sup></td>
+    </tr>
+    <tr>
+      <td>- Dị cảm, co giật, viêm não-tủy</td>
+      <td colspan="2">Không rõ<sup>*</sup></td>
+      <td>Không rõ<sup>*</sup></td>
+      <td>Không rõ<sup>*</sup></td>
+    </tr>
+    <tr>
+      <td><strong><em>Rối loạn mạch máu</em></strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Viêm mạch máu như ban xuất huyết Schonlein-Henoch, một</td>
+      <td colspan="2">Không rõ<sup>*</sup></td>
+      <td>Không rõ<sup>*</sup></td>
+      <td>Không rõ<sup>*</sup></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th>Phân loại hệ cơ quan/Tác dụng không mong muốn</th>
+      <th colspan="4">Tần suất</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>- Các triệu chứng giống cúm</td>
+      <td colspan="2">Hiếm gặp</td>
+      <td></td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+<p><em>(*) Các phản ứng bất lợi được báo cáo hậu mãi sau khi sử dụng VAXIGRIP hoặc VAXIGRIP TETRA</em></p>
 
 c. Các nhóm đối tượng khác
 Mặc dù chỉ thu tuyển một số lượng hạn chế những người có cùng tình hình bệnh tật, các nghiên cứu được thực hiện ở những người ghép thận, người bị hen suyễn cho thấy không có sự khác biệt lớn về phương diện độ an toàn của VAXIGRIP trên các quần thể này. Hồ sơ an toàn của VAXIGRIP TETRA trên một số nhỏ đối tượng có cùng tình hình bệnh tật tham gia vào các nghiên cứu lâm sàng có kết quả quan sát không khác so với dân số chung.
@@ -294,34 +503,152 @@ Trẻ sơ sinh dưới 6 tháng tuổi có nguy cơ mắc cúm cao, dẫn đến
 Hiệu lực trên trẻ sơ sinh được sinh ra những phụ nữ đã tiêm một liều 0,5 ml VAXIGRIP trong ba tháng giữa và cuối thai kỳ đã được chứng minh trong các thử nghiệm lâm sàng.
 Hiệu lực của VAXIGRIP ở trẻ sơ sinh sau khi tiêm vắc-xin cho phụ nữ mang thai trong ba tháng đầu chưa được nghiên cứu trong các thử nghiệm này. Tuy nhiên, không nên hoãn tiêm vắc-xin cúm trong ba tháng đầu (xem mục “SỬ DỤNG VẮC-XIN CHO PHỤ NỮ CÓ THAI VÀ CHO CON BÚ”).
 Trong các nghiên cứu lâm sàng ngẫu nhiên, có đối chứng, giai đoạn IV, được thực hiện ở Mali, Nepal và Nam Phi, khoảng 5.000 phụ nữ mang thai đã tiêm VAXIGRIP và khoảng 5.000 phụ nữ mang thai sử dụng giả dược hoặc vắc xin đối chứng (vắc-xin liên hợp não mô cầu tứ giá) trong ba tháng giữa và cuối thai kỳ. Hiệu lực của vắc-xin trên bệnh cúm được xác định qua xét nghiệm ở phụ nữ mang thai được đánh giá là tiêu chí phụ trong cả ba nghiên cứu.
-Các nghiên cứu được thực hiện ở Mali và Nam Phi đã chứng minh hiệu quả của VAXIGRIP trong việc phòng ngừa cúm ở phụ nữ mang thai sau khi tiêm chủng trong ba tháng giữa và cuối thai kỳ (xem Bảng 1). Trong nghiên cứu được thực hiện ở Nepal, hiệu quả của VAXIGRIP trong việc ngăn ngừa bệnh cúm ở phụ nữ mang thai sau khi tiêm chủng trong giai đoạn này chưa được chứng minh.
+Các nghiên cứu được thực hiện ở Mali và Nam Phi đã chứng minh hiệu quả của VAXIGRIP trong việc phòng ngừa cúm ở phụ nữ mang thai sau khi tiêm chủng trong ba tháng giữa và cuối thai kỳ (xem Bảng 3). Trong nghiên cứu được thực hiện ở Nepal, hiệu quả của VAXIGRIP trong việc ngăn ngừa bệnh cúm ở phụ nữ mang thai sau khi tiêm chủng trong giai đoạn này chưa được chứng minh.
+<p><strong>Bảng 3: Tỷ lệ nhiễm cúm và hiệu lực của VAXIGRIP phòng chống cúm được xác định qua xét nghiệm ở phụ nữ mang thai</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">Tỷ lệ nhiễm cúm<br>(bất kể chủng A hoặc B)<br>% (n/N)</th>
+      <th>Hiệu lực của VAXIGRIP<br>% (95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td><strong>Vắc-xin tam giá</strong></td>
+      <td><strong>Nhóm chứng*</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Mali</strong></td>
+      <td>0,5 (11/2.108)</td>
+      <td>1,9 (40/2.085)</td>
+      <td>70,3 (42,2 đến 85,8)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>Vắc-xin tam giá</strong></td>
+      <td><strong>Giả dược</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Nam Phi</strong></td>
+      <td>1,8 (19/1.062)</td>
+      <td>3,6 (38/1.054)</td>
+      <td>50,4 (14,5 to 71,2)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <em>* Vắc-xin não mô cầu</em><br>
+  <em>N: Số phụ nữ có thai được đưa vào phân tích</em><br>
+  <em>n: Số đối tượng được xác nhận mắc cúm qua xét nghiệm</em><br>
+  <em>CI: Khoảng tin cậy</em>
+</p>
 
-Trang 10/20
-
-Bảng 1: Tỷ lệ nhiễm cúm và hiệu lực của VAXIGRIP phòng chống cúm được xác định qua xét nghiệm ở phụ nữ mang thai
-
-| | Tỷ lệ nhiễm cúm (bất kể chủng A hoặc B) % (n/N) | Hiệu lực của VAXIGRIP % (95% CI) |
-| :--- | :--- | :--- |
-| **Mali** | **Vắc-xin tam giá:** 0,5 (11/2.108)<br>**Nhóm chứng\*:** 1,9 (40/2.085) | 70,3 (42,2 đến 85,8) |
-| **Nam Phi** | **Vắc-xin tam giá:** 1,8 (19/1.062)<br>**Giả dược:** 3,6 (38/1.054) | 50,4 (14,5 to 71,2) |
-
-* Vắc-xin não mô cầu
-N: Số phụ nữ có thai được đưa vào phân tích
-n: Số đối tượng được xác nhận mắc cúm qua xét nghiệm
-CI: Khoảng tin cậy
+<p><strong>Bảng 4: Tỷ lệ nhiễm cúm và hiệu lực của VAXIGRIP phòng chống bệnh cúm được xác định qua xét nghiệm ở trẻ sơ sinh sau khi tiêm vắc-xin ở phụ nữ mang thai</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">Tỷ lệ nhiễm cúm<br>(bất kể chủng A hoặc B)<br>% (n/N)</th>
+      <th>Hiệu lực của VAXIGRIP<br>% (95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td><strong>Vắc-xin tam giá</strong></td>
+      <td><strong>Nhóm chứng*</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Mali</strong></td>
+      <td>2,4 (45/1.866)</td>
+      <td>3,8 (71/1.869)</td>
+      <td>37,3 (7,6 đến 57,8)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>Vắc-xin tam giá</strong></td>
+      <td><strong>Giả dược</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Nepal</strong></td>
+      <td>4,1 (74/1.820)</td>
+      <td>5,8 (105/1.826)</td>
+      <td>30,0 (5 đến 48)</td>
+    </tr>
+    <tr>
+      <td><strong>Nam Phi</strong></td>
+      <td>1,9 (19/1.026)</td>
+      <td>3,6 (37/1.023)</td>
+      <td>48,8 (11,6 đến 70,4)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <em>* Vắc-xin não mô cầu</em><br>
+  <em>N: Số trẻ sơ sinh được đưa vào phân tích</em><br>
+  <em>n: Số đối tượng được xác nhận mắc cúm qua xét nghiệm</em><br>
+  <em>CI: Khoảng tin cậy</em>
+</p>
 
 Trong cùng nghiên cứu lâm sàng giai đoạn IV ngẫu nhiên, kiểm soát được tiến hành tại Mali, Nepal và Nam Phi, 4530 trong số 4898 trẻ sơ sinh (92%) có mẹ đã tiêm VAXIGRIP, và 4532 trong số 4868 trẻ sơ sinh (93%) có mẹ sử dụng giả dược hoặc vắc xin đối chứng (vắc-xin liên hợp não mô cầu tứ giá) (xem Bảng 2), trong ba tháng giữa hoặc cuối thai kỳ, đã được theo dõi cho đến khoảng 6 tháng tuổi.
 Những nghiên cứu này đã xác nhận hiệu quả của VAXIGRIP trong việc ngăn ngừa cúm ở trẻ sơ sinh từ khi mới sinh đến khoảng 6 tháng tuổi sau khi tiêm vắc-xin cho người mẹ trong ba tháng giữa và cuối thai kỳ. Phụ nữ trong ba tháng đầu của thai kỳ không được đưa vào các nghiên cứu này; do đó không thể đánh giá hiệu quả của VAXIGRIP ở trẻ sinh ra từ các bà mẹ được tiêm chủng trong ba tháng đầu.
 
 Trang 11/20
 
-Bảng 2: Tỷ lệ nhiễm cúm và hiệu lực của VAXIGRIP phòng chống bệnh cúm được xác định qua xét nghiệm ở trẻ sơ sinh sau khi tiêm vắc-xin ở phụ nữ mang thai
-
-| | Tỷ lệ nhiễm cúm (bất kể chủng A hoặc B) % (n/N) | Hiệu lực của VAXIGRIP % (95% CI) |
-| :--- | :--- | :--- |
-| **Mali** | **Vắc-xin tam giá:** 2,4 (45/1.866)<br>**Nhóm chứng\*:** 3,8 (71/1.869) | 37,3 (7,6 đến 57,8) |
-| **Nepal** | **Vắc-xin tam giá:** 4,1 (74/1.820)<br>**Giả dược:** 5,8 (105/1.826) | 30,0 (5 đến 48) |
-| **Nam Phi** | **Vắc-xin tam giá:** 1,9 (19/1.026)<br>**Giả dược:** 3,6 (37/1.023) | 48,8 (11,6 đến 70,4) |
+<p><strong>Bảng 4: Tỷ lệ nhiễm cúm và hiệu lực của VAXIGRIP phòng chống bệnh cúm được xác định qua xét nghiệm ở trẻ sơ sinh sau khi tiêm vắc-xin ở phụ nữ mang thai</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">Tỷ lệ nhiễm cúm<br>(bất kể chủng A hoặc B)<br>% (n/N)</th>
+      <th>Hiệu lực của VAXIGRIP<br>% (95% CI)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td><strong>Vắc-xin tam giá</strong></td>
+      <td><strong>Nhóm chứng*</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Mali</strong></td>
+      <td>2,4 (45/1.866)</td>
+      <td>3,8 (71/1.869)</td>
+      <td>37,3 (7,6 đến 57,8)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>Vắc-xin tam giá</strong></td>
+      <td><strong>Giả dược</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Nepal</strong></td>
+      <td>4,1 (74/1.820)</td>
+      <td>5,8 (105/1.826)</td>
+      <td>30,0 (5 đến 48)</td>
+    </tr>
+    <tr>
+      <td><strong>Nam Phi</strong></td>
+      <td>1,9 (19/1.026)</td>
+      <td>3,6 (37/1.023)</td>
+      <td>48,8 (11,6 đến 70,4)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <em>* Vắc-xin não mô cầu</em><br>
+  <em>N: Số trẻ sơ sinh được đưa vào phân tích</em><br>
+  <em>n: Số đối tượng được xác nhận mắc cúm qua xét nghiệm</em><br>
+  <em>CI: Khoảng tin cậy</em>
+</p>
 
 * Vắc-xin não mô cầu
 N: Số trẻ sơ sinh được đưa vào phân tích
@@ -337,16 +664,51 @@ Trẻ từ 6 đến 35 tháng tuổi:
 Các nghiên cứu ngẫu nhiên trên giả dược đã được tiến hành tại 4 khu vực (Châu Phi, Châu Á, Châu Mỹ la tinh và Châu Âu), trong 4 mùa cúm, trên hơn 5.400 trẻ em từ 6 đến 35 tháng tuổi, đã tiêm 2 liều (liều 0,5 ml) vắc-xin VAXIGRIP TETRA (N = 2.722) hoặc giả dược (N = 2.717) cách nhau 28 ngày, để đánh giá hiệu quả của VAXIGRIP TETRA trong việc ngăn ngừa bệnh cúm được xác định qua xét nghiệm, gây ra bởi chủng vi-rút A và/hoặc B bất kỳ và bởi các chủng virus tương tự với các thành phần có trong vắc-xin (được xác định bằng phương pháp giải trình tự).
 Bệnh cúm được xác định qua xét nghiệm được định nghĩa là bệnh giống cúm (ILI) [xảy ra sốt ≥ 38°C (kéo dài ít nhất 24 giờ) đồng thời với ít nhất một trong các triệu chứng sau: ho, tắc mũi, chảy nước mũi, viêm họng, viêm tai, nôn mửa hoặc tiêu chảy], được xác định bằng RT-PCR (Reverse transcriptase polymerase chain reaction) và/hoặc nuôi cấy vi-rút.
 
-Bảng 3: Tỷ lệ nhiễm cúm và hiệu lực của VAXIGRIP phòng chống bệnh cúm được xác định qua xét nghiệm ở trẻ em từ 6 đến 35 tháng tuổi
-
-| Các nguyên nhân nhiễm cúm trong thử nghiệm lâm sàng: | Vaxigrip Tetra (N = 2.584) n | Vaxigrip Tetra (N = 2.584) tỷ lệ nhiễm cúm (%) | Giả dược (N = 2.591) n | Giả dược (N = 2.591) tỷ lệ nhiễm cúm (%) | Hiệu lực % (Khoảng tin cậy 95%, giá trị tới hạn 2 đuôi) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Bất kỳ cúm A hoặc cúm B | 122 | 4,72 | 255 | 9,84 | 52,03 (40,24; 61,66) |
-| Chủng virus tương tự với các thành phần có trong vắc-xin | 26 | 1,01 | 85 | 3,28 | 69,33 (51,93; 81,03) |
-
-N: Số trẻ được đưa vào phân tích (toàn bộ)
-n: số đối tượng hoàn tất hạng mục được liệt kê
-CI: Khoảng tin cậy (Confidence Interval)
+<p><strong>Bảng 5: Tỷ lệ nhiễm cúm và hiệu lực của VAXIGRIP phòng chống bệnh cúm được xác định qua xét nghiệm ở trẻ em từ 6 đến 35 tháng tuổi</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">Vaxigrip Tetra<br>(N=2.584)</th>
+      <th colspan="2">Giả dược<br>(N=2.591)</th>
+      <th>Hiệu lực</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>n</th>
+      <th>tỷ lệ nhiễm cúm (%)</th>
+      <th>n</th>
+      <th>tỷ lệ nhiễm cúm (%)</th>
+      <th>% (Khoảng tin cậy 95%, giá trị tới hạn 2 đuôi.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="6">Các ca nhiễm cúm được xác định qua xét nghiệm:</td>
+    </tr>
+    <tr>
+      <td>- Bất kỳ cúm A hoặc cúm B</td>
+      <td>122</td>
+      <td>4,72</td>
+      <td>255</td>
+      <td>9,84</td>
+      <td>52,03 (40,24; 61,66)</td>
+    </tr>
+    <tr>
+      <td>- Chủng virus tương tự với các thành phần có trong vắc-xin</td>
+      <td>26</td>
+      <td>1,01</td>
+      <td>85</td>
+      <td>3,28</td>
+      <td>69,33 (51,93; 81,03)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <em>N: Số trẻ được đưa vào phân tích (toàn bộ)</em><br>
+  <em>n: số đối tượng hoàn tất hạng mục được liệt kê</em><br>
+  <em>CI: Khoảng tin cậy (Confidence Interval)</em>
+</p>
 
 Trang 12/20 - Trang 13/20
 
@@ -372,127 +734,347 @@ VAXIGRIP gây ra đáp ứng miễn dịch đáng kể trên 3 chủng cúm có 
 Người lớn và người cao tuổi
 Trong một nghiên cứu lâm sàng, người lớn từ 18 đến 60 tuổi và người cao tuổi trên 60 tuổi được đánh giá tính đáp ứng miễn dịch sau 1 liều tiêm chủng 0,5 ml vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA.
 Kết quả về tính sinh miễn dịch bằng phương pháp HAI ở người lớn từ 18 đến 60 tuổi và ở người cao tuổi trên 60 tuổi được trình bày lần lượt trong Bảng 4 và Bảng 5.
-
-Bảng 4: Tính sinh miễn dịch ở người lớn từ 18 đến 60 tuổi, 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA
-
-| Chủng kháng nguyên | Vắc-xin tam giá thay thế (a) (B Victoria) N = 140 / Vắc-xin tam giá cấp phép (b) (B Yamagata) N = 138 | Vắc-xin tứ giá N = 832 |
-| :--- | :--- | :--- |
-| **GMT (95% CI)** | | |
-| A (H1N1) (c) (d) | 685 (587; 800) | 608 (563; 657) |
-| A (H3N2) (c) | 629 (543; 728) | 498 (459; 541) |
-| B (Victoria) | 735 (615; 879) | 708 (661; 760) |
-| B (Yamagata) | 1735 (1490; 2019) | 1715 (1607; 1830) |
-| **SC % (95% CI) (e)** | | |
-| A (H1N1) (c) (d) | 65,1 (59,2; 70,7) | 64,1 (60,7; 67,4) |
-| A (H3N2) (c) | 73,4 (67,8; 78,5) | 66,2 (62,9; 69,4) |
-| B (Victoria) | 70,0 (61,7; 77,4) | 70,9 (67,7; 74,0) |
-| B (Yamagata) | 60,9 (52,2; 69,1) | 63,7 (60,3; 67,0) |
-| **GMTR (95% CI) (f)** | | |
-| A (H1N1) (c) (d) | 10,3 (8,35; 12,7) | 9,77 (8,69; 11,0) |
-| A (H3N2) (c) | 14,9 (12,1; 18,4) | 10,3 (9,15; 11,5) |
-| B (Victoria) | 11,4 (8,66; 15,0) | 11,6 (10,4; 12,9) |
-| B (Yamagata) | 6,08 (4,79; 7,72) | 7,35 (6,66; 8,12) |
-
-N: số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét
-GMT: Hiệu giá kháng thể trung bình (Geometric Mean Titer); CI: Khoảng tin cậy (Confidence interval)
-(a) Vắc-xin tam giá thay thế chứa A / California / 7/2009 (H1N1), A / Texas / 50/2012 (H3N2) và B / Brisbane / 60/2008 (dòng Victoria)
-(b) Vắc-xin tam giá cấp phép 2014-2015 có chứa A / California/7/2009 (H1N1), A/Texas / 50/2012 (H3N2) và B / Massachusetts/2/2012 (dòng Yamagata)
-(c) Nhóm vắc-xin tam giá gộp bao gồm những người tham gia được tiêm vắc-xin tam giá thay thế hoặc vắc-xin tam giá cấp phép, N = 278
-(d) N = 833 cho nhóm vắc-xin tứ giá
-(e) SC: tỷ lệ chuyển đổi huyết thanh: cho đối tượng trước tiêm chủng < 10 (1/dil), tỷ lệ chuyển đổi huyết thanh của đối tượng sau tiêm chủng ≥ 40 (1/dil) so với trước tiêm chủng ≥ 10 (1/dil), tỷ lệ chuyển đổi huyết thanh tăng gấp 4 lần sau tiêm chủng (so với trước tiêm chủng).
-(f) GMTR: Hiệu giá kháng thể trung bình (trước và sau tiêm chủng)
-
+<p><strong>Bảng 6: Tính sinh miễn dịch ở người lớn từ 18 đến 60 tuổi và người cao tuổi trên 60 tuổi, 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">Người lớn từ 18 đến 60 tuổi</th>
+      <th colspan="3">Người cao tuổi trên 60 tuổi</th>
+    </tr>
+    <tr>
+      <th>Chủng kháng nguyên</th>
+      <th>Vắc-xin tam giá thay thế <sup>(a)</sup><br>(B Victoria)<br>N = 140</th>
+      <th>Vắc-xin tam giá cấp phép <sup>(b)</sup><br>(B Yamagata)<br>N = 138</th>
+      <th>Vắc-xin tứ giá<br>N=832</th>
+      <th>Vắc-xin tam giá thay thế <sup>(a)</sup><br>(B Victoria)<br>N = 138</th>
+      <th>Vắc-xin tam giá cấp phép <sup>(b)</sup><br>(B Yamagata)<br>N = 137</th>
+      <th>Vắc-xin tứ giá<br>N=831</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td colspan="6"><strong>GMT<br>(95% CI)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1) <sup>(c)(d)</sup></strong></td>
+      <td colspan="2">685 (587; 800)</td>
+      <td>608<br>(563;657)</td>
+      <td colspan="2">268<br>(228; 314)</td>
+      <td>219<br>(199; 241)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2) <sup>(c)</sup></strong></td>
+      <td colspan="2">629<br>(543; 728)</td>
+      <td>498<br>(459; 541)</td>
+      <td colspan="2">410<br>(352; 476)</td>
+      <td>359<br>(329; 391)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Victoria)</strong></td>
+      <td>735<br>(615; 879)</td>
+      <td>-</td>
+      <td>708<br>(661; 760)</td>
+      <td>301<br>(244; 372)</td>
+      <td>-</td>
+      <td>287<br>(265; 311)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Yamagata)</strong></td>
+      <td>-</td>
+      <td>1735<br>(1490;<br>2019)</td>
+      <td>1715<br>(1607;<br>1830)</td>
+      <td>-</td>
+      <td>697<br>(593; 820)</td>
+      <td>655<br>(611; 701)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="6"><strong>SC % <sup>(e)</sup><br>(95% CI)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1) <sup>(c)(d)</sup></strong></td>
+      <td colspan="2">65,1<br>(59,2; 70,7)</td>
+      <td>64,1<br>(60,7; 67,4)</td>
+      <td colspan="2">50,2<br>(44,1; 56,2)</td>
+      <td>45,6<br>(42,1; 49,0)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2) <sup>(c)</sup></strong></td>
+      <td colspan="2">73,4<br>(67,8; 78,5)</td>
+      <td>66,2<br>(62,9; 69,4)</td>
+      <td colspan="2">48,5<br>(42,5; 54,6)</td>
+      <td>47,5<br>(44,1; 51,0)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Victoria)</strong></td>
+      <td>70,0<br>(61,7; 77,4)</td>
+      <td>-</td>
+      <td>70,9<br>(67,7; 74,0)</td>
+      <td>43,5<br>(35,1; 52,2)</td>
+      <td>-</td>
+      <td>45,2<br>(41,8; 48,7)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Yamagata)</strong></td>
+      <td>-</td>
+      <td>60,9<br>(52,2; 69,1)</td>
+      <td>63,7<br>(60,3;67,0)</td>
+      <td>-</td>
+      <td>38,7<br>(30,5; 47,4)</td>
+      <td>42,7<br>(39,3; 46,2)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="6"><strong>GMTR <sup>(f)</sup><br>(95% CI)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1) <sup>(c)(d)</sup></strong></td>
+      <td colspan="2">10,3<br>(8,35; 12,7)</td>
+      <td>9,77<br>(8,69; 11,0)</td>
+      <td colspan="2">6,03<br>(4,93; 7,37)</td>
+      <td>4,94<br>(4,46; 5,47)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2) <sup>(c)</sup></strong></td>
+      <td colspan="2">14,9 (12,1; 18,4)</td>
+      <td>10,3 (9,15;<br>11,5)</td>
+      <td colspan="2">5,79<br>(4,74; 7,06)</td>
+      <td>5,60<br>(5,02; 6,24)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Victoria)</strong></td>
+      <td>11,4 (8,66;<br>15,0)</td>
+      <td>-</td>
+      <td>11,6 (10,4;<br>12,9)</td>
+      <td>4,60<br>(3,50; 6,05)</td>
+      <td>-</td>
+      <td>4,61<br>(4,18; 5,09)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Yamagata)</strong></td>
+      <td>-</td>
+      <td>6,08 (4,79;<br>7,72)</td>
+      <td>7,35<br>(6,66;8,12)</td>
+      <td>-</td>
+      <td>4,11<br>(3,19; 5,30)</td>
+      <td>4,11<br>(3,73; 4,52)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <em>N: số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét</em><br>
+  <em>GMT: Hiệu giá kháng thể trung bình (Geometric Mean Titer); CI: Khoảng tin cậy (Confidence interval)</em><br>
+  <em><sup>(a)</sup> Vắc-xin tam giá thay thế chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2), và B/Brisbane/60/2008 (dòng Victoria)</em>
+  <em><sup>(b)</sup> Vắc-xin tam giá cấp phép 2014-2015 có chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2) và B/Massachusetts/2/2012 (dòng Yamagata)</em><br>
+  <em><sup>(c)</sup> Nhóm vắc-xin tam giá gộp bao gồm những người tham gia được tiêm vắc-xin tam giá thay thế hoặc vắc-xin tam giá cấp phép, N=278 đối với nhóm người lớn và N = 275 đối với nhóm người cao tuổi</em><br>
+  <em><sup>(d)</sup> N=833 cho nhóm vắc-xin tứ giá ở người lớn; N = 832 cho nhóm vắc-xin tứ giá ở người cao tuổi</em><br>
+  <em><sup>(e)</sup> SC: tỷ lệ chuyển đổi huyết thanh: cho đối tượng trước tiêm chủng &lt; 10 (1/dil), tỷ lệ chuyển đổi huyết thanh của đối tượng sau tiêm chủng ≥ 40 (1/dil) so với trước tiêm chủng ≥ 10 (1/dil), tỷ lệ chuyển đổi huyết thanh tăng gấp 4 lần sau tiêm chủng (so với trước tiêm chủng).</em><br>
+  <em><sup>(f)</sup> GMTR: Hiệu giá kháng thể trung bình (trước và sau tiêm chủng)</em>
+</p>
 Trang 14/20
 
-Bảng 5: Tính sinh miễn dịch ở người cao tuổi trên 60 tuổi, 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA
-
-| Chủng kháng nguyên | Vắc-xin tam giá thay thế (a) (B Victoria) N = 138 / Vắc-xin tam giá cấp phép (b) (B Yamagata) N = 137 | Vắc-xin tứ giá N = 831 |
-| :--- | :--- | :--- |
-| **GMT (95% CI)** | | |
-| A (H1N1) (c) (d) | 268 (228; 314) | 219 (199; 241) |
-| A (H3N2) (c) | 410 (352; 476) | 359 (329; 391) |
-| B (Victoria) | 301 (244; 372) | 287 (265; 311) |
-| B (Yamagata) | 697 (593; 820) | 655 (611; 701) |
-| **SC % (95% CI) (e)** | | |
-| A (H1N1) (c) (d) | 50,2 (44,1; 56,2) | 45,6 (42,1; 49,0) |
-| A (H3N2) (c) | 48,5 (42,5; 54,6) | 47,5 (44,1; 51,0) |
-| B (Victoria) | 43,5 (35,1; 52,2) | 45,2 (41,8; 48,7) |
-| B (Yamagata) | 38,7 (30,5; 47,4) | 42,7 (39,3; 46,2) |
-| **GMTR (95% CI) (f)** | | |
-| A (H1N1) (c) (d) | 6,03 (4,93; 7,37) | 4,94 (4,46; 5,47) |
-| A (H3N2) (c) | 5,79 (4,74; 7,06) | 5,60 (5,02; 6,24) |
-| B (Victoria) | 4,60 (3,50; 6,05) | 4,61 (4,18; 5,09) |
-| B (Yamagata) | 4,11 (3,19; 5,30) | 4,11 (3,73; 4,52) |
-
-N: số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét
-GMT: Hiệu giá kháng thể trung bình (Geometric Mean Titer); CI: Khoảng tin cậy (Confidence interval)
-(a) Vắc-xin tam giá thay thế chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2), và B/Brisbane/60/2008 (dòng Victoria)
-(b) Vắc-xin tam giá cấp phép 2014-2015 có chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2) và B/Massachusetts/2/2012 (dòng Yamagata)
-(c) Nhóm vắc-xin tam giá gộp bao gồm những người tham gia được tiêm vắc-xin tam giá thay thế hoặc vắc-xin tam giá cấp phép, N = 275
-(d) N = 832 cho nhóm vắc-xin tứ giá
-(e) SC: tỷ lệ chuyển đổi huyết thanh: cho đối tượng trước tiêm chủng < 10 (1/dil), tỷ lệ chuyển đổi huyết thanh của đối tượng sau tiêm chủng ≥ 40 (1/dil) so với trước tiêm chủng ≥ 10 (1/dil), tỷ lệ chuyển đổi huyết thanh tăng gấp 4 lần sau tiêm chủng (so với trước tiêm chủng).
-(f) GMTR: Hiệu giá kháng thể trung bình (trước và sau tiêm chủng)
 
 Phụ nữ mang thai và chuyển nhau thai
 Trong một nghiên cứu lâm sàng, tổng cộng có 116 phụ nữ mang thai đã dùng VAXIGRIP và 230 phụ nữ mang thai đã dùng VAXIGRIP TETRA trong ba tháng giữa hoặc ba tháng cuối của thai kỳ (từ tuần 20 đến 32 của thai kỳ).
-Kết quả Tính sinh miễn dịch bằng phương pháp HAI, ở phụ nữ mang thai 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA được trình bày trong Bảng 6.
+Kết quả Tính sinh miễn dịch bằng phương pháp HAI, ở phụ nữ mang thai 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA được trình bày trong Bảng 7.
+
+
+<p><strong>Bảng 7: Tính sinh miễn dịch bằng phương pháp HAI ở phụ nữ mang thai, 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Chủng kháng nguyên</th>
+      <th>Vắc-xin tam giá<br>(B Victoria)<br>N = 109</th>
+      <th>Vắc-xin tứ giá<br>N=216</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td><strong>GMT (95% CI)</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1)*</strong></td>
+      <td>638 (529; 769)</td>
+      <td>525 (466; 592)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2)*</strong></td>
+      <td>369 (283; 483)</td>
+      <td>341 (286; 407)</td>
+    </tr>
+    <tr>
+      <td><strong>B1 (Victoria)*</strong></td>
+      <td>697 (569; 855)</td>
+      <td>568 (496; 651)</td>
+    </tr>
+    <tr>
+      <td><strong>B 2 (Yamagata)*</strong></td>
+      <td>-</td>
+      <td>993 (870; 1134)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>tăng ≥4 lần n (%) <sup>(a)</sup></strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1)*</strong></td>
+      <td>41,3 (31,9; 51,1)</td>
+      <td>38,0 (31,5; 44,8)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2)*</strong></td>
+      <td>62,4 (52,6; 71,5)</td>
+      <td>59,3 (52,4; 65,9)</td>
+    </tr>
+    <tr>
+      <td><strong>B1 (Victoria)*</strong></td>
+      <td>60,6 (50,7; 69,8)</td>
+      <td>61,1 (54,3; 67,7)</td>
+    </tr>
+    <tr>
+      <td><strong>B 2 (Yamagata)*</strong></td>
+      <td>-</td>
+      <td>59,7 (52,9; 66,3)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>GMTR (95% CI) <sup>(b)</sup></strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1)*</strong></td>
+      <td>5,26 (3,66; 7,55)</td>
+      <td>3,81 (3,11; 4,66)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2)*</strong></td>
+      <td>9,23 (6,56; 13,0)</td>
+      <td>8,63 (6,85; 10,9)</td>
+    </tr>
+    <tr>
+      <td><strong>B 1 (Victoria)*</strong></td>
+      <td>9,62 (6,89; 13,4)</td>
+      <td>8,48 (6,81; 10,6)</td>
+    </tr>
+    <tr>
+      <td><strong>B 2 (Yamagata)*</strong></td>
+      <td>-</td>
+      <td>6,26 (5,12; 7,65)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <em>N: số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét</em><br>
+  <em>GMT: Hiệu giá kháng thể trung bình (Geometric Mean Titer); CI: Khoảng tin cậy (Confidence interval)</em><br>
+  <em>* A/H1N1: A/Michigan/45/2015 (H1N1) pdm09-like virus; A/H3N2: A/Hong Kong/4801/2014 (H3N2)- like virus;</em><br>
+  <em>B1: B/Brisbane/60/2008-like virus (dòng B/Victoria): chủng này có trong trong thành phần vắc-xin tam giá;</em><br>
+  <em>B2: B/Phuket/3073/2013-like virus (dòng B/Yamagata): chủng này không có trong thành phần vắc-xin tam giá.</em><br>
+  <em><sup>(a)</sup> SC: tỷ lệ chuyển đổi huyết thanh: cho đối tượng trước tiêm chủng &lt; 10 (1/dil), tỷ lệ chuyển đổi huyết thanh của đối tượng sau tiêm chủng ≥ 40 (1/dil) so với trước tiêm chủng ≥ 10 (1/dil), tỷ lệ chuyển đổi huyết thanh tăng gấp 4 lần sau tiêm chủng (so với trước tiêm chủng).</em><br>
+  <em><sup>(b)</sup> GMTR: Hiệu giá kháng thể trung bình (trước và sau tiêm chủng)</em>
+</p>
 
 Trang 15/20
 
-Bảng 6: Tính sinh miễn dịch bằng phương pháp HAI ở phụ nữ mang thai, 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA
+Đánh giá mô tả tính sinh miễn dịch bằng phương pháp HAI khi sinh, trong mẫu máu của người mẹ (BL03M), trong mẫu máu cuống rốn (BL03B) và chuyển nhau thai (BL03B / BL03M) được trình bày trong bảng 8.
 
-| Chủng kháng nguyên | Vắc-xin tam giá (B Victoria) N = 109 | Vắc-xin tứ giá N = 216 |
-| :--- | :--- | :--- |
-| **GMT (95% CI)** | | |
-| A (H1N1)* | 638 (529; 769) | 525 (466; 592) |
-| A (H3N2)* | 369 (283; 483) | 341 (286; 407) |
-| B1 (Victoria)* | 697 (569; 855) | 568 (496; 651) |
-| B2 (Yamagata)* | - | 993 (870; 1134) |
-| **tăng ≥ 4 lần n (%) (a)** | | |
-| A (H1N1)* | 41,3 (31,9; 51,1) | 38,0 (31,5; 44,8) |
-| A (H3N2)* | 62,4 (52,6; 71,5) | 59,3 (52,4; 65,9) |
-| B1 (Victoria)* | 60,6 (50,7; 69,8) | 61,1 (54,3; 67,7) |
-| B2 (Yamagata)* | - | 59,7 (52,9; 66,3) |
-| **GMTR (95% CI) (b)** | | |
-| A (H1N1)* | 5,26 (3,66; 7,55) | 3,81 (3,11; 4,66) |
-| A (H3N2)* | 9,23 (6,56; 13,0) | 8,63 (6,85; 10,9) |
-| B1 (Victoria)* | 9,62 (6,89; 13,4) | 8,48 (6,81; 10,6) |
-| B2 (Yamagata)* | - | 6,26 (5,12; 7,65) |
-
-N: số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét
-GMT: Hiệu giá kháng thể trung bình (Geometric Mean Titer); CI: Khoảng tin cậy (Confidence interval)
-* A/H1N1: A/Michigan/45/2015 (H1N1) pdm09-like virus; A/H3N2: A/Hong Kong/4801/2014 (H3N2)-like virus; B1: B/Brisbane/60/2008-like virus (dòng B/Victoria): chủng này có trong thành phần vắc-xin tam giá; B2: B/Phuket/3073/2013-like virus (dòng B/Yamagata): chủng này không có trong thành phần vắc-xin tam giá.
-(a) SC: tỷ lệ chuyển đổi huyết thanh: cho đối tượng trước tiêm chủng < 10 (1/dil), tỷ lệ chuyển đổi huyết thanh của đối tượng sau tiêm chủng ≥ 40 (1/dil) so với trước tiêm chủng ≥ 10 (1/dil), tỷ lệ chuyển đổi huyết thanh tăng gấp 4 lần sau tiêm chủng (so với trước tiêm chủng).
-(b) GMTR: Hiệu giá kháng thể trung bình (trước và sau tiêm chủng)
-
-Đánh giá mô tả tính sinh miễn dịch bằng phương pháp HAI khi sinh, trong mẫu máu của người mẹ (BL03M), trong mẫu máu cuống rốn (BL03B) và chuyển nhau thai (BL03B / BL03M) được trình bày trong bảng 7.
-
-Bảng 7: Đánh giá mô tả tính sinh miễn dịch bằng phương pháp HAI của VAXIGRIP hoặc VAXIGRIP TETRA khi sinh
-
-| Chủng kháng nguyên | Vắc-xin tam giá (B Victoria) N = 89 | Vắc-xin tứ giá N = 178 |
-| :--- | :--- | :--- |
-| **BL03M (máu người mẹ) GMT (95% CI)** | | |
-| A (H1N1)* | 411 (332; 507) | 304 (265; 349) |
-| A (H3N2)* | 186 (137; 250) | 178 (146; 218) |
-| B1 (Victoria)* | 371 (299; 461) | 290 (247; 341) |
-| B2 (Yamagata)* | - | 547 (463; 646) |
-| **BL03B (máu cuống rốn) GMT (95% CI)** | | |
-| A (H1N1)* | 751 (605; 932) | 576 (492; 675) |
-| A (H3N2)* | 324 (232; 452) | 305 (246; 379) |
-| B1 (Victoria)* | 444 (372; 530) | 608 (479; 772) |
-| B2 (Yamagata)* | - | 921 (772; 1099) |
-| **Chuyển nhau thai: BL03B/BL03M § GMT (CI 95%)** | | |
-| A (H1N1)* | 1,89 (1,72; 2,08) | 1,83 (1,64; 2,04) |
-| A (H3N2)* | 1,75 (1,55; 1,97) | 1,71 (1,56; 1,87) |
-| B1 (Victoria)* | 1,64 (1,46; 1,85) | 1,53 (1,37; 1,71) |
-| B2 (Yamagata)* | - | 1,69 (1,54; 1,85) |
-
-N: số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét: phụ nữ đã tiêm vắc xin cúm tam giá hoặc tứ giá, đã chuyển dạ ít nhất 2 tuần sau khi tiêm và có sẵn máu cuống rốn và máu của người mẹ tại thời điểm sinh.
-GMT: Hiệu giá kháng thể trung bình (Geometric Mean Titer); CI: Khoảng tin cậy (Confidence interval)
-* A/H1N1: A/Michigan/45/2015 (H1N1) pdm09-like virus; A/H3N2: A/Hong Kong/4801/2014 (H3N2)-like virus; B1: B/Brisbane/60/2008-like virus (dòng B/Victoria): chủng này được đưa vào thành phần vắc-xin tam giá; B2: B/Phuket/3073/2013-like virus (dòng B/Yamagata): chủng này không có trong thành phần vắc-xin tam giá.
-BL03M: Mẫu máu của người mẹ khi sinh
-**BL03B: Mẫu máu cuống rốn khi sinh
-§ Nếu một người mẹ có X đứa con, giá trị ngưỡng của cô ấy được tính X lần
+<p><strong>Bảng 8: Đánh giá mô tả tính sinh miễn dịch bằng phương pháp HAI của VAXIGRIP hoặc VAXIGRIP TETRA khi sinh</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Chủng kháng nguyên</th>
+      <th>Vắc-xin tam giá<br>(B Victoria)<br>N = 89</th>
+      <th>Vắc-xin tứ giá<br><br>N = 178</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td colspan="2"><strong>BL03M (máu người mẹ)<br>GMT (95% CI)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1)*</strong></td>
+      <td>411 (332; 507)</td>
+      <td>304 (265; 349)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2)*</strong></td>
+      <td>186 (137; 250)</td>
+      <td>178 (146; 218)</td>
+    </tr>
+    <tr>
+      <td><strong>B1 (Victoria)*</strong></td>
+      <td>371 (299; 461)</td>
+      <td>290 (247; 341)</td>
+    </tr>
+    <tr>
+      <td><strong>B 2 (Yamagata)*</strong></td>
+      <td>-</td>
+      <td>547 (463; 646)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2"><strong>BL03B (máu cuống rốn)<br>GMT (95% CI)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1)*</strong></td>
+      <td>751 (605; 932)</td>
+      <td>576 (492; 675)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2)*</strong></td>
+      <td>324 (232; 452)</td>
+      <td>305 (246; 379)</td>
+    </tr>
+    <tr>
+      <td><strong>B1 (Victoria)*</strong></td>
+      <td>608 (479; 772)</td>
+      <td>444 (372; 530)</td>
+    </tr>
+    <tr>
+      <td><strong>B 2 (Yamagata)*</strong></td>
+      <td>-</td>
+      <td>921 (772; 1099)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2"><strong>Truyền qua nhau thai BL03B/BL03M **<br>GMT (CI 95%)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1)*</strong></td>
+      <td>1,83 (1,64; 2,04)</td>
+      <td>1,89 (1,72; 2,08)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2)*</strong></td>
+      <td>1,75 (1,55; 1,97)</td>
+      <td>1,71 (1,56; 1,87)</td>
+    </tr>
+    <tr>
+      <td><strong>B 1 (Victoria)*</strong></td>
+      <td>1,64 (1,46; 1,85)</td>
+      <td>1,53 (1,37; 1,71)</td>
+    </tr>
+    <tr>
+      <td><strong>B 2 (Yamagata)*</strong></td>
+      <td>-</td>
+      <td>1,69 (1,54; 1,85)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <em>N: số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét: phụ nữ đã tiêm vắc-xin cúm tam giá hoặc tứ giá, đã chuyển dạ ít nhất 2 tuần sau khi tiêm và có sẵn máu cuống rốn và máu của người mẹ tại thời điểm sinh.</em><br>
+  <em>GMT: Hiệu giá kháng thể trung bình (Geometric Mean Titer); CI: Khoảng tin cậy (Confidence interval)</em><br>
+  <em>* A/H1N1: A/Michigan/45/2015 (H1N1) pdm09-like virus; A/H3N2: A/Hong Kong/4801/2014 (H3N2) -like virus;</em><br>
+  <em>B1: B/Brisbane/60/2008-like virus (dòng B/Victoria): chủng này được đưa vào thành phần vắc-xin tam giá;</em><br>
+  <em>B2: B/Phuket/3073/2013-like virus (dòng B/Yamagata): chủng này không có trong trong thành phần vắc-xin tam giá.</em><br>
+  <em>†BL03M: Mẫu máu của người mẹ khi sinh</em><br>
+  <em>** Nếu một người mẹ có X đứa con, hiệu giácủa cô ấy được tính X lần</em>
+</p>
 
 Khi sinh, mức độ kháng thể trong mẫu máu cuống rốn cao hơn so với mẫu máu của người mẹ, gợi ý rằng có sự chuyển kháng thể qua nhau thai từ mẹ sang trẻ sơ sinh sau khi tiêm ngừa cho người mẹ bằng VAXIGRIP hoặc VAXIGRIP TETRA trong ba tháng giữa và cuối thai kỳ.
 Những dữ liệu này phù hợp với sự bảo vệ thụ động được chứng minh ở trẻ sơ sinh từ lúc mới sinh đến khoảng 6 tháng tuổi sau khi tiêm vắc-xin cho phụ nữ trong ba tháng giữa và cuối thai kỳ bằng VAXIGRIP trong các nghiên cứu được thực hiện ở Mali, Nepal và Nam Phi (xem phần “Hiệu lực”).
@@ -505,73 +1087,179 @@ Trong tổng số 55 trẻ em từ 9 đến 17 tuổi được tiêm một liề
 Trẻ từ 3 đến 8 tuổi:
 Trong một nghiên cứu lâm sàng, đáp ứng miễn dịch được mô tả ở trẻ em từ 3 đến 8 tuổi được tiêm một hoặc hai liều VAXIGRIP hoặc VAXIGRIP TETRA 0,5 ml, tùy thuộc vào tiền sử tiêm chủng cúm trước đó của trẻ.
 Những trẻ được tiêm một hoặc hai liều vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA có biểu hiện đáp ứng miễn dịch tương đương với liều cuối cùng của lịch chủng ngừa tương ứng.
-Kết quả Tính sinh miễn dịch bằng phương pháp HAI, 28 ngày sau khi tiêm mũi cuối cùng được trình bày trong Bảng 8.
+Kết quả Tính sinh miễn dịch bằng phương pháp HAI, 28 ngày sau khi tiêm mũi cuối cùng được trình bày trong Bảng 9.
 
-Bảng 8: Tính sinh miễn dịch ở trẻ em từ 3 đến 8 tuổi, 28 ngày sau lần tiêm cuối cùng
-
-| Chủng kháng nguyên | Vắc-xin tam giá thay thế (a) (B Victoria) N = 176 / Vắc-xin tam giá cấp phép (b) (B Yamagata) N = 168 | Vắc-xin tứ giá N = 863 |
-| :--- | :--- | :--- |
-| **GMT (95% CI)** | | |
-| A (H1N1) | 1141 (1006; 1295) | 971 (896; 1052) |
-| A (H3N2) | 1746 (1551; 1964) | 1568 (1451; 1695) |
-| B (Victoria) (d) | 1120 (921; 1361) | 1050 (956; 1154) |
-| B (Yamagata) (e) (f) | 1211 (1003; 1462) | 1173 (1078; 1276) |
-| **SC % (95% CI) (g)** | | |
-| A (H1N1) (c) | 65,7 (60,4; 70,7) | 65,7 (62,4; 68,9) |
-| A (H3N2) (c) | 67,7 (62,5; 72,6) | 64,8 (61,5; 68,0) |
-| B (Victoria) (d) | 90,3 (85,0; 94,3) | 84,8 (82,3; 87,2) |
-| B (Yamagata) (e) (f) | 89,9 (84,3; 94,0) | 88,5 (86,2; 90,6) |
-| **GMTR (95% CI) (h)** | | |
-| A (H1N1) (c) | 7,65 (6,54; 8,95) | 6,86 (6,24; 7,53) |
-| A (H3N2) (c) | 7,61 (6,69; 9,05) | 7,49 (6,72; 8,35) |
-| B (Victoria) (d) | 17,8 (14,5; 22,0) | 17,1 (15,5; 18,8) |
-| B (Yamagata) (e) (f) | 30,4 (23,8; 38,4) | 25,3 (22,8; 28,2) |
-
-N = số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét
-GMT: Hiệu giá trung bình nhân; CI: Khoảng tin cậy
-(a) Vắc-xin tam giá thay thế chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2), và B/Brisbane/60/2008 (dòng Victoria)
-(b) Vắc-xin tam giá cấp phép 2014-2015 có chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2) và B/Massachusetts/2/2012 (dòng Yamagata)
-(c) Nhóm vắc-xin tam giá gộp bao gồm những người tham gia được tiêm vắc-xin tam giá thay thế hoặc vắc-xin tam giá cấp phép, N = 344
-(d) N = 169 cho nhóm vắc-xin tam giá (B Yamagata)
-(e) N = 862 cho nhóm vắc-xin tứ giá
-(f) N = 175 cho nhóm Vaxigrip (B Victoria)
-(g) SC: tỷ lệ chuyển đổi huyết thanh: cho đối tượng trước tiêm chủng < 10 (1/dil), tỷ lệ chuyển đổi huyết thanh của đối tượng sau tiêm chủng ≥ 40 (1/dil) so với trước tiêm chủng ≥ 10 (1/dil), tỷ lệ chuyển đổi huyết thanh tăng gấp 4 lần sau tiêm chủng (so với trước tiêm chủng).
-(h) GMTR: Hiệu giá kháng thể trung bình (trước và sau tiêm chủng)
+<p><strong>Bảng 9: Tính sinh miễn dịch ở trẻ em từ 6 tháng đến 35 tháng tuổi và từ 3 đến 8 tuổi, 28 ngày sau lần tiêm cuối cùng</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">Trẻ em từ 6 tháng đến 35 tháng tuổi</th>
+      <th colspan="3">Trẻ em từ 3 đến 8 tuổi</th>
+    </tr>
+    <tr>
+      <th>Chủng kháng nguyên</th>
+      <th>Vắc-xin tam giá thay thế <sup>(a)</sup><br>(B Victoria)<br>N = 172</th>
+      <th>TIV được cấp phép <sup>(b) (c)</sup><br>(B Yamagata)<br>N = 178</th>
+      <th>Vắc-xin tứ giá<br><br>N = 341</th>
+      <th>Vắc-xin tam giá thay thế <sup>(a)</sup><br>(B Victoria)<br>N = 176</th>
+      <th>Vắc-xin tam giá cấp phép <sup>(b)</sup><br>(B Yamagata)<br>N = 168</th>
+      <th>Vắc-xin tứ giá<br><br>N = 863</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td colspan="6"><strong>GMT<br>(95% CI)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1) <sup>(d)</sup></strong></td>
+      <td>637 (500;<br>812)</td>
+      <td>628 (504;<br>781)</td>
+      <td>641 (547;<br>752)</td>
+      <td colspan="2">1141 (1006; 1295)</td>
+      <td>971 (896;<br>1052)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2) <sup>(d)</sup></strong></td>
+      <td>1021 (824;<br>1266)</td>
+      <td>994 (807;<br>1224)</td>
+      <td>1071 (925;<br>1241)</td>
+      <td colspan="2">1746 (1551; 1964)</td>
+      <td>1568 (1451;<br>1695)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Victoria) <sup>(e)</sup></strong></td>
+      <td>835 (691;<br>1008)</td>
+      <td>-</td>
+      <td>623 (550;<br>706)</td>
+      <td>1120 (921;<br>1361)</td>
+      <td>-</td>
+      <td>1050 (956;<br>1154)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Yamagata)<sup>(f)(g)</sup></strong></td>
+      <td>-</td>
+      <td>1009 (850;<br>1198)</td>
+      <td>1010 (885;<br>1153)</td>
+      <td>-</td>
+      <td>1211 (1003;<br>1462)</td>
+      <td>1173 (1078;<br>1276)</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">Trẻ em từ 6 tháng đến 35 tháng tuổi</th>
+      <th colspan="3">Trẻ em từ 3 đến 8 tuổi</th>
+    </tr>
+    <tr>
+      <th>Chủng kháng nguyên</th>
+      <th>Vắc-xin tam giá thay thế <sup>(a)</sup><br>(B Victoria)<br>N = 172</th>
+      <th>TIV được cấp phép <sup>(b) (c)</sup><br>(B Yamagata)<br>N = 178</th>
+      <th>Vắc-xin tứ giá<br><br>N = 341</th>
+      <th>Vắc-xin tam giá thay thế <sup>(a)</sup><br>(B Victoria)<br>N = 176</th>
+      <th>Vắc-xin tam giá cấp phép <sup>(b)</sup><br>(B Yamagata)<br>N = 168</th>
+      <th>Vắc-xin tứ giá<br><br>N = 863</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td colspan="6"><strong>SC % <sup>(h)</sup> (95% CI)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1) <sup>(d)</sup></strong></td>
+      <td>87,2 (81,3;<br>91,8)</td>
+      <td>90,4 (85,1;<br>94,3)</td>
+      <td>90,3 (86,7;<br>93,2)</td>
+      <td colspan="2">65,7 (60,4; 70,7)</td>
+      <td>65,7 (62,4;<br>68,9)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2) <sup>(d)</sup></strong></td>
+      <td>88,4 (82,6;<br>92,8)</td>
+      <td>87,6 (81,9;<br>92,1)</td>
+      <td>90,3 (86,7;<br>93,2)</td>
+      <td colspan="2">67,7 (62,5; 72,6)</td>
+      <td>64,8 (61,5;<br>68,0)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Victoria) <sup>(e)</sup></strong></td>
+      <td>99,4 (96,8;<br>100,0)</td>
+      <td>-</td>
+      <td>98,8 (97,0;<br>99,7)</td>
+      <td>90,3 (85,0;<br>94,3)</td>
+      <td>-</td>
+      <td>84,8 (82,3;<br>87,2)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Yamagata)<br><sup>(f)(g)</sup></strong></td>
+      <td>-</td>
+      <td>99,4 (96,9;<br>100,0)</td>
+      <td>96,8 (94,3;<br>98,4)</td>
+      <td>-</td>
+      <td>89,9 (84,3;<br>94,0)</td>
+      <td>88,5 (86,2;<br>90,6)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="6"><strong>GMTR <sup>(i)</sup> (95% CI)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>A (H1N1) <sup>(d)</sup></strong></td>
+      <td>35,3 (27,4;<br>45,5)</td>
+      <td>40,6 (32,6;<br>50,5)</td>
+      <td>36,6 (30,8;<br>43,6)</td>
+      <td colspan="2">7,65 (6,54; 8,95)</td>
+      <td>6,86 (6,24;<br>7,53)</td>
+    </tr>
+    <tr>
+      <td><strong>A (H3N2) <sup>(d)</sup></strong></td>
+      <td>44,1 (33,1;<br>58,7)</td>
+      <td>37,1 (28,3;<br>48,6)</td>
+      <td>42,6 (35,1;<br>51,7)</td>
+      <td colspan="2">7,61 (6,69; 9,05)</td>
+      <td>7,49 (6,72;<br>8,35)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Victoria) <sup>(e)</sup></strong></td>
+      <td>114 (94,4;<br>138)</td>
+      <td>-</td>
+      <td>100 (88,9;<br>114)</td>
+      <td>17,8 (14,5;<br>22,0)</td>
+      <td>-</td>
+      <td>17,1 (15,5;<br>18,8)</td>
+    </tr>
+    <tr>
+      <td><strong>B (Yamagata)<br><sup>(f)(g)</sup></strong></td>
+      <td>-</td>
+      <td>111 (91,3;<br>135)</td>
+      <td>93,9 (79,5;<br>111)</td>
+      <td>-</td>
+      <td>30,4 (23,8;<br>38,4)</td>
+      <td>25,3 (22,8;<br>28,2)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <em>N = số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét</em><br>
+  <em>GMT: Hiệu giá trung bình nhân; CI: Khoảng tin cậy</em><br>
+  <em>(a) Vắc-xin tam giá thay thế chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2) và B/Brisbane/60/2008 (dòng Victoria)</em><br>
+  <em>(b) Vắc-xin tam giá cấp phép 2014-2015 có chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2) và B/Massachusetts/2/2012 (dòng Yamagata)</em><br>
+  <em>(c) Liều 0,5 ml ở trẻ em từ 6 tháng đến 35 tháng tuổi</em><br>
+  <em>(d) Đối với trẻ em từ 3 đến 8 tuổi: Nhóm vắc-xin tam giá gộp bao gồm những người tham gia được tiêm vắc-xin tam giá thay thế hoặc vắc-xin tam giá cấp phép, N = 344</em><br>
+  <em>(e) N=169 cho nhóm vắc-xin tam giá (B Yamagata) ở trẻ em từ 3 đến 8 tuổi</em><br>
+  <em>(f) N = 862 cho nhóm vắc-xin tứ giá ở trẻ em từ 3-8 tuổi(g) Đối với nhóm vắc-xin tam giá thay thế (B Victoria): N=171 trẻ em từ 6 tháng đến 35 tháng tuổi; N=175 trẻ em từ 3 đến 8 tuổi</em><br>
+  <em>(h) SC: tỷ lệ chuyển đổi huyết thanh: cho đối tượng trước tiêm chủng &lt; 10 (1/dil), tỷ lệ chuyển đổi huyết thanh của đối tượng sau tiêm chủng ≥ 40 (1/dil) so với trước tiêm chủng ≥ 10 (1/dil), tỷ lệ chuyển đổi huyết thanh tăng gấp 4 lần sau tiêm chủng (so với trước tiêm chủng).</em><br>
+  <em>(i) GMTR: Hiệu giá kháng thể trung bình (trước và sau tiêm chủng)</em>
+</p>
 
 Trang 17/20 - Trang 18/20
 
 Trẻ từ 6 tháng đến 35 tháng tuổi:
 Trong một nghiên cứu lâm sàng, đáp ứng miễn dịch được mô tả ở trẻ em từ 6 đến 35 tháng tuổi được tiêm một hoặc hai liều VAXIGRIP hoặc VAXIGRIP TETRA 0,5 ml.
 Kết quả Tính sinh miễn dịch bằng phương pháp HAI, 28 ngày sau khi tiêm mũi cuối cùng được trình bày trong Bảng 9.
-
-Bảng 9: Tính sinh miễn dịch ở trẻ em từ 6 tháng đến 35 tháng tuổi, 28 ngày sau lần tiêm cuối cùng
-
-| Chủng kháng nguyên | Vắc-xin tam giá thay thế (a) (B Victoria) N = 172 | TIV được cấp phép (b) (c) (B Yamagata) N = 178 | Vắc-xin tứ giá N = 341 |
-| :--- | :--- | :--- | :--- |
-| **GMT (95% CI)** | | | |
-| A (H1N1) | 637 (500; 812) | 628 (504; 781) | 641 (547; 752) |
-| A (H3N2) | 1021 (824; 1266) | 994 (807; 1224) | 1071 (925; 1241) |
-| B (Victoria) | 835 (691; 1008) | - | 623 (550; 706) |
-| B (Yamagata) (d) | - | 1009 (850; 1198) | 1010 (885; 1153) |
-| **SC % (95% CI) (e)** | | | |
-| A (H1N1) | 87,2 (81,3; 91,8) | 90,4 (85,1; 94,3) | 90,3 (86,7; 93,2) |
-| A (H3N2) | 88,4 (82,6; 92,8) | 87,6 (81,9; 92,1) | 90,3 (86,7; 93,2) |
-| B (Victoria) | 99,4 (96,8; 100,0) | - | 98,8 (97,0; 99,7) |
-| B (Yamagata) | - | 99,4 (96,9; 100,0) | 96,8 (94,3; 98,4) |
-| **GMTR (95% CI) (f)** | | | |
-| A (H1N1) | 35,3 (27,4; 45,5) | 40,6 (32,6; 50,5) | 36,6 (30,8; 43,6) |
-| A (H3N2) | 44,1 (33,1; 58,7) | 37,1 (28,3; 48,6) | 42,6 (35,1; 51,7) |
-| B (Victoria) | 114 (94,4; 138) | - | 100 (88,9; 114) |
-| B (Yamagata) | - | 111 (91,3; 135) | 93,9 (79,5; 111) |
-
-N = số đối tượng có dữ liệu sẵn có cho tiêu chí đánh giá được xem xét
-GMT: Hiệu giá trung bình nhân; CI: Khoảng tin cậy
-(a) Vaxigrip thay thế chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2) và B/Brisbane/60/2008 (dòng Victoria)
-(b) Vaxigrip cấp phép 2014-2015 có chứa A/California/7/2009 (H1N1), A/Texas/50/2012 (H3N2) và B/Massachusetts/2/2012 (dòng Yamagata)
-(c) Liều 0,5 ml
-(d) N = 171 cho nhóm Vaxigrip Thay thế (B Victoria)
-(e) SC: tỷ lệ chuyển đổi huyết thanh: cho đối tượng trước tiêm chủng < 10 (1/dil), tỷ lệ chuyển đổi huyết thanh của đối tượng sau tiêm chủng ≥ 40 (1/dil) so với trước tiêm chủng ≥ 10 (1/dil), tỷ lệ chuyển đổi huyết thanh tăng gấp 4 lần sau tiêm chủng (so với trước tiêm chủng).
-(f) GMTR: Hiệu giá kháng thể trung bình (trước và sau tiêm chủng)
 
 Những dữ liệu sinh miễn dịch này cung cấp thông tin hỗ trợ bên cạnh các dữ liệu về hiệu quả của vắc-xin có sẵn trong nhóm dân số (xem phần “Hiệu lực”).
 5.2. Đặc tính dược động học

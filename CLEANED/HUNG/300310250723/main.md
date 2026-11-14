@@ -7,12 +7,24 @@ VẮC XIN VIÊM GAN A BẤT HOẠT, HẤP PHỤ
 Để xa tầm tay trẻ em
 Thông báo ngay cho bác sỹ hoặc dược sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc
 
-THÀNH PHẦN
-Hoạt chất: Virus viêm gan A, chủng GBM* (bất hoạt)**
-Trong 1 liều 0,5 mL...........................................................................................80 U***
-* nuôi cấy trên các tế bào lưỡng bội người MRC-5
-** hấp phụ trên hydroxid nhôm hydrat hóa (0,15 milligram Al).
-*** không có chất chuẩn quốc tế, hàm lượng kháng nguyên được tính bằng cách sử dụng chất chuẩn của nhà sản xuất.
+<p><b>THÀNH PHẦN</b></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><u>Hoạt chất</u>: Virus viêm gan A, chủng GBM* (bất hoạt) **</td>
+      <td>80 U***</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Trong 1 liều 0,5 mL.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>* nuôi cấy trên các tế bào lưỡng bội người MRC-5<br>
+** hấp phụ trên hydroxid nhôm hydrat hóa (0,15 milligram Al).<br>
+*** không có chất chuẩn quốc tế, hàm lượng kháng nguyên được tính bằng cách sử dụng chất chuẩn của nhà sản xuất.</p>
 
 Các thành phần khác: 2-Phenoxyethanol, Formaldehyde và môi trường Hanks 199(1) (không có phenol đỏ) bổ sung với polysorbate 80.
 (1) môi trường Hanks 199 là một hỗn hợp phức tạp gồm các axit amin (bao gồm phenylalanine), muối khoáng, vitamin, và các chất khác, pha loãng trong nước pha tiêm, pH được điều chỉnh bằng hydrochloric acid hoặc sodium hydroxyde.
