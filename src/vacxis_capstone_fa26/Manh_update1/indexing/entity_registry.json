@@ -1,0 +1,1144 @@
+{
+  "entities": [
+    {
+      "entity": "Vaxneuvance",
+      "base_name": "Vaxneuvance",
+      "variant": "",
+      "reg_no": "539310049125",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "vaxneuvance_539310049125",
+      "folder_id": "539310049125",
+      "aliases": [
+        "Vaxneuvance",
+        "vaxneuvance"
+      ]
+    },
+    {
+      "entity": "Rotarix",
+      "base_name": "Rotarix",
+      "variant": "",
+      "reg_no": "540310037023",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "rotarix_540310037023",
+      "folder_id": "540310037023",
+      "aliases": [
+        "Rotarix",
+        "rotarix"
+      ]
+    },
+    {
+      "entity": "Prevenar 13",
+      "base_name": "Prevenar",
+      "variant": "13",
+      "reg_no": "540310111524",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "prevenar_13_540310111524",
+      "folder_id": "540310111524",
+      "aliases": [
+        "Prevenar 13",
+        "prevenar 13",
+        "prevenar13"
+      ]
+    },
+    {
+      "entity": "Nimenrix",
+      "base_name": "Nimenrix",
+      "variant": "",
+      "reg_no": "540310196925",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "nimenrix_540310196925",
+      "folder_id": "540310196925",
+      "aliases": [
+        "Nimenrix",
+        "nimenrix"
+      ]
+    },
+    {
+      "entity": "Shingrix",
+      "base_name": "Shingrix",
+      "variant": "",
+      "reg_no": "540310303224",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "shingrix_540310303224",
+      "folder_id": "540310303224",
+      "aliases": [
+        "Shingrix",
+        "shingrix"
+      ]
+    },
+    {
+      "entity": "Abrysvo",
+      "base_name": "Abrysvo",
+      "variant": "",
+      "reg_no": "540310322125",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "abrysvo_540310322125",
+      "folder_id": "540310322125",
+      "aliases": [
+        "Abrysvo",
+        "abrysvo"
+      ]
+    },
+    {
+      "entity": "Arexvy",
+      "base_name": "Arexvy",
+      "variant": "",
+      "reg_no": "540310322425",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "arexvy_540310322425",
+      "folder_id": "540310322425",
+      "aliases": [
+        "Arexvy",
+        "arexvy"
+      ]
+    },
+    {
+      "entity": "RS.JEV",
+      "base_name": "RS.JEV",
+      "variant": "",
+      "reg_no": "690310177400",
+      "reg_year": 2000,
+      "reg_year_verified": false,
+      "doc_id": "rs_jev_690310177400",
+      "folder_id": "690310177400",
+      "aliases": [
+        "RS.JEV",
+        "rs jev",
+        "rs.jev",
+        "rsjev"
+      ]
+    },
+    {
+      "entity": "Adacel",
+      "base_name": "Adacel",
+      "variant": "",
+      "reg_no": "754310306124",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "adacel_754310306124",
+      "folder_id": "754310306124",
+      "aliases": [
+        "Adacel",
+        "adacel"
+      ]
+    },
+    {
+      "entity": "Bexsero",
+      "base_name": "Bexsero",
+      "variant": "",
+      "reg_no": "800310090123",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "bexsero_800310090123",
+      "folder_id": "800310090123",
+      "aliases": [
+        "Bexsero",
+        "bexsero"
+      ]
+    },
+    {
+      "entity": "VA-MENGOC-BC",
+      "base_name": "VA-MENGOC-BC",
+      "variant": "",
+      "reg_no": "850310110724",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "va_mengoc_bc_850310110724",
+      "folder_id": "850310110724",
+      "aliases": [
+        "VA-MENGOC-BC",
+        "va mengoc bc",
+        "va-mengoc-bc",
+        "vamengocbc"
+      ]
+    },
+    {
+      "entity": "Heberbiovac HB",
+      "base_name": "Heberbiovac HB",
+      "variant": "",
+      "reg_no": "850310304224",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "heberbiovac_hb_850310304224",
+      "folder_id": "850310304224",
+      "aliases": [
+        "Heberbiovac HB",
+        "heberbiovac hb",
+        "heberbiovachb"
+      ]
+    },
+    {
+      "entity": "Quimi-Hib",
+      "base_name": "Quimi-Hib",
+      "variant": "",
+      "reg_no": "850310304324",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "quimi_hib_850310304324",
+      "folder_id": "850310304324",
+      "aliases": [
+        "Quimi-Hib",
+        "quimi hib",
+        "quimi-hib",
+        "quimihib"
+      ]
+    },
+    {
+      "entity": "Heberbiovac HB",
+      "base_name": "Heberbiovac HB",
+      "variant": "",
+      "reg_no": "850310304424",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "heberbiovac_hb_850310304424",
+      "folder_id": "850310304424",
+      "aliases": [
+        "Heberbiovac HB",
+        "heberbiovac hb",
+        "heberbiovachb"
+      ]
+    },
+    {
+      "entity": "Influvac Tetra",
+      "base_name": "Influvac Tetra",
+      "variant": "",
+      "reg_no": "870310304024",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "influvac_tetra_870310304024",
+      "folder_id": "870310304024",
+      "aliases": [
+        "Influvac Tetra",
+        "influvac tetra",
+        "influvactetra"
+      ]
+    },
+    {
+      "entity": "SKYVaricella Inj.",
+      "base_name": "SKYVaricella Inj.",
+      "variant": "",
+      "reg_no": "880310033426",
+      "reg_year": 2026,
+      "reg_year_verified": false,
+      "doc_id": "skyvaricella_inj_880310033426",
+      "folder_id": "880310033426",
+      "aliases": [
+        "SKYVaricella Inj.",
+        "skyvaricella inj",
+        "skyvaricella inj.",
+        "skyvaricellainj"
+      ]
+    },
+    {
+      "entity": "GC FLU pre-filled syringe inj",
+      "base_name": "GC FLU pre-filled syringe inj",
+      "variant": "",
+      "reg_no": "880310249823",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "gc_flu_pre_filled_syringe_inj_880310249823",
+      "folder_id": "880310249823",
+      "aliases": [
+        "GC FLU pre-filled syringe inj",
+        "gc flu pre filled syringe inj",
+        "gc flu pre-filled syringe inj",
+        "gcfluprefilledsyringeinj"
+      ]
+    },
+    {
+      "entity": "Barycela inj.",
+      "base_name": "Barycela inj.",
+      "variant": "",
+      "reg_no": "880310322325",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "barycela_inj_880310322325",
+      "folder_id": "880310322325",
+      "aliases": [
+        "Barycela inj.",
+        "barycela inj",
+        "barycela inj.",
+        "barycelainj"
+      ]
+    },
+    {
+      "entity": "Imojev",
+      "base_name": "Imojev",
+      "variant": "",
+      "reg_no": "885310306024",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "imojev_885310306024",
+      "folder_id": "885310306024",
+      "aliases": [
+        "Imojev",
+        "imojev"
+      ]
+    },
+    {
+      "entity": "ComBE Five",
+      "base_name": "ComBE Five",
+      "variant": "",
+      "reg_no": "890310108224",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "combe_five_890310108224",
+      "folder_id": "890310108224",
+      "aliases": [
+        "ComBE Five",
+        "combe five",
+        "combefive"
+      ]
+    },
+    {
+      "entity": "JEEV",
+      "base_name": "JEEV",
+      "variant": "",
+      "reg_no": "890310108324",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "jeev_890310108324",
+      "folder_id": "890310108324",
+      "aliases": [
+        "JEEV",
+        "jeev"
+      ]
+    },
+    {
+      "entity": "JEEV",
+      "base_name": "JEEV",
+      "variant": "",
+      "reg_no": "890310108424",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "jeev_890310108424",
+      "folder_id": "890310108424",
+      "aliases": [
+        "JEEV",
+        "jeev"
+      ]
+    },
+    {
+      "entity": "PENTAVAC",
+      "base_name": "PENTAVAC",
+      "variant": "",
+      "reg_no": "890310178100",
+      "reg_year": 2000,
+      "reg_year_verified": false,
+      "doc_id": "pentavac_890310178100",
+      "folder_id": "890310178100",
+      "aliases": [
+        "PENTAVAC",
+        "pentavac"
+      ]
+    },
+    {
+      "entity": "Rotavac",
+      "base_name": "Rotavac",
+      "variant": "",
+      "reg_no": "890310196625",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "rotavac_890310196625",
+      "folder_id": "890310196625",
+      "aliases": [
+        "Rotavac",
+        "rotavac"
+      ]
+    },
+    {
+      "entity": "Indirab",
+      "base_name": "Indirab",
+      "variant": "",
+      "reg_no": "890310249723",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "indirab_890310249723",
+      "folder_id": "890310249723",
+      "aliases": [
+        "Indirab",
+        "indirab"
+      ]
+    },
+    {
+      "entity": "TRESIVAC",
+      "base_name": "TRESIVAC",
+      "variant": "",
+      "reg_no": "890310304524",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "tresivac_890310304524",
+      "folder_id": "890310304524",
+      "aliases": [
+        "TRESIVAC",
+        "tresivac"
+      ]
+    },
+    {
+      "entity": "HAVAX",
+      "base_name": "HAVAX",
+      "variant": "",
+      "reg_no": "893310108024",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "havax_893310108024",
+      "folder_id": "893310108024",
+      "aliases": [
+        "HAVAX",
+        "havax"
+      ]
+    },
+    {
+      "entity": "polysaccharide",
+      "base_name": "polysaccharide",
+      "variant": "",
+      "reg_no": "893310109024",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "polysaccharide_893310109024",
+      "folder_id": "893310109024",
+      "aliases": [
+        "polysaccharide"
+      ]
+    },
+    {
+      "entity": "Rotavin",
+      "base_name": "Rotavin",
+      "variant": "",
+      "reg_no": "893310109424",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "rotavin_893310109424",
+      "folder_id": "893310109424",
+      "aliases": [
+        "Rotavin",
+        "rotavin"
+      ]
+    },
+    {
+      "entity": "DPT Vaccine",
+      "base_name": "DPT Vaccine",
+      "variant": "",
+      "reg_no": "893310250923",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "dpt_vaccine_893310250923",
+      "folder_id": "893310250923",
+      "aliases": [
+        "DPT Vaccine",
+        "dpt vaccine",
+        "dptvaccine"
+      ]
+    },
+    {
+      "entity": "BCG Vaccine",
+      "base_name": "BCG Vaccine",
+      "variant": "",
+      "reg_no": "893310251023",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "bcg_vaccine_893310251023",
+      "folder_id": "893310251023",
+      "aliases": [
+        "BCG Vaccine",
+        "bcg vaccine",
+        "bcgvaccine"
+      ]
+    },
+    {
+      "entity": "TT Vaccine",
+      "base_name": "TT Vaccine",
+      "variant": "",
+      "reg_no": "893310323125",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "tt_vaccine_893310323125",
+      "folder_id": "893310323125",
+      "aliases": [
+        "TT Vaccine",
+        "tt vaccine",
+        "ttvaccine"
+      ]
+    },
+    {
+      "entity": "Peg-Grafeel",
+      "base_name": "Peg-Grafeel",
+      "variant": "",
+      "reg_no": "QLSP-0636-13",
+      "reg_year": 2013,
+      "reg_year_verified": false,
+      "doc_id": "peg_grafeel_qlsp_0636_13",
+      "folder_id": "QLSP-0636-13",
+      "aliases": [
+        "Peg-Grafeel",
+        "peg grafeel",
+        "peg-grafeel",
+        "peggrafeel"
+      ]
+    },
+    {
+      "entity": "CervarixTM",
+      "base_name": "CervarixTM",
+      "variant": "",
+      "reg_no": "QLVX-0490-12",
+      "reg_year": 2012,
+      "reg_year_verified": false,
+      "doc_id": "cervarixtm_qlvx_0490_12",
+      "folder_id": "QLVX-0490-12",
+      "aliases": [
+        "CervarixTM",
+        "cervarixtm"
+      ]
+    },
+    {
+      "entity": "VAXIGRIP (0,5ml)",
+      "base_name": "VAXIGRIP (0,5ml)",
+      "variant": "",
+      "reg_no": "QLVX-0646-13",
+      "reg_year": 2013,
+      "reg_year_verified": false,
+      "doc_id": "vaxigrip_0_5ml_qlvx_0646_13",
+      "folder_id": "QLVX-0646-13",
+      "aliases": [
+        "VAXIGRIP (0,5ml)",
+        "vaxigrip (0,5ml)",
+        "vaxigrip 0 5ml",
+        "vaxigrip05ml"
+      ]
+    },
+    {
+      "entity": "VAXIGRIP (0,25ml)",
+      "base_name": "VAXIGRIP (0,25ml)",
+      "variant": "",
+      "reg_no": "QLVX-0652-13",
+      "reg_year": 2013,
+      "reg_year_verified": false,
+      "doc_id": "vaxigrip_0_25ml_qlvx_0652_13",
+      "folder_id": "QLVX-0652-13",
+      "aliases": [
+        "VAXIGRIP (0,25ml)",
+        "vaxigrip (0,25ml)",
+        "vaxigrip 0 25ml",
+        "vaxigrip025ml"
+      ]
+    },
+    {
+      "entity": "HEPAVAX-GENE TF inj.",
+      "base_name": "HEPAVAX-GENE TF inj.",
+      "variant": "",
+      "reg_no": "QLVX-0774-14",
+      "reg_year": 2014,
+      "reg_year_verified": false,
+      "doc_id": "hepavax_gene_tf_inj_qlvx_0774_14",
+      "folder_id": "QLVX-0774-14",
+      "aliases": [
+        "HEPAVAX-GENE TF inj.",
+        "hepavax gene tf inj",
+        "hepavax-gene tf inj.",
+        "hepavaxgenetfinj"
+      ]
+    },
+    {
+      "entity": "Varivax",
+      "base_name": "Varivax",
+      "variant": "",
+      "reg_no": "001310037823",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "varivax_001310037823",
+      "folder_id": "001310037823",
+      "aliases": [
+        "Varivax",
+        "varivax"
+      ]
+    },
+    {
+      "entity": "Menquadfi",
+      "base_name": "Menquadfi",
+      "variant": "",
+      "reg_no": "001310047625",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "menquadfi_001310047625",
+      "folder_id": "001310047625",
+      "aliases": [
+        "Menquadfi",
+        "menquadfi"
+      ]
+    },
+    {
+      "entity": "Varilrix",
+      "base_name": "Varilrix",
+      "variant": "",
+      "reg_no": "001310177800",
+      "reg_year": 2000,
+      "reg_year_verified": false,
+      "doc_id": "varilrix_001310177800",
+      "folder_id": "001310177800",
+      "aliases": [
+        "Varilrix",
+        "varilrix"
+      ]
+    },
+    {
+      "entity": "Gardasil 9",
+      "base_name": "Gardasil",
+      "variant": "9",
+      "reg_no": "001310178700",
+      "reg_year": 2000,
+      "reg_year_verified": false,
+      "doc_id": "gardasil_9_001310178700",
+      "folder_id": "001310178700",
+      "aliases": [
+        "Gardasil 9",
+        "gardasil 9",
+        "gardasil9"
+      ]
+    },
+    {
+      "entity": "ProQuad",
+      "base_name": "ProQuad",
+      "variant": "",
+      "reg_no": "001310197825",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "proquad_001310197825",
+      "folder_id": "001310197825",
+      "aliases": [
+        "ProQuad",
+        "proquad"
+      ]
+    },
+    {
+      "entity": "M-M-R II",
+      "base_name": "M-M-R II",
+      "variant": "",
+      "reg_no": "001310197925",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "m_m_r_ii_001310197925",
+      "folder_id": "001310197925",
+      "aliases": [
+        "M-M-R II",
+        "m m r ii",
+        "m-m-r ii",
+        "mmrii"
+      ]
+    },
+    {
+      "entity": "Pneumovax 23",
+      "base_name": "Pneumovax",
+      "variant": "23",
+      "reg_no": "001310303524",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "pneumovax_23_001310303524",
+      "folder_id": "001310303524",
+      "aliases": [
+        "Pneumovax 23",
+        "pneumovax 23",
+        "pneumovax23"
+      ]
+    },
+    {
+      "entity": "Flumist",
+      "base_name": "Flumist",
+      "variant": "",
+      "reg_no": "001310440525",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "flumist_001310440525",
+      "folder_id": "001310440525",
+      "aliases": [
+        "Flumist",
+        "flumist"
+      ]
+    },
+    {
+      "entity": "Vaxigrip",
+      "base_name": "Vaxigrip",
+      "variant": "",
+      "reg_no": "300310033526",
+      "reg_year": 2026,
+      "reg_year_verified": false,
+      "doc_id": "vaxigrip_300310033526",
+      "folder_id": "300310033526",
+      "aliases": [
+        "Vaxigrip",
+        "vaxigrip"
+      ]
+    },
+    {
+      "entity": "Boostrix",
+      "base_name": "Boostrix",
+      "variant": "",
+      "reg_no": "300310036923",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "boostrix_300310036923",
+      "folder_id": "300310036923",
+      "aliases": [
+        "Boostrix",
+        "boostrix"
+      ]
+    },
+    {
+      "entity": "Hexaxim",
+      "base_name": "Hexaxim",
+      "variant": "",
+      "reg_no": "300310038123",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "hexaxim_300310038123",
+      "folder_id": "300310038123",
+      "aliases": [
+        "Hexaxim",
+        "hexaxim"
+      ]
+    },
+    {
+      "entity": "Pentaxim",
+      "base_name": "Pentaxim",
+      "variant": "",
+      "reg_no": "300310250623",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "pentaxim_300310250623",
+      "folder_id": "300310250623",
+      "aliases": [
+        "Pentaxim",
+        "pentaxim"
+      ]
+    },
+    {
+      "entity": "Avaxim 80 U Pediatric",
+      "base_name": "Avaxim 80 U Pediatric",
+      "variant": "",
+      "reg_no": "300310250723",
+      "reg_year": 2023,
+      "reg_year_verified": false,
+      "doc_id": "avaxim_80_u_pediatric_300310250723",
+      "folder_id": "300310250723",
+      "aliases": [
+        "Avaxim 80 U Pediatric",
+        "avaxim 80 u pediatric",
+        "avaxim80upediatric"
+      ]
+    },
+    {
+      "entity": "Verorab",
+      "base_name": "Verorab",
+      "variant": "",
+      "reg_no": "300310305824",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "verorab_300310305824",
+      "folder_id": "300310305824",
+      "aliases": [
+        "Verorab",
+        "verorab"
+      ]
+    },
+    {
+      "entity": "Vaxigrip Tetra",
+      "base_name": "Vaxigrip Tetra",
+      "variant": "",
+      "reg_no": "300310305924",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "vaxigrip_tetra_300310305924",
+      "folder_id": "300310305924",
+      "aliases": [
+        "Vaxigrip Tetra",
+        "vaxigrip tetra",
+        "vaxigriptetra"
+      ]
+    },
+    {
+      "entity": "Typhim Vi",
+      "base_name": "Typhim Vi",
+      "variant": "",
+      "reg_no": "300310647324",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "typhim_vi_300310647324",
+      "folder_id": "300310647324",
+      "aliases": [
+        "Typhim Vi",
+        "typhim vi",
+        "typhimvi"
+      ]
+    },
+    {
+      "entity": "Twinrix",
+      "base_name": "Twinrix",
+      "variant": "",
+      "reg_no": "400310177900",
+      "reg_year": 2000,
+      "reg_year_verified": false,
+      "doc_id": "twinrix_400310177900",
+      "folder_id": "400310177900",
+      "aliases": [
+        "Twinrix",
+        "twinrix"
+      ]
+    },
+    {
+      "entity": "Qdenga",
+      "base_name": "Qdenga",
+      "variant": "",
+      "reg_no": "400310303924",
+      "reg_year": 2024,
+      "reg_year_verified": false,
+      "doc_id": "qdenga_400310303924",
+      "folder_id": "400310303924",
+      "aliases": [
+        "Qdenga",
+        "qdenga"
+      ]
+    },
+    {
+      "entity": "Envacgen",
+      "base_name": "Envacgen",
+      "variant": "",
+      "reg_no": "471310033726",
+      "reg_year": 2026,
+      "reg_year_verified": false,
+      "doc_id": "envacgen_471310033726",
+      "folder_id": "471310033726",
+      "aliases": [
+        "Envacgen",
+        "envacgen"
+      ]
+    },
+    {
+      "entity": "Prevenar 20",
+      "base_name": "Prevenar",
+      "variant": "20",
+      "reg_no": "539310047525",
+      "reg_year": 2025,
+      "reg_year_verified": false,
+      "doc_id": "prevenar_20_539310047525",
+      "folder_id": "539310047525",
+      "aliases": [
+        "Prevenar 20",
+        "prevenar 20",
+        "prevenar20"
+      ]
+    },
+    {
+      "entity": "SPEEDA",
+      "base_name": "SPEEDA",
+      "variant": "",
+      "reg_no": "QLVX-1041-17",
+      "reg_year": 2017,
+      "reg_year_verified": false,
+      "doc_id": "speeda_qlvx_1041_17",
+      "folder_id": "QLVX-1041-17",
+      "aliases": [
+        "SPEEDA",
+        "speeda"
+      ]
+    },
+    {
+      "entity": "Varicella Vaccine-GCC Inj",
+      "base_name": "Varicella Vaccine-GCC Inj",
+      "variant": "",
+      "reg_no": "QLVX-1046-17",
+      "reg_year": 2017,
+      "reg_year_verified": false,
+      "doc_id": "varicella_vaccine_gcc_inj_qlvx_1046_17",
+      "folder_id": "QLVX-1046-17",
+      "aliases": [
+        "Varicella Vaccine-GCC Inj",
+        "varicella vaccine gcc inj",
+        "varicella vaccine-gcc inj",
+        "varicellavaccinegccinj"
+      ]
+    },
+    {
+      "entity": "Rabipur",
+      "base_name": "Rabipur",
+      "variant": "",
+      "reg_no": "QLVX-1048-17",
+      "reg_year": 2017,
+      "reg_year_verified": false,
+      "doc_id": "rabipur_qlvx_1048_17",
+      "folder_id": "QLVX-1048-17",
+      "aliases": [
+        "Rabipur",
+        "rabipur"
+      ]
+    },
+    {
+      "entity": "Infanrix IPV-Hib",
+      "base_name": "Infanrix IPV-Hib",
+      "variant": "",
+      "reg_no": "QLVX-1138-19",
+      "reg_year": 2019,
+      "reg_year_verified": false,
+      "doc_id": "infanrix_ipv_hib_qlvx_1138_19",
+      "folder_id": "QLVX-1138-19",
+      "aliases": [
+        "Infanrix IPV-Hib",
+        "infanrix ipv hib",
+        "infanrix ipv-hib",
+        "infanrixipvhib"
+      ]
+    },
+    {
+      "entity": "M-M-R® II",
+      "base_name": "M-M-R® II",
+      "variant": "",
+      "reg_no": "QLVX-878-15",
+      "reg_year": 2015,
+      "reg_year_verified": false,
+      "doc_id": "m_m_r_ii_qlvx_878_15",
+      "folder_id": "QLVX-878-15",
+      "aliases": [
+        "M-M-R® II",
+        "m m r ii",
+        "m-m-r® ii",
+        "mmrii"
+      ]
+    },
+    {
+      "entity": "Gardasil",
+      "base_name": "Gardasil",
+      "variant": "",
+      "reg_no": "QLVX-883-15",
+      "reg_year": 2015,
+      "reg_year_verified": false,
+      "doc_id": "gardasil_qlvx_883_15",
+      "folder_id": "QLVX-883-15",
+      "aliases": [
+        "Gardasil",
+        "gardasil"
+      ]
+    },
+    {
+      "entity": "Euvax B",
+      "base_name": "Euvax B",
+      "variant": "",
+      "reg_no": "QLVX-933-16",
+      "reg_year": 2016,
+      "reg_year_verified": false,
+      "doc_id": "euvax_b_qlvx_933_16",
+      "folder_id": "QLVX-933-16",
+      "aliases": [
+        "Euvax B",
+        "euvax b",
+        "euvaxb"
+      ]
+    },
+    {
+      "entity": "Euvax B",
+      "base_name": "Euvax B",
+      "variant": "",
+      "reg_no": "QLVX-934-16",
+      "reg_year": 2016,
+      "reg_year_verified": false,
+      "doc_id": "euvax_b_qlvx_934_16",
+      "folder_id": "QLVX-934-16",
+      "aliases": [
+        "Euvax B",
+        "euvax b",
+        "euvaxb"
+      ]
+    },
+    {
+      "entity": "Td Vaccine",
+      "base_name": "Td Vaccine",
+      "variant": "",
+      "reg_no": "QLVX-943-16",
+      "reg_year": 2016,
+      "reg_year_verified": false,
+      "doc_id": "td_vaccine_qlvx_943_16",
+      "folder_id": "QLVX-943-16",
+      "aliases": [
+        "Td Vaccine",
+        "td vaccine",
+        "tdvaccine"
+      ]
+    },
+    {
+      "entity": "HIBERIX",
+      "base_name": "HIBERIX",
+      "variant": "",
+      "reg_no": "QLVX-988-17",
+      "reg_year": 2017,
+      "reg_year_verified": false,
+      "doc_id": "hiberix_qlvx_988_17",
+      "folder_id": "QLVX-988-17",
+      "aliases": [
+        "HIBERIX",
+        "hiberix"
+      ]
+    },
+    {
+      "entity": "Polysaccharide Meningococcal A+C",
+      "base_name": "Polysaccharide Meningococcal A+C",
+      "variant": "",
+      "reg_no": "QLVX-992-17",
+      "reg_year": 2017,
+      "reg_year_verified": false,
+      "doc_id": "polysaccharide_meningococcal_a_c_qlvx_992_17",
+      "folder_id": "QLVX-992-17",
+      "aliases": [
+        "Polysaccharide Meningococcal A+C",
+        "polysaccharide meningococcal a c",
+        "polysaccharide meningococcal a+c",
+        "polysaccharidemeningococcalac"
+      ]
+    },
+    {
+      "entity": "Tetavax",
+      "base_name": "Tetavax",
+      "variant": "",
+      "reg_no": "QLVX-993-17",
+      "reg_year": 2017,
+      "reg_year_verified": false,
+      "doc_id": "tetavax_qlvx_993_17",
+      "folder_id": "QLVX-993-17",
+      "aliases": [
+        "Tetavax",
+        "tetavax"
+      ]
+    },
+    {
+      "entity": "Shanvac-B",
+      "base_name": "Shanvac-B",
+      "variant": "",
+      "reg_no": "QLVX-994-17",
+      "reg_year": 2017,
+      "reg_year_verified": false,
+      "doc_id": "shanvac_b_qlvx_994_17",
+      "folder_id": "QLVX-994-17",
+      "aliases": [
+        "Shanvac-B",
+        "shanvac b",
+        "shanvac-b",
+        "shanvacb"
+      ]
+    },
+    {
+      "entity": "bOPV",
+      "base_name": "bOPV",
+      "variant": "",
+      "reg_no": "QLVX-H02-1051-17",
+      "reg_year": 2017,
+      "reg_year_verified": false,
+      "doc_id": "bopv_qlvx_h02_1051_17",
+      "folder_id": "QLVX-H02-1051-17",
+      "aliases": [
+        "bOPV",
+        "bopv"
+      ]
+    },
+    {
+      "entity": "Menactra",
+      "base_name": "Menactra",
+      "variant": "",
+      "reg_no": "QLVX-H03-1111-18",
+      "reg_year": 2018,
+      "reg_year_verified": false,
+      "doc_id": "menactra_qlvx_h03_1111_18",
+      "folder_id": "QLVX-H03-1111-18",
+      "aliases": [
+        "Menactra",
+        "menactra"
+      ]
+    },
+    {
+      "entity": "IVACFLU-S",
+      "base_name": "IVACFLU-S",
+      "variant": "",
+      "reg_no": "QLVX-H03-1137-19",
+      "reg_year": 2019,
+      "reg_year_verified": false,
+      "doc_id": "ivacflu_s_qlvx_h03_1137_19",
+      "folder_id": "QLVX-H03-1137-19",
+      "aliases": [
+        "IVACFLU-S",
+        "ivacflu s",
+        "ivacflu-s",
+        "ivacflus"
+      ]
+    },
+    {
+      "entity": "Imojev MD",
+      "base_name": "Imojev MD",
+      "variant": "",
+      "reg_no": "QLVX-H03-1141-19",
+      "reg_year": 2019,
+      "reg_year_verified": false,
+      "doc_id": "imojev_md_qlvx_h03_1141_19",
+      "folder_id": "QLVX-H03-1141-19",
+      "aliases": [
+        "Imojev MD",
+        "imojev md",
+        "imojevmd"
+      ]
+    },
+    {
+      "entity": "Prevenar 13",
+      "base_name": "Prevenar",
+      "variant": "13",
+      "reg_no": "QLVX-H03-1142-19",
+      "reg_year": 2019,
+      "reg_year_verified": false,
+      "doc_id": "prevenar_13_qlvx_h03_1142_19",
+      "folder_id": "QLVX-H03-1142-19",
+      "aliases": [
+        "Prevenar 13",
+        "prevenar 13",
+        "prevenar13"
+      ]
+    }
+  ],
+  "ambiguous_aliases": {
+    "prevenar 13": [
+      "prevenar_13_540310111524",
+      "prevenar_13_qlvx_h03_1142_19"
+    ],
+    "prevenar13": [
+      "prevenar_13_540310111524",
+      "prevenar_13_qlvx_h03_1142_19"
+    ],
+    "heberbiovac hb": [
+      "heberbiovac_hb_850310304224",
+      "heberbiovac_hb_850310304424"
+    ],
+    "heberbiovachb": [
+      "heberbiovac_hb_850310304224",
+      "heberbiovac_hb_850310304424"
+    ],
+    "jeev": [
+      "jeev_890310108324",
+      "jeev_890310108424"
+    ],
+    "m m r ii": [
+      "m_m_r_ii_001310197925",
+      "m_m_r_ii_qlvx_878_15"
+    ],
+    "mmrii": [
+      "m_m_r_ii_001310197925",
+      "m_m_r_ii_qlvx_878_15"
+    ],
+    "euvaxb": [
+      "euvax_b_qlvx_933_16",
+      "euvax_b_qlvx_934_16"
+    ],
+    "euvax b": [
+      "euvax_b_qlvx_933_16",
+      "euvax_b_qlvx_934_16"
+    ]
+  }
+}

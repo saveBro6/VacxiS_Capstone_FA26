@@ -1,0 +1,2065 @@
+{
+  "max_tokens": 512,
+  "mode": "split",
+  "total_chunks": 1735,
+  "oversize_chunks": 342,
+  "token_min": 24,
+  "token_median": 316,
+  "token_max": 1533,
+  "oversize": [
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0000",
+      "header": "Vắc-xin cộng hợp polysaccharide phế cầu khuẩn (15 giá, hấp phụ) | Thành phần hoạt chất:",
+      "tokens": 666,
+      "words": 297
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0017",
+      "header": "Đối tượng trẻ em",
+      "tokens": 594,
+      "words": 395
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0020",
+      "header": "Bảng 1: Bảng liệt kê các phản ứng có hại",
+      "tokens": 853,
+      "words": 477
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0028",
+      "header": "Bảng 2: Tỷ lệ đáp ứng lgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau lịch tiêm cơ bản 2 liều (phác đồ 3 liều, Đề cương 025)",
+      "tokens": 1076,
+      "words": 449
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0030",
+      "header": "Bảng 3: Tỷ lệ đáp ứng IgG đặc hiệu với týp huyết thanh và IgG GMC ở 30 ngày sau liều tiêm nhắc lại (phác đồ 3 liều, Đề cương 025)",
+      "tokens": 1084,
+      "words": 447
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0031",
+      "header": "Bảng 3: Tỷ lệ đáp ứng IgG đặc hiệu với týp huyết thanh và IgG GMC ở 30 ngày sau liều tiêm nhắc lại (phác đồ 3 liều, Đề cương 025)",
+      "tokens": 522,
+      "words": 372
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0032",
+      "header": "Phác đồ 4 liều (lịch tiêm cơ bản 3 liều + 1 liều nhắc lại)",
+      "tokens": 635,
+      "words": 406
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0034",
+      "header": "Bảng 4: Tỷ suất đáp ứng IgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau lịch tiêm 3 liều cơ bản (phác đồ 4 liều, Đề cương 029)",
+      "tokens": 1080,
+      "words": 450
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0035",
+      "header": "Bảng 4: Tỷ suất đáp ứng IgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau lịch tiêm 3 liều cơ bản (phác đồ 4 liều, Đề cương 029)",
+      "tokens": 562,
+      "words": 398
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0036",
+      "header": "Bảng 5: Tỷ suất đáp ứng IgG đặc hiệu với týp huyết thanh và GMC IgG ở 30 ngày sau liều nhắc lại (phác đồ 4 liều, Đề cương 029)",
+      "tokens": 1083,
+      "words": 446
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0043",
+      "header": "Bảng 6: GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau khi tiêm chủng ở người lớn ≥ 50 tuổi chưa từng được tiêm chủng vắc-xin phế cầu (Đề cương 019)",
+      "tokens": 785,
+      "words": 345
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0045",
+      "header": "Bảng 6: GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau khi tiêm chủng ở người lớn ≥ 50 tuổi chưa từng được tiêm chủng vắc-xin phế cầu (Đề cương 019)",
+      "tokens": 604,
+      "words": 433
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0046",
+      "header": "Bảng 7: GMT OPA đặc hiệu týp huyết thanh lúc 30 ngày sau khi tiêm chủng ở người lớn từ 18-49 tuổi chưa từng được tiêm chủng vắc-xin phế cầu có hoặc không có các yếu tố nguy cơ về bệnh phế cầu (Đề cương 017)",
+      "tokens": 944,
+      "words": 397
+    },
+    {
+      "chunk_id": "vaxneuvance_539310049125_c_0054",
+      "header": "Trẻ sơ sinh và trẻ mới biết đi",
+      "tokens": 572,
+      "words": 357
+    },
+    {
+      "chunk_id": "rotarix_540310037023_c_0000",
+      "header": "Thông tin chung | Rotarix™ | 1. THÀNH PHẦN ĐỊNH TÍNH VÀ ĐỊNH LƯỢNG | 2. DẠNG BÀO CHẾ | 3.1. Chỉ định | 3.2. Liều lượng và cách dùng",
+      "tokens": 550,
+      "words": 381
+    },
+    {
+      "chunk_id": "rotarix_540310037023_c_0006",
+      "header": "3.6. Thai kỳ và cho con bú | 3.7. Ảnh hưởng đến khả năng lái xe và vận hành máy móc | 3.8. Tác dụng không mong muốn",
+      "tokens": 570,
+      "words": 426
+    },
+    {
+      "chunk_id": "rotarix_540310037023_c_0011",
+      "header": "Bảng 1: Nghiên cứu ở Châu Âu: Số liệu kết hợp của năm 1 tuổi và 2 tuổi (Rotarix™ $N=2.572$, Placebo $N=1.302$ (§))",
+      "tokens": 551,
+      "words": 283
+    },
+    {
+      "chunk_id": "rotarix_540310037023_c_0014",
+      "header": "Bảng 3: Nghiên cứu ở Châu Phi: Kết quả nghiên cứu tổng hợp ở năm tuổi đầu tiên (Rotarix™ $N=2.974$, Placebo $N=1.443$ (§))",
+      "tokens": 610,
+      "words": 328
+    },
+    {
+      "chunk_id": "rotarix_540310037023_c_0016",
+      "header": "Bảng 4: Nghiên cứu ở Châu Á: Hiệu quả bảo vệ đến năm 2 tuổi và 3 tuổi (Rotarix™ $N=5.263$, Placebo $N=5.256$ (§))",
+      "tokens": 615,
+      "words": 420
+    },
+    {
+      "chunk_id": "rotarix_540310037023_c_0018",
+      "header": "Bảng 5: Hiệu quả của Rotarix phòng viêm dạ dày ruột nặng do rotavirus phải nhập viện:",
+      "tokens": 949,
+      "words": 499
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0004",
+      "header": "4.2 Liều dùng và cách dùng",
+      "tokens": 583,
+      "words": 401
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0007",
+      "header": "4.4 Cảnh báo đặc biệt và thận trọng khi sử dụng",
+      "tokens": 526,
+      "words": 410
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0008",
+      "header": "4.4 Cảnh báo đặc biệt và thận trọng khi sử dụng",
+      "tokens": 576,
+      "words": 415
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0009",
+      "header": "4.4 Cảnh báo đặc biệt và thận trọng khi sử dụng",
+      "tokens": 561,
+      "words": 411
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0011",
+      "header": "4.4 Cảnh báo đặc biệt và thận trọng khi sử dụng",
+      "tokens": 519,
+      "words": 406
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0012",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 586,
+      "words": 399
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0013",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 594,
+      "words": 400
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0014",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 540,
+      "words": 399
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0015",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 553,
+      "words": 405
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0016",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 589,
+      "words": 412
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0018",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 519,
+      "words": 405
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0019",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 513,
+      "words": 394
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0020",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 550,
+      "words": 393
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0021",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 513,
+      "words": 398
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0022",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 521,
+      "words": 399
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0025",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 555,
+      "words": 410
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0026",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 514,
+      "words": 401
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0028",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 526,
+      "words": 410
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0035",
+      "header": "Bảng 2. Tỉ lệ phần trăm các đối tượng có nồng độ kháng thể IgG kháng polysaccharid võ phế cầu khuẩn",
+      "tokens": 808,
+      "words": 378
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0036",
+      "header": "Bảng 2. Tỉ lệ phần trăm các đối tượng có nồng độ kháng thể IgG kháng polysaccharid võ phế cầu khuẩn",
+      "tokens": 584,
+      "words": 421
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0037",
+      "header": "Bảng 2. Tỉ lệ phần trăm các đối tượng có nồng độ kháng thể IgG kháng polysaccharid võ phế cầu khuẩn",
+      "tokens": 600,
+      "words": 426
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0039",
+      "header": "Bảng 2. Tỉ lệ phần trăm các đối tượng có nồng độ kháng thể IgG kháng polysaccharid võ phế cầu khuẩn",
+      "tokens": 566,
+      "words": 256
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0040",
+      "header": "Bảng 2. Tỉ lệ phần trăm các đối tượng có nồng độ kháng thể IgG kháng polysaccharid võ phế cầu khuẩn",
+      "tokens": 560,
+      "words": 410
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0042",
+      "header": "Bảng 4. Nồng độ trung bình nhân của kháng thể IgG polysaccharid kháng võ phế cầu khuẩn $(\\mu g/ml)$ 1",
+      "tokens": 638,
+      "words": 366
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0043",
+      "header": "Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong",
+      "tokens": 997,
+      "words": 425
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0044",
+      "header": "Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong",
+      "tokens": 772,
+      "words": 421
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0046",
+      "header": "Bảng 2. So sánh nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn $(\\mu g/ml)$ cho 7 týp huyết",
+      "tokens": 608,
+      "words": 260
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0049",
+      "header": "Bảng 3. So sánh nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn $(\\mu g/ml)$ cho 6 týp huyết",
+      "tokens": 518,
+      "words": 217
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0052",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 832,
+      "words": 363
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0053",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 561,
+      "words": 403
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0054",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 547,
+      "words": 294
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0055",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 546,
+      "words": 404
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0056",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 580,
+      "words": 417
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0057",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 582,
+      "words": 413
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0058",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 569,
+      "words": 404
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0059",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 589,
+      "words": 424
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0060",
+      "header": "Bảng 4. So sánh hiệu giá trung bình nhân (GMT) của OPA phế cầu khuẩn sau khi tiêm",
+      "tokens": 567,
+      "words": 417
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0063",
+      "header": "Bảng 10. Hiệu giá trung bình nhân (GMT) của OPA ở người lớn chưa tiêm PPSV23 từ 50 đến 59 tuổi",
+      "tokens": 660,
+      "words": 311
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0066",
+      "header": "Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên",
+      "tokens": 670,
+      "words": 330
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0068",
+      "header": "Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên",
+      "tokens": 585,
+      "words": 411
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0069",
+      "header": "Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên",
+      "tokens": 594,
+      "words": 422
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0070",
+      "header": "Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên",
+      "tokens": 568,
+      "words": 406
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0073",
+      "header": "Bảng 12. Hiệu giá trung bình nhân (GMT) của OPA ở người lớn trước đó đã tiêm PPSV23 $\\ge70$ tuổi",
+      "tokens": 594,
+      "words": 421
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0075",
+      "header": "Bảng 13. Tỷ lệ người tham gia từ 50 đến 59 tuổi có mức tăng ≥4 lần trong hiệu giá HAI sau TIV với",
+      "tokens": 673,
+      "words": 334
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0076",
+      "header": "Bảng 15. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và",
+      "tokens": 629,
+      "words": 310
+    },
+    {
+      "chunk_id": "prevenar_13_540310111524_c_0079",
+      "header": "Bảng 16. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và",
+      "tokens": 521,
+      "words": 374
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0005",
+      "header": "4.4 Cảnh báo và thận trọng đặc biệt khi sử dụng",
+      "tokens": 539,
+      "words": 402
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0006",
+      "header": "4.4 Cảnh báo và thận trọng đặc biệt khi sử dụng",
+      "tokens": 568,
+      "words": 401
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0007",
+      "header": "4.4 Cảnh báo và thận trọng đặc biệt khi sử dụng",
+      "tokens": 546,
+      "words": 409
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0008",
+      "header": "4.4 Cảnh báo và thận trọng đặc biệt khi sử dụng",
+      "tokens": 534,
+      "words": 337
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0012",
+      "header": "4.8 Tác dụng không mong muốn",
+      "tokens": 541,
+      "words": 386
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0013",
+      "header": "Bảng 1: Bảng tóm tắt các phản ứng bất lợi phân loại theo hệ cơ quan bị ảnh hưởng",
+      "tokens": 517,
+      "words": 345
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0016",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 688,
+      "words": 316
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0018",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 639,
+      "words": 312
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0028",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 1108,
+      "words": 488
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0029",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 535,
+      "words": 392
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0030",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 816,
+      "words": 378
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0032",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 737,
+      "words": 340
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0036",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 659,
+      "words": 286
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0038",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 519,
+      "words": 218
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0043",
+      "header": "Bảng 11: Hiệu giá rSBA và hSBA sau một liều đơn Nimenrix (hoặc ACWY-PS) ở trẻ em 2-",
+      "tokens": 1063,
+      "words": 481
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0045",
+      "header": "Bảng 11: Hiệu giá rSBA và hSBA sau một liều đơn Nimenrix (hoặc ACWY-PS) ở trẻ em 2-",
+      "tokens": 967,
+      "words": 422
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0050",
+      "header": "Bảng 12: Hiệu giá rSBA* sau một liều đơn Nimenrix (hoặc ACWY-PS) ở trẻ vị thành niên 11-",
+      "tokens": 1012,
+      "words": 451
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0057",
+      "header": "Bảng 15: Hiệu giá rSBA* sau một liều đơn Nimenrix (hoặc ACWY-PS) ở trẻ vị thành niên và",
+      "tokens": 910,
+      "words": 418
+    },
+    {
+      "chunk_id": "nimenrix_540310196925_c_0059",
+      "header": "Bảng 15: Hiệu giá rSBA* sau một liều đơn Nimenrix (hoặc ACWY-PS) ở trẻ vị thành niên và",
+      "tokens": 596,
+      "words": 400
+    },
+    {
+      "chunk_id": "shingrix_540310303224_c_0015",
+      "header": "Bảng 1: Hiệu lực của Shingrix đối với HZ và PHN (mTVC)",
+      "tokens": 759,
+      "words": 370
+    },
+    {
+      "chunk_id": "shingrix_540310303224_c_0019",
+      "header": "Bảng 2: Tính sinh miễn dịch dịch thể của Shingrix ở người lớn $\\ge50$ tuổi tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)",
+      "tokens": 580,
+      "words": 329
+    },
+    {
+      "chunk_id": "shingrix_540310303224_c_0023",
+      "header": "Bảng 4: Tính sinh miễn dịch dịch thể của Shingrix ở người lớn $\\ge18$ tuổi bị suy giảm miễn dịch tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)",
+      "tokens": 639,
+      "words": 347
+    },
+    {
+      "chunk_id": "shingrix_540310303224_c_0024",
+      "header": "Bảng 5: Tính sinh miễn dịch qua trung gian tế bào của Shingrix ở người lớn $\\ge18$ tuổi bị suy giảm miễn dịch tại thời điểm 1 tháng sau liều thứ 2 (đoàn hệ ATP, đánh giá tính sinh miễn dịch)",
+      "tokens": 725,
+      "words": 401
+    },
+    {
+      "chunk_id": "abrysvo_540310322125_c_0019",
+      "header": "Bảng 3. Hiệu quả của vắc xin Abrysvo chống lại bệnh đường hô hấp dưới cần chăm sóc y tế do RSV gây ra ở trẻ nhũ nhi từ khi sinh ra đến 6 tháng tuổi bằng cách tiêm chủng chủ động cho người mẹ lúc mang thai – Nghiên cứu 1",
+      "tokens": 555,
+      "words": 421
+    },
+    {
+      "chunk_id": "abrysvo_540310322125_c_0024",
+      "header": "Chuẩn bị để tiêm",
+      "tokens": 544,
+      "words": 389
+    },
+    {
+      "chunk_id": "arexvy_540310322425_c_0005",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN",
+      "tokens": 523,
+      "words": 320
+    },
+    {
+      "chunk_id": "arexvy_540310322425_c_0008",
+      "header": "ĐẶC TÍNH DƯỢC LÝ",
+      "tokens": 526,
+      "words": 361
+    },
+    {
+      "chunk_id": "arexvy_540310322425_c_0009",
+      "header": "ĐẶC TÍNH DƯỢC LÝ",
+      "tokens": 539,
+      "words": 351
+    },
+    {
+      "chunk_id": "arexvy_540310322425_c_0015",
+      "header": "Bảng 1. Phân tích hiệu lực: Dân số chung mắc bệnh đường hô hấp dưới do RSV gây ra trong",
+      "tokens": 526,
+      "words": 367
+    },
+    {
+      "chunk_id": "arexvy_540310322425_c_0017",
+      "header": "THÔNG TIN PHI LÂM SÀNG",
+      "tokens": 582,
+      "words": 406
+    },
+    {
+      "chunk_id": "adacel_754310306124_c_0001",
+      "header": "THÀNH PHẦN",
+      "tokens": 642,
+      "words": 400
+    },
+    {
+      "chunk_id": "adacel_754310306124_c_0010",
+      "header": "LƯU Ý VÀ THẬN TRỌNG",
+      "tokens": 527,
+      "words": 399
+    },
+    {
+      "chunk_id": "adacel_754310306124_c_0013",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN",
+      "tokens": 524,
+      "words": 403
+    },
+    {
+      "chunk_id": "adacel_754310306124_c_0015",
+      "header": "Bảng 1: Tần suất (%) các phản ứng dự kiến sẽ gặp khi tiêm vắc-xin ghi nhận được trong vòng 0 đến 14 ngày trong các thử nghiệm lâm sàng ở trẻ em, thiếu niên và người lớn, sau khi tiêm một liều ADACEL®",
+      "tokens": 635,
+      "words": 336
+    },
+    {
+      "chunk_id": "adacel_754310306124_c_0017",
+      "header": "Bảng 2: Tần suất gặp (%) của các phản ứng dự kiến sẽ gặp ghi nhận được ở thiếu niên và người lớn khi tiêm ADACEL® liều lặp lại lúc 5 năm và lúc 10 năm sau khi tiêm ADACEL® liều đầu tiên",
+      "tokens": 593,
+      "words": 440
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0011",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN",
+      "tokens": 578,
+      "words": 404
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0013",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN",
+      "tokens": 612,
+      "words": 396
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0018",
+      "header": "Bảng 1. Đáp ứng kháng thể diệt khuẩn trong huyết thanh tại thời điểm 1 tháng sau liều thứ ba Bexsero được tiêm theo liệu trình 2, 3, 4 hoặc 2, 4, 6 tháng tuổi",
+      "tokens": 681,
+      "words": 373
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0019",
+      "header": "Bảng 2. Đáp ứng kháng thể diệt khuẩn trong huyết thanh sau liều nhắc lúc 12 tháng tuổi sau khi tiêm loạt cơ bản theo liệu trình 2, 3 và 4 tháng tuổi hoặc 2, 4 và 6 tháng tuổi, và sự tồn tại của kháng thể diệt khuẩn một năm sau khi tiêm liều nhắc lại",
+      "tokens": 694,
+      "words": 360
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0021",
+      "header": "Bảng 2. Đáp ứng kháng thể diệt khuẩn trong huyết thanh sau liều nhắc lúc 12 tháng tuổi sau khi tiêm loạt cơ bản theo liệu trình 2, 3 và 4 tháng tuổi hoặc 2, 4 và 6 tháng tuổi, và sự tồn tại của kháng thể diệt khuẩn một năm sau khi tiêm liều nhắc lại",
+      "tokens": 522,
+      "words": 409
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0030",
+      "header": "Bảng 5. Đáp ứng kháng thể diệt khuẩn trong huyết thanh ở thanh thiếu niên tại thời điểm một tháng sau khi tiêm một và hai liều Bexsero theo các liệu trình hai liều khác nhau và sự tồn tại của kháng thể diệt khuẩn từ 18 đến 23 tháng sau liều thứ hai",
+      "tokens": 732,
+      "words": 387
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0034",
+      "header": "Bảng 6. Tỷ lệ phần trăm thanh thiếu niên có đáp ứng huyết thanh và hiệu giá diệt khuẩn tăng ít nhất 4 lần tại thời điểm một tháng sau khi tiêm một và hai liều Bexsero theo các liệu trình tiêm hai liều khác nhau - được phân tầng theo hiệu giá trước khi tiêm chủng",
+      "tokens": 742,
+      "words": 363
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0035",
+      "header": "Bảng 6. Tỷ lệ phần trăm thanh thiếu niên có đáp ứng huyết thanh và hiệu giá diệt khuẩn tăng ít nhất 4 lần tại thời điểm một tháng sau khi tiêm một và hai liều Bexsero theo các liệu trình tiêm hai liều khác nhau - được phân tầng theo hiệu giá trước khi tiêm chủng",
+      "tokens": 740,
+      "words": 361
+    },
+    {
+      "chunk_id": "bexsero_800310090123_c_0041",
+      "header": "Bảng 7. Đáp ứng kháng thể diệt khuẩn trong huyết thanh ở người trưởng thành sau khi tiêm hai liều Bexsero theo các liệu trình chủng ngừa hai liều khác nhau",
+      "tokens": 527,
+      "words": 357
+    },
+    {
+      "chunk_id": "va_mengoc_bc_850310110724_c_0002",
+      "header": "Thông tin chung",
+      "tokens": 559,
+      "words": 398
+    },
+    {
+      "chunk_id": "va_mengoc_bc_850310110724_c_0003",
+      "header": "CẢNH BÁO",
+      "tokens": 522,
+      "words": 398
+    },
+    {
+      "chunk_id": "va_mengoc_bc_850310110724_c_0004",
+      "header": "CẢNH BÁO",
+      "tokens": 656,
+      "words": 406
+    },
+    {
+      "chunk_id": "heberbiovac_hb_850310304224_c_0002",
+      "header": "Thông tin chung",
+      "tokens": 514,
+      "words": 359
+    },
+    {
+      "chunk_id": "heberbiovac_hb_850310304224_c_0005",
+      "header": "Thông tin chung",
+      "tokens": 547,
+      "words": 335
+    },
+    {
+      "chunk_id": "heberbiovac_hb_850310304424_c_0005",
+      "header": "Thông tin chung",
+      "tokens": 517,
+      "words": 402
+    },
+    {
+      "chunk_id": "influvac_tetra_870310304024_c_0003",
+      "header": "CÁC ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 520,
+      "words": 208
+    },
+    {
+      "chunk_id": "influvac_tetra_870310304024_c_0008",
+      "header": "CẢNH BÁO VÀ THẬN TRỌNG KHI DÙNG THUỐC",
+      "tokens": 547,
+      "words": 393
+    },
+    {
+      "chunk_id": "skyvaricella_inj_880310033426_c_0004",
+      "header": "1. Các thận trọng chung",
+      "tokens": 550,
+      "words": 368
+    },
+    {
+      "chunk_id": "skyvaricella_inj_880310033426_c_0014",
+      "header": "Rối loạn tiêu hóa: | Nhiễm trùng và nhiễm ký sinh: | Rối loạn chung và tình trạng tại vùng tiêm: | Rối loạn chuyển hóa và dinh dưỡng: | Rối loạn da và mô dưới da:",
+      "tokens": 548,
+      "words": 411
+    },
+    {
+      "chunk_id": "skyvaricella_inj_880310033426_c_0016",
+      "header": "Tính sinh miễn dịch của vắc xin SKYVaricella Inj. từ thử nghiệm lâm sàng:",
+      "tokens": 695,
+      "words": 392
+    },
+    {
+      "chunk_id": "gc_flu_pre_filled_syringe_inj_880310249823_c_0006",
+      "header": "1. Các biến cố quan sát thấy trong vòng 6 ngày sau tiêm",
+      "tokens": 724,
+      "words": 344
+    },
+    {
+      "chunk_id": "gc_flu_pre_filled_syringe_inj_880310249823_c_0007",
+      "header": "2. Biến cố bất lợi nghiêm trọng:",
+      "tokens": 517,
+      "words": 307
+    },
+    {
+      "chunk_id": "barycela_inj_880310322325_c_0002",
+      "header": "Thông tin chung",
+      "tokens": 525,
+      "words": 395
+    },
+    {
+      "chunk_id": "barycela_inj_880310322325_c_0007",
+      "header": "Thông tin chung",
+      "tokens": 625,
+      "words": 403
+    },
+    {
+      "chunk_id": "imojev_885310306024_c_0002",
+      "header": "LIỀU DÙNG VÀ CÁCH DÙNG:",
+      "tokens": 599,
+      "words": 403
+    },
+    {
+      "chunk_id": "imojev_885310306024_c_0008",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN:",
+      "tokens": 568,
+      "words": 392
+    },
+    {
+      "chunk_id": "imojev_885310306024_c_0009",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN:",
+      "tokens": 601,
+      "words": 405
+    },
+    {
+      "chunk_id": "imojev_885310306024_c_0010",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN:",
+      "tokens": 557,
+      "words": 386
+    },
+    {
+      "chunk_id": "imojev_885310306024_c_0013",
+      "header": "ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 578,
+      "words": 410
+    },
+    {
+      "chunk_id": "imojev_885310306024_c_0015",
+      "header": "ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 514,
+      "words": 366
+    },
+    {
+      "chunk_id": "combe_five_890310108224_c_0004",
+      "header": "8. Cảnh báo đặc biệt và thận trọng khi dùng",
+      "tokens": 529,
+      "words": 394
+    },
+    {
+      "chunk_id": "jeev_890310108324_c_0006",
+      "header": "12. Tác dụng không mong muốn",
+      "tokens": 562,
+      "words": 374
+    },
+    {
+      "chunk_id": "jeev_890310108324_c_0008",
+      "header": "Nghiên cứu lâm sàng:",
+      "tokens": 534,
+      "words": 382
+    },
+    {
+      "chunk_id": "jeev_890310108424_c_0006",
+      "header": "12. Tác dụng không mong muốn",
+      "tokens": 562,
+      "words": 375
+    },
+    {
+      "chunk_id": "jeev_890310108424_c_0008",
+      "header": "15. Đặc tính dược lực học:",
+      "tokens": 519,
+      "words": 375
+    },
+    {
+      "chunk_id": "pentavac_890310178100_c_0004",
+      "header": "Cách dùng:",
+      "tokens": 559,
+      "words": 385
+    },
+    {
+      "chunk_id": "pentavac_890310178100_c_0019",
+      "header": "CHỈ THỊ NHIỆT TRÊN LỌ VẮC XIN",
+      "tokens": 524,
+      "words": 343
+    },
+    {
+      "chunk_id": "rotavac_890310196625_c_0008",
+      "header": "11. Tác dụng không mong muốn",
+      "tokens": 531,
+      "words": 390
+    },
+    {
+      "chunk_id": "rotavac_890310196625_c_0009",
+      "header": "11. Tác dụng không mong muốn",
+      "tokens": 545,
+      "words": 404
+    },
+    {
+      "chunk_id": "havax_893310108024_c_0009",
+      "header": "QUÁ LIỀU VÀ CÁCH XỬ TRÍ | ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 892,
+      "words": 451
+    },
+    {
+      "chunk_id": "dpt_vaccine_893310250923_c_0006",
+      "header": "SỬ DỤNG CHO PHỤ NỮ CÓ THAI VÀ CHO CON BÚ | ẢNH HƯỞNG LÊN KHẢ NĂNG LÁI XE, VẬN HÀNH MÁY MÓC | TƯƠNG TÁC, TƯƠNG KỴ CỦA THUỐC",
+      "tokens": 519,
+      "words": 352
+    },
+    {
+      "chunk_id": "dpt_vaccine_893310250923_c_0008",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN CỦA THUỐC",
+      "tokens": 634,
+      "words": 309
+    },
+    {
+      "chunk_id": "dpt_vaccine_893310250923_c_0010",
+      "header": "QUÁ LIỀU VÀ XỬ TRÍ | ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 608,
+      "words": 409
+    },
+    {
+      "chunk_id": "tt_vaccine_893310323125_c_0005",
+      "header": "Liều khuyến cáo đối với phụ nữ có thai và phụ nữ độ tuổi sinh đẻ:",
+      "tokens": 649,
+      "words": 422
+    },
+    {
+      "chunk_id": "tt_vaccine_893310323125_c_0011",
+      "header": "QUÁ LIỀU VÀ XỬ TRÍ | Nhóm dược lý và mã ATC theo WHO:",
+      "tokens": 569,
+      "words": 395
+    },
+    {
+      "chunk_id": "peg_grafeel_qlsp_0636_13_c_0014",
+      "header": "Tương kỵ | Tóm tắt hồ sơ an toàn",
+      "tokens": 568,
+      "words": 410
+    },
+    {
+      "chunk_id": "peg_grafeel_qlsp_0636_13_c_0016",
+      "header": "Bảng tóm tắt tổng hợp các phản ứng bất lợi",
+      "tokens": 666,
+      "words": 365
+    },
+    {
+      "chunk_id": "peg_grafeel_qlsp_0636_13_c_0018",
+      "header": "Mô tả các phản ứng bất lợi chọn lọc",
+      "tokens": 564,
+      "words": 396
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0007",
+      "header": "4.8. Tác dụng không mong muốn",
+      "tokens": 519,
+      "words": 383
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0014",
+      "header": "Bảng 1. Hiệu quả vaccine ngừa CIN2+ và CIN1+ có liên quan đến HPV-16/18",
+      "tokens": 515,
+      "words": 382
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0017",
+      "header": "Bảng 2. Hiệu quả của vaccine ngừa CIN3+, CIN2+ và CIN1+ liên quan đến HPV-16/18- Phân tích đặc hiệu theo đề cương (ATP và TVC-1)",
+      "tokens": 591,
+      "words": 282
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0019",
+      "header": "Bảng 3: Hiệu quả vaccine ngừa CIN3+, CIN2+ và CIN1+ liên quan tới HPV-16/18 - phân định tuýp HPV (ATP và TVC-1)",
+      "tokens": 734,
+      "words": 402
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0020",
+      "header": "Bảng 4: Hiệu quả vaccine ngừa các tổn thương virus học và tế bào học liên quan đến HPV-16/18 (ATP và TVC-1)",
+      "tokens": 671,
+      "words": 328
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0023",
+      "header": "Bảng 5. Hiệu quả của vaccine không xét đến tuýp ADN của HPV trong tổn thương, không xét đến tình trạng huyết thanh ban đầu",
+      "tokens": 720,
+      "words": 348
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0025",
+      "header": "Bảng 6: Hiệu quả của vaccine chống lại các tuýp HPV gây ung thư không có trong vaccine trong nhiễm kéo dài 6 tháng và CIN2+ (đoàn hệ ATP)",
+      "tokens": 1052,
+      "words": 496
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0026",
+      "header": "Bảng 6: Hiệu quả của vaccine chống lại các tuýp HPV gây ung thư không có trong vaccine trong nhiễm kéo dài 6 tháng và CIN2+ (đoàn hệ ATP)",
+      "tokens": 667,
+      "words": 291
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0027",
+      "header": "Bảng 6: Hiệu quả của vaccine chống lại các tuýp HPV gây ung thư không có trong vaccine trong nhiễm kéo dài 6 tháng và CIN2+ (đoàn hệ ATP)",
+      "tokens": 583,
+      "words": 404
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0028",
+      "header": "Bảng 6: Hiệu quả của vaccine chống lại các tuýp HPV gây ung thư không có trong vaccine trong nhiễm kéo dài 6 tháng và CIN2+ (đoàn hệ ATP)",
+      "tokens": 524,
+      "words": 392
+    },
+    {
+      "chunk_id": "cervarixtm_qlvx_0490_12_c_0029",
+      "header": "Bảng 6: Hiệu quả của vaccine chống lại các tuýp HPV gây ung thư không có trong vaccine trong nhiễm kéo dài 6 tháng và CIN2+ (đoàn hệ ATP)",
+      "tokens": 535,
+      "words": 394
+    },
+    {
+      "chunk_id": "vaxigrip_0_5ml_qlvx_0646_13_c_0009",
+      "header": "Tương kỵ | Các chất có thể ảnh hưởng | TÁC DỤNG KHÔNG MONG MUỐN CÓ THỂ GẶP KHI TIÊM VẮC-XIN",
+      "tokens": 633,
+      "words": 438
+    },
+    {
+      "chunk_id": "vaxigrip_0_5ml_qlvx_0646_13_c_0013",
+      "header": "Người lớn và người cao tuổi",
+      "tokens": 567,
+      "words": 279
+    },
+    {
+      "chunk_id": "vaxigrip_0_5ml_qlvx_0646_13_c_0016",
+      "header": "Trẻ em",
+      "tokens": 549,
+      "words": 283
+    },
+    {
+      "chunk_id": "varivax_001310037823_c_0002",
+      "header": "LIỀU LƯỢNG VÀ CÁCH DÙNG",
+      "tokens": 583,
+      "words": 371
+    },
+    {
+      "chunk_id": "varivax_001310037823_c_0005",
+      "header": "CHỐNG CHỈ ĐỊNH",
+      "tokens": 548,
+      "words": 398
+    },
+    {
+      "chunk_id": "varivax_001310037823_c_0009",
+      "header": "TƯƠNG TÁC THUỐC",
+      "tokens": 522,
+      "words": 311
+    },
+    {
+      "chunk_id": "varivax_001310037823_c_0010",
+      "header": "TÁC DỤNG PHỤ",
+      "tokens": 613,
+      "words": 406
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0009",
+      "header": "ẢNH HƯỞNG CỦA VẮC-XIN LÊN KHẢ NĂNG LÁI XE, VẬN HÀNH MÁY MÓC | Sử dụng với các loại vắc-xin khác",
+      "tokens": 712,
+      "words": 449
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0011",
+      "header": "Tóm tắt dữ liệu về tính an toàn",
+      "tokens": 538,
+      "words": 390
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0021",
+      "header": "Bảng 3: So sánh đáp ứng kháng thể diệt khuẩn giữa vắc-xin MenQuadfi và MenACWY-TT 30 ngày sau tiêm vắc-xin não mô cầu trên đối tượng chưa tiêm vắc-xin viêm não mô cầu trước đó hoặc phối hợp (chưa tiêm + đã tiêm MenC) từ 12 đến 23 tháng tuổi (nghiên cứu MET51 *)",
+      "tokens": 1014,
+      "words": 473
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0023",
+      "header": "Đáp ứng trên những đối tượng đã được tiêm vắc-xin cộng hợp MenC trong năm đầu đời:",
+      "tokens": 522,
+      "words": 298
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0026",
+      "header": "Bảng 4: So sánh đáp ứng kháng thể diệt khuẩn 30 ngày sau khi tiêm chủng nhắc lại và tồn tại ở trẻ em (4-5 tuổi) được tiêm MenQuadfi hoặc MenACWY-TT 3 năm trước trong nghiên cứu MET54 * - (nghiên cứu MET62 )",
+      "tokens": 1533,
+      "words": 723
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0029",
+      "header": "Bảng 5: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-CRM 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 2 đến 5 tuổi và từ 6 đến 9 tuổi (nghiên cứu MET35 *)",
+      "tokens": 860,
+      "words": 405
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0033",
+      "header": "Bảng 6: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-CRM 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 10 đến 17 tuổi (nghiên cứu MET50 *)",
+      "tokens": 755,
+      "words": 391
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0035",
+      "header": "Bảng 7: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-DT 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 10 đến 17 tuổi (nghiên cứu MET43 *)",
+      "tokens": 689,
+      "words": 349
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0037",
+      "header": "Bảng 8: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-DT 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 18 đến 55 tuổi (nghiên cứu MET43 *)",
+      "tokens": 733,
+      "words": 377
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0039",
+      "header": "Bảng 9: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY polysaccharide 30 ngày sau tiêm trên các đối tượng chưa tiêm vắc-xin não mô cầu trước đó từ 56 tuổi trở lên (nghiên cứu MET49 *)",
+      "tokens": 734,
+      "words": 380
+    },
+    {
+      "chunk_id": "menquadfi_001310047625_c_0041",
+      "header": "Bảng 10: So sánh đáp ứng kháng thể diệt khuẩn giữa MenQuadfi và MenACWY-DT 30 ngày sau liều tiêm nhắc lại (nghiên cứu MET56 *)",
+      "tokens": 779,
+      "words": 418
+    },
+    {
+      "chunk_id": "varilrix_001310177800_c_0006",
+      "header": "ĐẶC TÍNH LÂM SÀNG",
+      "tokens": 525,
+      "words": 406
+    },
+    {
+      "chunk_id": "varilrix_001310177800_c_0020",
+      "header": "CÁC ĐẶC TÍNH DƯỢC HỌC",
+      "tokens": 546,
+      "words": 387
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0002",
+      "header": "CHỈ ĐỊNH ĐIỀU TRỊ",
+      "tokens": 517,
+      "words": 383
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0004",
+      "header": "LIỀU LƯỢNG VÀ CÁCH DÙNG",
+      "tokens": 515,
+      "words": 382
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0008",
+      "header": "CẢNH BÁO VÀ THẬN TRỌNG ĐẶC BIỆT KHI SỬ DỤNG",
+      "tokens": 514,
+      "words": 401
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0017",
+      "header": "CÁC ĐẶC TÍNH DƯỢC LÝ",
+      "tokens": 528,
+      "words": 376
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0019",
+      "header": "CÁC ĐẶC TÍNH DƯỢC LÝ",
+      "tokens": 622,
+      "words": 452
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0021",
+      "header": "Bảng 2: Phân tích hiệu lực của vắc xin qHPV ở quần thể PPE* (quần thể các đối tượng được phân tích hiệu lực theo đề cương - Per Protocol Efficacy) đối với các týp HPV có trong vắc xin",
+      "tokens": 636,
+      "words": 368
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0022",
+      "header": "Bảng 2: Phân tích hiệu lực của vắc xin qHPV ở quần thể PPE* (quần thể các đối tượng được phân tích hiệu lực theo đề cương - Per Protocol Efficacy) đối với các týp HPV có trong vắc xin",
+      "tokens": 549,
+      "words": 411
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0023",
+      "header": "Bảng 2: Phân tích hiệu lực của vắc xin qHPV ở quần thể PPE* (quần thể các đối tượng được phân tích hiệu lực theo đề cương - Per Protocol Efficacy) đối với các týp HPV có trong vắc xin",
+      "tokens": 513,
+      "words": 399
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0025",
+      "header": "Bảng 2: Phân tích hiệu lực của vắc xin qHPV ở quần thể PPE* (quần thể các đối tượng được phân tích hiệu lực theo đề cương - Per Protocol Efficacy) đối với các týp HPV có trong vắc xin",
+      "tokens": 520,
+      "words": 367
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0029",
+      "header": "Bảng 3: So sánh các đáp ứng miễn dịch (dựa trên cLIA) giữa Gardasil 9 và vắc xin qHPV đối với các týp HPV 6, 11, 16 và 18 ở quần thể PPI* gồm các bé gái từ 9-15 tuổi, phụ nữ và nam giới từ 16-26 tuổi",
+      "tokens": 1052,
+      "words": 485
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0035",
+      "header": "Các đối tượng được theo dõi đến 67 tháng sau khi tiêm liều thứ 3 (thời gian trung vị 43 tháng sau khi tiêm liều thứ 3).",
+      "tokens": 614,
+      "words": 415
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0037",
+      "header": "Bảng 5: Tóm tắt hiệu giá trung bình nhân (GMT) của kháng thể kháng HPV bằng xét nghiệm miễn dịch cạnh tranh Luminex (cLIA) vào tháng thứ 7 ở quần thể PPI*",
+      "tokens": 536,
+      "words": 267
+    },
+    {
+      "chunk_id": "gardasil_9_001310178700_c_0038",
+      "header": "Bảng 5: Tóm tắt hiệu giá trung bình nhân (GMT) của kháng thể kháng HPV bằng xét nghiệm miễn dịch cạnh tranh Luminex (cLIA) vào tháng thứ 7 ở quần thể PPI*",
+      "tokens": 699,
+      "words": 352
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0000",
+      "header": "HƯỚNG DẪN SỬ DỤNG | THÀNH PHẦN CÔNG THỨC THUỐC",
+      "tokens": 538,
+      "words": 277
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0006",
+      "header": "CHỐNG CHỈ ĐỊNH",
+      "tokens": 547,
+      "words": 383
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0017",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN CỦA THUỐC",
+      "tokens": 585,
+      "words": 398
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0021",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN CỦA THUỐC",
+      "tokens": 601,
+      "words": 356
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0022",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN CỦA THUỐC",
+      "tokens": 608,
+      "words": 370
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0026",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN CỦA THUỐC",
+      "tokens": 514,
+      "words": 360
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0029",
+      "header": "CÁC ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 528,
+      "words": 359
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0030",
+      "header": "CÁC ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 560,
+      "words": 387
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0033",
+      "header": "CÁC ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 635,
+      "words": 256
+    },
+    {
+      "chunk_id": "proquad_001310197825_c_0036",
+      "header": "CÁC ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 513,
+      "words": 369
+    },
+    {
+      "chunk_id": "m_m_r_ii_001310197925_c_0003",
+      "header": "CÁCH DÙNG, LIỀU DÙNG",
+      "tokens": 608,
+      "words": 405
+    },
+    {
+      "chunk_id": "m_m_r_ii_001310197925_c_0005",
+      "header": "CÁCH DÙNG, LIỀU DÙNG",
+      "tokens": 531,
+      "words": 405
+    },
+    {
+      "chunk_id": "m_m_r_ii_001310197925_c_0006",
+      "header": "CÁCH DÙNG, LIỀU DÙNG",
+      "tokens": 583,
+      "words": 392
+    },
+    {
+      "chunk_id": "m_m_r_ii_001310197925_c_0010",
+      "header": "CẢNH BÁO VÀ THẬN TRỌNG KHI DÙNG THUỐC",
+      "tokens": 577,
+      "words": 412
+    },
+    {
+      "chunk_id": "m_m_r_ii_001310197925_c_0011",
+      "header": "CÁC THẬN TRỌNG KHÁC",
+      "tokens": 565,
+      "words": 386
+    },
+    {
+      "chunk_id": "m_m_r_ii_001310197925_c_0015",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN CỦA THUỐC",
+      "tokens": 560,
+      "words": 386
+    },
+    {
+      "chunk_id": "m_m_r_ii_001310197925_c_0018",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN CỦA THUỐC",
+      "tokens": 524,
+      "words": 321
+    },
+    {
+      "chunk_id": "pneumovax_23_001310303524_c_0019",
+      "header": "ĐẶC TÍNH DƯỢC LỰC HỌC",
+      "tokens": 550,
+      "words": 407
+    },
+    {
+      "chunk_id": "flumist_001310440525_c_0019",
+      "header": "HƯỚNG DẪN SỬ DỤNG, XỬ LÝ VÀ LOẠI BỎ",
+      "tokens": 619,
+      "words": 406
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0004",
+      "header": "4.3. Chống chỉ định: | 4.4. Cảnh báo và thận trọng khi sử dụng",
+      "tokens": 653,
+      "words": 461
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0005",
+      "header": "4.6. Trường hợp có thai và cho con bú",
+      "tokens": 558,
+      "words": 407
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0008",
+      "header": "4.8. Tác dụng không mong muốn",
+      "tokens": 579,
+      "words": 409
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0010",
+      "header": "4.8. Tác dụng không mong muốn",
+      "tokens": 765,
+      "words": 482
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0012",
+      "header": "4.8. Tác dụng không mong muốn",
+      "tokens": 545,
+      "words": 338
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0014",
+      "header": "4.8. Tác dụng không mong muốn",
+      "tokens": 539,
+      "words": 324
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0016",
+      "header": "4.8. Tác dụng không mong muốn",
+      "tokens": 523,
+      "words": 386
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0019",
+      "header": "5.1. Đặc tính dược lực học",
+      "tokens": 543,
+      "words": 381
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0027",
+      "header": "Bảng 3: Tỷ lệ nhiễm cúm và hiệu lực của VAXIGRIP phòng chống bệnh cúm được xác định qua xét nghiệm ở trẻ em từ 6 đến 35 tháng tuổi",
+      "tokens": 521,
+      "words": 394
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0029",
+      "header": "Bảng 4: Tính sinh miễn dịch ở người lớn từ 18 đến 60 tuổi, 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA",
+      "tokens": 596,
+      "words": 249
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0031",
+      "header": "Bảng 5: Tính sinh miễn dịch ở người cao tuổi trên 60 tuổi, 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA",
+      "tokens": 592,
+      "words": 248
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0033",
+      "header": "Bảng 6: Tính sinh miễn dịch bằng phương pháp HAI ở phụ nữ mang thai, 21 ngày sau khi tiêm vắc-xin VAXIGRIP hoặc VAXIGRIP TETRA",
+      "tokens": 881,
+      "words": 406
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0034",
+      "header": "Bảng 7: Đánh giá mô tả tính sinh miễn dịch bằng phương pháp HAI của VAXIGRIP hoặc VAXIGRIP TETRA khi sinh",
+      "tokens": 526,
+      "words": 226
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0037",
+      "header": "Bảng 8: Tính sinh miễn dịch ở trẻ em từ 3 đến 8 tuổi, 28 ngày sau lần tiêm cuối cùng",
+      "tokens": 585,
+      "words": 250
+    },
+    {
+      "chunk_id": "vaxigrip_300310033526_c_0039",
+      "header": "Bảng 9: Tính sinh miễn dịch ở trẻ em từ 6 tháng đến 35 tháng tuổi, 28 ngày sau lần tiêm cuối cùng",
+      "tokens": 639,
+      "words": 281
+    },
+    {
+      "chunk_id": "boostrix_300310036923_c_0005",
+      "header": "4.4. Cảnh báo và Thận trọng đặc biệt",
+      "tokens": 524,
+      "words": 396
+    },
+    {
+      "chunk_id": "boostrix_300310036923_c_0010",
+      "header": "4.8. Tác dụng không mong muốn",
+      "tokens": 543,
+      "words": 387
+    },
+    {
+      "chunk_id": "hexaxim_300310038123_c_0000",
+      "header": "Thông tin chung | THÀNH PHẦN",
+      "tokens": 529,
+      "words": 259
+    },
+    {
+      "chunk_id": "hexaxim_300310038123_c_0002",
+      "header": "Bảng 1: Tỉ lệ huyết thanh bảo vệ/ chuyển đổi huyết thanh* một tháng sau tiêm chủng cơ bản với 2 hoặc 3 liều Hexaxim",
+      "tokens": 677,
+      "words": 257
+    },
+    {
+      "chunk_id": "hexaxim_300310038123_c_0004",
+      "header": "Bảng 2: Tỉ lệ huyết thanh bảo vệ/ chuyển đổi huyết thanh* một tháng sau tiêm nhắc lại với Hexaxim",
+      "tokens": 721,
+      "words": 301
+    },
+    {
+      "chunk_id": "hexaxim_300310038123_c_0005",
+      "header": "Bảng 2: Tỉ lệ huyết thanh bảo vệ/ chuyển đổi huyết thanh* một tháng sau tiêm nhắc lại với Hexaxim",
+      "tokens": 539,
+      "words": 355
+    },
+    {
+      "chunk_id": "hexaxim_300310038123_c_0012",
+      "header": "LIỀU DÙNG",
+      "tokens": 607,
+      "words": 371
+    },
+    {
+      "chunk_id": "hexaxim_300310038123_c_0019",
+      "header": "CHỐNG CHỈ ĐỊNH",
+      "tokens": 532,
+      "words": 399
+    },
+    {
+      "chunk_id": "hexaxim_300310038123_c_0020",
+      "header": "CHỐNG CHỈ ĐỊNH",
+      "tokens": 541,
+      "words": 384
+    },
+    {
+      "chunk_id": "hexaxim_300310038123_c_0023",
+      "header": "Bảng 1: Các phản ứng bất lợi trong thử nghiệm lâm sàng và được báo cáo khi sử dụng trong thương mại",
+      "tokens": 547,
+      "words": 408
+    },
+    {
+      "chunk_id": "pentaxim_300310250623_c_0001",
+      "header": "THÀNH PHẦN:",
+      "tokens": 584,
+      "words": 318
+    },
+    {
+      "chunk_id": "pentaxim_300310250623_c_0003",
+      "header": "DƯỢC LỰC HỌC",
+      "tokens": 613,
+      "words": 384
+    },
+    {
+      "chunk_id": "pentaxim_300310250623_c_0008",
+      "header": "THẬN TRỌNG KHI DÙNG PENTAXIM:",
+      "tokens": 516,
+      "words": 386
+    },
+    {
+      "chunk_id": "pentaxim_300310250623_c_0009",
+      "header": "THẬN TRỌNG KHI DÙNG PENTAXIM:",
+      "tokens": 528,
+      "words": 371
+    },
+    {
+      "chunk_id": "pentaxim_300310250623_c_0012",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN:",
+      "tokens": 521,
+      "words": 387
+    },
+    {
+      "chunk_id": "avaxim_80_u_pediatric_300310250723_c_0005",
+      "header": "CẢNH BÁO VÀ THẬN TRỌNG ĐẶC BIỆT",
+      "tokens": 527,
+      "words": 402
+    },
+    {
+      "chunk_id": "avaxim_80_u_pediatric_300310250723_c_0007",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN",
+      "tokens": 539,
+      "words": 410
+    },
+    {
+      "chunk_id": "verorab_300310305824_c_0009",
+      "header": "Bảng 3: Lịch tiêm khuyến cáo đối với liều cơ bản và tiêm nhắc (áp dụng khi dùng đường tiêm bắp)",
+      "tokens": 586,
+      "words": 409
+    },
+    {
+      "chunk_id": "verorab_300310305824_c_0014",
+      "header": "THẬN TRỌNG ĐẶC BIỆT KHI DÙNG VERORAB",
+      "tokens": 528,
+      "words": 380
+    },
+    {
+      "chunk_id": "verorab_300310305824_c_0015",
+      "header": "THẬN TRỌNG ĐẶC BIỆT KHI DÙNG VERORAB",
+      "tokens": 527,
+      "words": 362
+    },
+    {
+      "chunk_id": "vaxigrip_tetra_300310305924_c_0015",
+      "header": "TÁC DỤNG KHÔNG MONG MUỐN:",
+      "tokens": 538,
+      "words": 399
+    },
+    {
+      "chunk_id": "vaxigrip_tetra_300310305924_c_0025",
+      "header": "Bảng 3: Kết quả tính sinh miễn dịch ở trẻ từ 6 tháng đến 8 tuổi",
+      "tokens": 726,
+      "words": 366
+    },
+    {
+      "chunk_id": "typhim_vi_300310647324_c_0003",
+      "header": "CÁCH DÙNG VÀ ĐƯỜNG DÙNG | CHỐNG CHỈ ĐỊNH",
+      "tokens": 628,
+      "words": 433
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0003",
+      "header": "3.4 Cảnh báo và thận trọng đặc biệt khi sử dụng",
+      "tokens": 536,
+      "words": 413
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0006",
+      "header": "3.8 Tác dụng không mong muốn",
+      "tokens": 551,
+      "words": 407
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0007",
+      "header": "Bảng 1: Phản ứng bất lợi từ các nghiên cứu lâm sàng (từ 4-60 tuổi)",
+      "tokens": 536,
+      "words": 268
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0016",
+      "header": "Bảng 3: Hiệu quả của vắc-xin trong phòng ngừa nhập viện do sốt xuất huyết đã được xác nhận về mặt virus học, sốt xuất huyết đã được xác nhận về mặt virus học theo tuýp huyết thanh của virus Dengue, sốt xuất huyết đã được xác nhận về mặt virus học theo tình trạng huyết thanh của virus Dengue ban đầu và các dạng sốt xuất huyết nặng từ 30 ngày đến 18 tháng sau khi tiêm chủng lần thứ hai trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu)",
+      "tokens": 880,
+      "words": 543
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0018",
+      "header": "Bảng 4: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học và nhập viện về tổng thể, theo tình trạng huyết thanh của virus Dengue ban đầu và chống lại các tuýp huyết thanh riêng lẻ theo tình trạng huyết thanh ban đầu từ liều đầu tiên đến 54 tháng sau liều thứ 2 trong nghiên cứu DEN-301 (Nhóm phân tích về an toàn)ᵃ",
+      "tokens": 871,
+      "words": 408
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0019",
+      "header": "Bảng 4: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học và nhập viện về tổng thể, theo tình trạng huyết thanh của virus Dengue ban đầu và chống lại các tuýp huyết thanh riêng lẻ theo tình trạng huyết thanh ban đầu từ liều đầu tiên đến 54 tháng sau liều thứ 2 trong nghiên cứu DEN-301 (Nhóm phân tích về an toàn)ᵃ",
+      "tokens": 536,
+      "words": 384
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0021",
+      "header": "Bảng 5: Hiệu quả của vắc-xin trong phòng ngừa sốt xuất huyết đã được xác nhận về mặt virus học và nhập viện về tổng thể và theo tình trạng huyết thanh của virus Dengue ban đầu trong khoảng thời gian hàng năm lúc 30 ngày sau liều thứ 2 trong nghiên cứu DEN-301 (Nhóm phân tích theo đề cương nghiên cứu)",
+      "tokens": 721,
+      "words": 384
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0025",
+      "header": "Bảng 7: Hiệu giá trung bình hình học (GMT) của các kháng thể trung hòa virus Dengue trong nghiên cứu DEN-304 (Nhóm phân tích theo đề cương nghiên cứu)",
+      "tokens": 724,
+      "words": 431
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0030",
+      "header": "5.6 Thận trọng đặc biệt khi hủy bỏ và xử lý khác",
+      "tokens": 573,
+      "words": 384
+    },
+    {
+      "chunk_id": "qdenga_400310303924_c_0032",
+      "header": "5.6 Thận trọng đặc biệt khi hủy bỏ và xử lý khác",
+      "tokens": 566,
+      "words": 387
+    },
+    {
+      "chunk_id": "envacgen_471310033726_c_0003",
+      "header": "8. Cảnh báo và thận trọng khi dùng thuốc",
+      "tokens": 557,
+      "words": 394
+    },
+    {
+      "chunk_id": "envacgen_471310033726_c_0007",
+      "header": "12. Tác dụng không mong muốn của thuốc",
+      "tokens": 549,
+      "words": 253
+    },
+    {
+      "chunk_id": "envacgen_471310033726_c_0010",
+      "header": "14. Đặc tính dược lực học",
+      "tokens": 530,
+      "words": 392
+    },
+    {
+      "chunk_id": "envacgen_471310033726_c_0021",
+      "header": "14. Đặc tính dược lực học",
+      "tokens": 642,
+      "words": 319
+    },
+    {
+      "chunk_id": "envacgen_471310033726_c_0023",
+      "header": "14. Đặc tính dược lực học",
+      "tokens": 645,
+      "words": 319
+    },
+    {
+      "chunk_id": "envacgen_471310033726_c_0025",
+      "header": "14. Đặc tính dược lực học",
+      "tokens": 517,
+      "words": 261
+    },
+    {
+      "chunk_id": "envacgen_471310033726_c_0027",
+      "header": "14. Đặc tính dược lực học",
+      "tokens": 652,
+      "words": 335
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0001",
+      "header": "2. THÀNH PHẦN CÔNG THỨC",
+      "tokens": 695,
+      "words": 357
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0003",
+      "header": "5. LIỀU DÙNG VÀ CÁCH DÙNG",
+      "tokens": 560,
+      "words": 404
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0012",
+      "header": "11. TÁC DỤNG KHÔNG MONG MUỐN",
+      "tokens": 537,
+      "words": 401
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0021",
+      "header": "Bảng 3. GMT OPA 1 tháng sau khi tiêm vắc xin ở những người tham gia từ 60 tuổi trở lên được tiêm Prevenar 20 so với Prevenar 13 cho 13 tuýp huyết thanh phù hợp và PPSV23 cho 7 tuýp huyết thanh bổ sung (Nghiên cứu 1007) a,b,c,d,e",
+      "tokens": 781,
+      "words": 390
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0022",
+      "header": "Bảng 3. GMT OPA 1 tháng sau khi tiêm vắc xin ở những người tham gia từ 60 tuổi trở lên được tiêm Prevenar 20 so với Prevenar 13 cho 13 tuýp huyết thanh phù hợp và PPSV23 cho 7 tuýp huyết thanh bổ sung (Nghiên cứu 1007) a,b,c,d,e",
+      "tokens": 558,
+      "words": 417
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0024",
+      "header": "Bảng 4. So sánh GMT OPA 1 tháng sau khi tiêm Prevenar 20 ở người tham gia từ 18 đến 49 tuổi hoặc từ 50 đến 59 tuổi với người tham gia từ 60 đến 64 tuổi (Nghiên cứu 1007) a,b,c,d,e",
+      "tokens": 936,
+      "words": 447
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0029",
+      "header": "Bảng 5. GMT OPA phế cầu khuẩn trước khi tiêm và 1 tháng sau khi tiêm Prevenar 20 ở những người tham gia từ 65 tuổi trở lên trước đó đã tiêm vắc xin phế cầu khuẩn (Nghiên cứu 1006) a,b,c,d,e",
+      "tokens": 535,
+      "words": 295
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0030",
+      "header": "Bảng 5. (tiếp theo)",
+      "tokens": 1185,
+      "words": 583
+    },
+    {
+      "chunk_id": "prevenar_20_539310047525_c_0032",
+      "header": "Bảng 5. (tiếp theo)",
+      "tokens": 592,
+      "words": 410
+    },
+    {
+      "chunk_id": "rabipur_qlvx_1048_17_c_0009",
+      "header": "Điều trị sau phơi nhiễm",
+      "tokens": 602,
+      "words": 407
+    },
+    {
+      "chunk_id": "infanrix_ipv_hib_qlvx_1138_19_c_0005",
+      "header": "Page 6",
+      "tokens": 565,
+      "words": 404
+    },
+    {
+      "chunk_id": "infanrix_ipv_hib_qlvx_1138_19_c_0012",
+      "header": "Page 9",
+      "tokens": 738,
+      "words": 345
+    },
+    {
+      "chunk_id": "infanrix_ipv_hib_qlvx_1138_19_c_0013",
+      "header": "Tỷ lệ phần trăm trẻ có hiệu giá kháng thể $\\ge$ giá trị ngưỡng sau tiêm nhắc lại bằng Infanrix-IPV+Hib",
+      "tokens": 717,
+      "words": 371
+    },
+    {
+      "chunk_id": "m_m_r_ii_qlvx_878_15_c_0003",
+      "header": "LIỀU LƯỢNG VÀ CÁCH DÙNG | Page 7",
+      "tokens": 625,
+      "words": 414
+    },
+    {
+      "chunk_id": "m_m_r_ii_qlvx_878_15_c_0004",
+      "header": "Page 8",
+      "tokens": 534,
+      "words": 408
+    },
+    {
+      "chunk_id": "m_m_r_ii_qlvx_878_15_c_0019",
+      "header": "Page 16",
+      "tokens": 540,
+      "words": 408
+    },
+    {
+      "chunk_id": "m_m_r_ii_qlvx_878_15_c_0025",
+      "header": "ĐẶC TÍNH DƯỢC ĐỘNG HỌC | QUI CÁCH ĐÓNG GÓI | Page 20 | BẢO QUẢN",
+      "tokens": 543,
+      "words": 252
+    },
+    {
+      "chunk_id": "gardasil_qlvx_883_15_c_0017",
+      "header": "Bảng 1: Các biến cố bất lợi sau khi sử dụng Gardasil từ các thử nghiệm lâm sàng và theo dõi hậu mãi",
+      "tokens": 619,
+      "words": 403
+    },
+    {
+      "chunk_id": "gardasil_qlvx_883_15_c_0024",
+      "header": "Hiệu quả dự phòng HPV týp 6, 11, 16, và 18 ở thiếu nữ và phụ nữ tuổi từ 16-26",
+      "tokens": 541,
+      "words": 373
+    },
+    {
+      "chunk_id": "gardasil_qlvx_883_15_c_0025",
+      "header": "Hiệu quả dự phòng HPV týp 6, 11, 16, và 18 ở thiếu nữ và phụ nữ tuổi từ 16-26",
+      "tokens": 649,
+      "words": 409
+    },
+    {
+      "chunk_id": "gardasil_qlvx_883_15_c_0026",
+      "header": "Hiệu quả dự phòng HPV týp 6, 11, 16, và 18 ở thiếu nữ và phụ nữ tuổi từ 16-26",
+      "tokens": 589,
+      "words": 399
+    },
+    {
+      "chunk_id": "gardasil_qlvx_883_15_c_0036",
+      "header": "Hình 1: Đáp ứng kháng thể kháng HPV tồn tại lâu dài sau khi tiêm 3 liều GARDASIL",
+      "tokens": 549,
+      "words": 391
+    },
+    {
+      "chunk_id": "td_vaccine_qlvx_943_16_c_0005",
+      "header": "SỬ DỤNG CHO PHỤ NỮ CÓ THAI VÀ CHO CON BÚ | ẢNH HƯỞNG LÊN KHẢ NĂNG LÁI XE, VẬN HÀNH MÁY MÓC | TƯƠNG TÁC, TƯƠNG KỴ CỦA THUỐC",
+      "tokens": 637,
+      "words": 433
+    },
+    {
+      "chunk_id": "td_vaccine_qlvx_943_16_c_0007",
+      "header": "QUÁ LIỀU VÀ XỬ TRÍ | Nhóm dược lý và mã ATC theo WHO:",
+      "tokens": 567,
+      "words": 413
+    },
+    {
+      "chunk_id": "hiberix_qlvx_988_17_c_0008",
+      "header": "Page 10",
+      "tokens": 714,
+      "words": 346
+    },
+    {
+      "chunk_id": "hiberix_qlvx_988_17_c_0010",
+      "header": "Page 11",
+      "tokens": 582,
+      "words": 311
+    },
+    {
+      "chunk_id": "hiberix_qlvx_988_17_c_0011",
+      "header": "Page 12",
+      "tokens": 516,
+      "words": 361
+    },
+    {
+      "chunk_id": "tetavax_qlvx_993_17_c_0004",
+      "header": "Liều dùng:",
+      "tokens": 574,
+      "words": 320
+    },
+    {
+      "chunk_id": "tetavax_qlvx_993_17_c_0009",
+      "header": "Người nhiễm virus gây suy giảm miễn dịch mắc phải ở người (HIV): | Lái xe và vận hành máy móc | Tá dược có thể gây tác dụng không mong muốn | Quá liều | Page 7 | TÁC DỤNG KHÔNG MONG MUỐN | Các tác dụng không mong muốn được báo cáo:",
+      "tokens": 547,
+      "words": 388
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0009",
+      "header": "TƯƠNG TÁC, TƯƠNG KỴ CỦA VẮC-XIN",
+      "tokens": 602,
+      "words": 364
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0011",
+      "header": "PAGE 9",
+      "tokens": 571,
+      "words": 356
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0012",
+      "header": "PAGE 9",
+      "tokens": 624,
+      "words": 329
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0016",
+      "header": "Bảng 1: Báo cáo các phản ứng bất lợi trong dự kiến trong vòng 7 ngày sau tiêm chủng sau khi sử dụng vắc-xin ở thời điểm 9 tháng và 12 tháng",
+      "tokens": 1318,
+      "words": 675
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0019",
+      "header": "Bảng 2: Tỷ lệ phần trăm đối tượng tham gia ở Hoa Kỳ từ 2 đến 10 tuổi báo cáo các phản ứng bất lợi trong dự kiến ghi nhận trong vòng 7 ngày sau tiêm chủng",
+      "tokens": 768,
+      "words": 413
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0021",
+      "header": "Bảng 3: Tỷ lệ phần trăm đối tượng tham gia từ 11 đến 18 tuổi báo cáo các phản ứng bất lợi trong dự kiến được ghi nhận trong vòng 7 ngày sau tiêm một liều vắc-xin.",
+      "tokens": 794,
+      "words": 410
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0023",
+      "header": "Bảng 4: Tỷ lệ phần trăm đối tượng tham gia từ 18 đến 55 tuổi báo cáo các phản ứng bất lợi trong dự kiến được ghi nhận trong vòng 7 ngày sau tiêm một liều vắc-xin.",
+      "tokens": 802,
+      "words": 410
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0025",
+      "header": "PAGE 15",
+      "tokens": 590,
+      "words": 375
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0027",
+      "header": "PAGE 16",
+      "tokens": 683,
+      "words": 397
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0030",
+      "header": "PAGE 18",
+      "tokens": 600,
+      "words": 387
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0031",
+      "header": "PAGE 18",
+      "tokens": 634,
+      "words": 345
+    },
+    {
+      "chunk_id": "menactra_qlvx_h03_1111_18_c_0032",
+      "header": "PAGE 19",
+      "tokens": 709,
+      "words": 398
+    },
+    {
+      "chunk_id": "imojev_md_qlvx_h03_1141_19_c_0013",
+      "header": "Rối loạn da và mô dưới da: | Viêm nhiễm: | Dữ liệu ở quần thể trẻ em | Page 10",
+      "tokens": 525,
+      "words": 366
+    },
+    {
+      "chunk_id": "imojev_md_qlvx_h03_1141_19_c_0019",
+      "header": "Dữ liệu về tính sinh miễn dịch ở quần thể trẻ em",
+      "tokens": 521,
+      "words": 378
+    },
+    {
+      "chunk_id": "imojev_md_qlvx_h03_1141_19_c_0024",
+      "header": "TIÊU CHUẨN CHẤT LƯỢNG: | TÊN VÀ ĐỊA CHỈ NHÀ SẢN XUẤT/CÔNG TY SỞ HỮU GIẤY PHÉP LƯU HÀNH TRÊN THỊ TRƯỜNG",
+      "tokens": 574,
+      "words": 333
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0004",
+      "header": "4.2 Liều dùng và cách dùng",
+      "tokens": 544,
+      "words": 391
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0015",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 546,
+      "words": 411
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0016",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 565,
+      "words": 392
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0018",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 529,
+      "words": 401
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0019",
+      "header": "4.8 Các tác dụng không mong muốn",
+      "tokens": 573,
+      "words": 399
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0025",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 567,
+      "words": 429
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0028",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 520,
+      "words": 402
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0030",
+      "header": "5.1 Đặc tính dược lực học",
+      "tokens": 518,
+      "words": 405
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0038",
+      "header": "Bảng 1. Khả năng tử vong và Tính kháng các Týp huyết thanh Chọn lọc ở Người lớn",
+      "tokens": 550,
+      "words": 384
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0039",
+      "header": "Bảng 2. Tỉ lệ phần trăm các đối tượng có nồng độ kháng thể IgG kháng polysaccharid vỏ phế cầu khuẩn ≥ 0,35 µg/ml 1 tháng sau đợt tiêm chủng dành cho trẻ sơ sinh",
+      "tokens": 834,
+      "words": 387
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0043",
+      "header": "Bảng 3. Nồng độ trung bình nhân của kháng thể IgG kháng polysaccharid vỏ phế cầu khuẩn (µg/ml) 1 tháng sau khi tiêm chủng",
+      "tokens": 586,
+      "words": 265
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0044",
+      "header": "Bảng 3. Nồng độ trung bình nhân của kháng thể IgG kháng polysaccharid vỏ phế cầu khuẩn (µg/ml) 1 tháng sau khi tiêm chủng",
+      "tokens": 568,
+      "words": 420
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0046",
+      "header": "Bảng 4. Nồng độ trung bình nhân của kháng thể IgG polysaccharid kháng vỏ phế cầu khuẩn (µg/ml) 1 tháng sau khi tiêm chủng (trong Nghiên cứu 6096A1-3002)",
+      "tokens": 643,
+      "words": 382
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0047",
+      "header": "Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 6096A1-3008)",
+      "tokens": 894,
+      "words": 401
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0050",
+      "header": "Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 6096A1-3008)",
+      "tokens": 590,
+      "words": 266
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0052",
+      "header": "Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 6096A1-3008)",
+      "tokens": 527,
+      "words": 230
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0053",
+      "header": "Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 6096A1-3008)",
+      "tokens": 533,
+      "words": 336
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0054",
+      "header": "Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 6096A1-3008)",
+      "tokens": 859,
+      "words": 376
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0055",
+      "header": "Bảng 5. Đối tượng đạt mức độ kháng thể định trước đối với kháng nguyên vắc xin dùng đồng thời (trong Nghiên cứu 6096A1-004, Nghiên cứu 6096A1-3005 và Nghiên cứu 6096A1-3008)",
+      "tokens": 556,
+      "words": 407
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0056",
+      "header": "Bảng 9: Mức giảm số ca và tỷ lệ mắc IPD theo từng týp huyết thanh trong 2013/14 so với 2008/09-2009/10 (2008/10) theo tuổi ở Anh và xứ Wales",
+      "tokens": 568,
+      "words": 304
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0060",
+      "header": "Bảng 9: Mức giảm số ca và tỷ lệ mắc IPD theo từng týp huyết thanh trong 2013/14 so với 2008/09-2009/10 (2008/10) theo tuổi ở Anh và xứ Wales",
+      "tokens": 525,
+      "words": 389
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0061",
+      "header": "Bảng 9: Mức giảm số ca và tỷ lệ mắc IPD theo từng týp huyết thanh trong 2013/14 so với 2008/09-2009/10 (2008/10) theo tuổi ở Anh và xứ Wales",
+      "tokens": 609,
+      "words": 433
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0064",
+      "header": "Bảng 9: Mức giảm số ca và tỷ lệ mắc IPD theo từng týp huyết thanh trong 2013/14 so với 2008/09-2009/10 (2008/10) theo tuổi ở Anh và xứ Wales",
+      "tokens": 550,
+      "words": 426
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0065",
+      "header": "Bảng 10. Hiệu giá trung bình nhân (GMT) của OPA ở người lớn chưa tiêm PPSV23 từ 50 đến 59 tuổi được tiêm Prevenar 13; và ở người lớn từ 60 đến 64 tuổi được tiêm Prevenar 13 hoặc PPSV23 (trong Nghiên cứu 6115A1-004)ᵃ,ᵇ",
+      "tokens": 686,
+      "words": 331
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0067",
+      "header": "Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên cứu 6115A1-004) với Prevenar 13ᵃ,ᵇ",
+      "tokens": 669,
+      "words": 326
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0069",
+      "header": "Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên cứu 6115A1-004) với Prevenar 13ᵃ,ᵇ",
+      "tokens": 538,
+      "words": 393
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0070",
+      "header": "Bảng 11. GMT của OPA ở người lớn từ 18 đến 49 tuổi và người lớn từ 60 đến 64 tuổi (trong Nghiên cứu 6115A1-004) với Prevenar 13ᵃ,ᵇ",
+      "tokens": 587,
+      "words": 414
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0074",
+      "header": "Bảng 12. Hiệu giá trung bình nhân (GMT) của OPA ở người lớn trước đó đã tiêm PPSV23 ≥70 tuổi (trong Nghiên cứu 6115A1-3005) được cho dùng Prevenar 13 hoặc PPSV23ᵃ,ᵇ",
+      "tokens": 593,
+      "words": 418
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0078",
+      "header": "Bảng 15. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và 1 tháng sau Prevenar 13 (Cho dùng 1 tháng sau giả dược và TIV) cho người tham gia từ 50 đến 59 tuổi (trong Nghiên cứu 6115A1-3001)ᵃ,ᵇ",
+      "tokens": 629,
+      "words": 314
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0079",
+      "header": "Bảng 16. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và 1 tháng sau Prevenar 13 (Cho dùng 1 tháng sau giả dược và TIV) cho người tham gia ≥65 tuổi (trong Nghiên cứu 6115A1-3008)ᵃ,ᵇ",
+      "tokens": 534,
+      "words": 238
+    },
+    {
+      "chunk_id": "prevenar_13_qlvx_h03_1142_19_c_0080",
+      "header": "Bảng 16. Nồng độ trung bình nhân (GMC) của IgG phế cầu khuẩn 1 tháng sau Prevenar 13 và TIV; và 1 tháng sau Prevenar 13 (Cho dùng 1 tháng sau giả dược và TIV) cho người tham gia ≥65 tuổi (trong Nghiên cứu 6115A1-3008)ᵃ,ᵇ",
+      "tokens": 578,
+      "words": 404
+    }
+  ],
+  "after_split_chunks": 2132,
+  "after_split_oversize": 0
+}
