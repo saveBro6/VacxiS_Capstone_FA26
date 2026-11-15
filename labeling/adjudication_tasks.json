@@ -1,0 +1,248 @@
+[
+  {
+    "task_id": "VAC_AMB_059",
+    "query": "Tôi sắp tiêm Polysaccharide Meningococcal A+C, cần biết gì?",
+    "adjudication": true,
+    "references": {
+      "llm": "Khi tiêm vắc-xin Polysaccharide Meningococcal A+C, bạn cần lưu ý các thông tin sau:\n- **Chống chỉ định:** Không dùng nếu bị dị ứng với thành phần vắc-xin hoặc từng phản ứng nghiêm trọng với vắc-xin này. Hoãn tiêm nếu đang sốt cao hoặc bệnh cấp tính.\n- **Cách dùng:** Tiêm bắp hoặc tiêm dưới da (vùng đùi với trẻ <12 tháng, vùng cơ Delta với người lớn). Không tiêm vào mạch máu hoặc tiêm trong da. Cần để vắc-xin ở nhiệt độ phòng vài phút trước khi tiêm.\n- **Liều lượng:** Một liều duy nhất 0,5ml cho người lớn và trẻ em từ 2 tuổi trở lên. Có thể cần tiêm nhắc lại mỗi 3 năm tùy theo nguy cơ phơi nhiễm.\n- **Tương tác:** Có thể tiêm cùng lúc với các vắc-xin khác nhưng phải dùng bơm kim tiêm và vị trí tiêm khác nhau; không được trộn lẫn vắc-xin với các dược phẩm khác.\n- **Lưu ý đặc biệt:** Vắc-xin không bảo vệ khỏi Não mô cầu nhóm B hoặc các vi khuẩn khác. Đối với phụ nữ có thai, chưa xác định rõ tính an toàn nhưng không chống chỉ định sau 3 tháng đầu nếu có nguy cơ cao. Có thể gặp các tác dụng phụ như đau tại chỗ tiêm, sốt, đau đầu hoặc hiếm gặp là co giật.",
+      "human": "",
+      "human2": ""
+    },
+    "candidates": [
+      {
+        "key": "c1",
+        "text": "[CHỦ ĐỀ: polysaccharide] > [MỤC: MEDICINE INTERACTIONS | DOSAGE AND HOW TO USE]\n* Please inform your doctor or pharmacist if you are taking or have recently taken any other medicines, even if they were not prescribed.\n* Vaccine may be administered with other vaccines (hepatitis A, hepatitis B, yellow fever, diphtheria, tetanus, poliomyelitis, rabies, meningitis A + C) during the same vaccination session.\n\n* A single injection of 0.5ml ensures protection.\n* Revaccination should be performed every 3 years if the risk of exposure continues.\n* The vaccination schedule is the same for children and for adults.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c2",
+        "text": "[CHỦ ĐỀ: Polysaccharide Meningococcal A+C] > [MỤC: CHỐNG CHỈ ĐỊNH | CÁC CẢNH BÁO VÀ TRƯỜNG HỢP THẬN TRỌNG KHI DÙNG THUỐC]\nKhông được dùng POLYSACCHARIDE MENINGOCOCCAL A+C VACCINE nếu:\n- Bị dị ứng với bất kỳ một thành phần nào của vắc-xin,\n- Trước đây đã từng bị phản ứng nghiêm trọng khi tiêm vắc-xin này.\n\nTrường hợp bị sốt cao hoặc bị bệnh cấp tính: nên hoãn tiêm vắc-xin.  \nKhông được tiêm vào mạch máu: phải chắc chắn rằng kim tiêm không đâm vào mạch máu.  \nKhông được tiêm trong da.\n\nNhư khi dùng các vắc-xin bằng đường tiêm khác, phải chú ý theo dõi để xử trí ngay khi bị phản ứng phản vệ xảy ra sau khi tiêm vắc-xin mặc dù hiếm gặp. Phải chuẩn bị sẵn các phương tiện điều trị nội khoa thích hợp.\n\nVắc-xin này không bảo vệ phòng bệnh do Não Mô Cầu nhóm B hoặc do các týp huyết thanh khác của *Neisseria meningitidis* (Não Mô Cầu), các vi khuẩn gây bệnh viêm màng não khác (*Haemophilus influenzae* týp b, *Streptococcus pneumoniae*, ...).\n\n- **Đối với Não Mô Cầu nhóm A:** trong trường hợp có dịch hay nguy cơ có dịch, vắc-xin này có thể dùng ở trẻ từ sáu tháng tuổi trở lên nếu cần thiết phải bảo vệ phòng ngừa viêm màng dịch do Não Mô Cầu nhóm A.\n- **Đối với Não Mô Cầu nhóm C:** nên dùng vắc-xin phòng Não mô cầu nhóm C dạng cộng hợp (conjugated) ở trẻ dưới 2 tuổi.",
+        "human": 1,
+        "human2": 2,
+        "llm": 2
+      },
+      {
+        "key": "c3",
+        "text": "[CHỦ ĐỀ: Polysaccharide Meningococcal A+C] > [MỤC: CÁCH DÙNG]\nTiêm bắp hoặc tiêm dưới da.\n\nThường tiêm ở mặt trước-bên của đùi đối với trẻ em dưới 12 tháng tuổi và ở vùng cơ Delta đối với những người lớn hơn 12 tháng tuổi.  \n(xem thêm \"CÁC CẢNH BÁO VÀ TRƯỜNG HỢP THẬN TRỌNG KHI DÙNG THUỐC\")\n\nVắc-xin phải được để ở nhiệt độ phòng trong vài phút trước khi tiêm.\n\nChỉ hoàn nguyên vắc-xin với dung môi kèm theo:\n- Hòa tan vắc-xin bột đông khô trong lọ bằng dung môi kèm theo. Sự hòa tan diễn ra ngay tức thì.\n- Sau khi hoàn nguyên, vắc-xin là chất lỏng không màu, trong suốt hay hơi đục.\n- Dùng ngay sau khi hoàn nguyên.\n\nCác sản phẩm không còn sử dụng hay thải bỏ cần phải được xử lý theo quy định hiện hành.\n\nTrong mọi trường hợp, không được trộn lẫn vắc-xin này với các vắc-xin khác hay dược phẩm khác (xem thêm \"Tương tác thuốc / Sử dụng cùng với các vắc-xin khác\").\n\nNếu tiêm cùng lúc với vắc-xin hay dược phẩm khác thì phải dùng bơm kim tiêm khác và tiêm tại vị trí khác nhau.",
+        "human": 1,
+        "human2": 2,
+        "llm": 2
+      },
+      {
+        "key": "c4",
+        "text": "[CHỦ ĐỀ: Polysaccharide Meningococcal A+C] > [MỤC: Vắc-xin Não Mô Cầu nhóm A và nhóm C polysaccharide]\nĐọc kỹ tờ hướng dẫn sử dụng trước khi dùng.  \nĐể xa tầm tay trẻ em.  \nThông báo ngay cho bác sĩ hoặc dược sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c5",
+        "text": "[CHỦ ĐỀ: polysaccharide] > [MỤC: TƯƠNG TÁC THUỐC VÀ TƯƠNG TÁC KHÁC | LIỀU LƯỢNG VÀ CÁCH DÙNG]\n* Để tránh các phản ứng có thể có giữa các loại dược phẩm, cần báo với bác sĩ hay dược sĩ về các điều trị mà mình đang sử dụng.\n* Vắc xin này có thể được tiêm cùng lúc với các vắc xin khác (viêm gan siêu vi A, B, sốt vàng, bạch hầu, uốn ván, bại liệt, dại, viêm màng nào do não mô cầu nhóm A và C) trong cùng một đợt chủng ngừa.\n\n* Tiêm một liều duy nhất 0,5ml.\n* Việc tiêm nhắc lại cần được thực hiện mỗi 3 năm nếu đối tượng tiếp tục có nguy cơ nhiễm bệnh.\n* Trẻ em và người lớn áp dụng cùng một lịch tiêm.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c6",
+        "text": "[CHỦ ĐỀ: Polysaccharide Meningococcal A+C] > [MỤC: ĐẶC TÍNH DƯỢC ĐỘNG HỌC | CHỈ ĐỊNH | LIỀU DÙNG]\nKhông áp dụng.\n\nVắc-xin này được chỉ định để tạo miễn dịch chủ động phòng các bệnh nhiễm khuẩn xâm lấn do Não Mô Cầu (*Neisseria meningitidis*) nhóm huyết thanh A và C ở người lớn và trẻ em từ 2 tuổi trở lên (xem thêm **CÁC CẢNH BÁO VÀ TRƯỜNG HỢP THẬN TRỌNG KHI DÙNG THUỐC**).\n\nViệc sử dụng POLYSACCHARIDE MENINGOCOCCAL A+C VACCINE phải dựa trên các khuyến cáo chính thức.\n\n**Người lớn và trẻ em từ hai tuổi trở lên:** một liều (0,5 ml) vắc-xin đã hoàn nguyên.\n\nCó thể tính đến việc tái chủng sau 2 đến 4 năm (trung bình là 3 năm) sau liều cơ bản, nhưng không được sớm hơn 1 năm kể từ khi tiêm liều cơ bản.\n\nXem xét việc tái chủng khi đối tượng có tăng nguy cơ phơi nhiễm dựa trên dữ liệu về tình hình dịch tễ của địa phương, tuổi của đối tượng và bệnh nền sẵn có. Cần tái chủng sớm nếu:\n- Đối tượng được tiêm mũi đầu tiên khi chưa đến 4 tuổi, hay\n- Còn có nguy cơ xảy ra dịch Não Mô Cầu, hay\n- Đối tượng có khả năng phơi nhiễm với Não Mô Cầu nhóm C.\n\nKhi có 2 yếu tố này trở lên thì đối tượng đang có nguy cơ cao và cần phải tái chủng.  \nCó thể cần thiết phải tái chủng vắc-xin này nhiều lần nếu đối tượng vẫn còn có nguy cơ cao bị nhiễm bệnh do Não Mô Cầu nhóm A hoặc nhóm C gây ra.",
+        "human": 1,
+        "human2": 2,
+        "llm": 2
+      },
+      {
+        "key": "c7",
+        "text": "[CHỦ ĐỀ: Polysaccharide Meningococcal A+C] > [MỤC: TƯƠNG TÁC CỦA THUỐC]\nPOLYSACCHARIDE MENINGOCOCCAL A+C VACCINE có thể dùng cùng lúc với vắc-xin uốn ván, bạch hầu, bại liệt bất hoạt, thương hàn dạng polysaccharide, hay BCG với điều kiện phải dùng bơm kim tiêm khác nhau và tiêm tại một vị trí khác (nên tiêm tại một chi khác).\n\nTrong mọi trường hợp, không được trộn chung với các vắc-xin dùng đường tiêm khác hay các thuốc khác.  \nTrường hợp phải tiêm cùng lúc, thì phải dùng bơm kim tiêm khác và tiêm ở vị trí khác.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c8",
+        "text": "[CHỦ ĐỀ: Polysaccharide Meningococcal A+C] > [MỤC: QUÁ LIỀU VÀ CÁCH XỬ TRÍ | BÁO CÁO CÁC PHẢN ỨNG BẤT LỢI ĐÁNG NGỜ]\nKhông có tài liệu.\n\nViệc báo cáo các phản ứng bất lợi đáng ngờ sau khi sản phẩm thuốc được cấp phép lưu hành là rất quan trọng. Điều này cho phép tiếp tục theo dõi cân bằng lợi ích/nguy cơ của sản phẩm thuốc. Nhân viên y tế được yêu cầu báo cáo mọi phản ứng bất lợi nghi ngờ qua hệ thống báo cáo quốc gia đến Trung tâm Quốc gia về thông tin thuốc và theo dõi phản ứng có hại của thuốc theo địa chỉ email: `di.pvcenter@gmail.com`",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c9",
+        "text": "[CHỦ ĐỀ: Polysaccharide Meningococcal A+C] > [MỤC: Dùng thuốc cho phụ nữ có thai hay đang cho con bú sữa mẹ | Ảnh hưởng của thuốc đối với việc vận hành máy móc, lái tàu xe]\n- **Phụ nữ có thai:** Chưa xác định được tính an toàn của POLYSACCHARIDE MENINGOCOCCAL A+C VACCINE trên phụ nữ mang thai. Tuy nhiên, không chống chỉ định tiêm vắc-xin này ở phụ nữ mang thai sau 3 tháng đầu tiên của thai kỳ và có thể tiêm trong trường hợp có nguy cơ bị lây nhiễm bệnh cao.\n- **Cho con bú sữa mẹ:** Chưa đánh giá được tác động của việc tiêm vắc-xin lên sữa mẹ.\n\nHiếm gặp co giật sau khi tiêm ngừa. Co giật ảnh hưởng tạm thời đến khả năng lái xe và sử dụng máy móc.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c10",
+        "text": "[CHỦ ĐỀ: Polysaccharide Meningococcal A+C] > [MỤC: Dữ liệu từ các thử nghiệm lâm sàng | Trong quá trình lưu hành sản phẩm]\n- **Rối loạn dạ dày - ruột:**  \n  *Thường gặp:* tiêu chảy.\n- **Rối loạn hệ thần kinh:**  \n  *Rất thường gặp:* đau đầu.\n- **Rối loạn toàn thân và tại nơi tiêm:**  \n  *Rất thường gặp:* các phản ứng tại nơi tiêm (đau thoáng qua, đôi khi kèm với sưng, đỏ), suy nhược, dễ bị kích thích.  \n  *Thường gặp:* tăng thân nhiệt ($\\ge 38^{\\circ}\\text{C}$).\n\nNgoài các tác dụng không mong muốn kể trên, trong quá trình lưu hành sản phẩm các tác dụng không mong muốn sau đây được báo cáo với tần số rất hiếm. Không thể tính toán chính xác tỉ lệ mắc vì các tác dụng không mong muốn này được báo cáo một cách tự phát từ một quần thể không xác định được số lượng.\n\n- **Rối loạn hệ miễn dịch:** Các phản ứng kiểu dị ứng (phát ban, mày đay, ban đỏ) hay các phản ứng phản vệ.\n- **Rối loạn chuyển hóa và dinh dưỡng:** Biếng ăn.\n- **Rối loạn dạ dày - ruột:** Nôn.\n- **Rối loạn hệ thần kinh:** Chứng kích thích màng não, co giật, dị cảm.\n- **Rối loạn cơ – xương và mô liên kết:** Đau cơ, đau khớp.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      }
+    ]
+  },
+  {
+    "task_id": "VAC_AMB_043",
+    "query": "Cho tôi biết về vắc xin Tetavax",
+    "adjudication": true,
+    "references": {
+      "llm": "Tetavax là vắc-xin dùng để phòng ngừa bệnh uốn ván, bao gồm các trường hợp: tiêm phòng sau phơi nhiễm (vết thương có nguy cơ nhiễm bào tử uốn ván), phòng ngừa uốn ván sơ sinh cho phụ nữ trong tuổi sinh đẻ hoặc đang mang thai, thực hiện các liều cơ bản của đợt sơ chủng và tiêm nhắc lại.",
+      "human": "",
+      "human2": ""
+    },
+    "candidates": [
+      {
+        "key": "c1",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: Sử dụng cùng với các dược phẩm khác | Phụ nữ có thai - đang cho con bú sữa mẹ:]\nNếu phác đồ điều trị yêu cầu phải tiêm vắc-xin uốn ván (giải độc tố uốn ván) và huyết thanh kháng uốn ván cùng một lúc, phải dùng bơm kim tiêm riêng và tiêm ở các vị trí khác nhau.  \nPhải báo với bác sĩ hoặc dược sĩ nếu đang dùng hay gần đây có dùng bất kỳ một thuốc gì, kể cả những thuốc mua không cần đơn của bác sĩ.\n\n*Phụ nữ có thai*  \nNếu cần thiết, có thể tiêm vắc-xin này khi đang mang thai.  \nPhải hỏi ý kiến bác sĩ hay dược sĩ trước khi sử dụng bất kỳ thuốc gì.  \n\n*Phụ nữ đang cho con bú sữa mẹ*  \nPhải hỏi ý kiến bác sĩ hay dược sĩ trước khi sử dụng bất kỳ thuốc gì.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c2",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: Thông tin chung | VẮC-XIN UỐN VÁN HẤP PHỤ]\nTetavax  \n**Thuốc này chỉ dùng theo đơn của bác sĩ**\n\nHãy đọc toàn bộ thông tin trong tờ hướng dẫn sử dụng trước khi sử dụng vắc-xin này. Tờ hướng dẫn sử dụng chứa những thông tin quan trọng liên quan đến việc điều trị.  \n- Nếu có thắc mắc hay câu hỏi, hãy hỏi bác sĩ hay dược sĩ.  \n- Hãy giữ lại tờ hướng dẫn sử dụng này. Có thể cần đọc lại tờ hướng dẫn sử dụng này.  \n- Nếu cần thêm thông tin hay lời khuyên, hãy hỏi bác sĩ hay dược sĩ.  \n- Nếu triệu chứng trở nên nặng hơn hay không khỏi bệnh thì phải đi khám bác sĩ ngay.  \n- Nếu bất kỳ một tác dụng không mong muốn nào trở nên nặng hơn hay gặp tác dụng không mong muốn chưa được đề cập đến trong tờ hướng dẫn sử dụng này thì phải báo với bác sĩ hay dược sĩ.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c3",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: Hoạt chất: | Các thành phần khác: | DẠNG DƯỢC PHẨM: | ĐẶC TÍNH DƯỢC LỰC HỌC]\n1 liều (0,5 ml) chứa:  \nGiải độc tố uốn ván $\\ge 40\\text{ I.U.}$  \nHấp phụ trên hydroxyt nhôm hydrat hóa $0,6\\text{ mg Al}$\n\nDung dịch đệm chứa sodium chloride, disodium dihydrate phosphate, monopotassium phosphate và nước pha tiêm.\n\nHỗn dịch tiêm.\n\nVắc-xin này được điều chế từ độc tố uốn ván được khử độc bằng formaldehyt và tinh chế.  \nĐáp ứng miễn dịch được hoạt hóa từ liều thứ hai; được tăng cường sau liều thứ ba và tồn tại trong 5 đến 10 năm sau liều thứ tư.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c4",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: Page 6 | Lưu ý đặc biệt khi dùng TETAVAX:]\nTetavax  \n\n- Nếu trước đây từng bị phản ứng dị ứng hay rối loạn thần kinh sau khi tiêm vắc-xin.  \n- Nếu đang bị sốt, nhiễm trùng cấp tính hay đợt tiến triển của bệnh mạn tính (trường hợp này nên hoãn việc chủng ngừa).\n\n- Cũng như khi tiêm các vắc-xin khác, luôn phải theo dõi tình hình sức khỏe sau khi tiêm vắc-xin và chuẩn bị sẵn các phương tiện điều trị nội khoa để xử trí ngay khi người được tiêm bị sốc phản vệ sau khi tiêm vắc-xin.  \n- Không được tiêm bắp cho người bị rối loạn chảy máu như hemophili hoặc giảm tiểu cầu.  \n- Phải báo cho bác sĩ biết nếu thuộc các trường hợp sau đây:  \n  • Đang bị suy giảm miễn dịch hay đang điều trị với thuốc ức chế miễn dịch,  \n  • Bị dị ứng, hay đã từng bị phản ứng bất thường sau khi tiêm vắc-xin,  \n  • Đã tiêm vắc-xin uốn ván trong vòng 5 năm trở lại đây.  \n  • Nếu sau khi tiêm vắc-xin có chứa giải độc tố uốn ván (vắc-xin phòng uốn ván) từng bị hội chứng Guillain-Barré (nhạy cảm bất thường, liệt) hay viêm dây thần kinh cánh tay (liệt, đau lan cánh tay và vai), bác sĩ sẽ xem xét một cách cẩn thận và quyết định tiêm hay không tiêm liều vắc-xin có chứa giải độc tố uốn ván tiếp theo.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c5",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: Liều dùng:]\nTiêm vắc-xin phòng bệnh uốn ván sau phơi nhiễm.  \nNên tuân theo phác đồ được khuyến cáo sau đây:\n| LOẠI VẾT THƯƠNG | NGƯỜI CHƯA CHỦNG NGỪA HAY CHỦNG NGỪA KHÔNG ĐẦY ĐỦ | NGƯỜI CHỦNG NGỪA ĐẦY ĐỦ (Thời gian tính từ mũi tiêm nhắc lần cuối cùng: 5 đến 10 năm) | NGƯỜI CHỦNG NGỪA ĐẦY ĐỦ (Thời gian tính từ mũi tiêm nhắc lần cuối cùng: > 10 năm) |\n| :--- | :--- | :--- | :--- |\n| **Vết thương nhỏ - sạch** | Bắt đầu hay hoàn tất việc chủng ngừa: Giải độc tố uốn ván, 1 liều 0,5 ml | Không xử trí gì thêm | Giải độc tố uốn ván: 1 liều 0,5 ml |\n| **Vết thương lớn - sạch hay có nguy cơ bị nhiễm uốn ván** | *Một tay:* Globulin miễn dịch kháng uốn ván có nguồn gốc từ người, 250 $IU^*$<br>*Tay còn lại:* Giải độc tố uốn ván**: 1 liều 0,5 ml | Globulin miễn dịch kháng uốn ván có nguồn gốc từ người, 250 $IU^*$<br>*Tay còn lại:* Giải độc tố uốn ván**: 1 liều 0,5 ml | Giải độc tố uốn ván: 1 liều 0,5 ml |\n| **Nguy cơ bị nhiễm uốn ván Đến trễ, cắt lọc chưa hết mô hoại tử** | *Một tay:* Globulin miễn dịch kháng uốn ván có nguồn gốc từ người, 500 $IU^*$<br>*Tay còn lại:* Giải độc tố uốn ván**: 1 liều 0,5 ml<br>Điều trị kháng sinh | *Một tay:* Globulin miễn dịch kháng uốn ván có nguồn gốc từ người, 500 $IU^*$<br>*Tay còn lại:* Giải độc tố uốn ván: 1 liều 0.5 ml<br>Giải độc tố uốn ván**: 1 liều 0,5 ml<br>Điều trị kháng sinh | Điều trị kháng sinh |\n\\* Dùng kim và bơm tiêm khác và tiêm ở vị trí khác  \n\\*\\* Hoàn tất việc chủng ngừa theo phác đồ",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c6",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: Người nhiễm virus gây suy giảm miễn dịch mắc phải ở người (HIV): | Lái xe và vận hành máy móc | Tá dược có thể gây tác dụng không mong muốn | Quá liều | Page 7 | TÁC DỤNG KHÔNG MONG MUỐN | Các tác dụng không mong muốn được báo cáo:]\nTheo khuyến cáo của Tổ chức y tế thế giới (WHO), người nhiễm HIV có triệu chứng hay không có triệu chứng nên được tiêm vắc-xin TETAVAX theo phác đồ thường quy.\nHiện không có tài liệu.\nPotassium.\nKhông có tài liệu.\nTetavax\nCũng như các thuốc khác khi dùng TETAVAX có thể bị một số tác dụng không mong muốn, mặc dù không phải ai cũng bị tác dụng không mong muốn khi dùng thuốc.\n- Sưng hạch bạch huyết.  \n- Phản ứng dị ứng hay quá mẫn cảm: mày đay, phù.  \n- Phản ứng da: ngứa, ban đỏ.  \n- Đau đầu, khó chịu.  \n- Hạ huyết áp.  \n- Đau cơ, đau khớp.  \n- Phản ứng tại nơi tiêm: như đau, phát ban (quầng đỏ), nốt cứng hay sưng nề tại nơi tiêm xuất hiện trong vòng 48 giờ sau khi tiêm vắc-xin và tồn tại trong một hay hai ngày. Đôi khi kèm theo các phản ứng này là nốt cứng dưới da, và trong trường hợp ngoại lệ có thể bị áp-xe vô khuẩn.  \n- Sốt, khó chịu thoáng qua.\n**Các tác dụng không mong muốn có thể gặp** (nghĩa là không được báo cáo trực tiếp do tiêm vắc-xin TETAVAX nhưng được báo cáo khi dùng các vắc-xin khác hay các chất có thành phần tương tự như TETAVAX) gồm:  \n- Hội chứng Guillain-Barré (nhạy cảm bất thường, liệt) hay viêm dây thần kinh cánh tay (liệt, đau lan cánh tay và vai) sau khi dùng vắc-xin có chứa giải độc tố uốn ván.  \n- 2-3 ngày sau khi chủng ngừa, những bé sinh quá non tháng (tuổi thai 28 tuần hay trước 28 tuần) có thể bị cơn ngưng thở tạm thời.\nNếu bất kỳ tác dụng không mong muốn nào trở nên nặng hơn hay gặp bất kỳ tác dụng không mong muốn nào chưa được nêu trong tờ hướng dẫn sử dụng này, hãy thông báo cho bác sĩ hay dược sĩ.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c7",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: Phòng ngừa uốn ván sơ sinh: | Các liều cơ bản của đợt sơ chủng:]\nPhụ nữ trong tuổi sinh đẻ và phụ nữ có thai nhưng trước đây chưa chủng ngừa uốn ván thì phải tiêm 2 liều liên tiếp, cách nhau ít nhất 4 tuần; Đối với phụ nữ có thai, liều đầu tiên phải tiêm trước ngày dự sinh ít nhất là 90 ngày.\n\nNgười lớn khi cần tiêm ngừa uốn ván thì tiêm 2 liều liên tiếp, cách nhau từ 1 hay 2 tháng và liều nhắc lại sau liều thứ hai 6 đến 12 tháng.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c8",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: ĐẶC TÍNH DƯỢC ĐỘNG HỌC | CHỈ ĐỊNH]\nKhông áp dụng.\n\nVắc-xin này để phòng ngừa bệnh uốn ván, cụ thể trong các trường hợp sau:  \n- Tiêm phòng uốn ván sau phơi nhiễm: đối với các vết thương mới bị có nguy cơ nhiễm bào tử uốn ván ở những người trước đây chưa tiêm các liều cơ bản của đợt sơ chủng hay đã tiêm nhưng tiêm không đầy đủ theo lịch tiêm sơ chủng hay không biết chắc chắn lịch tiêm chủng của mình,  \n- Phòng ngừa uốn ván sơ sinh: phụ nữ trong tuổi sinh đẻ hay đang mang thai nhưng chưa được chủng ngừa uốn ván tại các nước có tỷ lệ uốn ván sơ sinh cao,  \n- Các liều cơ bản của đợt sơ chủng,  \n- Tiêm nhắc lại.",
+        "human": 1,
+        "human2": 2,
+        "llm": 2
+      },
+      {
+        "key": "c9",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: Tiêm nhắc: | Cách dùng | Đường dùng | CHỐNG CHỈ ĐỊNH]\n10 năm sau khi hoàn tất đợt sơ chủng các liều cơ bản phải tiêm nhắc 1 liều; sau đó tiêm nhắc lại mỗi 10 năm.\n\nLắc trước khi tiêm, cho đến khi đạt được một hỗn dịch đồng nhất.\n\nTốt nhất, nên tiêm bắp để hạn chế các phản ứng tại nơi tiêm. Có thể tiêm dưới da sâu. Không được tiêm trong da.\n\nKhông dùng TETAVAX trong những trường hợp sau:  \n- Nếu bị dị ứng với bất kỳ thành phần nào của vắc-xin,",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      },
+      {
+        "key": "c10",
+        "text": "[CHỦ ĐỀ: Tetavax] > [MỤC: BẢO QUẢN TETAVAX]\nĐể xa tầm tay và tầm mắt của trẻ em.  \nKhông sử dụng TETAVAX khi đã quá thời hạn sử dụng (xem ngày hết hạn dùng “EXP.”) ghi trên nhãn, trên hộp.  \nBảo quản ở nhiệt độ $+2^\\circ\\text{C}$ đến $+8^\\circ\\text{C}$ (trong tủ lạnh). Không được để đông băng.  \nKhông được vứt bỏ thuốc vào cống hay thùng rác gia đình. Phải hỏi dược sĩ cách hủy các thuốc không còn sử dụng nữa. Những biện pháp này giúp bảo vệ môi trường.  \n\n**TUỔI THỌ:** 36 tháng.  \n**HẠN DÙNG:** Xem ngày hết hạn dùng “EXP.” trên bao bì.  \nKhông sử dụng sau hạn dùng được ghi trên bao bì.  \n\n**TIÊU CHUẨN SẢN XUẤT:** Tiêu chuẩn nhà sản xuất.",
+        "human": 1,
+        "human2": 2,
+        "llm": 1
+      }
+    ]
+  },
+  {
+    "task_id": "VAC_AMB_032",
+    "query": "Vắc xin DPT Vaccine thì thế nào?",
+    "adjudication": true,
+    "references": {
+      "llm": "Vắc xin DPT dùng để gây miễn dịch chủ động phòng bệnh bạch hầu, ho gà và uốn ván cho trẻ dưới 18 tháng tuổi. Liều dùng tiêu chuẩn là 0,5ml, tiêm bắp sâu (thường ở bắp đùi trước hoặc cơ delta). Lịch tiêm gồm 3 liều cơ bản (cách nhau ít nhất 30 ngày, hoàn thành trước 12 tháng tuổi) và 1 liều nhắc lại sau đó 1 năm (trong khoảng từ 12 đến 18 tháng tuổi). Vắc xin có thể gây các phản ứng phụ như sưng, nề, đỏ tại chỗ tiêm hoặc sốt, thường xảy ra cao hơn ở các mũi tiêm sau.",
+      "human": "",
+      "human2": ""
+    },
+    "candidates": [
+      {
+        "key": "c1",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: CHỐNG CHỈ ĐỊNH]\nKhông được dùng vắc xin DPT trong các trường hợp:\n- Trẻ có dị ứng với bất kỳ thành phần nào của vắc xin.\n- Không tiêm liều tiếp theo cho những trẻ em có biểu hiện phản ứng nặng với lần tiêm trước. Trong trường hợp này trẻ được tiêm thay thế bằng vắc xin phối hợp không chứa thành phần ho gà toàn tế bào.\n- Trẻ đang mắc các bệnh nhiễm trùng cấp tính, sốt chưa rõ nguyên nhân hoặc các bệnh cấp tính hay mạn tính đang ở thời kỳ tiến triển.\n- Trẻ có rối loạn thần kinh như co giật, viêm não, động kinh hoặc có bất thường trong não ở giai đoạn sơ sinh hoặc có bất thường nghiêm trọng khác về thần kinh.\n- Trẻ em bị các bệnh về tim mạch (bẩm sinh hay mắc phải).\n- Trẻ có bất cứ tình trạng bệnh lý mà cán bộ tiêm chủng nhận thấy không an toàn khi tiêm vắc xin hay không đảm bảo hiệu quả của vắc xin như đang dùng thuốc ức chế miễn dịch trên 14 ngày, trẻ suy dinh dưỡng, trẻ bị nhiễm HIV...\n- Đối với người giảm tiểu cầu hoặc bất kỳ rối loạn đông máu nào.",
+        "human": 0,
+        "human2": null,
+        "llm": 1
+      },
+      {
+        "key": "c2",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: TÁC DỤNG KHÔNG MONG MUỐN CỦA THUỐC]\n*(1) Rất thường gặp: $\\ge 1/10$;*\n*(2) Thường gặp: $\\ge 1/100\\text{ đến } < 1/10$;*\n*(3) Ít gặp: $\\ge 1/1.000\\text{ đến } < 1/10$;*\n*(4) Hiếm gặp: $\\ge 1/10.000\\text{ đến } < 1/1.000$;*\n*(5) Rất hiếm gặp: $< 1/10.000$.*\n\nTỷ lệ phản ứng sau tiêm vắc xin DPT thường xảy ra cao hơn ở các mũi tiêm sau, phản ứng này là chủ yếu do thành phần ho gà toàn tế bào có trong vắc xin. Sử dụng acetaminophen từ 4-8 giờ sau tiêm có thể làm giảm tỷ lệ phản ứng sốt. Nghiên cứu ở trẻ em tại Vương quốc Anh cho thấy sau tiêm vắc xin DPT có tăng ít nhiều nguy cơ co giật tiên phát, tuy nhiên chưa có chứng cứ vắc xin gây hậu quả tổn hại thần kinh lâu dài, càng không liên quan đến chứng co thắt ở trẻ sơ sinh, hội chứng Reye và đột tử (Hội đồng an toàn vắc xin Mỹ, 1994).",
+        "human": 0,
+        "human2": null,
+        "llm": 1
+      },
+      {
+        "key": "c3",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: MẪU HƯỚNG DẪN SỬ DỤNG VẮC XIN BẠCH HẦU - HO GÀ – UỐN VÁN HẤP PHỤ (DPT) | Vắc xin bạch hầu – ho gà – uốn ván hấp phụ (DPT) | THÀNH PHẦN]\nRx\n\n\"Để xa tầm tay trẻ em\"\n\"Đọc kỹ hướng dẫn sử dụng trước khi dùng\"\n\"Thuốc này chỉ dùng theo đơn thuốc\"\n\"Lắc kỹ trước khi dùng\"\n\nTrong mỗi liều 0,5ml vắc xin có chứa:",
+        "human": 0,
+        "human2": null,
+        "llm": 1
+      },
+      {
+        "key": "c4",
+        "text": "[CHỦ ĐỀ: PENTAVAC] > [MỤC: Rối loạn khác và phản ứng tại chỗ tiêm:]\n- Rất phổ biến: Đau vùng tiêm, sưng đỏ, cứng vùng tiêm và sốt.\n\n- Đối với thành phần vắc xin DTP, thường hay gặp các phản ứng tại chỗ hoặc các phản ứng toàn thân nhẹ. Phần lớn các trường hợp xảy ra là sưng, nề, đỏ tại chỗ tiêm thoáng qua kèm theo sốt. Đôi khi xuất hiện các phản ứng không mong muốn nghiêm trọng như sốt cao, kích thích, quấy khóc trong vòng 24 giờ sau khi tiêm. Hội chứng giảm trương lực-giảm đáp ứng (Hypotonic-hyporesponsive episodes) đã được ghi nhận và báo cáo. Sốt cao co giật được ghi nhận với tỷ lệ $1/12500$ liều tiêm. Sử dụng acetaminophen sau khi tiêm từ 4-8 giờ có thể làm giảm tỉ lệ phản ứng sốt. Nghiên cứu về bệnh não ở trẻ em tại Vương quốc Anh cho thấy có tăng ít nhiều nguy cơ mắc bệnh não cấp (co giật tiên phát) sau khi tiêm vắc xin DTP. Tuy nhiên, theo các báo cáo đánh giá chi tiết được thực hiện bởi nhóm nghiên cứu của Viện Y khoa Hoa Kỳ, Ủy ban Cố vấn về thực hành tiêm chủng và các hiệp hội nhi khoa của Úc, Canada, Vương quốc Anh và Hoa Kỳ, đã kết luận các dữ liệu không chứng minh được mối liên quan giữa việc tiêm vắc xin DTP và rối loạn chức năng thần kinh mạn tính ở trẻ em. Do vậy, chưa có bất cứ một bằng chứng khoa học nào cho thấy những phản ứng không mong muốn này gây ra hậu quả lâu dài nào đối với trẻ em.",
+        "human": 0,
+        "human2": null,
+        "llm": 1
+      },
+      {
+        "key": "c5",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: QUÁ LIỀU VÀ XỬ TRÍ | ĐẶC TÍNH DƯỢC LỰC HỌC]\n- *Quá liều:* Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.\n- *Cách xử trí khi dùng thuốc quá liều:* Báo cáo ngay cho bác sỹ và tích cực theo dõi để có biện pháp xử trí kịp thời.\nNhóm dược lý và mã ATC theo WHO:\n+ Nhóm dược lý: Vắc xin bạch hầu ho gà uốn ván\n+ Mã ATC: J07AJ51: pertussis, inactivated, whole cell, combinations with toxoids: vắc xin ho gà (toàn tế bào, bất hoạt) phối hợp với giải độc tố bạch hầu, uốn ván.\n*Đối với bệnh bạch hầu và uốn ván:* Vắc xin DPT tạo miễn dịch bảo vệ cơ thể chống lại độc tố uốn ván và độc tố bạch hầu nhờ sự phát triển của 2 loại kháng thể thuộc lớp IgG có khả năng trung hòa độc tố uốn ván và trung hòa độc tố bạch hầu lưu hành trong máu và trong dịch cơ thể. Nồng độ kháng thể kháng độc tố uốn ván và kháng độc tố bạch hầu trong huyết thanh đạt ít nhất $0,01\\text{ IU/ml}$ nếu đo bằng phản ứng trung hòa và đạt ít nhất $0,1\\text{ IU/ml}$ nếu đo bằng phản ứng ELISA được xem là có miễn dịch bảo vệ tối thiểu.\nTrong nghiên cứu lâm sàng tại Việt Nam trên nhóm gồm 30 trẻ em từ 3 tháng đến 9 tháng tuổi, sau khi tiêm đủ 3 liều vắc xin DPT, 100% trẻ có đáp ứng kháng thể kháng bạch hầu và uốn ván trên mức bảo vệ với hiệu giá kháng thể trung bình nhân (GMT) lần lượt là $0,552\\text{ IU/ml}$ và $3,036\\text{ IU/ml}$ và sau 1 năm mức bảo vệ với hiệu giá kháng thể trung bình nhân (GMT) là $0,011\\text{ IU/ml}$ và $0,221\\text{ IU/ml}$.\n*Đối với bệnh ho gà:* Thành phần ho gà trong vắc xin DPT là vi khuẩn ho gà bất hoạt do đó sau khi tiêm vắc xin, cơ thể sẽ phát triển đáp ứng miễn dịch hiệu quả để bảo vệ chống lại bệnh ho gà.\nNếu trẻ được tiêm đầy đủ các liều vắc xin DPT trước khi trẻ được 4 tuổi, trên 95% số trẻ được bảo vệ chống bệnh bạch hầu, uốn ván và 80 đến 90% trẻ được bảo vệ chống lại bệnh ho gà.",
+        "human": 0,
+        "human2": null,
+        "llm": 2
+      },
+      {
+        "key": "c6",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: SỬ DỤNG CHO PHỤ NỮ CÓ THAI VÀ CHO CON BÚ | ẢNH HƯỞNG LÊN KHẢ NĂNG LÁI XE, VẬN HÀNH MÁY MÓC | TƯƠNG TÁC, TƯƠNG KỴ CỦA THUỐC]\nKhông dùng vắc xin DPT cho người đang mang thai và trong thời kỳ cho con bú.\nVắc xin này không gây ảnh hưởng đến khả năng lái xe và vận hành máy móc.\n*Tương tác của thuốc:*\nCác thuốc ức chế miễn dịch và liệu pháp phóng xạ, tùy theo liều lượng, có thể tương tác với vắc xin DPT. Vì cơ chế phòng vệ bình thường bị ức chế, dùng các chất ức chế miễn dịch hoặc liệu pháp phóng xạ đồng thời với vắc xin DPT có thể làm giảm sự đáp ứng tạo kháng thể của người bệnh đối với vắc xin hoặc có thể dẫn đến những đáp ứng sai lệch đối với quy trình tiêm chủng. Sự thận trọng này không áp dụng cho trường hợp dùng...\n...liệu pháp corticosteroid ngắn hạn (dưới 2 tuần) đường toàn thân hoặc các đường sử dụng khác mà không gây ức chế miễn dịch. Nếu ngừng ngắn hạn liệu pháp ức chế miễn dịch, thì việc tiêm chủng vắc xin DPT phải hoãn lại 1 tháng. Nếu liệu pháp ức chế miễn dịch vẫn tiếp tục, thì vẫn phải tiêm chủng theo thường quy.\n*Tương kỵ của thuốc:*\nVắc xin DPT có thể dùng đồng thời với các vắc xin *Haemophilus B* cộng hợp, vắc xin bại liệt bất hoạt, vắc xin bại liệt sống dùng đường uống, vắc xin viêm gan B, vắc xin virus sởi sống, vắc xin virus quai bị sống và vắc xin virus rubella sống. Có thể tiêm vắc xin cúm đồng thời với vắc xin DPT (nhưng ở vị trí khác).\nDo không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác. Nếu cần dùng đồng thời phải sử dụng bơm kim tiêm riêng và tiêm ở vị trí cách xa vị trí tiêm vắc xin DPT.",
+        "human": 0,
+        "human2": null,
+        "llm": 1
+      },
+      {
+        "key": "c7",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: ĐẶC TÍNH DƯỢC ĐỘNG HỌC]\nSự phát triển kháng độc tố uốn ván, bạch hầu cũng như miễn dịch kháng ho gà tùy thuộc vào các mũi tiêm vắc xin DPT. Khi trẻ được tiêm đầy đủ các liều vắc xin DPT, nghĩa là 3 liều tiêm cơ bản trong năm đầu đời và 1 liều tiêm nhắc lại trước khi trẻ 4 tuổi sẽ tạo được miễn dịch bảo vệ giúp trẻ chống bệnh các bệnh bạch hầu, ho gà, uốn ván trong suốt thời kỳ thơ ấu và có thể kéo dài đến 10 năm. Miễn dịch bảo vệ suốt đời đối với ho gà có lẽ chỉ đạt được là làm giảm mức độ nặng và trầm trọng của bệnh hơn là khả năng bảo vệ hoàn toàn tránh mắc ho gà. Muốn bảo vệ bệnh bạch hầu và bệnh uốn ván suốt đời cần phải tiêm nhắc lại đủ liều và đúng cách vắc xin uốn ván, bạch hầu giảm liều (Td) hoặc...\n...các vắc xin khác chứa thành phần bạch hầu và uốn ván phù hợp ở lứa tuổi thanh thiếu niên và người lớn.",
+        "human": 0,
+        "human2": null,
+        "llm": 1
+      },
+      {
+        "key": "c8",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: CHỈ ĐỊNH | LIỀU DÙNG VÀ CÁCH DÙNG]\nDùng để gây miễn dịch chủ động phòng bệnh bạch hầu, ho gà và uốn ván cho trẻ dưới 18 tháng tuổi.\n\n*Liều dùng:*\nMột liều tiêu chuẩn của vắc xin DPT là 0,5ml.\n- *Miễn dịch cơ bản:* Tiêm 3 liều, khoảng cách giữa các liều ít nhất là 30 ngày, liều thứ nhất khi trẻ 2 tháng tuổi. Các mũi tiêm miễn dịch cơ bản cần phải được hoàn thành trước khi trẻ 12 tháng tuổi.\n- *Tiêm nhắc lại:* Tiêm một liều 0,5ml một năm sau liều tiêm thứ 3. Liều tiêm nhắc lại này có thể được tiêm sau mũi tiêm thứ 3 từ 12 tháng cho đến khi trẻ được 18 tháng tuổi.\n\n*Cách dùng:*\nQuan sát và lắc kỹ lọ vắc xin cho đến khi tạo hỗn dịch đồng nhất trước khi dùng.\nVắc xin DPT được sử dụng qua đường tiêm bắp sâu, thường tiêm ở bắp đùi trước của trẻ sơ sinh và tiêm ở cơ delta ở các nhóm trẻ có tuổi lớn hơn.\nKhông được tiêm vắc xin vào tĩnh mạch.",
+        "human": 0,
+        "human2": null,
+        "llm": 2
+      },
+      {
+        "key": "c9",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: Thành phần tá dược]\n| Thành phần tá dược | Hàm lượng |\n| :--- | :--- |\n| Aluminum Phosphate ($\\text{AlPO}_4$) | $\\le 3\\text{ mg}$ |\n| Chất bảo quản (Merthiolate) | $0,005 - 0,02\\%$ |\n\n**DẠNG BÀO CHẾ:** Hỗn dịch tiêm.\n*Mô tả dạng bào chế:* Vắc xin bạch hầu - ho gà - uốn ván hấp phụ (DPT) là hỗn dịch vô khuẩn, đồng nhất, màu trắng đục, chứa giải độc tố uốn ván, giải độc tố bạch hầu và vi khuẩn ho gà bất hoạt hấp phụ trên phosphat nhôm.",
+        "human": 0,
+        "human2": null,
+        "llm": 1
+      },
+      {
+        "key": "c10",
+        "text": "[CHỦ ĐỀ: DPT Vaccine] > [MỤC: CẢNH BÁO VÀ THẬN TRỌNG KHI SỬ DỤNG]\n- Phản ứng phụ gia tăng ở những liều sau.\n- Phản ứng phụ nặng hơn nếu người tiêm không cẩn thận để chất hấp phụ ($\\text{AlPO}_4$) dính vào tổ chức dưới da hoặc tiêm nhầm dưới da.\n- Sử dụng các loại thuốc hạ sốt ngay khi tiêm hoặc sau khi tiêm vắc xin 4 – 8 giờ sẽ làm giảm các phản ứng phụ, sốt (theo AAP, 1997) nhất là đối tượng thuộc nhóm nguy cơ cao nói trên (IPP 1987, CDC 1987).\n- Không tiêm quá liều.\n- Chưa có chứng cứ vắc xin gây hậu quả tổn hại thần kinh lâu dài, càng không liên quan đến chứng co thắt ở trẻ sơ sinh, hội chứng Reye và đột tử (Hội đồng an toàn vắc xin Mỹ, 1994).\n- Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.",
+        "human": 0,
+        "human2": null,
+        "llm": 1
+      }
+    ]
+  }
+]

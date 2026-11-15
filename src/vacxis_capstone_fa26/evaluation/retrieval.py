@@ -5,6 +5,8 @@ import math
 from collections.abc import Sequence
 from typing import Any
 
+from vacxis_capstone_fa26.indexing.schemas import parent_chunk_id_of
+
 from vacxis_capstone_fa26.evaluation.schemas import MetricAggregate, QueryRetrievalResult
 
 
@@ -194,14 +196,16 @@ def evaluate_retrieval_query(
     metadata: dict[str, Any] | None = None,
 ) -> QueryRetrievalResult:
     """Evaluate retrieval results for a single query across multiple cutoffs."""
-    retrieved_ids = [_extract_id(c) for c in retrieved]
+    raw_ids = [_extract_id(c) for c in retrieved]
+    # Chunk con (_s{k}) được tính cho chunk gốc; bỏ trùng, giữ thứ tự xếp hạng.
+    retrieved_ids = list(dict.fromkeys(parent_chunk_id_of(i) for i in raw_ids))
 
     # Build chunk-level ground truth and relevance score map
     chunk_scores: dict[str, float] = {}
     binary_relevant_chunks: list[str] = []
 
     for c in relevant_chunks:
-        cid = _extract_id(c)
+        cid = parent_chunk_id_of(_extract_id(c))  # nhãn trỏ tới chunk con (_s{k}) -> quy về chunk gốc
         if not cid:
             continue
         score = 1.0
@@ -214,9 +218,9 @@ def evaluate_retrieval_query(
         elif hasattr(c, "relevance_score"):
             score = float(getattr(c, "relevance_score", 1.0))
 
-        chunk_scores[cid] = score
-        # Include as binary relevant if score > 0
-        if score > 0.0:
+        chunk_scores[cid] = max(score, chunk_scores.get(cid, 0.0))
+        # Include as binary relevant if score > 0 (một lần cho mỗi chunk gốc)
+        if score > 0.0 and cid not in binary_relevant_chunks:
             binary_relevant_chunks.append(cid)
 
     # Calculate metrics for each k
@@ -236,7 +240,7 @@ def evaluate_retrieval_query(
         gold_docs = set(relevant_docs)
         retrieved_docs: list[str] = []
         for idx, cid in enumerate(retrieved_ids):
-            chunk_obj = retrieved[idx] if idx < len(retrieved) else None
+            chunk_obj = retrieved[idx] if len(retrieved) == len(retrieved_ids) and idx < len(retrieved) else None
             doc_id = _extract_doc_id(cid, chunk_obj)
             if doc_id and doc_id not in retrieved_docs:
                 retrieved_docs.append(doc_id)

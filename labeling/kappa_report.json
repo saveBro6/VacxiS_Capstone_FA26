@@ -1,0 +1,40 @@
+{
+  "Người - LLM": {
+    "n_items": 890,
+    "n_questions": 89,
+    "agreement": 0.3798,
+    "kappa": 0.0,
+    "kappa_ci95": [
+      -0.0147,
+      0.0151
+    ],
+    "kappa_quadratic": 0.0048,
+    "kappa_quadratic_ci95": [
+      -0.0173,
+      0.0268
+    ],
+    "muc_dong_thuan": "rất yếu"
+  },
+  "Người - Người (mức trần)": {
+    "n_items": 20,
+    "n_questions": 2,
+    "agreement": 0.0,
+    "kappa": 0.0,
+    "kappa_ci95": [
+      0.0,
+      0.0
+    ],
+    "kappa_quadratic": 0.0,
+    "kappa_quadratic_ci95": [
+      0.0,
+      0.0
+    ],
+    "muc_dong_thuan": "rất yếu"
+  },
+  "llm_labels_meta": {
+    "models": [],
+    "prompt_hashes": [],
+    "prompt_versions": [],
+    "n_without_meta": 90
+  }
+}

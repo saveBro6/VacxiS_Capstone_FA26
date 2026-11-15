@@ -1,0 +1,84 @@
+[
+  {
+    "task_id": "VAX_Q_0140",
+    "query": "Tôi có thể đặt mua online vaccine Boostrix về nhà tự tiêm qua trang web nào?",
+    "adjudication": true,
+    "references": {
+      "llm": "Không có thông tin về việc đặt mua trực tuyến vắc xin Boostrix qua trang web nào trong hướng dẫn sử dụng vắc xin Boostrix.",
+      "human": "",
+      "human2": ""
+    },
+    "candidates": [
+      {
+        "key": "c1",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 3. Dạng bào chế | 4.1. Chỉ định | 4.2. Liều lượng và cách dùng]\nHỗn dịch tiêm\n\nBoostrix được chỉ định để chủng ngừa nhắc lại cho người từ 4 tuổi trở lên chống lại các bệnh bạch hầu, uốn ván và ho gà (xem phần Liều lượng)\n\nLiều lượng\nLiều khuyến cáo của vắc xin là liều đơn 0,5 mL\nBoostrix có thể được dùng tuân theo thực hành y khoa hiện tại của địa phương về việc tiêm ngừa nhắc lại với vắc xin kết hợp giảm thành phần bạch hầu – uốn ván- ho gà.\n\n-1-\n\nBoostrix có thể được tiêm cho thanh thiếu niên và người lớn không biết tình trạng tiêm ngừa hoặc chưa hoàn tất đủ lịch chủng ngừa bạch hầu, uốn ván và ho gà (xem phần Dược động học). Dựa trên dữ liệu trên đối tượng người lớn, khuyến cáo bổ sung 2 liều vắc xin chứa thành phần bạch hầu và uốn ván vào 1 và 6 tháng sau liều đầu tiên để tối ưu hóa đáp ứng của vắc xin chống lại bệnh bạch hầu và uốn ván\nChủng ngừa nhắc lại phòng ngừa bạch hầu, uốn ván và ho gà nên được thực hiện với khoảng cách theo các khuyến cáo chính thức (thường là 10 năm)\nBoostrix được sử dụng trong việc quản lý các vết thương có nguy cơ uốn ván ở người trước đó đã được chủng ngừa cơ bản với vắc xin uốn ván. Huyết thanh kháng uốn ván nên được chỉ định đồng thời theo các khuyến cáo chính thức.\n\nCách dùng\nBoostrix được dùng qua đường tiêm bắp sâu, tốt nhất là ở vùng cơ delta (xem phần Cảnh báo và thận trọng đặc biệt).",
+        "human": 1,
+        "human2": 1,
+        "llm": 0
+      },
+      {
+        "key": "c2",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 6. Các đặc tính dược học | 6.3. Hạn dùng | 6.4. Thận trọng đặc biệt khi bảo quản]\n6.1. Danh sách tá dược\nNatri clorid, nước pha tiêm.\nFormaldehyd, polysorbat 80, glycin tồn dư trong quá trình sản xuất.\n\n6.2. Tương kị\nKhông trộn lẫn Boostrix với vắc-xin khác trong cùng một bơm tiêm.\n\nHạn dùng của vắc-xin được ghi trên nhãn và vỏ hộp.\n\nVắc-xin Boostrix nên được bảo quản ở +2°C đến +8°C. Phải tuân thủ khuyến cáo về điều kiện bảo quản vắc-xin trong quá trình vận chuyển.\nKhông để đông đá hỗn dịch Boostrix. Loại bỏ nếu vắc-xin bị đông đá.",
+        "human": 1,
+        "human2": 1,
+        "llm": 0
+      },
+      {
+        "key": "c3",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 4.4. Cảnh báo và Thận trọng đặc biệt]\nTrụy mạch hoặc tình trạng giống shock (đợt giảm trương lực - giảm đáp ứng) trong vòng 48 giờ sau tiêm chủng;\nQuấy khóc kéo dài dỗ không nín kéo dài ≥ 3 giờ, xuất hiện trong vòng 48 giờ sau tiêm chủng;\nCo giật kèm hoặc không kèm theo sốt, xuất hiện trong vòng 3 ngày sau tiêm chủng.\nỞ những trẻ có các rối loạn thần kinh tiến triển, bao gồm các chứng co thắt ở trẻ nhũ nhi, động kinh không kiểm soát hoặc bệnh não tiến triển, tốt hơn nên hoãn tiêm vắc-xin ho gà (vô bào hoặc toàn tế bào) cho đến khi bệnh khỏi hoặc ổn định. Tuy nhiên, quyết định có tiêm vắc xin ho gà phải tùy thuộc từng trường hợp cụ thể sau khi đã cân nhắc kỹ lưỡng về nguy cơ và lợi ích.\nCũng như tất cả các vắc-xin dạng tiêm, cần luôn có sẵn các biện pháp điều trị y tế và theo dõi thích hợp để phòng ngừa trong trường hợp các phản ứng phản vệ hiếm gặp có thể xảy ra sau tiêm chủng.\nNên thận trọng khi tiêm Boostrix cho những đối tượng bị giảm tiểu cầu hoặc rối loạn chảy máu vì có thể xảy ra hiện tượng chảy máu sau khi tiêm bắp cho những đối tượng này. Nên đè chặt vị trí tiêm (tránh chà xát) ít nhất trong 2 phút\nKhông chống chỉ định dùng Boostrix khi bản thân có tiền sử co giật, hoặc tiền sử gia đình về co giật, và tiền sử gia đình có tác dụng ngoại ý sau khi chủng ngừa DTP.\nNgười nhiễm virus gây suy giảm miễn dịch ở người (HIV) không được xem là chống chỉ định cho chủng ngừa bạch hầu, uốn ván và ho gà. Đáp ứng miễn dịch mong muốn có thể không đạt được sau khi tiêm chủng cho các bệnh nhân suy giảm miễn dịch.\nRất hiếm trường hợp trụy mạch hoặc tình trạng giống như shock (cơn giảm trương lực-giảm đáp ứng) và co giật trong vòng 2-3 ngày sau tiêm chủng đã được báo cáo đối với vắc xin DTPa và vắc xin phối hợp có DTPa.\nKhông tiêm Boostrix vào tĩnh mạch trong bất kể trường hợp nào.",
+        "human": 1,
+        "human2": 1,
+        "llm": 0
+      },
+      {
+        "key": "c4",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 4.6. Thai kỳ và cho con bú]\nKhả năng sinh sản\nKhông có dữ liệu có sẵn trên người. Nghiên cứu trên động vật không cho thấy ảnh hưởng gây hại trực tiếp hoặc gián tiếp đến khả năng sinh sản nữ (xem phần Dữ liệu an toàn tiền lâm sàng).\nMang thai\nDữ liệu an toàn từ một nghiên cứu quan sát tiền cứu, Boostrix được dùng cho phụ nữ mang thai trong 3 tháng cuối thai kỳ (793 kết quả của phụ nữ mang thai), cũng như dữ liệu từ giám sát hậu mãi, khi phụ nữ mang thai được chỉ định với Boostrix hoặc với Boostrix Polio (vắc xin dTpa-IPV) cho thấy không có tác dụng ngoại ý liên quan đến vắc xin trên thời kỳ mang thai hoặc đối với sức khỏe của thai nhi / trẻ sơ sinh.\nBoostrix có thể được xem xét sử dụng trong 3 tháng cuối của thai kỳ.\nKhông có dữ liệu từ các nghiên cứu tiền cứu lâm sàng trên người về việc sử dụng Boostrix trong 3 tháng đầu và 3 tháng giữa của thai kỳ.\nDữ liệu hạn chế cho thấy kháng thể từ người mẹ có thể làm giảm cường độ đáp ứng miễn dịch đối với vài vắc-xin ở trẻ nhỏ sinh ra từ các bà mẹ đã được tiêm Boostrix trong khi mang thai. Sự liên quan về mặt lâm sàng của quan sát này chưa được biết rõ.\nNghiên cứu trên động vật không cho thấy ảnh hưởng gây hại trực tiếp hoặc gián tiếp liên quan đến việc mang thai, sự phát triển phôi / bào thai, sinh đẻ hoặc phát triển sau khi sinh (xem phần Dữ liệu an toàn tiền lâm sàng).\nBoostrix chỉ nên được sử dụng trong thời kỳ mang thai khi những lợi ích mang lại lớn hơn những rủi ro có thể có cho thai nhi.\nCho con bú\nSự an toàn của Boostrix khi dùng cho phụ nữ cho con bú chưa được đánh giá.\nChưa biết Boostrix được bài tiết trong sữa mẹ hay không.\nBoostrix chỉ nên được sử dụng trong quá trình cho con bú khi những lợi ích mang lại lớn hơn những rủi ro tiềm ẩn.",
+        "human": 1,
+        "human2": 1,
+        "llm": 0
+      },
+      {
+        "key": "c5",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 4.8. Tác dụng không mong muốn]\nRối loạn toàn thân và tại chỗ tiêm\nRất phổ biến: phản ứng tại chỗ tiêm (bao gồm đau, đỏ, sưng), mệt mỏi, khó chịu\nPhổ biến: sốt ≥ 37,5°C, phản ứng tại chỗ tiêm (như sưng hoặc áp-xe vô khuẩn tại chỗ tiêm )\nKhông phổ biến: sốt > 39°C, bệnh tương tự như cúm, đau\n\nPhản ứng quá mẫn sau liều nhắc lại Boostrix\nDữ liệu trên 146 đối tượng cho thấy tăng ít phản ứng quá mẫn tại chỗ (đau, đỏ, sưng) khi tiêm nhắc lại theo lịch 0, 1, 6 tháng ở người lớn (> 40 tuổi).\nCác đối tượng đã được tiêm đủ 4 liều căn bản bạch hầu uốn ván ho gà toàn tế bào sau đó thêm 1 liều Boostrix ở tuổi thứ 10 cho thấy một mức tăng phản ứng tại chỗ sau liều Boostrix bổ sung tiêm 10 năm sau đó\n\n• Dữ liệu hậu mãi\nRối loạn máu và hệ bạch huyết\nHiếm gặp:\nRối loạn hệ miễn dịch\nRất hiếm gặp: phù mạch\nphản ứng dị ứng bao gồm phản ứng phản vệ và phản ứng dạng phản vệ\n\n-6-\n\nHiếm gặp:\nRối loạn da và mô dưới da\nHiếm gặp: co giật (sốt hoặc không sốt)\nnổi mề đay\nRối loạn toàn thân và tại chỗ tiêm\nHiếm gặp : sưng lan tại chi được tiêm vắc-xin, suy nhược",
+        "human": 1,
+        "human2": 1,
+        "llm": 0
+      },
+      {
+        "key": "c6",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 4.8. Tác dụng không mong muốn]\n• Dữ liệu thử nghiệm lâm sàng\nHồ sơ an toàn trình bày dưới đây dựa trên dữ liệu từ các thử nghiệm lâm sàng, Boostrix được tiêm cho 839 trẻ em (từ 4 đến 9 tuổi) và 1931 người lớn, thanh thiếu niên và trẻ em (trên 10 tuổi)\nTác dụng không mong muốn được báo cáo và phân loại theo tần suất như sau:\nRất phổ biến: ≥ 1/10\nPhổ biến: ≥ 1/100 đến < 1/10\nKhông phổ biến: ≥ 1/1000 đến < 1/100\nHiếm: ≥ 1/10000 đến < 1/1000\nRất hiếm: < 1/10000\nTrẻ em từ 4 đến 9 tuổi\nNhiễm khuẩn và nhiễm ký sinh trùng\nKhông phổ biến: nhiễm khuẩn đường hô hấp trên\nRối loạn chuyển hóa và dinh dưỡng\nRất phổ biến: chán ăn\nRối loạn tâm thần\nRất phổ biến: kích thích\nRối loạn thần kinh\nRất phổ biến: ngủ gà gật\nPhổ biến: đau đầu\nKhông phổ biến: mất tập trung\nRối loạn mắt\nKhông phổ biến: viêm kết mạc.\nRối loạn tiêu hóa\nPhổ biến: nôn, tiêu chảy, rối loạn tiêu hóa\nRối loạn da và mô dưới da\nKhông phổ biến: phát ban\nRối loạn toàn thân và tại chỗ tiêm\nRất phổ biến: phản ứng tại chỗ tiêm như đau, đỏ, sưng tại chỗ tiêm, mệt mỏi\nPhổ biến: sốt ≥ 37,5°C (bao gồm sốt > 39°C)\nKhông phổ biến: phản ứng tại chỗ tiêm khác (chẳng hạn như chai cứng), đau.\nNgười lớn, thanh thiếu niên và trẻ em từ 10 tuổi trở lên\nNhiễm khuẩn và nhiễm ký sinh trùng\n-5-\nKhông phổ biến: nhiễm khuẩn đường hô hấp trên, viêm họng\nRối loạn máu và hệ bạch huyết:\nKhông phổ biến: bệnh hạch bạch huyết\nRối loạn thần kinh\nRất phổ biến: đau đầu\nPhổ biến: chóng mặt\nKhông phổ biến: ngất\nRối loạn hô hấp, ngực và trung thất\nKhông phổ biến: ho\nRối loạn tiêu hóa\nPhổ biến: buồn nôn, rối loạn tiêu hóa\nKhông phổ biến: tiêu chảy, nôn mửa\nRối loạn da và mô dưới da\nKhông phổ biến: tăng tiết mồ hôi, ngứa, phát ban\nCơ xương khớp và rối loạn mô liên kết\nKhông phổ biến: đau khớp, đau cơ, cứng khớp, cứng cơ xương",
+        "human": 1,
+        "human2": 0,
+        "llm": 0
+      },
+      {
+        "key": "c7",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 6.5. Quy cách đóng gói | 6.6. Hướng dẫn sử dụng/xử lý]\nBoostrix là hỗn hợp trắng đục được đóng sẵn trong bơm tiêm hoặc trong lọ thủy tinh đơn liều.\nLọ và bơm tiêm đóng sẵn được làm từ thủy tinh trung tính loại I, tuân theo các tiêu chuẩn của Dược điển Châu Âu.\n\n-9-\n\nTrước khi tiêm chủng, nên lắc kỹ để có được hỗn hợp màu trắng đục đồng nhất và kiểm tra bằng mắt để xem có những phân tử lạ và / hoặc biến đổi về mặt vật lý. Trong trường hợp thấy có vấn đề, phải loại bỏ vắc xin.\nVắc xin nên được dùng ngay sau khi mở hộp (không quá 8 giờ sau khi mở nắp).\nBất kỳ sản phẩm không sử dụng hoặc chất thải nên được xử lý phù hợp với yêu cầu của địa phương.",
+        "human": 1,
+        "human2": 0,
+        "llm": 0
+      },
+      {
+        "key": "c8",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 4.3. Chống chỉ định]\nBoostrix không chỉ định cho người có tiền sử quá mẫn với bất kỳ thành phần nào của vắc-xin (Xem phần Định lượng và Định tính và Danh sách tá dược) hoặc người có dấu hiệu quá mẫn sau khi tiêm các vắc xin bạch hầu, ho gà hoặc uốn ván trước đó.\nChống chỉ định dùng Boostrix nếu người có biểu hiện bệnh lý não không rõ nguyên nhân, xảy ra trong vòng 7 ngày sau tiêm chủng vắc-xin có chứa thành phần ho gà trước đó. Trong trường hợp này nên ngừng tiêm vắc xin ho gà, và chương trình chủng ngừa vẫn tiếp tục với các vắc xin bạch hầu và uốn ván.\nChống chỉ định dùng Boostrix đối với người có tiền sử giảm tiểu cầu thoáng qua hoặc các biến chứng về thần kinh sau khi chủng ngừa bạch hầu và/hoặc uốn ván trước đó (co giật hoặc cơn giảm trương lực - giảm đáp ứng, xem phần Cảnh báo và Thận trọng đặc biệt).",
+        "human": 1,
+        "human2": 0,
+        "llm": 0
+      },
+      {
+        "key": "c9",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 4.4. Cảnh báo và Thận trọng đặc biệt]\nGiống như các vắc-xin khác, nên hoãn tiêm Boostrix cho các đối tượng đang sốt cao cấp tính. Không chống chỉ định khi có biểu hiện nhiễm khuẩn nhẹ.\nNên hỏi tiền sử y khoa trước khi tiêm chủng (nhất là tiêm chủng trước đó và các biến cố ngoại ý có khả năng xảy ra) và khám lâm sàng.\nNếu bất kỳ biểu hiện nào dưới đây đã xảy ra trong khoảng thời gian có liên quan đến việc dùng vắc xin có thành phần ho gà, cần cân nhắc cẩn thận khi quyết định sử dụng vắc-xin có chứa thành phần ho gà. Những biểu hiện bao gồm:\nNhiệt độ ≥ 40,0°C trong vòng 48 giờ sau tiêm chủng, mà không phát hiện nguyên nhân nào khác;\n\n-2-",
+        "human": 1,
+        "human2": 0,
+        "llm": 0
+      },
+      {
+        "key": "c10",
+        "text": "[CHỦ ĐỀ: Boostrix] > [MỤC: 5.1. Dược động học]\n| Kháng nguyên | Huyết thanh có kháng thể bảo vệ/ Huyết thanh dương tính | Người lớn và trẻ trên 10 tuổi, ít nhất 1690 đối tượng (% đối tượng được tiêm) | Trẻ từ 4-9 tuổi, ít nhất 415 đối tượng (% đối tượng được tiêm) |\n| :--- | :--- | :--- | :--- |\n| **Bạch hầu** | ≥ 0,1 IU/mL* | 97,2% | 99,8% |\n| **Uốn ván** | ≥ 0,1 IU/mL* | 99,0% | 100,0% |\n| **Ho gà:** | | | |\n| Giải độc tố ho gà | ≥ 5 EL.U/mL | 97,8% | 99,0% |\n| Ngưng kết hồng cầu dạng sợi | ≥ 5 EL.U/mL | 99,9% | 100,0% |\n| Pertactin | ≥ 5 EL.U/mL | 99,4% | 99,8% |",
+        "human": 1,
+        "human2": 0,
+        "llm": 0
+      }
+    ]
+  }
+]

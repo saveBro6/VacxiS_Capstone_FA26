@@ -13,6 +13,7 @@ PARQUET_SCHEMA = pa.schema([
     ("header", pa.string()),
     ("content_type", pa.string()),
     ("text", pa.string()),
+    ("parent_chunk_id", pa.string()),
     ("metadata", pa.struct([
         ("has_table", pa.bool_()),
         ("source_file", pa.string()),
@@ -35,6 +36,7 @@ def write_chunks_to_parquet(
     headers = []
     content_types = []
     texts = []
+    parent_chunk_ids = []
     meta_has_table = []
     meta_source_file = []
 
@@ -47,6 +49,7 @@ def write_chunks_to_parquet(
         headers.append(row["header"])
         content_types.append(row["content_type"])
         texts.append(row["text"])
+        parent_chunk_ids.append(row.get("parent_chunk_id"))
         meta_has_table.append(row["metadata"]["has_table"])
         meta_source_file.append(row["metadata"]["source_file"])
 
@@ -59,6 +62,7 @@ def write_chunks_to_parquet(
         "header": pa.array(headers, type=pa.string()),
         "content_type": pa.array(content_types, type=pa.string()),
         "text": pa.array(texts, type=pa.string()),
+        "parent_chunk_id": pa.array(parent_chunk_ids, type=pa.string()),
         "metadata": pa.StructArray.from_arrays(
             [
                 pa.array(meta_has_table, type=pa.bool_()),

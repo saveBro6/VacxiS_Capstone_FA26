@@ -1,0 +1,724 @@
+{
+  "VAX_Q_0073": {
+    "labels": {
+      "nimenrix_540310196925_c_0004": 2,
+      "nimenrix_540310196925_c_0002": 0,
+      "nimenrix_540310196925_c_0060": 0,
+      "nimenrix_540310196925_c_0003": 2,
+      "varilrix_001310177800_c_0004": 0,
+      "nimenrix_540310196925_c_0062": 0,
+      "nimenrix_540310196925_c_0005": 0,
+      "nimenrix_540310196925_c_0008": 0,
+      "nimenrix_540310196925_c_0015": 0,
+      "nimenrix_540310196925_c_0000": 0
+    },
+    "answer": "Vaccine Nimenrix chống chỉ định trong trường hợp quá mẫn với hoạt chất hoặc bất kỳ thành phần tá dược nào liệt kê ở mục 6.1.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T16:39:53+00:00"
+  },
+  "VAC_OOS_010": {
+    "labels": {
+      "hexaxim_300310038123_c_0012": 0,
+      "tetavax_qlvx_993_17_c_0005": 0,
+      "speeda_qlvx_1041_17_c_0005": 0,
+      "cervarixtm_qlvx_0490_12_c_0002": 0,
+      "vaxneuvance_539310049125_c_0019": 0,
+      "speeda_qlvx_1041_17_c_0003": 0,
+      "rabipur_qlvx_1048_17_c_0009": 0,
+      "m_m_r_ii_001310197925_c_0025": 0,
+      "rabipur_qlvx_1048_17_c_0021": 0,
+      "cervarixtm_qlvx_0490_12_c_0004": 0
+    },
+    "answer": "Không có thông tin trong hướng dẫn sử dụng về cách cập nhật vào sổ tiêm chủng điện tử sau khi tiêm vắc xin.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T16:54:35+00:00"
+  },
+  "VAX_Q_0107": {
+    "labels": {
+      "hexaxim_300310038123_c_0018": 0,
+      "hexaxim_300310038123_c_0023": 0,
+      "hexaxim_300310038123_c_0014": 0,
+      "hexaxim_300310038123_c_0015": 2,
+      "hexaxim_300310038123_c_0022": 0,
+      "hexaxim_300310038123_c_0016": 0,
+      "hexaxim_300310038123_c_0001": 0,
+      "hexaxim_300310038123_c_0011": 0,
+      "hexaxim_300310038123_c_0021": 0,
+      "hexaxim_300310038123_c_0000": 2
+    },
+    "answer": "Thành phần hoạt chất của Hexaxim bao gồm giải độc tố bạch hầu, giải độc tố uốn ván, kháng nguyên Bordetella pertussis, giải độc tố ho gà (PT), ngưng kết tố hồng cầu dạng sợi (FHA), virus bại liệt (bất hoạt), kháng nguyên bề mặt viêm gan B, polysaccharide Haemophilus influenzae týp b cộng hợp với protein uốn ván. Những người bị dị ứng với các hoạt chất này sẽ bị chống chỉ định.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T16:58:47+00:00"
+  },
+  "VAX_Q_0174": {
+    "labels": {
+      "havax_893310108024_c_0000": 0,
+      "havax_893310108024_c_0005": 0,
+      "havax_893310108024_c_0002": 2,
+      "havax_893310108024_c_0010": 0,
+      "havax_893310108024_c_0008": 0,
+      "havax_893310108024_c_0009": 0,
+      "havax_893310108024_c_0007": 0,
+      "pentaxim_300310250623_c_0005": 0,
+      "havax_893310108024_c_0003": 0,
+      "havax_893310108024_c_0004": 0
+    },
+    "answer": "HAVAX chỉ định để phòng bệnh viêm gan A cho mọi đối tượng người lớn và trẻ em từ 2 tuổi (24 tháng tuổi) trở lên, đặc biệt là những người có nguy cơ phơi nhiễm với virút viêm gan A.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:02:23+00:00"
+  },
+  "VAX_Q_0171": {
+    "labels": {
+      "gardasil_qlvx_883_15_c_0006": 0,
+      "gardasil_9_001310178700_c_0002": 0,
+      "gardasil_qlvx_883_15_c_0018": 2,
+      "gardasil_qlvx_883_15_c_0001": 2,
+      "gardasil_qlvx_883_15_c_0002": 0,
+      "gardasil_qlvx_883_15_c_0011": 0,
+      "gardasil_qlvx_883_15_c_0020": 0,
+      "gardasil_9_001310178700_c_0017": 0,
+      "gardasil_9_001310178700_c_0011": 0,
+      "gardasil_qlvx_883_15_c_0000": 2
+    },
+    "answer": "Vaccine Gardasil chứa các thành phần sau: nhôm (dưới dạng hydroxyphosphate sulfate nhôm vô định hình), natri chloride, L-histidine, polysorbate 80, natri borate và nước pha tiêm. Các tác dụng không mong muốn có thể bao gồm nổi mề đay, co thắt phế quản, và viêm khớp/bệnh khớp không đặc hiệu. Tuy nhiên, các thông tin về thành phần và tác dụng phụ này chủ yếu được đề cập trong các đoạn c3, c4 và c10.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:08:46+00:00"
+  },
+  "VAC_AMB_019": {
+    "labels": {
+      "skyvaricella_inj_880310033426_c_0009": 0,
+      "barycela_inj_880310322325_c_0003": 0,
+      "tt_vaccine_893310323125_c_0008": 0,
+      "skyvaricella_inj_880310033426_c_0008": 0,
+      "heberbiovac_hb_850310304424_c_0005": 0,
+      "varivax_001310037823_c_0005": 0,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0002": 0,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0005": 0,
+      "skyvaricella_inj_880310033426_c_0003": 0,
+      "varivax_001310037823_c_0007": 0
+    },
+    "answer": "Không có thông tin về việc phụ nữ mang thai có thể tiêm vắc xin thủy đậu trong hướng dẫn sử dụng vắc xin.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:11:54+00:00"
+  },
+  "VAX_Q_0020": {
+    "labels": {
+      "tresivac_890310304524_c_0003": 0,
+      "tresivac_890310304524_c_0001": 0,
+      "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0011": 0,
+      "tetavax_qlvx_993_17_c_0009": 0,
+      "tresivac_890310304524_c_0008": 2,
+      "rotavac_890310196625_c_0017": 0,
+      "tresivac_890310304524_c_0002": 0,
+      "bopv_qlvx_h02_1051_17_c_0005": 0,
+      "tresivac_890310304524_c_0000": 0,
+      "cervarixtm_qlvx_0490_12_c_0031": 0
+    },
+    "answer": "Hạn dùng của TRESIVAC là 24 tháng kể từ ngày có kết quả công hiệu lần cuối cùng đạt yêu cầu, với điều kiện bảo quản ở chỗ tối ở nhiệt độ 2-8°C. Tuy nhiên, thông tin về hạn dùng cụ thể không được nêu rõ trong các đoạn trích được cung cấp.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:14:50+00:00"
+  },
+  "VAX_Q_0114": {
+    "labels": {
+      "gc_flu_pre_filled_syringe_inj_880310249823_c_0009": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0005": 2,
+      "ivacflu_s_qlvx_h03_1137_19_c_0001": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0000": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0009": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0006": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0004": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0002": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0010": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0003": 0
+    },
+    "answer": "Theo hướng dẫn sử dụng của IVACFLU-S, vắc xin có thể được tiêm cùng lúc với các vắc xin khác nhưng vị trí tiêm phải được thực hiện ở các vị trí khác nhau. Tuy nhiên, không có nghiên cứu nào đánh giá việc tiêm đồng thời IVACFLU-S với vaccine cúm.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:18:34+00:00"
+  },
+  "VAC_AMB_049": {
+    "labels": {
+      "pentavac_890310178100_c_0004": 2,
+      "pentavac_890310178100_c_0016": 0,
+      "pentavac_890310178100_c_0006": 0,
+      "pentavac_890310178100_c_0005": 0,
+      "pentavac_890310178100_c_0018": 0,
+      "pentavac_890310178100_c_0003": 0,
+      "pentavac_890310178100_c_0020": 0,
+      "pentavac_890310178100_c_0011": 0,
+      "pentavac_890310178100_c_0001": 0,
+      "pentavac_890310178100_c_0008": 0
+    },
+    "answer": "Cách dùng vắc xin PENTAVAC không được tiêm dưới da hoặc tiêm tĩnh mạch. Dung dịch vắc xin phải được lắc đều trước khi sử dụng và tiêm theo đường tiêm bắp. Liều tiêm cho trẻ em là 0,5ml/liều. Vắc xin phải được sử dụng trong khoảng nhiệt độ 2-8°C và không được làm đông băng. Không có thông tin chi tiết về cách sử dụng vắc xin cho các đối tượng cụ thể, tác dụng không mong muốn, hoặc các thông tin liên quan khác trong hướng dẫn sử dụng.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:22:37+00:00"
+  },
+  "VAC_AMB_009": {
+    "labels": {
+      "gardasil_9_001310178700_c_0021": 0,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0008": 0,
+      "gardasil_9_001310178700_c_0008": 0,
+      "gardasil_9_001310178700_c_0002": 0,
+      "gardasil_9_001310178700_c_0019": 0,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0004": 0,
+      "gardasil_qlvx_883_15_c_0006": 0,
+      "cervarixtm_qlvx_0490_12_c_0004": 0,
+      "tt_vaccine_893310323125_c_0007": 0,
+      "gardasil_9_001310178700_c_0024": 0
+    },
+    "answer": "Không có thông tin về người có bệnh nền cần lưu ý gì khi tiêm vắc xin HPV trong các đoạn hướng dẫn sử dụng được cung cấp.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:27:02+00:00"
+  },
+  "VAC_OOS_007": {
+    "labels": {
+      "indirab_890310249723_c_0002": 0,
+      "indirab_890310249723_c_0005": 0,
+      "tt_vaccine_893310323125_c_0004": 0,
+      "tt_vaccine_893310323125_c_0013": 0,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0002": 0,
+      "indirab_890310249723_c_0004": 0,
+      "ivacflu_s_qlvx_h03_1137_19_c_0011": 0,
+      "combe_five_890310108224_c_0002": 0,
+      "prevenar_13_540310111524_c_0052": 0,
+      "tt_vaccine_893310323125_c_0005": 0
+    },
+    "answer": "",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:30:54+00:00"
+  },
+  "VAX_Q_0133": {
+    "labels": {
+      "m_m_r_ii_qlvx_878_15_c_0025": 2,
+      "m_m_r_ii_001310197925_c_0015": 0,
+      "m_m_r_ii_qlvx_878_15_c_0011": 2,
+      "m_m_r_ii_qlvx_878_15_c_0003": 0,
+      "m_m_r_ii_001310197925_c_0026": 2,
+      "m_m_r_ii_001310197925_c_0000": 0,
+      "m_m_r_ii_qlvx_878_15_c_0000": 0,
+      "m_m_r_ii_001310197925_c_0010": 0,
+      "m_m_r_ii_001310197925_c_0003": 0,
+      "m_m_r_ii_001310197925_c_0027": 0
+    },
+    "answer": "Vắc-xin M-M-R II cần được bảo quản ở 2°C đến 8°C, tránh ánh sáng. Trong quá trình vận chuyển, vắc-xin phải được bảo quản ở -50°C đến 8°C (-58°F tới 46°F).",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:34:54+00:00"
+  },
+  "VAX_Q_0039": {
+    "labels": {
+      "rabipur_qlvx_1048_17_c_0011": 2,
+      "rabipur_qlvx_1048_17_c_0018": 2,
+      "rabipur_qlvx_1048_17_c_0015": 0,
+      "rabipur_qlvx_1048_17_c_0004": 0,
+      "rabipur_qlvx_1048_17_c_0003": 0,
+      "rabipur_qlvx_1048_17_c_0000": 0,
+      "rabipur_qlvx_1048_17_c_0007": 0,
+      "rabipur_qlvx_1048_17_c_0013": 0,
+      "rabipur_qlvx_1048_17_c_0002": 0,
+      "rabipur_qlvx_1048_17_c_0020": 0
+    },
+    "answer": "Vắc xin Rabipur dành cho những đối tượng có nguy cơ cao nhiễm bệnh dại, những người bắt đầu điều trị muộn, và những người bị suy giảm miễn dịch. Đối tượng không có trong HDSD bao gồm người đã tiêm chủng đầy đủ trước hoặc sau phơi nhiễm, người không có nguy cơ nhiễm bệnh dại, và người không bị suy giảm miễn dịch.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:38:40+00:00"
+  },
+  "VAC_OOS_004": {
+    "labels": {
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0006": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0000": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0016": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0011": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0013": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0015": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0009": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0002": 2,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0005": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0023": 0
+    },
+    "answer": "Vắc xin VAXIGRIP (0,5ml) không có thông tin về việc có thể chữa khỏi dứt điểm bệnh ung thư giai đoạn muộn. Vắc xin này chỉ được chỉ định để phòng ngừa bệnh cúm do virus cúm H1N1, H3N2 và B.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:43:20+00:00"
+  },
+  "VAC_AMB_030": {
+    "labels": {
+      "infanrix_ipv_hib_qlvx_1138_19_c_0005": 0,
+      "td_vaccine_qlvx_943_16_c_0000": 2,
+      "dpt_vaccine_893310250923_c_0000": 2,
+      "pentavac_890310178100_c_0001": 0,
+      "pentaxim_300310250623_c_0003": 0,
+      "dpt_vaccine_893310250923_c_0002": 2,
+      "boostrix_300310036923_c_0000": 0,
+      "combe_five_890310108224_c_0003": 0,
+      "td_vaccine_qlvx_943_16_c_0005": 0,
+      "td_vaccine_qlvx_943_16_c_0001": 2
+    },
+    "answer": "Vắc xin bạch hầu - ho gà - uốn ván (DPT) chứa các thành phần sau: giải độc tố uốn ván tinh chế (≥ 20 đvqt), giải độc tố bạch hầu tinh chế (≥ 2 đvqt), và các tá dược như Aluminium Phosphate (≤ 3 mg) và Chất bảo quản (Merthiolate 0,005 - 0,02%).",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:48:11+00:00"
+  },
+  "VAX_Q_0002": {
+    "labels": {
+      "speeda_qlvx_1041_17_c_0011": 0,
+      "nimenrix_540310196925_c_0001": 2,
+      "td_vaccine_qlvx_943_16_c_0000": 0,
+      "prevenar_20_539310047525_c_0001": 0,
+      "adacel_754310306124_c_0007": 0,
+      "m_m_r_ii_001310197925_c_0001": 0,
+      "speeda_qlvx_1041_17_c_0008": 0,
+      "speeda_qlvx_1041_17_c_0000": 2,
+      "proquad_001310197825_c_0025": 0,
+      "envacgen_471310033726_c_0002": 0
+    },
+    "answer": "Thành phần hoạt chất của SPEEDA là kháng nguyên virus dại tinh chế với liều lượng ≥ 2.5 IU. Những người bị dị ứng với kháng nguyên virus dại tinh chế hoặc bất kỳ tá dược nào trong SPEEDA sẽ bị chống chỉ định.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:52:10+00:00"
+  },
+  "VAC_AMB_021": {
+    "labels": {
+      "gardasil_9_001310178700_c_0019": 0,
+      "havax_893310108024_c_0003": 0,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0006": 0,
+      "cervarixtm_qlvx_0490_12_c_0014": 0,
+      "heberbiovac_hb_850310304224_c_0005": 0,
+      "cervarixtm_qlvx_0490_12_c_0010": 0,
+      "jeev_890310108424_c_0002": 0,
+      "tt_vaccine_893310323125_c_0004": 0,
+      "combe_five_890310108224_c_0002": 0,
+      "gardasil_9_001310178700_c_0004": 2
+    },
+    "answer": "Vắc xin Gardasil 9 cần tiêm 3 liều cho người từ 15 tuổi trở lên, trong vòng 1 năm. Đối với người từ 9-14 tuổi, có thể tiêm theo lịch 2 liều hoặc 3 liều.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:56:57+00:00"
+  },
+  "VAC_OOS_026": {
+    "labels": {
+      "tt_vaccine_893310323125_c_0013": 0,
+      "tt_vaccine_893310323125_c_0004": 0,
+      "tt_vaccine_893310323125_c_0000": 0,
+      "tt_vaccine_893310323125_c_0002": 0,
+      "tt_vaccine_893310323125_c_0005": 0,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0002": 0,
+      "tt_vaccine_893310323125_c_0010": 0,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0010": 0,
+      "tt_vaccine_893310323125_c_0007": 0,
+      "m_m_r_ii_qlvx_878_15_c_0001": 0
+    },
+    "answer": "",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T17:59:51+00:00"
+  },
+  "VAX_Q_0049": {
+    "labels": {
+      "envacgen_471310033726_c_0003": 0,
+      "envacgen_471310033726_c_0010": 0,
+      "envacgen_471310033726_c_0021": 0,
+      "envacgen_471310033726_c_0023": 0,
+      "envacgen_471310033726_c_0007": 0,
+      "envacgen_471310033726_c_0019": 0,
+      "envacgen_471310033726_c_0001": 2,
+      "envacgen_471310033726_c_0006": 0,
+      "shanvac_b_qlvx_994_17_c_0005": 0,
+      "envacgen_471310033726_c_0000": 0
+    },
+    "answer": "Vắc-xin Envacgen được tiêm bằng đường tiêm bắp, lý tưởng nhất là cơ delta cánh tay hoặc cơ bắp đùi.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:04:19+00:00"
+  },
+  "VAC_AMB_025": {
+    "labels": {
+      "vaxigrip_300310033526_c_0020": 0,
+      "tt_vaccine_893310323125_c_0008": 0,
+      "heberbiovac_hb_850310304424_c_0005": 0,
+      "m_m_r_ii_qlvx_878_15_c_0012": 0,
+      "vaxigrip_300310033526_c_0023": 0,
+      "vaxigrip_300310033526_c_0021": 0,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0010": 0,
+      "gc_flu_pre_filled_syringe_inj_880310249823_c_0010": 0,
+      "speeda_qlvx_1041_17_c_0009": 0,
+      "td_vaccine_qlvx_943_16_c_0003": 0
+    },
+    "answer": "Theo hướng dẫn sử dụng các vắc xin trong tài liệu này, không có thông tin về việc phụ nữ mang thai có thể tiêm vắc xin não mô cầu (meningococcal vaccine) hay không. Do đó, không có thông tin cụ thể về việc tiêm vắc xin não mô cầu cho phụ nữ mang thai trong tài liệu hướng dẫn sử dụng này.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:08:49+00:00"
+  },
+  "VAC_AMB_008": {
+    "labels": {
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0008": 0,
+      "heberbiovac_hb_850310304224_c_0003": 2,
+      "twinrix_400310177900_c_0005": 0,
+      "pentavac_890310178100_c_0012": 0,
+      "pentavac_890310178100_c_0003": 0,
+      "heberbiovac_hb_850310304424_c_0003": 2,
+      "euvax_b_qlvx_933_16_c_0005": 0,
+      "pentavac_890310178100_c_0009": 0,
+      "shanvac_b_qlvx_994_17_c_0007": 2,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0004": 2
+    },
+    "answer": "Những ai nên tiêm vắc xin viêm gan B bao gồm: tất cả trẻ sơ sinh và thanh thiếu niên chưa từng được tiêm ngừa trước đó; nhân viên y tế, nhân viên nhà tang lễ, nhân viên pháp y; những người tiếp xúc với máu và các chế phẩm từ máu; người đi du lịch tới hoặc đến từ nước hoặc vùng có tỉ lệ bệnh cao; người cùng gia đình với người bị nhiễm bệnh; người tàn tật được xã hội chăm sóc, những người sống trong các cơ sở xã hội, nhà dưỡng lão và các nhân viên làm việc ở đây; bệnh nhân được truyền máu, bị ung thư, bệnh thận, xơ gan hoặc bệnh nhân được thẩm tách máu hoặc lọc huyết tương; trẻ sơ sinh có mẹ bị nhiễm bệnh hoặc trẻ sơ sinh ở những nước hoặc vùng có nguy cơ cao; bệnh nhân sắp được phẫu thuật và có đủ thời gian để chuyển đổi huyết thanh; bệnh nhân được ghép tạng; người bị chứng máu khó đông hoặc được truyền máu thường xuyên; những người có nguy cơ cao với các hoạt động tình dục; người nghiện ma túy; những người quan hệ tình dục bừa bãi, người đồng tính luyến ái (nam), gái mại dâm; các thành viên gia đình tiếp xúc với nhóm trên và có tiếp xúc với bệnh nhân mắc bệnh viêm gan siêu vi B cấp và mãn tính; cảnh sát, nhân viên cứu hỏa, lực lượng vũ trang và bất cứ người nào mà công việc của họ và lối sống cá nhân có phơi nhiễm với virus viêm gan B.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:17:21+00:00"
+  },
+  "VAC_AMB_017": {
+    "labels": {
+      "speeda_qlvx_1041_17_c_0003": 0,
+      "rotavin_893310109424_c_0000": 0,
+      "pentaxim_300310250623_c_0006": 0,
+      "jeev_890310108424_c_0002": 0,
+      "rotarix_540310037023_c_0015": 0,
+      "combe_five_890310108224_c_0002": 0,
+      "rotavac_890310196625_c_0002": 0,
+      "rotavin_893310109424_c_0001": 0,
+      "havax_893310108024_c_0003": 0,
+      "rotavin_893310109424_c_0003": 0
+    },
+    "answer": "Không có thông tin về lịch tiêm vắc xin rota trong các đoạn được cung cấp.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:20:29+00:00"
+  },
+  "VAC_OOS_025": {
+    "labels": {
+      "pentaxim_300310250623_c_0000": 0,
+      "pentaxim_300310250623_c_0014": 0,
+      "pentaxim_300310250623_c_0008": 0,
+      "pentaxim_300310250623_c_0005": 0,
+      "hexaxim_300310038123_c_0025": 0,
+      "pentaxim_300310250623_c_0011": 0,
+      "pentaxim_300310250623_c_0015": 0,
+      "pentaxim_300310250623_c_0007": 0,
+      "pentaxim_300310250623_c_0001": 0,
+      "pentaxim_300310250623_c_0013": 0
+    },
+    "answer": "Không có thông tin về tình trạng có hàng hay hết hàng của vắc xin Pentaxim trong tờ hướng dẫn sử dụng.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:23:26+00:00"
+  },
+  "VAC_AMB_050": {
+    "labels": {
+      "infanrix_ipv_hib_qlvx_1138_19_c_0012": 2,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0003": 0,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0016": 0,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0006": 0,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0008": 0,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0015": 0,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0005": 0,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0001": 1,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0013": 2,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0017": 0
+    },
+    "answer": "Vắc xin Infanrix IPV-Hib sau khi hoàn nguyên là hỗn dịch có màu hơi đục hơn so với hỗn dịch DTPa-IPV ban đầu. Đây là một hiện tượng quan sát bình thường. Tỷ lệ phần trăm trẻ có hiệu giá kháng thể ≥ giá trị ngưỡng sau tiêm chủng cơ bản và tiêm nhắc lại bằng Infanrix-IPV+Hib được đề cập trong các bảng thống kê, với tỷ lệ cao cho hầu hết các kháng thể được kiểm tra.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:29:40+00:00"
+  },
+  "VAX_Q_0038": {
+    "labels": {
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0023": 0,
+      "vaxigrip_300310033526_c_0006": 2,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0018": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0011": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0000": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0017": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0006": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0007": 2,
+      "vaxigrip_300310033526_c_0005": 0,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0005": 0
+    },
+    "answer": "Theo hướng dẫn sử dụng VAXIGRIP, phụ nữ đang cho con bú có thể sử dụng vắc xin này.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:33:02+00:00"
+  },
+  "VAX_Q_0121": {
+    "labels": {
+      "prevenar_13_540310111524_c_0002": 0,
+      "speeda_qlvx_1041_17_c_0007": 2,
+      "speeda_qlvx_1041_17_c_0011": 0,
+      "speeda_qlvx_1041_17_c_0012": 0,
+      "speeda_qlvx_1041_17_c_0008": 0,
+      "speeda_qlvx_1041_17_c_0003": 0,
+      "prevenar_20_539310047525_c_0002": 0,
+      "speeda_qlvx_1041_17_c_0001": 0,
+      "prevenar_13_qlvx_h03_1142_19_c_0002": 0,
+      "m_m_r_ii_qlvx_878_15_c_0020": 0
+    },
+    "answer": "Không có thông tin về bệnh mà vắc xin SPEEDA được sử dụng để phòng trong hướng dẫn sử dụng.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:35:50+00:00"
+  },
+  "VAX_Q_0140": {
+    "labels": {
+      "boostrix_300310036923_c_0002": 0,
+      "boostrix_300310036923_c_0018": 0,
+      "boostrix_300310036923_c_0005": 0,
+      "boostrix_300310036923_c_0008": 0,
+      "boostrix_300310036923_c_0011": 0,
+      "boostrix_300310036923_c_0010": 0,
+      "boostrix_300310036923_c_0019": 0,
+      "boostrix_300310036923_c_0003": 0,
+      "boostrix_300310036923_c_0004": 0,
+      "boostrix_300310036923_c_0014": 0
+    },
+    "answer": "Không có thông tin về việc đặt mua trực tuyến vắc xin Boostrix qua trang web nào trong hướng dẫn sử dụng vắc xin Boostrix.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:39:21+00:00"
+  },
+  "VAX_Q_0154": {
+    "labels": {
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0010": 0,
+      "skyvaricella_inj_880310033426_c_0012": 2,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0009": 0,
+      "varilrix_001310177800_c_0010": 0,
+      "skyvaricella_inj_880310033426_c_0011": 2,
+      "skyvaricella_inj_880310033426_c_0014": 0,
+      "bcg_vaccine_893310251023_c_0009": 0,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0008": 2,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0004": 0,
+      "pentaxim_300310250623_c_0012": 0
+    },
+    "answer": "Theo hướng dẫn sử dụng Varicella Vaccine-GCC Inj, sưng/cứng tại vùng tiêm là một tác dụng phụ thường gặp. Tuy nhiên, không có thông tin cụ thể về mức độ sưng đỏ bình thường.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:43:03+00:00"
+  },
+  "VAX_LLM_0009": {
+    "labels": {
+      "pneumovax_23_001310303524_c_0010": 2,
+      "pneumovax_23_001310303524_c_0000": 0,
+      "pneumovax_23_001310303524_c_0006": 0,
+      "pneumovax_23_001310303524_c_0014": 2,
+      "pneumovax_23_001310303524_c_0004": 0,
+      "pneumovax_23_001310303524_c_0013": 2,
+      "pneumovax_23_001310303524_c_0012": 2,
+      "cervarixtm_qlvx_0490_12_c_0007": 0,
+      "pneumovax_23_001310303524_c_0011": 0,
+      "pneumovax_23_001310303524_c_0008": 0
+    },
+    "answer": "Sau khi tiêm Pneumovax 23, người dùng có thể gặp các tác dụng phụ như suy nhược/mệt mỏi, đau cơ và nhức đầu (rất thường gặp), sốt (rất thường gặp), phun đỏ, chai cứng, đau, đau nhức, sưng tại chỗ tiêm (rất thường gặp), và sưng lan tỏa chi được tiêm (hiếm gặp). Ngoài ra, cũng có thể gặp các tác dụng phụ khác như tăng protein phản ứng C (không rõ), tăng bạch cầu, viêm hạch bạch huyết, bệnh hạch bạch huyết, giảm tiểu cầu (không rõ), co giật có sốt, hội chứng Guillain-Barré, nhức đầu, dị cảm, bệnh thần kinh-rễ, buồn nôn, nôn, phát ban, nổi mề đay, đau khớp, viêm khớp, đau cơ (không rõ).",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:49:12+00:00"
+  },
+  "VAC_AMB_028": {
+    "labels": {
+      "rabipur_qlvx_1048_17_c_0011": 2,
+      "rabipur_qlvx_1048_17_c_0009": 2,
+      "indirab_890310249723_c_0004": 2,
+      "indirab_890310249723_c_0003": 0,
+      "dpt_vaccine_893310250923_c_0003": 0,
+      "combe_five_890310108224_c_0002": 0,
+      "speeda_qlvx_1041_17_c_0002": 0,
+      "jeev_890310108424_c_0002": 0,
+      "jeev_890310108324_c_0002": 0,
+      "indirab_890310249723_c_0005": 2
+    },
+    "answer": "Vắc xin phòng dại cần tiêm 5 liều cho người chưa tiêm chủng hoặc tiêm chủng không đầy đủ, và 2 liều cho người đã tiêm chủng đầy đủ.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:53:42+00:00"
+  },
+  "VAC_OOS_008": {
+    "labels": {
+      "verorab_300310305824_c_0015": 0,
+      "havax_893310108024_c_0002": 0,
+      "cervarixtm_qlvx_0490_12_c_0004": 0,
+      "tt_vaccine_893310323125_c_0013": 0,
+      "vaxneuvance_539310049125_c_0003": 0,
+      "m_m_r_ii_001310197925_c_0005": 0,
+      "td_vaccine_qlvx_943_16_c_0007": 0,
+      "rabipur_qlvx_1048_17_c_0007": 0,
+      "va_mengoc_bc_850310110724_c_0003": 0,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0008": 0
+    },
+    "answer": "Không có thông tin về thời gian chờ khám sàng lọc trước khi tiêm trong Hướng dẫn sử dụng các vắc xin được đề cập trong các đoạn ứng viên.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T18:58:17+00:00"
+  },
+  "VAX_Q_0034": {
+    "labels": {
+      "verorab_300310305824_c_0012": 0,
+      "verorab_300310305824_c_0008": 0,
+      "verorab_300310305824_c_0018": 0,
+      "verorab_300310305824_c_0000": 0,
+      "verorab_300310305824_c_0014": 0,
+      "verorab_300310305824_c_0009": 0,
+      "verorab_300310305824_c_0013": 2,
+      "verorab_300310305824_c_0011": 0,
+      "verorab_300310305824_c_0003": 0,
+      "verorab_300310305824_c_0015": 0
+    },
+    "answer": "Theo hướng dẫn sử dụng vắc xin Verorab, những đối tượng tuyệt đối không được dùng bao gồm những người đang điều trị dài ngày bằng corticosteroid hay các điều trị ức chế miễn dịch khác, những người bị suy giảm miễn dịch, và đặc biệt là trẻ em bị những vết cắn nặng, đặc biệt là ở vùng đầu và cổ, hay đến khám trễ sau khi bị cắn.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T19:03:31+00:00"
+  },
+  "VAC_OOS_022": {
+    "labels": {
+      "vaxneuvance_539310049125_c_0048": 0,
+      "pentaxim_300310250623_c_0009": 0,
+      "bcg_vaccine_893310251023_c_0015": 0,
+      "va_mengoc_bc_850310110724_c_0002": 0,
+      "td_vaccine_qlvx_943_16_c_0007": 0,
+      "abrysvo_540310322125_c_0022": 0,
+      "vaxneuvance_539310049125_c_0020": 0,
+      "tt_vaccine_893310323125_c_0013": 0,
+      "bexsero_800310090123_c_0007": 0,
+      "vaxneuvance_539310049125_c_0043": 0
+    },
+    "answer": "Không có thông tin về giờ mở cửa vào cuối tuần của VNVC trong Hướng dẫn sử dụng vắc xin.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T19:07:44+00:00"
+  },
+  "VAC_AMB_020": {
+    "labels": {
+      "twinrix_400310177900_c_0005": 0,
+      "havax_893310108024_c_0008": 0,
+      "pentavac_890310178100_c_0012": 0,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0004": 0,
+      "heberbiovac_hb_850310304424_c_0003": 0,
+      "combe_five_890310108224_c_0003": 0,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0007": 0,
+      "pentavac_890310178100_c_0003": 0,
+      "pentavac_890310178100_c_0009": 0,
+      "heberbiovac_hb_850310304224_c_0003": 0
+    },
+    "answer": "Không có thông tin về việc người đang sốt nhẹ có thể tiêm vắc xin viêm gan B trong hướng dẫn sử dụng các sản phẩm vắc xin được đề cập.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T19:12:03+00:00"
+  },
+  "VAX_Q_0047": {
+    "labels": {
+      "menactra_qlvx_h03_1111_18_c_0003": 0,
+      "menactra_qlvx_h03_1111_18_c_0002": 0,
+      "menactra_qlvx_h03_1111_18_c_0028": 0,
+      "menactra_qlvx_h03_1111_18_c_0025": 0,
+      "menactra_qlvx_h03_1111_18_c_0029": 0,
+      "menactra_qlvx_h03_1111_18_c_0009": 2,
+      "menactra_qlvx_h03_1111_18_c_0011": 0,
+      "menactra_qlvx_h03_1111_18_c_0026": 0,
+      "vaxigrip_tetra_300310305924_c_0005": 0,
+      "menactra_qlvx_h03_1111_18_c_0000": 0
+    },
+    "answer": "Theo hướng dẫn sử dụng vắc xin Menactra, không có thông tin về tương tác với các thuốc khác. Tuy nhiên, khi tiêm đồng thời với các vắc xin khác, cần sử dụng bơm tiêm và vị trí tiêm riêng biệt để tránh tương tác.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T19:16:36+00:00"
+  },
+  "VAX_Q_0116": {
+    "labels": {
+      "nimenrix_540310196925_c_0011": 0,
+      "nimenrix_540310196925_c_0005": 0,
+      "nimenrix_540310196925_c_0008": 0,
+      "nimenrix_540310196925_c_0022": 0,
+      "nimenrix_540310196925_c_0002": 0,
+      "nimenrix_540310196925_c_0004": 0,
+      "nimenrix_540310196925_c_0012": 0,
+      "nimenrix_540310196925_c_0060": 0,
+      "nimenrix_540310196925_c_0032": 0,
+      "nimenrix_540310196925_c_0015": 0
+    },
+    "answer": "Không có thông tin về việc đặt mua trực tuyến vắc xin Nimenrix trên tờ hướng dẫn sử dụng vắc xin này.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T19:21:17+00:00"
+  },
+  "VAX_Q_0132": {
+    "labels": {
+      "vaxneuvance_539310049125_c_0017": 0,
+      "vaxneuvance_539310049125_c_0002": 2,
+      "vaxneuvance_539310049125_c_0027": 0,
+      "vaxneuvance_539310049125_c_0057": 0,
+      "vaxneuvance_539310049125_c_0004": 0,
+      "vaxneuvance_539310049125_c_0024": 0,
+      "vaxneuvance_539310049125_c_0003": 0,
+      "vaxneuvance_539310049125_c_0020": 0,
+      "vaxneuvance_539310049125_c_0016": 0,
+      "vaxneuvance_539310049125_c_0032": 0
+    },
+    "answer": "Liều lượng và lịch tiêm của Vaxneuvance cho trẻ em từ 6 tuần tuổi đến dưới 2 tuổi bao gồm hai phác đồ: Phác đồ 3 liều và Phác đồ 4 liều. Phác đồ 3 liều bao gồm 3 liều Vaxneuvance, mỗi liều 0,5 ml, với liều đầu tiên tiêm khi trẻ từ 6-12 tuần tuổi, liều thứ hai sau 8 tuần, và liều thứ ba khi trẻ khoảng 11-15 tháng tuổi. Phác đồ 4 liều bao gồm 4 liều Vaxneuvance, mỗi liều 0,5 ml, với liều đầu tiên tiêm khi trẻ từ 6-12 tuần tuổi, liều thứ hai sau 4-8 tuần, liều thứ ba sau 6 tháng, và liều thứ tư khi trẻ khoảng 11-15 tháng tuổi, cách liều thứ ba ít nhất 2 tháng. Sau tiêm, cần theo dõi các phản ứng có hại như sốt, đau tại chỗ tiêm, ban đỏ tại chỗ tiêm, và các triệu chứng khác. Nếu có phản ứng nghiêm trọng, cần liên hệ với bác sĩ ngay lập tức.",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T19:28:51+00:00"
+  },
+  "VAX_LLM_0005": {
+    "labels": {
+      "proquad_001310197825_c_0012": 0,
+      "vaxigrip_tetra_300310305924_c_0004": 2,
+      "tt_vaccine_893310323125_c_0008": 2,
+      "tt_vaccine_893310323125_c_0005": 0,
+      "heberbiovac_hb_850310304424_c_0005": 0,
+      "vaxigrip_300310033526_c_0005": 2,
+      "avaxim_80_u_pediatric_300310250723_c_0006": 0,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0005": 0,
+      "td_vaccine_qlvx_943_16_c_0003": 0,
+      "proquad_001310197825_c_0006": 0
+    },
+    "answer": "",
+    "prompt_version": "v1",
+    "prompt_hash": "319851fb3217",
+    "model": "qwen2.5:7b",
+    "labeled_at": "2026-11-14T19:32:50+00:00"
+  }
+}

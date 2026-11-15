@@ -1,0 +1,9 @@
+{
+  "state": "stopped",
+  "source": "H",
+  "reason": "người gán nhãn bấm Dừng cả hai",
+  "human_done": 89,
+  "total": 90,
+  "llm_done": 0,
+  "llm_enabled": true
+}

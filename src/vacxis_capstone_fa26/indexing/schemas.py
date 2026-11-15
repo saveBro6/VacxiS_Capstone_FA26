@@ -106,6 +106,19 @@ def slugify(text: str) -> str:
     return text.strip("_")
 
 
+_SPLIT_SUFFIX_RE = re.compile(r"_s\d+$")
+
+
+def make_split_chunk_id(parent_chunk_id: str, k: int) -> str:
+    """Chunk con khi một chunk bị tách vì quá token: {parent_chunk_id}_s{k}."""
+    return f"{parent_chunk_id}_s{k}"
+
+
+def parent_chunk_id_of(chunk_id: str) -> str:
+    """Trả về id gốc (bỏ hậu tố _s{k}); id không bị tách thì giữ nguyên."""
+    return _SPLIT_SUFFIX_RE.sub("", chunk_id)
+
+
 def make_chunk_id(doc_id: str, chunk_idx: int) -> str:
     """Generate chunk_id matching convention: {doc_id}_c_{idx:04d}."""
     return f"{doc_id}_c_{chunk_idx:04d}"

@@ -1,7 +1,7 @@
 [project]
 name = "vacxis-capstone-fa26"
 version = "0.1.0"
-description = "Add your description here"
+description = "VacxiS vaccine RAG evaluation and labeling pipeline"
 readme = "README.md"
 authors = [
     { name = "saveBro6", email = "hungmtp1309@gmail.com" }

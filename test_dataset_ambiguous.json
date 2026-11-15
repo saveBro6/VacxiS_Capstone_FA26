@@ -1,0 +1,1885 @@
+[
+  {
+    "query_id": "VAC_AMB_001",
+    "query": "Vắc xin não mô cầu có gây tác dụng phụ gì không?",
+    "query_type": "adverse_effect_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "bexsero",
+      "va_mengoc_bc",
+      "menquadfi",
+      "menactra"
+    ],
+    "expected_facets": [
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "bexsero_800310090123_c_0011": 2,
+      "bexsero_800310090123_c_0012": 2,
+      "bexsero_800310090123_c_0006": 1,
+      "va_mengoc_bc_850310110724_c_0003": 1,
+      "menquadfi_001310047625_c_0011": 2,
+      "menquadfi_001310047625_c_0012": 2,
+      "menquadfi_001310047625_c_0003": 1,
+      "menactra_qlvx_h03_1111_18_c_0010": 2,
+      "menactra_qlvx_h03_1111_18_c_0005": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Bexsero hay VA-MENGOC-BC hay Menquadfi hay Menactra? Nội dung tham khảo từ HDSD (mục 'tác dụng không mong muốn') — Bexsero: Dữ liệu thử nghiệm lâm sàng Tính an toàn của Bexsero đã được đánh giá trong 13 nghiên cứu bao gồm 9 thử nghiệm lâm sàng ngẫu nhiên có nhóm chứng trên 7802 người (từ 2 tháng tuổi trở lên) được tiêm ít nhất một liều Bexsero và trong nghiên cứu tiếp theo trên… | Menquadfi: Tính an toàn của một liều MenQuadfi ở những đối tượng từ 12 tháng tuổi trở lên đã được đánh giá trong bảy nghiên cứu quan trọng ngẫu nhiên, có đối chứng tích cực, đa trung tâm. Trong các nghiên cứu này, 6.308 đối tượng đã tiêm liều đầu (N = 5.906) hoặc liều…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_002",
+    "query": "Lịch tiêm vắc xin phế cầu như thế nào?",
+    "query_type": "dosage_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "vaxneuvance",
+      "prevenar_13",
+      "pneumovax_23",
+      "prevenar_20"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chỉ định"
+    ],
+    "relevance_judgments": {
+      "vaxneuvance_539310049125_c_0002": 2,
+      "vaxneuvance_539310049125_c_0003": 2,
+      "vaxneuvance_539310049125_c_0001": 1,
+      "prevenar_13_540310111524_c_0003": 2,
+      "prevenar_13_540310111524_c_0004": 2,
+      "prevenar_13_540310111524_c_0002": 1,
+      "pneumovax_23_001310303524_c_0002": 2,
+      "pneumovax_23_001310303524_c_0003": 2,
+      "pneumovax_23_001310303524_c_0001": 1,
+      "prevenar_20_539310047525_c_0003": 2,
+      "prevenar_20_539310047525_c_0004": 2,
+      "prevenar_20_539310047525_c_0002": 1,
+      "prevenar_13_qlvx_h03_1142_19_c_0003": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0004": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0002": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Vaxneuvance hay Prevenar 13 hay Pneumovax 23 hay Prevenar 20? Nội dung tham khảo từ HDSD (mục 'liều lượng và cách dùng') — Vaxneuvance: Đối tượng/Lịch tiêm Liều dùng khuyến cáo :--- :--- **Lịch tiêm cơ bản 2 liều, tiếp theo là một liều nhắc lại** Phác đồ tiêm chủng khuyến cáo gồm 3 liều VAXNEUVANCE, mỗi liều 0,5 ml. Liều đầu tiên được tiêm sớm nhất khi trẻ từ 6-12 tuần tuổi, và liều thứ hai… | Prevenar 13: Liệu trình tiêm chủng với Prevenar 13 nên được dựa trên các khuyến cáo chính thức. Liều dùng Trẻ sơ sinh và trẻ em từ 6 tuần đến 5 tuổi (trước sinh nhật 6 tuổi) Trẻ sơ sinh đã được tiêm liều Prevenar 13 đầu tiên được khuyến cáo hoàn tất liệu trình tiêm chủng… | Pneumovax 23: Lịch tiêm chủng vắc-xin polysaccharide phế cầu phải dựa trên các khuyến cáo chính thức. Bản quyền ©2022 thuộc về Merck & Co., Inc., Rahway, NJ, Hoa Kỳ và các chi nhánh của nó. Mọi quyền đều được bảo lưu. Liều lượng Tiêm chủng cơ bản: Người lớn và trẻ em từ 2…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_003",
+    "query": "Mũi 5 trong 1 có tiêm cùng lúc với vắc xin khác được không?",
+    "query_type": "interaction_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "pentavac",
+      "pentaxim"
+    ],
+    "expected_facets": [
+      "tương tác thuốc",
+      "liều lượng và cách dùng"
+    ],
+    "relevance_judgments": {
+      "pentavac_890310178100_c_0010": 2,
+      "pentavac_890310178100_c_0003": 1,
+      "pentaxim_300310250623_c_0006": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về PENTAVAC hay Pentaxim? Nội dung tham khảo từ HDSD (mục 'tương tác thuốc') — PENTAVAC: Cũng giống với các sản phẩm tiêm bắp khác, cần thận trọng khi sử dụng cho bệnh nhân đang điều trị bằng thuốc chống đông máu. Đáp ứng miễn dịch với vắc xin có thể suy giảm ở các bệnh nhân điều trị bằng các liệu pháp gây ức chế miễn dịch như xạ trị, thuốc chống…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_004",
+    "query": "Vắc xin phòng dại bảo quản như thế nào?",
+    "query_type": "storage_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "verorab",
+      "rabipur"
+    ],
+    "expected_facets": [
+      "bảo quản"
+    ],
+    "relevance_judgments": {
+      "verorab_300310305824_c_0020": 2,
+      "rabipur_qlvx_1048_17_c_0015": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Verorab hay Rabipur? Nội dung tham khảo từ HDSD (mục 'bảo quản') — Verorab: Xem ngày hết hạn dùng “EXP” trên bao bì. Không sử dụng sau hạn dùng được ghi trên bao bì. | Rabipur: Lọ bột đông khô: 48 tháng kể từ ngày sản xuất. Ống dung môi: 60 tháng kể từ ngày sản xuất. Rabipur phải được bảo quản ở $+2^{\\circ}\\text{C}$ đến $+8^{\\circ}\\text{C}$. Không để đông lạnh. Tránh ánh sáng. Không dùng Rabipur sau khi hết hạn sử dụng ghi trên hộp…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_005",
+    "query": "Vắc xin rota gồm những thành phần gì?",
+    "query_type": "composition_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "rotarix",
+      "rotavin"
+    ],
+    "expected_facets": [
+      "thành phần",
+      "chống chỉ định"
+    ],
+    "relevance_judgments": {
+      "rotarix_540310037023_c_0020": 2,
+      "rotarix_540310037023_c_0001": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Rotarix hay Rotavin? Nội dung tham khảo từ HDSD (mục 'thành phần') — Rotarix: Không yêu cầu đánh giá đặc tính dược động học đối với vắc xin. Xem phần \"Đặc tính Dược lực học\". Số liệu an toàn tiền lâm sàng không cho thấy sự nguy hiểm cho người dựa trên nghiên cứu với liều gây độc nhắc lại. Đường sucrose, di-sodium adipate, môi trường…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_006",
+    "query": "Phụ nữ mang thai có tiêm được vắc xin bạch hầu - ho gà - uốn ván không?",
+    "query_type": "special_population_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "adacel",
+      "boostrix"
+    ],
+    "expected_facets": [
+      "thai kỳ và cho con bú",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "adacel_754310306124_c_0008": 1,
+      "boostrix_300310036923_c_0008": 2,
+      "boostrix_300310036923_c_0009": 2,
+      "boostrix_300310036923_c_0004": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Adacel hay Boostrix? Nội dung tham khảo từ HDSD (mục 'thai kỳ và cho con bú') — Boostrix: Khả năng sinh sản Không có dữ liệu có sẵn trên người. Nghiên cứu trên động vật không cho thấy ảnh hưởng gây hại trực tiếp hoặc gián tiếp đến khả năng sinh sản nữ (xem phần Dữ liệu an toàn tiền lâm sàng). Mang thai Dữ liệu an toàn từ một nghiên cứu quan sát…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_007",
+    "query": "Bé đang sốt nhẹ có tiêm được vắc xin thủy đậu không?",
+    "query_type": "contraindication_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "varivax",
+      "varilrix",
+      "varicella_vaccine_gcc_inj"
+    ],
+    "expected_facets": [
+      "chống chỉ định",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "varivax_001310037823_c_0004": 2,
+      "varivax_001310037823_c_0005": 2,
+      "varivax_001310037823_c_0006": 1,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0003": 2,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0004": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Varivax hay Varilrix hay Varicella Vaccine-GCC Inj? Nội dung tham khảo từ HDSD (mục 'chống chỉ định') — Varivax: • Tiền sử quá mẫn với bất kỳ thành phần nào của vắc-xin, kể cả gelatin. | Varicella Vaccine-GCC Inj: Vắc xin không sử dụng cho các đối tượng như: - Sốt hoặc suy dinh dưỡng - Đối tượng có rối loạn tim mạch, thận hoặc gan, rối loạn máu, rối loạn phát triển, hoặc các rối loạn khác đang trong thời kỳ hoạt động, gia tăng hay cấp tính. - Bệnh nhân lao thể hoạt…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_008",
+    "query": "Những ai nên tiêm vắc xin viêm gan B?",
+    "query_type": "indication_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "heberbiovac_hb",
+      "hepavax_gene_tf_inj",
+      "euvax_b"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng"
+    ],
+    "relevance_judgments": {
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0001": 2,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0002": 2,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0005": 1,
+      "euvax_b_qlvx_933_16_c_0006": 1,
+      "euvax_b_qlvx_934_16_c_0006": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Heberbiovac HB hay HEPAVAX-GENE TF inj. hay Euvax B? Nội dung tham khảo từ HDSD (mục 'chỉ định') — HEPAVAX-GENE TF inj.: Mỗi liều 0,5ml chứa $10~\\mu\\text{g}$ HBsAg hấp phụ với khoảng 0,25 mg nhôm hydroxit. Chế phẩm được xử lý bằng formaldehyde trước khi hấp phụ với nhôm hydroxit và không có chất bảo quản. **Tá dược:** Aluminium hydroxide gel; Potassium phosphate, monobasic…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_009",
+    "query": "Người có bệnh nền cần lưu ý gì khi tiêm vắc xin HPV?",
+    "query_type": "precaution_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "cervarixtm",
+      "gardasil_9",
+      "gardasil"
+    ],
+    "expected_facets": [
+      "cảnh báo và thận trọng",
+      "chống chỉ định"
+    ],
+    "relevance_judgments": {
+      "cervarixtm_qlvx_0490_12_c_0004": 2,
+      "cervarixtm_qlvx_0490_12_c_0005": 2,
+      "cervarixtm_qlvx_0490_12_c_0003": 1,
+      "gardasil_9_001310178700_c_0007": 2,
+      "gardasil_9_001310178700_c_0008": 2,
+      "gardasil_9_001310178700_c_0006": 1,
+      "gardasil_qlvx_883_15_c_0006": 2,
+      "gardasil_qlvx_883_15_c_0005": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về CervarixTM hay Gardasil 9 hay Gardasil? Nội dung tham khảo từ HDSD (mục 'cảnh báo và thận trọng') — CervarixTM: Thực hiện tiêm chủng theo thực hành lâm sàng tốt bằng cách hỏi tiền sử về sức khỏe (đặc biệt là các thông tin liên quan đến lần tiêm chủng trước đó và khả năng xuất hiện các tác dụng không mong muốn) và thăm khám lâm sàng. Cũng như các vaccine dạng tiêm khác… | Gardasil 9: Quyết định tiêm chủng cho một cá nhân nên tính đến nguy cơ phơi nhiễm HPV trước đây và lợi ích tiềm tàng từ việc tiêm chủng. | Gardasil: Như bất kỳ vắc-xin nào, tiêm chủng GARDASIL không bảo vệ hết tất cả những người được tiêm. Vắc-xin này không dùng để điều trị các tổn thương sinh dục ngoài đang tiến triển, ung thư cổ tử cung, âm hộ hoặc âm đạo; tân sinh trong biểu mô cổ tử cung, âm hộ hoặc…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_010",
+    "query": "Người có bệnh nền cần lưu ý gì khi tiêm vắc xin cúm?",
+    "query_type": "precaution_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "influvac_tetra",
+      "gc_flu_pre_filled_syringe_inj",
+      "vaxigrip_0_5ml",
+      "vaxigrip_0_25ml",
+      "vaxigrip",
+      "vaxigrip_tetra",
+      "ivacflu_s"
+    ],
+    "expected_facets": [
+      "cảnh báo và thận trọng",
+      "chống chỉ định"
+    ],
+    "relevance_judgments": {
+      "influvac_tetra_870310304024_c_0008": 2,
+      "gc_flu_pre_filled_syringe_inj_880310249823_c_0003": 1,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0005": 2,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0006": 2,
+      "vaxigrip_0_25ml_qlvx_0652_13_c_0005": 2,
+      "vaxigrip_0_25ml_qlvx_0652_13_c_0006": 2,
+      "vaxigrip_300310033526_c_0004": 2,
+      "vaxigrip_300310033526_c_0043": 2,
+      "vaxigrip_tetra_300310305924_c_0003": 2,
+      "ivacflu_s_qlvx_h03_1137_19_c_0003": 2,
+      "ivacflu_s_qlvx_h03_1137_19_c_0002": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Influvac Tetra hay GC FLU pre-filled syringe inj hay VAXIGRIP (0,5ml) hay VAXIGRIP (0,25ml) hay Vaxigrip hay Vaxigrip Tetra hay IVACFLU-S? Nội dung tham khảo từ HDSD (mục 'cảnh báo và thận trọng') — Influvac Tetra: Cũng như với tất cả các vắc xin tiêm, điều trị nội khoa thích hợp và việc giám sát phải luôn luôn sẵn sàng trong trường hợp xảy ra phản ứng quá mẫn sau khi tiêm vắc xin. Không được tiêm tĩnh mạch Influvac tetra trong bất kỳ trường hợp nào. Phản ứng lo âu, bao… | VAXIGRIP (0,5ml): *Hướng dẫn về chuẩn bị thuốc trước khi dùng:* - Phải để vắc xin về nhiệt độ phòng trước khi dùng. - Lắc trước khi dùng. - Quan sát hình thức cảm quan bằng mắt thường trước khi dùng. - Không được dùng vắc-xin khi thấy có phần tử lạ trong hỗn dịch. *Hướng dẫn…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_011",
+    "query": "Vắc xin viêm gan A bảo quản như thế nào?",
+    "query_type": "storage_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "havax",
+      "avaxim_80_u_pediatric"
+    ],
+    "expected_facets": [
+      "bảo quản"
+    ],
+    "relevance_judgments": {
+      "havax_893310108024_c_0010": 2,
+      "avaxim_80_u_pediatric_300310250723_c_0009": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về HAVAX hay Avaxim 80 U Pediatric? Nội dung tham khảo từ HDSD (mục 'bảo quản') — HAVAX: Không áp dụng • Hộp 10 lọ x 1 ml • Hộp 10 lọ x 0,5 ml Điều kiện bảo quản Bảo quản và vận chuyển ở $+2^\\circ\\text{C}$ đến $+8^\\circ\\text{C}$. Không được làm đông băng. Hạn dùng 24 tháng kể từ ngày sản xuất ở điều kiện bảo quản $+2^\\circ\\text{C}$ đến… | Avaxim 80 U Pediatric: Để xa tầm tay và tầm mắt của trẻ em. Vắc xin phải được bảo quản ở nhiệt độ từ +2°C đến +8°C (trong tủ lạnh) và tránh ánh sáng. Không được để đông băng. TUỔI THỌ: 36 tháng kể từ ngày làm thử nghiệm công hiệu đầu tiên. Xem ngày hết hạn dùng “EXP” trên bao bì.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_012",
+    "query": "Con tôi mới 2 tháng thì bắt đầu tiêm vắc xin nào?",
+    "query_type": "indication_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "pentavac",
+      "pentaxim"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng"
+    ],
+    "relevance_judgments": {
+      "pentavac_890310178100_c_0002": 2,
+      "pentavac_890310178100_c_0003": 1,
+      "pentaxim_300310250623_c_0005": 2,
+      "pentaxim_300310250623_c_0006": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về PENTAVAC hay Pentaxim? Nội dung tham khảo từ HDSD (mục 'chỉ định') — PENTAVAC: Hỗn dịch tiêm. Hỗn dịch sau khi lắc có màu trắng đục. - Vắc xin Diphtheria, Tetanus, Pertussis, Hepatitis B and Haemophilus influenza type b Conjugate Vaccine Adsorbed được chỉ định để tạo miễn dịch chủ động cho trẻ em từ 6 tuần tuổi trở lên để phòng bệnh… | Pentaxim: Không áp dụng. PENTAXIM được chỉ định để giúp bảo vệ phòng bệnh bạch hầu, uốn ván, ho gà, bại liệt và phòng các bệnh nhiễm khuẩn xâm lấn do vi khuẩn Haemophilus influenzae týp b (viêm màng não, nhiễm khuẩn huyết, v.v...) ở trẻ em từ 2 tháng tuổi trở lên.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_013",
+    "query": "Vắc xin não mô cầu có tiêm cùng lúc với vắc xin khác được không?",
+    "query_type": "interaction_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "bexsero",
+      "va_mengoc_bc",
+      "menquadfi",
+      "menactra"
+    ],
+    "expected_facets": [
+      "tương tác thuốc",
+      "liều lượng và cách dùng"
+    ],
+    "relevance_judgments": {
+      "bexsero_800310090123_c_0010": 2,
+      "bexsero_800310090123_c_0002": 1,
+      "menquadfi_001310047625_c_0009": 2,
+      "menquadfi_001310047625_c_0010": 2,
+      "menquadfi_001310047625_c_0001": 1,
+      "menactra_qlvx_h03_1111_18_c_0009": 2,
+      "menactra_qlvx_h03_1111_18_c_0002": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Bexsero hay VA-MENGOC-BC hay Menquadfi hay Menactra? Nội dung tham khảo từ HDSD (mục 'tương tác thuốc') — Bexsero: Tương tác với các loại vắc xin khác Có thể tiêm Bexsero đồng thời với các kháng nguyên vắc xin dưới dạng vắc xin đơn giá hoặc vắc xin phối hợp sau đây: bạch hầu, uốn ván, ho gà vô bào, Haemophilus influenzae týp b, bại liệt bất hoạt, viêm gan B, phế cầu cộng… | Menquadfi: MenQuadfi không có hoặc có ảnh hưởng không đáng kể đến khả năng lái xe và vận hành máy móc. Tuy nhiên, một số tác dụng được đề cập trong phần Tác dụng không mong muốn của vắc-xin có thể tạm thời ảnh hưởng đến khả năng lái xe hoặc vận hành máy móc. Vị trí tiêm…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_014",
+    "query": "Sau khi tiêm vắc xin phế cầu, bé bị sốt nhẹ và mệt thì có sao không?",
+    "query_type": "adverse_effect_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "vaxneuvance",
+      "prevenar_13",
+      "pneumovax_23",
+      "prevenar_20"
+    ],
+    "expected_facets": [
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "vaxneuvance_539310049125_c_0007": 2,
+      "vaxneuvance_539310049125_c_0016": 2,
+      "vaxneuvance_539310049125_c_0006": 1,
+      "prevenar_13_540310111524_c_0012": 2,
+      "prevenar_13_540310111524_c_0013": 2,
+      "prevenar_13_540310111524_c_0000": 1,
+      "pneumovax_23_001310303524_c_0010": 2,
+      "pneumovax_23_001310303524_c_0011": 2,
+      "pneumovax_23_001310303524_c_0006": 1,
+      "prevenar_20_539310047525_c_0010": 2,
+      "prevenar_20_539310047525_c_0011": 2,
+      "prevenar_20_539310047525_c_0000": 1,
+      "prevenar_13_qlvx_h03_1142_19_c_0014": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0015": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0000": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Vaxneuvance hay Prevenar 13 hay Pneumovax 23 hay Prevenar 20? Nội dung tham khảo từ HDSD (mục 'tác dụng không mong muốn') — Vaxneuvance: Quá mẫn với các thành phần hoạt chất, hoặc bất kỳ tá dược nào được liệt kê trong mục Thành phần công thức thuốc, hoặc với bất kỳ vắc-xin nào có chứa giải độc tố bạch hầu. Để cải thiện khả năng truy xuất nguồn gốc của các thuốc sinh học, tên và số lô của sản… | Prevenar 13: Phân tích tỷ lệ báo cáo sau khi lưu hành thuốc cho thấy có khả năng tăng nguy cơ co giật, kèm sốt hoặc không kèm sốt, và cơn giảm phản ứng - giảm trương lực (HHE) khi so sánh giữa các nhóm được báo cáo dùng Prevenar 13 cùng Infanrix hexa với các nhóm được báo… | Pneumovax 23: a. Tóm tắt hồ sơ về an toàn Một nghiên cứu lâm sàng về tiêm chủng cơ bản và tiêm chủng lại đã được thực hiện ở 379 người lớn từ 50-64 tuổi và 629 người lớn ≥ 65 tuổi. Tỷ lệ phản ứng bất lợi tại chỗ tiêm về tổng thể ở nhóm người cao tuổi được tiêm chủng lại…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_015",
+    "query": "Mũi 5 trong 1 gồm những thành phần gì?",
+    "query_type": "composition_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "pentavac",
+      "pentaxim"
+    ],
+    "expected_facets": [
+      "thành phần",
+      "chống chỉ định"
+    ],
+    "relevance_judgments": {
+      "pentavac_890310178100_c_0001": 2,
+      "pentavac_890310178100_c_0011": 1,
+      "pentaxim_300310250623_c_0001": 2,
+      "pentaxim_300310250623_c_0007": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về PENTAVAC hay Pentaxim? Nội dung tham khảo từ HDSD (mục 'thành phần') — PENTAVAC: Một liều 0,5ml có chứa: - Thành phần hoạt chất: - Giải độc tố Bạch hầu: $\\le 25\\text{ Lf} (\\ge 30\\text{ IU})$ - Giải độc tố Uốn ván: $\\ge 2,5\\text{ Lf} (\\ge 40\\text{ IU})$ - Vắc xin ho gà toàn tế bào: $\\le 16\\text{ OU} (\\ge 4\\text{ IU})$ - HBsAg (rDNA): $\\ge… | Pentaxim: Sau khi hoàn nguyên, một liều (0,5ml) chứa: Hoạt chất: Hoạt chất Hàm lượng :--- :--- Giải độc tố bạch hầu(1) ≥ 30 I.U. Giải độc tố uốn ván(1) ≥ 40 I.U. **Các kháng nguyên Bordetella pertussis:** - Giải độc tố ho gà(1) 25 microgam - Ngưng kết tố hồng cầu dạng…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_016",
+    "query": "Ai không nên tiêm vắc xin phòng dại?",
+    "query_type": "contraindication_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "verorab",
+      "rabipur"
+    ],
+    "expected_facets": [
+      "chống chỉ định",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "verorab_300310305824_c_0013": 2,
+      "verorab_300310305824_c_0014": 1,
+      "rabipur_qlvx_1048_17_c_0004": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Verorab hay Rabipur? Nội dung tham khảo từ HDSD (mục 'chống chỉ định') — Verorab: Không dùng VERORAB: Trước phơi nhiễm - Nếu bị sốt hay bệnh cấp tính (trường hợp này nên hoãn việc tiêm vắc-xin đến khi hết sốt hay khỏi bệnh). - Nếu bị dị ứng với hoạt chất, với một trong các tá dược của vắc-xin, với polymyxin B, với streptomycin hay với…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_017",
+    "query": "Lịch tiêm vắc xin rota như thế nào?",
+    "query_type": "dosage_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "rotarix",
+      "rotavin"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng"
+    ],
+    "relevance_judgments": {
+      "rotarix_540310037023_c_0000": 2,
+      "rotavin_893310109424_c_0001": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Rotarix hay Rotavin? Nội dung tham khảo từ HDSD (mục 'liều lượng và cách dùng') — Rotarix: RX THUỐC BÁN THEO ĐƠN Vắc xin phòng ngừa Rotavirus Một liều (1,5ml) chứa: Chủng Rotavirus người sống giảm độc lực RIX4414 không dưới $10^{6.0} \\text{ CCID}_{50}$ Hỗn dịch uống. Vắc xin ở dạng chất lỏng trong và không màu. Rotarix™ được chỉ định để phòng ngừa… | Rotavin: Vắc xin Rotavin-M1 được chỉ định để phòng viêm dạ dày ruột gây tiêu chảy cấp do virus rota; - Đối tượng thích hợp uống liều 1 là trẻ từ 6 tuần tuổi. * **Đường uống:** Vắc xin chỉ được dùng để uống (không được tiêm). **Không được tiêm.** * **Liều uống:** 2ml /…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_018",
+    "query": "Vắc xin bạch hầu - ho gà - uốn ván dùng để phòng bệnh gì?",
+    "query_type": "indication_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "adacel",
+      "boostrix"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng"
+    ],
+    "relevance_judgments": {
+      "adacel_754310306124_c_0004": 2,
+      "adacel_754310306124_c_0005": 1,
+      "boostrix_300310036923_c_0002": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Adacel hay Boostrix? Nội dung tham khảo từ HDSD (mục 'chỉ định') — Adacel: ADACEL® được chỉ định để gây miễn dịch chủ động nhắc lại nhằm phòng bệnh uốn ván, bạch hầu và ho gà ở người từ 4 đến 64 tuổi. Theo khuyến cáo của cơ quan chức năng tại từng quốc gia, ADACEL® có thể là một chọn lựa cho liều thứ năm của vắc-xin uốn ván, bạch…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_019",
+    "query": "Phụ nữ mang thai có tiêm được vắc xin thủy đậu không?",
+    "query_type": "special_population_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "varivax",
+      "varilrix",
+      "varicella_vaccine_gcc_inj"
+    ],
+    "expected_facets": [
+      "thai kỳ và cho con bú",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "varivax_001310037823_c_0008": 2,
+      "varivax_001310037823_c_0006": 1,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0005": 2,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0004": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Varivax hay Varilrix hay Varicella Vaccine-GCC Inj? Nội dung tham khảo từ HDSD (mục 'thai kỳ và cho con bú') — Varivax: Chưa rõ vi-rút vắc-xin thủy đậu có bài tiết vào sữa mẹ hay không. Vì vậy, do một số vi-rút được bài tiết vào sữa mẹ, cần thận trọng nếu được dùng cho phụ nữ cho con bú. Ref. doc.: S-WPC-V210-I-ref-062013 4 6-May-2015 Vắc xin vi-rút thủy đậu sống (chủng… | Varicella Vaccine-GCC Inj: Không có dữ liệu về sử dụng thuốc trên phụ nữ có thai, chỉ nên dùng thuốc nếu lợi ích vượt trội so với nguy cơ. Cần thận trọng khi tiêm phòng vắc xin trong thời kỳ cho con bú do một số virut có thể được bài tiết vào sữa mẹ cho dù chưa rõ virut thủy đậu có…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_020",
+    "query": "Người đang sốt nhẹ có tiêm được vắc xin viêm gan B không?",
+    "query_type": "contraindication_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "heberbiovac_hb",
+      "hepavax_gene_tf_inj",
+      "euvax_b"
+    ],
+    "expected_facets": [
+      "chống chỉ định",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0007": 2,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0008": 1,
+      "euvax_b_qlvx_933_16_c_0009": 1,
+      "euvax_b_qlvx_934_16_c_0009": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Heberbiovac HB hay HEPAVAX-GENE TF inj. hay Euvax B? Nội dung tham khảo từ HDSD (mục 'chống chỉ định') — HEPAVAX-GENE TF inj.: Liều tăng cường sẽ được yêu cầu mỗi vài năm khi mức độ kháng thể giảm dưới $10\\text{ mIU/mL}$. Có thể dùng Hepavax-Gene® TF inj. đồng thời với Globulin miễn dịch viêm gan B, nhưng phải tiêm ở hai nơi khác nhau. Bệnh nhân mẫn cảm với nấm men hoặc bất cứ thành…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_021",
+    "query": "Vắc xin HPV cần tiêm mấy liều?",
+    "query_type": "dosage_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "cervarixtm",
+      "gardasil_9",
+      "gardasil"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chỉ định"
+    ],
+    "relevance_judgments": {
+      "cervarixtm_qlvx_0490_12_c_0002": 2,
+      "cervarixtm_qlvx_0490_12_c_0001": 1,
+      "gardasil_9_001310178700_c_0004": 2,
+      "gardasil_9_001310178700_c_0005": 2,
+      "gardasil_9_001310178700_c_0002": 1,
+      "gardasil_qlvx_883_15_c_0003": 2,
+      "gardasil_qlvx_883_15_c_0004": 2,
+      "gardasil_qlvx_883_15_c_0002": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về CervarixTM hay Gardasil 9 hay Gardasil? Nội dung tham khảo từ HDSD (mục 'liều lượng và cách dùng') — CervarixTM: Liều lượng Liệu trình tiêm chủng cơ bản bao gồm 3 mũi tiêm. Liệu trình tiêm chủng được khuyến cáo là 0, 1 và 6 tháng. Nếu cần thiết phải thay đổi lịch tiêm chủng, mũi thứ 2 có thể được tiêm vào thời điểm từ 1 đến 2,5 tháng sau mũi thứ nhất và mũi thứ 3 tiêm… | Gardasil 9: Liều lượng Những người từ 9-14 tuổi tại thời điểm tiêm lần đầu tiên Có thể dùng Gardasil 9 theo lịch tiêm 2 liều (xem phần Các đặc tính dược lực học). Nên tiêm liều thứ hai giữa tháng thứ 5 và tháng thứ 13 sau liều đầu tiên. Nếu tiêm liều vắc xin thứ hai sớm… | Gardasil: GARDASIL dùng tiêm bắp với 3 liều 0,5 mL cách nhau theo lịch tiêm như sau: - Liều tiêm đầu tiên: vào ngày đã chọn - Liều thứ hai: 2 tháng sau liều đầu tiên - Liều thứ ba: 6 tháng sau liều đầu tiên Nên tuân thủ lịch tiêm chủng 0, 2 và 6 tháng như trên. Tuy…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_022",
+    "query": "Vắc xin cúm có tiêm cùng lúc với vắc xin khác được không?",
+    "query_type": "interaction_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "influvac_tetra",
+      "gc_flu_pre_filled_syringe_inj",
+      "vaxigrip_0_5ml",
+      "vaxigrip_0_25ml",
+      "vaxigrip",
+      "vaxigrip_tetra",
+      "ivacflu_s"
+    ],
+    "expected_facets": [
+      "tương tác thuốc",
+      "liều lượng và cách dùng"
+    ],
+    "relevance_judgments": {
+      "influvac_tetra_870310304024_c_0009": 2,
+      "gc_flu_pre_filled_syringe_inj_880310249823_c_0009": 2,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0008": 2,
+      "vaxigrip_0_5ml_qlvx_0646_13_c_0003": 1,
+      "vaxigrip_0_25ml_qlvx_0652_13_c_0007": 2,
+      "vaxigrip_0_25ml_qlvx_0652_13_c_0004": 1,
+      "vaxigrip_300310033526_c_0003": 1,
+      "vaxigrip_tetra_300310305924_c_0005": 2,
+      "vaxigrip_tetra_300310305924_c_0002": 1,
+      "ivacflu_s_qlvx_h03_1137_19_c_0005": 2,
+      "ivacflu_s_qlvx_h03_1137_19_c_0001": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Influvac Tetra hay GC FLU pre-filled syringe inj hay VAXIGRIP (0,5ml) hay VAXIGRIP (0,25ml) hay Vaxigrip hay Vaxigrip Tetra hay IVACFLU-S? Nội dung tham khảo từ HDSD (mục 'tương tác thuốc') — Influvac Tetra: Không có tương tác thuốc nào được thực hiện. \\[Page 7\\] Nếu Influvac tetra được tiêm cùng một lúc với các vắc xin khác, việc tiêm chủng phải được thực hiện trên các chi riêng biệt. Cần lưu ý rằng phản ứng bất lợi có thể tăng lên. Đáp ứng miễn dịch có thể bị… | GC FLU pre-filled syringe inj: * Chưa có nghiên cứu nào đánh giá việc tiêm đồng thời vắc xin cúm với các vắc xin khác. Trong trường hợp bắt buộc phải tiêm, nên tiêm tại những vị trí khác nhau. Tỷ lệ xuất hiện các tác dụng phụ có thể tăng lên. * Việc tạo miễn dịch có thể bị ảnh hưởng bởi… | VAXIGRIP (0,5ml): VAXIGRIP không ảnh hưởng hay ảnh hưởng không đáng kể đến khả năng lái xe hay vận hành máy móc. VAXIGRIP có thể tiêm cùng lúc với các vắc-xin khác. Tuy nhiên, phải tiêm ở các chi khác nhau. Cần lưu ý rằng tác dụng không mong muốn có thể nhiều hơn khi tiêm cùng…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_023",
+    "query": "Chỗ tiêm vắc xin viêm gan A bị sưng đỏ có bình thường không?",
+    "query_type": "adverse_effect_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "havax",
+      "avaxim_80_u_pediatric"
+    ],
+    "expected_facets": [
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "havax_893310108024_c_0008": 2,
+      "havax_893310108024_c_0005": 1,
+      "avaxim_80_u_pediatric_300310250723_c_0007": 2,
+      "avaxim_80_u_pediatric_300310250723_c_0005": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về HAVAX hay Avaxim 80 U Pediatric? Nội dung tham khảo từ HDSD (mục 'tác dụng không mong muốn') — HAVAX: Những phản ứng thường hay gặp nhất là đau, sưng và bản đỏ tại chỗ tiêm giống như bất kỳ loại vắc xin hấp phụ nào khác. Những phản ứng này thường là nhẹ và sẽ hết trong vòng hai ngày sau tiêm. Những phản ứng toàn thân ít gặp như sốt, đau đầu, buồn nôn, chóng… | Avaxim 80 U Pediatric: Các tác dụng không mong muốn ghi nhận được từ các thử nghiệm lâm sàng và kinh nghiệm hậu mãi toàn cầu. Trong mỗi hệ cơ quan, các tác dụng không mong muốn được xếp theo tần xuất, các phản ứng thường gặp nhất được nêu đầu tiên, theo quy ước sau: Rất thường gặp…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_024",
+    "query": "Em bé 2 tháng tuổi cần tiêm những mũi nào?",
+    "query_type": "indication_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "pentavac",
+      "pentaxim"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng"
+    ],
+    "relevance_judgments": {
+      "pentavac_890310178100_c_0002": 2,
+      "pentavac_890310178100_c_0003": 1,
+      "pentaxim_300310250623_c_0005": 2,
+      "pentaxim_300310250623_c_0006": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về PENTAVAC hay Pentaxim? Nội dung tham khảo từ HDSD (mục 'chỉ định') — PENTAVAC: Hỗn dịch tiêm. Hỗn dịch sau khi lắc có màu trắng đục. - Vắc xin Diphtheria, Tetanus, Pertussis, Hepatitis B and Haemophilus influenza type b Conjugate Vaccine Adsorbed được chỉ định để tạo miễn dịch chủ động cho trẻ em từ 6 tuần tuổi trở lên để phòng bệnh… | Pentaxim: Không áp dụng. PENTAXIM được chỉ định để giúp bảo vệ phòng bệnh bạch hầu, uốn ván, ho gà, bại liệt và phòng các bệnh nhiễm khuẩn xâm lấn do vi khuẩn Haemophilus influenzae týp b (viêm màng não, nhiễm khuẩn huyết, v.v...) ở trẻ em từ 2 tháng tuổi trở lên.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_025",
+    "query": "Phụ nữ mang thai có tiêm được vắc xin não mô cầu không?",
+    "query_type": "special_population_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "bexsero",
+      "va_mengoc_bc",
+      "menquadfi",
+      "menactra"
+    ],
+    "expected_facets": [
+      "thai kỳ và cho con bú",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "bexsero_800310090123_c_0008": 2,
+      "bexsero_800310090123_c_0009": 2,
+      "bexsero_800310090123_c_0006": 1,
+      "va_mengoc_bc_850310110724_c_0003": 1,
+      "menquadfi_001310047625_c_0008": 2,
+      "menquadfi_001310047625_c_0003": 1,
+      "menactra_qlvx_h03_1111_18_c_0005": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Bexsero hay VA-MENGOC-BC hay Menquadfi hay Menactra? Nội dung tham khảo từ HDSD (mục 'thai kỳ và cho con bú') — Bexsero: Khả năng sinh sản Hiện chưa có dữ liệu về ảnh hưởng lên khả năng sinh sản ở người. Không có ảnh hưởng đến khả năng sinh sản của con cái trong các nghiên cứu trên động vật. Trong một nghiên cứu về độc tính lên phôi thai và sự phát triển tâm thần, thỏ được tiêm… | Menquadfi: Chủng ngừa bằng vắc-xin MenQuadfi không thể thay thế cho việc chủng ngừa Uốn ván định kỳ. Sử dụng đồng thời MenQuadfi và vắc-xin chứa giải độc tố Uốn ván không làm giảm đáp ứng với giải độc tố Uốn ván hoặc ảnh hưởng đến sự an toàn. MenQuadfi chứa ít hơn 1…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_026",
+    "query": "Trước khi tiêm vắc xin phế cầu cần chuẩn bị gì?",
+    "query_type": "precaution_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "vaxneuvance",
+      "prevenar_13",
+      "pneumovax_23",
+      "prevenar_20"
+    ],
+    "expected_facets": [
+      "cảnh báo và thận trọng",
+      "chống chỉ định"
+    ],
+    "relevance_judgments": {
+      "vaxneuvance_539310049125_c_0006": 2,
+      "vaxneuvance_539310049125_c_0008": 2,
+      "prevenar_13_540310111524_c_0000": 2,
+      "prevenar_13_540310111524_c_0007": 2,
+      "prevenar_13_540310111524_c_0006": 1,
+      "pneumovax_23_001310303524_c_0006": 2,
+      "pneumovax_23_001310303524_c_0007": 2,
+      "pneumovax_23_001310303524_c_0005": 1,
+      "prevenar_20_539310047525_c_0000": 2,
+      "prevenar_20_539310047525_c_0006": 2,
+      "prevenar_20_539310047525_c_0005": 1,
+      "prevenar_13_qlvx_h03_1142_19_c_0000": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0007": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0006": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Vaxneuvance hay Prevenar 13 hay Pneumovax 23 hay Prevenar 20? Nội dung tham khảo từ HDSD (mục 'cảnh báo và thận trọng') — Vaxneuvance: Tiêm bắp. Nơi tiêm ưu tiên là mặt trước bên của đùi ở trẻ sơ sinh hoặc cơ delta của phần trên cánh tay ở trẻ em và người lớn. Chưa có các dữ liệu cho đường tiêm dưới da hoặc trong da. * Vắc-xin phải được sử dụng như đã cung cấp. * Giữ bơm tiêm đóng sẵn theo… | Prevenar 13: Rx * PREVENAR 13® Thuốc này chỉ dùng theo đơn của bác sỹ. Đọc kỹ hướng dẫn sử dụng trước khi dùng. Không dùng quá liều chỉ định. Thông báo cho bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc. Nếu cần thêm thông tin, xin hỏi kiến bác sỹ. Không… | Pneumovax 23: Tạm ngừng việc sử dụng vắc-xin trong bất kỳ bệnh có sốt đáng kể nào, nhiễm khuẩn khác đang hoạt động hoặc khi một phản ứng toàn thân sẽ gây ra nguy cơ đáng kể trừ khi sự trì hoãn này có thể liên quan đến nguy cơ thậm chí còn cao hơn. Vắc-xin polysaccharide…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_027",
+    "query": "Mũi 5 trong 1 bảo quản như thế nào?",
+    "query_type": "storage_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "pentavac",
+      "pentaxim"
+    ],
+    "expected_facets": [
+      "bảo quản",
+      "quy cách đóng gói"
+    ],
+    "relevance_judgments": {
+      "pentavac_890310178100_c_0018": 2,
+      "pentaxim_300310250623_c_0014": 2,
+      "pentaxim_300310250623_c_0015": 2,
+      "pentaxim_300310250623_c_0002": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về PENTAVAC hay Pentaxim? Nội dung tham khảo từ HDSD (mục 'bảo quản') — PENTAVAC: Không áp dụng. Vắc xin cần được bảo quản và vận chuyển ở nhiệt độ từ $2-8^\\circ\\text{C}$. KHÔNG ĐƯỢC LÀM ĐÔNG BĂNG. 24 tháng kể từ ngày sản xuất Lọ $1\\text{ liều} \\times 0,5\\text{ml/liều}$; $50\\text{ lọ/hộp}$. | Pentaxim: Để xa tầm tay và tầm mắt của trẻ em. Bảo quản ở nhiệt độ từ +2°C đến +8°C (trong tủ lạnh). Không được để đông băng. Không sử dụng sau ngày hết hạn sử dụng ghi trên nhãn, trên hộp. Không sử dụng nếu nhận thấy vắc-xin có màu sắc bất thường hay có phần tử lạ.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_028",
+    "query": "Vắc xin phòng dại cần tiêm mấy liều?",
+    "query_type": "dosage_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "verorab",
+      "rabipur"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chỉ định"
+    ],
+    "relevance_judgments": {
+      "verorab_300310305824_c_0007": 2,
+      "verorab_300310305824_c_0008": 2,
+      "verorab_300310305824_c_0003": 1,
+      "rabipur_qlvx_1048_17_c_0007": 2,
+      "rabipur_qlvx_1048_17_c_0001": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Verorab hay Rabipur? Nội dung tham khảo từ HDSD (mục 'liều lượng và cách dùng') — Verorab: Trước khi hoàn nguyên, vắc-xin đông khô có màu trắng thuần nhất. Để hoàn nguyên vắc-xin: - Tháo nắp lọ vắc-xin. - Bơm dung môi từ bơm tiêm vào lọ vắc-xin đông khô hay rút dung môi từ ống vào 1 bơm tiêm rồi bơm vào lọ chứa vắc-xin đông khô. - Lắc kỹ đến khi… | Rabipur: Không cần thiết phải chờ một thời gian trước khi tiêm một vắc-xin khác. Có thể tiêm chủng Rabipur cho mọi nhóm tuổi. Liều duy nhất được khuyến nghị là 1 ml. Tiêm chủng theo phác đồ A (xem Bảng 2). Tiêm một liều vắc-xin (1 ml) vào các ngày: 0, 7 và 21 hoặc 28.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_029",
+    "query": "Vắc xin rota có gây tác dụng phụ gì không?",
+    "query_type": "adverse_effect_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "rotarix",
+      "rotavin"
+    ],
+    "expected_facets": [
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "rotarix_540310037023_c_0006": 2,
+      "rotarix_540310037023_c_0002": 1,
+      "rotavin_893310109424_c_0004": 2,
+      "rotavin_893310109424_c_0002": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Rotarix hay Rotavin? Nội dung tham khảo từ HDSD (mục 'tác dụng không mong muốn') — Rotarix: Rotarix™ không sử dụng cho người lớn. Do vậy, chưa có dữ liệu về việc sử dụng vắc xin trên người ở thời kỳ mang thai hoặc cho con bú và chưa có nghiên cứu nào được tiến hành về khả năng sinh sản trên động vật. Không thích hợp do Rotarix™ không được sử dụng… | Rotavin: Kết quả thử nghiệm lâm sàng tại 2 địa điểm nghiên cứu tại Việt Nam (Phú Thọ và Thái Bình) với gần 1000 trẻ từ 6 đến 12 tuần tuổi cho thấy: - Các triệu chứng có thể gặp ở trẻ sau khi uống vắc xin là: nôn, sốt, tiêu chảy, đau bụng, ho, quấy khóc... nhưng rất ít…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_030",
+    "query": "Vắc xin bạch hầu - ho gà - uốn ván gồm những thành phần gì?",
+    "query_type": "composition_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "adacel",
+      "boostrix"
+    ],
+    "expected_facets": [
+      "thành phần",
+      "chống chỉ định"
+    ],
+    "relevance_judgments": {
+      "adacel_754310306124_c_0001": 2,
+      "adacel_754310306124_c_0002": 2,
+      "adacel_754310306124_c_0007": 1,
+      "boostrix_300310036923_c_0001": 2,
+      "boostrix_300310036923_c_0003": 1
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ sản phẩm nên hệ thống cần hỏi lại: bạn đang hỏi về Adacel hay Boostrix? Nội dung tham khảo từ HDSD (mục 'thành phần') — Adacel: Mỗi liều (0,5 ml) chứa: Hoạt chất Giải độc tố uốn ván ................................................................................ 5 Lf Giải độc tố bạch hầu ............................................................................. 2 Lf Ho gà vô bào… | Boostrix: 1 liều (0,5 mL) có chứa: Giải độc tố bạch hầu¹: không ít hơn 2 Đơn vị Quốc tế (IU) (2,5 Lf) Giải độc tố uốn ván¹: không ít hơn 20 Đơn vị Quốc tế (IU) (5 Lf) Các kháng nguyên của ho gà (Bordetella pertussis): Kháng nguyên / Thành phần Hàm lượng :--- :--- Giải…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_031",
+    "query": "Cho tôi biết về vắc xin SKYVaricella Inj.",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "skyvaricella_inj"
+    ],
+    "expected_facets": [
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "skyvaricella_inj_880310033426_c_0003": 2,
+      "skyvaricella_inj_880310033426_c_0011": 2,
+      "skyvaricella_inj_880310033426_c_0004": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về SKYVaricella Inj.. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'chống chỉ định': (1). Những người có tiền sử phản ứng quá mẫn với gelatin hoặc bất cứ thành phần nào của vắc xin SKYVaricella Inj. (2). Những người có tiền sử phản vệ hoặc phản ứng phản vệ với neomycin (mỗi liều vắc xin hoàn nguyên có chứa một lượng rất nhỏ neomycin dạng…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_032",
+    "query": "Vắc xin DPT Vaccine thì thế nào?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "dpt_vaccine"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "dpt_vaccine_893310250923_c_0003": 2,
+      "dpt_vaccine_893310250923_c_0004": 2,
+      "dpt_vaccine_893310250923_c_0007": 2,
+      "dpt_vaccine_893310250923_c_0005": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về DPT Vaccine. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Dùng để gây miễn dịch chủ động phòng bệnh bạch hầu, ho gà và uốn ván cho trẻ dưới 18 tháng tuổi. *Liều dùng:* Một liều tiêu chuẩn của vắc xin DPT là 0,5ml. - *Miễn dịch cơ bản:* Tiêm 3 liều, khoảng cách giữa các liều ít nhất là 30 ngày, liều thứ nhất khi trẻ…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_033",
+    "query": "Tôi muốn tìm hiểu về Typhim Vi",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "typhim_vi"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "typhim_vi_300310647324_c_0002": 2,
+      "typhim_vi_300310647324_c_0003": 2,
+      "typhim_vi_300310647324_c_0004": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Typhim Vi. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'liều lượng và cách dùng': Không áp dụng. Typhim Vi là vắc-xin, được chỉ định để phòng ngừa bệnh thương hàn ở người lớn và trẻ em trên 2 tuổi. TYPHIM Vi được chỉ định đặc biệt cho những người đi du lịch đến những vùng có bệnh thương hàn lưu hành, di dân, nhân viên y tế và quân nhân.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_034",
+    "query": "Thông tin về Varivax",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "varivax"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "varivax_001310037823_c_0001": 2,
+      "varivax_001310037823_c_0002": 2,
+      "varivax_001310037823_c_0004": 2,
+      "varivax_001310037823_c_0010": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Varivax. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'chỉ định': được chỉ định để tiêm phòng bệnh thủy đậu cho đối tượng từ 12 tháng tuổi trở lên. chỉ định để dự phòng cho những người nhạy cảm bị phơi nhiễm bệnh thủy đậu trong vòng 3 ngày, và có thể đến 5 ngày sau khi tiếp xúc. DÙNG TIÊM DƯỚI DA. Không được tiêm tĩnh mạch.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_035",
+    "query": "Tôi sắp tiêm Bexsero, cần biết gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "bexsero"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "bexsero_800310090123_c_0001": 2,
+      "bexsero_800310090123_c_0002": 2,
+      "bexsero_800310090123_c_0005": 2,
+      "bexsero_800310090123_c_0011": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Bexsero. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'chỉ định': Hỗn dịch tiêm. Vắc xin là một hỗn dịch lỏng màu trắng đục. Bexsero được chỉ định để chủng ngừa chủ động cho người từ 2 tháng tuổi trở lên chống lại bệnh não mô cầu xâm lấn do Neisseria meningitidis nhóm B gây ra (xem “Tác dụng dược lực” để biết thông tin về…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_036",
+    "query": "SPEEDA là vắc xin gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "speeda"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "speeda_qlvx_1041_17_c_0002": 2,
+      "speeda_qlvx_1041_17_c_0003": 2,
+      "speeda_qlvx_1041_17_c_0009": 2,
+      "speeda_qlvx_1041_17_c_0008": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về SPEEDA. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'chỉ định': Không áp dụng Vắc xin tạo miễn dịch phòng ngừa bệnh dại ở người. 1. **Tiêm chủng trước khi phơi nhiễm:** Những người có nguy cơ cao phải tiếp xúc với virus dại thì nên được tiêm ngừa trước phơi nhiễm, như nhân viên phòng thí nghiệm thường tiếp xúc với các vật…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_037",
+    "query": "Cho tôi biết về vắc xin Boostrix",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "boostrix"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "boostrix_300310036923_c_0002": 2,
+      "boostrix_300310036923_c_0003": 2,
+      "boostrix_300310036923_c_0010": 2,
+      "boostrix_300310036923_c_0004": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Boostrix. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Hỗn dịch tiêm Boostrix được chỉ định để chủng ngừa nhắc lại cho người từ 4 tuổi trở lên chống lại các bệnh bạch hầu, uốn ván và ho gà (xem phần Liều lượng) Liều lượng Liều khuyến cáo của vắc xin là liều đơn 0,5 mL Boostrix có thể được dùng tuân theo thực hành…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_038",
+    "query": "Vắc xin Euvax B thì thế nào?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "euvax_b"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng",
+      "bảo quản"
+    ],
+    "relevance_judgments": {
+      "euvax_b_qlvx_933_16_c_0006": 2,
+      "euvax_b_qlvx_934_16_c_0006": 2,
+      "euvax_b_qlvx_933_16_c_0012": 2,
+      "euvax_b_qlvx_934_16_c_0012": 2,
+      "euvax_b_qlvx_933_16_c_0009": 2,
+      "euvax_b_qlvx_934_16_c_0009": 2,
+      "euvax_b_qlvx_933_16_c_0015": 2,
+      "euvax_b_qlvx_934_16_c_0015": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Euvax B. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng, bảo quản. Ví dụ mục 'liều lượng và cách dùng': Không áp dụng Tạo miễn dịch phòng bệnh do nhiễm các phân nhóm (subtype) virus Viêm Gan B. Một liều trẻ em (cho trẻ sơ sinh, trẻ nhỏ và đến dưới 16 tuổi) là 0,5 ml chứa 10 mcg HBsAg. Một liều người lớn (cho người từ 16 tuổi trở lên) là 1,0 ml chứa 20 mcg…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_039",
+    "query": "Tôi muốn tìm hiểu về Rotavin",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "rotavin"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "rotavin_893310109424_c_0001": 2,
+      "rotavin_893310109424_c_0004": 2,
+      "rotavin_893310109424_c_0002": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Rotavin. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Vắc xin Rotavin-M1 được chỉ định để phòng viêm dạ dày ruột gây tiêu chảy cấp do virus rota; - Đối tượng thích hợp uống liều 1 là trẻ từ 6 tuần tuổi. * **Đường uống:** Vắc xin chỉ được dùng để uống (không được tiêm). **Không được tiêm.** * **Liều uống:** 2ml /…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_040",
+    "query": "Thông tin về TT Vaccine",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "tt_vaccine"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "tt_vaccine_893310323125_c_0004": 2,
+      "tt_vaccine_893310323125_c_0010": 2,
+      "tt_vaccine_893310323125_c_0007": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về TT Vaccine. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Đối với người lớn miễn dịch cơ bản 2 liều cách nhau ít nhất 4 tuần. Tiêm nhắc lại liều thứ 3 cách liều thứ hai, 6 đến 12 tháng. Có thể tiêm thêm các mũi tiêm nhắc lại lần thứ tư và lần thứ năm, mỗi năm sau đó để đạt miễn dịch lâu dài và chắc chắn. Đối với trẻ…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_041",
+    "query": "Tôi sắp tiêm VAXIGRIP (0,25ml), cần biết gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "vaxigrip_0_25ml"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "vaxigrip_0_25ml_qlvx_0652_13_c_0003": 2,
+      "vaxigrip_0_25ml_qlvx_0652_13_c_0004": 2,
+      "vaxigrip_0_25ml_qlvx_0652_13_c_0009": 2,
+      "vaxigrip_0_25ml_qlvx_0652_13_c_0005": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về VAXIGRIP (0,25ml). Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'chỉ định': Hộp 1 bơm tiêm nạp sẵn 0,25 ml vắc-xin. Phân nhóm được điều trị: vắc-xin cúm, mã ATC: J07BB02 Đáp ứng miễn dịch kháng thể được hình thành dần trong 2-3 tuần. Thời gian duy trì miễn dịch sau khi tiêm vắc-xin có thể thay đổi nhưng thường tồn tại 6 – 12 tháng.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_042",
+    "query": "Avaxim 80 U Pediatric là vắc xin gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "avaxim_80_u_pediatric"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "avaxim_80_u_pediatric_300310250723_c_0002": 2,
+      "avaxim_80_u_pediatric_300310250723_c_0004": 2,
+      "avaxim_80_u_pediatric_300310250723_c_0007": 2,
+      "avaxim_80_u_pediatric_300310250723_c_0005": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Avaxim 80 U Pediatric. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Không áp dụng. AVAXIM 80 U Pediatric được chỉ định để tạo miễn dịch chủ động phòng các bệnh do nhiễm virus viêm gan A ở trẻ em từ 12 tháng đến dưới 16 tuổi. Vắc-xin này nên được sử dụng theo những khuyến cáo chính thức. Tiêm chủng cơ bản với một liều vắc-xin.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_043",
+    "query": "Cho tôi biết về vắc xin Tetavax",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "tetavax"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "bảo quản"
+    ],
+    "relevance_judgments": {
+      "tetavax_qlvx_993_17_c_0002": 2,
+      "tetavax_qlvx_993_17_c_0003": 2,
+      "tetavax_qlvx_993_17_c_0008": 2,
+      "tetavax_qlvx_993_17_c_0009": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Tetavax. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, tác dụng không mong muốn, bảo quản. Ví dụ mục 'chỉ định': Không áp dụng. Vắc-xin này để phòng ngừa bệnh uốn ván, cụ thể trong các trường hợp sau: - Tiêm phòng uốn ván sau phơi nhiễm: đối với các vết thương mới bị có nguy cơ nhiễm bào tử uốn ván ở những người trước đây chưa tiêm các liều cơ bản của đợt sơ chủng hay…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_044",
+    "query": "Vắc xin Menactra thì thế nào?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "menactra"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "menactra_qlvx_h03_1111_18_c_0001": 2,
+      "menactra_qlvx_h03_1111_18_c_0002": 2,
+      "menactra_qlvx_h03_1111_18_c_0004": 2,
+      "menactra_qlvx_h03_1111_18_c_0010": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Menactra. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'chỉ định': Dạng lỏng. Dung dịch tiêm vô khuẩn không có chất bảo quản. Menactra được chỉ định để tạo miễn dịch chủ động cơ bản và nhắc lại phòng bệnh xâm lấn do N. meningitidis (Não mô cầu) các nhóm huyết thanh A, C, Y và W-135 gây ra. Menactra được chỉ định để sử dụng ở…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_045",
+    "query": "Tôi muốn tìm hiểu về Varicella Vaccine-GCC Inj",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "varicella_vaccine_gcc_inj"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0002": 2,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0003": 2,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0008": 2,
+      "varicella_vaccine_gcc_inj_qlvx_1046_17_c_0004": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Varicella Vaccine-GCC Inj. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Bột đông khô. Vắc xin được sử dụng để phòng bệnh Thủy đậu cho các đối tượng từ 12 tháng tuổi trở lên. Vắc xin nên được tiêm cho các đối tượng chưa mắc bệnh Thủy đậu. Tiêm 0,5 ml vắc xin sau khi hoàn nguyên với nước hồi chỉnh đi kèm. Tiêm dưới da. Nhìn chung…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_046",
+    "query": "Thông tin về Qdenga",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "qdenga"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "qdenga_400310303924_c_0001": 2,
+      "qdenga_400310303924_c_0002": 2,
+      "qdenga_400310303924_c_0006": 2,
+      "qdenga_400310303924_c_0003": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Qdenga. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Bột và dung môi pha dung dịch tiêm. Trước khi hoàn nguyên, vắc-xin ở dạng bột hoặc bánh đông khô màu trắng đến trắng ngà. Dung môi là dung dịch trong suốt, không màu. Qdenga® được chỉ định để phòng ngừa bệnh sốt xuất huyết ở những người từ 4 tuổi trở lên.…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_047",
+    "query": "Tôi sắp tiêm Rotarix, cần biết gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "rotarix"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "rotarix_540310037023_c_0000": 2,
+      "rotarix_540310037023_c_0001": 2,
+      "rotarix_540310037023_c_0006": 2,
+      "rotarix_540310037023_c_0002": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Rotarix. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': RX THUỐC BÁN THEO ĐƠN Vắc xin phòng ngừa Rotavirus Một liều (1,5ml) chứa: Chủng Rotavirus người sống giảm độc lực RIX4414 không dưới $10^{6.0} \\text{ CCID}_{50}$ Hỗn dịch uống. Vắc xin ở dạng chất lỏng trong và không màu. Rotarix™ được chỉ định để phòng ngừa…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_048",
+    "query": "Vaxneuvance là vắc xin gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "vaxneuvance"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "vaxneuvance_539310049125_c_0001": 2,
+      "vaxneuvance_539310049125_c_0002": 2,
+      "vaxneuvance_539310049125_c_0007": 2,
+      "vaxneuvance_539310049125_c_0006": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Vaxneuvance. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'chỉ định': Hỗn dịch tiêm Vắc-xin này là một hỗn dịch màu trắng đục. VAXNEUVANCE được chỉ định để tạo miễn dịch chủ động nhằm phòng ngừa bệnh phế cầu xâm lấn, viêm phổi và viêm tai giữa cấp tính gây ra bởi *Streptococcus pneumoniae* ở trẻ sơ sinh, trẻ em và thanh thiếu…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_049",
+    "query": "Cho tôi biết về vắc xin PENTAVAC",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "pentavac"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "pentavac_890310178100_c_0002": 2,
+      "pentavac_890310178100_c_0003": 2,
+      "pentavac_890310178100_c_0011": 2,
+      "pentavac_890310178100_c_0006": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về PENTAVAC. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'chỉ định': Hỗn dịch tiêm. Hỗn dịch sau khi lắc có màu trắng đục. - Vắc xin Diphtheria, Tetanus, Pertussis, Hepatitis B and Haemophilus influenza type b Conjugate Vaccine Adsorbed được chỉ định để tạo miễn dịch chủ động cho trẻ em từ 6 tuần tuổi trở lên để phòng bệnh…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_050",
+    "query": "Vắc xin Infanrix IPV-Hib thì thế nào?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "infanrix_ipv_hib"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "infanrix_ipv_hib_qlvx_1138_19_c_0002": 2,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0003": 2,
+      "infanrix_ipv_hib_qlvx_1138_19_c_0004": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Infanrix IPV-Hib. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, cảnh báo và thận trọng. Ví dụ mục 'chỉ định': Bột đông khô (Hib) và hỗn dịch (DTPa-IPV) để pha hỗn dịch tiêm. Infanrix-IPV+Hib được chỉ định để tạo miễn dịch chủ động cho trẻ từ 2 tháng tuổi phòng ngừa bệnh bạch hầu, uốn ván, ho gà (DTP), bại liệt và Haemophilus influenzae týp b. Infanrix-IPV+Hib còn…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_051",
+    "query": "Tôi muốn tìm hiểu về JEEV",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "jeev"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "jeev_890310108324_c_0002": 2,
+      "jeev_890310108424_c_0002": 2,
+      "jeev_890310108324_c_0003": 2,
+      "jeev_890310108424_c_0003": 2,
+      "jeev_890310108324_c_0006": 2,
+      "jeev_890310108424_c_0006": 2,
+      "jeev_890310108324_c_0004": 2,
+      "jeev_890310108424_c_0004": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về JEEV. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Hỗn dịch tiêm Vắc xin được sử dụng để tạo miễn dịch chủ động nhằm dự phòng bệnh viêm não Nhật Bản cho mọi đối tượng người lớn và trẻ em từ 1 tuổi tới 49 tuổi (từ $\\ge 1$ tới $\\le 49$ tuổi). Vắc xin nên được sử dụng cho những đối tượng có nguy cơ tiếp xúc cao…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_052",
+    "query": "Thông tin về Nimenrix",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "nimenrix"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "nimenrix_540310196925_c_0002": 2,
+      "nimenrix_540310196925_c_0003": 2,
+      "nimenrix_540310196925_c_0011": 2,
+      "nimenrix_540310196925_c_0000": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Nimenrix. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Bột và dung môi pha dung dịch tiêm. Nimenrix được chỉ định để tạo miễn dịch chủ động cho những người từ 6 tuần tuổi trở lên để phòng ngừa bệnh não mô cầu xâm lấn do Neisseria meningitidis các nhóm A, C, W-135 và Y gây ra. Liều dùng Nên sử dụng Nimenrix theo…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_053",
+    "query": "Tôi sắp tiêm IVACFLU-S, cần biết gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "ivacflu_s"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "ivacflu_s_qlvx_h03_1137_19_c_0001": 2,
+      "ivacflu_s_qlvx_h03_1137_19_c_0002": 2,
+      "ivacflu_s_qlvx_h03_1137_19_c_0006": 2,
+      "ivacflu_s_qlvx_h03_1137_19_c_0003": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về IVACFLU-S. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': IVACFLU-S được bào chế dưới dạng dung dịch tiêm dùng cho người. Là dạng dung dịch đồng nhất không màu hoặc trắng mờ, không lắng cặn. IVACFLU-S được chỉ định phòng ngừa cúm mùa cho người lớn từ 18 tuổi đến 60 tuổi. Thời điểm tiêm ngừa tốt nhất là trước mùa…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_054",
+    "query": "Imojev MD là vắc xin gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "imojev_md"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "imojev_md_qlvx_h03_1141_19_c_0002": 2,
+      "imojev_md_qlvx_h03_1141_19_c_0003": 2,
+      "imojev_md_qlvx_h03_1141_19_c_0006": 2,
+      "imojev_md_qlvx_h03_1141_19_c_0015": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Imojev MD. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'chỉ định': IMOJEV® MD được chỉ định để phòng bệnh Viêm não Nhật Bản do virus Viêm não Nhật Bản gây ra ở người từ 9 tháng tuổi trở lên. Người từ 9 tháng tuổi trở lên: một liều 0,5 ml IMOJEV® MD đã hoàn nguyên. • **Trẻ em (đến 18 tuổi)** Nếu muốn có bảo vệ lâu dài*, sau…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_055",
+    "query": "Cho tôi biết về vắc xin Arexvy",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "arexvy"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "arexvy_540310322425_c_0001": 2,
+      "arexvy_540310322425_c_0005": 2,
+      "arexvy_540310322425_c_0002": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Arexvy. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'liều lượng và cách dùng': Bột và hỗn dịch để pha hỗn dịch tiêm. Bột có màu trắng. Hỗn dịch là một chất lỏng đục, không màu đến nâu nhạt. Arexvy được chỉ định để tiêm ngừa chủ động cho người lớn $\\ge60$ tuổi, dự phòng các bệnh đường hô hấp dưới (LRTD) do vi-rút hợp bào hô hấp phân nhóm…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_056",
+    "query": "Vắc xin Abrysvo thì thế nào?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "abrysvo"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "abrysvo_540310322125_c_0001": 2,
+      "abrysvo_540310322125_c_0002": 2,
+      "abrysvo_540310322125_c_0004": 2,
+      "abrysvo_540310322125_c_0005": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Abrysvo. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'chỉ định': *Thuốc bột* Trometamol Trometamol hydrochloride Sucrose Mannitol Polysorbat 80 Natri clorid *Dung môi* Nước pha tiêm Bột và dung môi pha dung dịch tiêm. Bột màu trắng. Dung môi là chất lỏng trong, không màu. Abrysvo được chỉ định để: Bảo vệ thụ động chống lại…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_057",
+    "query": "Tôi muốn tìm hiểu về Prevenar 13",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "prevenar_13"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "prevenar_13_540310111524_c_0002": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0002": 2,
+      "prevenar_13_540310111524_c_0003": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0003": 2,
+      "prevenar_13_540310111524_c_0006": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0006": 2,
+      "prevenar_13_540310111524_c_0012": 2,
+      "prevenar_13_qlvx_h03_1142_19_c_0014": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Prevenar 13. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'chỉ định': Vắc xin ở dạng hỗn dịch đồng nhất màu trắng dùng để tiêm bắp trong lọ thuốc tiêm đơn liều. Tạo miễn dịch chủ động để phòng ngừa bệnh xâm lấn, viêm phổi và viêm tai giữa cấp tính gây ra bởi Streptococcus pneumoniae ở trẻ sơ sinh, trẻ em, và thiếu niên từ 6…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_058",
+    "query": "Thông tin về Twinrix",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "twinrix"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng"
+    ],
+    "relevance_judgments": {
+      "twinrix_400310177900_c_0002": 2,
+      "twinrix_400310177900_c_0003": 2,
+      "twinrix_400310177900_c_0009": 2,
+      "twinrix_400310177900_c_0006": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Twinrix. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng. Ví dụ mục 'chỉ định': Hỗn dịch tiêm. Twinrix được chỉ định sử dụng cho người lớn, thanh thiếu niên và trẻ em từ 1 tuổi trở lên chưa có miễn dịch, những người có nguy cơ nhiễm cả viêm gan A và viêm gan B.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_059",
+    "query": "Tôi sắp tiêm Polysaccharide Meningococcal A+C, cần biết gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "polysaccharide_meningococcal_a_c"
+    ],
+    "expected_facets": [
+      "liều lượng và cách dùng",
+      "tác dụng không mong muốn",
+      "cảnh báo và thận trọng",
+      "bảo quản"
+    ],
+    "relevance_judgments": {
+      "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0003": 2,
+      "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0008": 2,
+      "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0005": 2,
+      "polysaccharide_meningococcal_a_c_qlvx_992_17_c_0011": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về Polysaccharide Meningococcal A+C. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: liều lượng và cách dùng, tác dụng không mong muốn, cảnh báo và thận trọng, bảo quản. Ví dụ mục 'liều lượng và cách dùng': Không áp dụng. Vắc-xin này được chỉ định để tạo miễn dịch chủ động phòng các bệnh nhiễm khuẩn xâm lấn do Não Mô Cầu (*Neisseria meningitidis*) nhóm huyết thanh A và C ở người lớn và trẻ em từ 2 tuổi trở lên (xem thêm **CÁC CẢNH BÁO VÀ TRƯỜNG HỢP THẬN TRỌNG…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_AMB_060",
+    "query": "HEPAVAX-GENE TF inj. là vắc xin gì?",
+    "query_type": "facet_ambiguous",
+    "is_ambiguous": true,
+    "expected_entities": [
+      "hepavax_gene_tf_inj"
+    ],
+    "expected_facets": [
+      "chỉ định",
+      "liều lượng và cách dùng",
+      "chống chỉ định",
+      "tác dụng không mong muốn"
+    ],
+    "relevance_judgments": {
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0001": 2,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0005": 2,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0007": 2,
+      "hepavax_gene_tf_inj_qlvx_0774_14_c_0010": 2
+    },
+    "reference_answer": "Câu hỏi chưa nêu rõ nội dung cần biết về HEPAVAX-GENE TF inj.. Hệ thống nên hỏi lại và gợi ý các mục có trong HDSD: chỉ định, liều lượng và cách dùng, chống chỉ định, tác dụng không mong muốn. Ví dụ mục 'chỉ định': Mỗi liều 0,5ml chứa $10~\\mu\\text{g}$ HBsAg hấp phụ với khoảng 0,25 mg nhôm hydroxit. Chế phẩm được xử lý bằng formaldehyde trước khi hấp phụ với nhôm hydroxit và không có chất bảo quản. **Tá dược:** Aluminium hydroxide gel; Potassium phosphate, monobasic…",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_001",
+    "query": "Thủ tục thanh toán bảo hiểm sau khi tiêm vắc xin như thế nào?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ quan bảo hiểm hoặc cơ sở y tế.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_002",
+    "query": "Vắc xin Shingrix có nằm trong chương trình tiêm chủng mở rộng quốc gia không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "shingrix"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ trạm y tế hoặc cơ quan quản lý y tế địa phương.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_003",
+    "query": "Tiêm vắc xin Varicella Vaccine-GCC Inj có bắt buộc theo quy định của pháp luật không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "varicella_vaccine_gcc_inj"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ quan quản lý y tế địa phương.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_004",
+    "query": "Vắc xin VAXIGRIP (0,5ml) có chữa khỏi dứt điểm bệnh ung thư giai đoạn muộn không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "vaxigrip_0_5ml"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ bác sĩ chuyên khoa.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_005",
+    "query": "Tôi muốn hủy lịch hẹn tiêm chủng đã đặt thì làm sao?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn đã đặt lịch.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_006",
+    "query": "Tôi có thể đặt mua online vắc xin Influvac Tetra về nhà tự tiêm qua trang web nào?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "influvac_tetra"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở y tế được cấp phép.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_007",
+    "query": "Tiêm vắc xin 6 trong 1 giá bao nhiêu?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_008",
+    "query": "Thời gian chờ khám sàng lọc trước khi tiêm ở VNVC thường là bao lâu?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_009",
+    "query": "Vắc xin Shanvac-B nhập khẩu hay sản xuất trong nước thì tốt hơn?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "shanvac_b"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ bác sĩ hoặc cơ quan quản lý y tế.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_010",
+    "query": "Sau khi tiêm, làm sao để cập nhật vào sổ tiêm chủng điện tử?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn đã tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_011",
+    "query": "Số hotline đặt lịch tiêm chủng ở VNVC là bao nhiêu?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ trang web hoặc tổng đài của VNVC.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_012",
+    "query": "Bảo hiểm y tế có chi trả tiền tiêm vắc xin Boostrix không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "boostrix"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ quan bảo hiểm xã hội hoặc cơ sở y tế.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_013",
+    "query": "Tiêm chủng mở rộng quốc gia có miễn phí những mũi nào cho trẻ dưới 1 tuổi?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ trạm y tế hoặc cơ quan quản lý y tế địa phương.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_014",
+    "query": "Đi du học có phải tiêm vắc xin Hexaxim để được cấp visa không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "hexaxim"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ đại sứ quán hoặc cơ quan xuất nhập cảnh.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_015",
+    "query": "Tiêm vắc xin Rotavin có giúp tăng cường trí thông minh cho trẻ không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "rotavin"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ bác sĩ nhi khoa.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_016",
+    "query": "Làm thế nào để đặt lịch hẹn tiêm vắc xin Abrysvo qua ứng dụng?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "abrysvo"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_017",
+    "query": "Nhà thuốc nào gần tôi có bán vắc xin SKYVaricella Inj.?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "skyvaricella_inj"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở y tế được cấp phép.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_018",
+    "query": "Vắc xin Nimenrix có đang giảm giá hoặc khuyến mãi không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "nimenrix"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_019",
+    "query": "Có thể trả góp tiền tiêm vắc xin Typhim Vi không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "typhim_vi"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_020",
+    "query": "Hãng nào sản xuất vắc xin đáng tin cậy nhất hiện nay?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ bác sĩ hoặc cơ quan quản lý y tế.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_021",
+    "query": "Mất sổ tiêm chủng thì xin cấp lại ở đâu?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ trạm y tế hoặc cơ sở tiêm chủng.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_022",
+    "query": "VNVC mở cửa lúc mấy giờ vào cuối tuần?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ trang web hoặc tổng đài của VNVC.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_023",
+    "query": "Bảo hiểm sức khỏe tư nhân có thanh toán chi phí tiêm chủng không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ công ty bảo hiểm của bạn.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_024",
+    "query": "Lịch tiêm chủng mở rộng của Bộ Y tế năm nay có thay đổi gì không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ trạm y tế hoặc cơ quan quản lý y tế địa phương.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_025",
+    "query": "Hiện nay vắc xin Pentaxim còn hàng hay đang hết hàng?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "pentaxim"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_026",
+    "query": "Chi phí tiêm trọn gói TT Vaccine tại trung tâm tiêm chủng là bao nhiêu?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "tt_vaccine"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_027",
+    "query": "Tiêm vắc xin Varicella Vaccine-GCC Inj tại nhà có được không và phí dịch vụ bao nhiêu?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [
+      "varicella_vaccine_gcc_inj"
+    ],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng có dịch vụ tiêm tại nhà.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_028",
+    "query": "Địa chỉ phòng tiêm VNVC gần nhất ở Hà Nội là ở đâu?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ trang web hoặc tổng đài của hệ thống tiêm chủng.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_029",
+    "query": "Giá vắc xin phòng cúm năm nay là bao nhiêu?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  },
+  {
+    "query_id": "VAC_OOS_030",
+    "query": "Tiêm chủng cho người nước ngoài có cần hộ chiếu không?",
+    "query_type": "out_of_scope",
+    "is_ambiguous": false,
+    "expected_entities": [],
+    "expected_facets": [],
+    "relevance_judgments": {},
+    "reference_answer": "Thông tin này không có trong tờ hướng dẫn sử dụng (HDSD) của các vắc xin trong kho tài liệu nên hệ thống không thể trả lời và cần từ chối lịch sự, không tự suy đoán. Bạn nên liên hệ cơ sở tiêm chủng nơi bạn dự định tiêm.",
+    "verified_by_human": false,
+    "annotator_id": null
+  }
+]
